@@ -1,0 +1,25 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Senenthia_Tarde",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"burn\",\n    \"AuraCurseCharges\": 4,\n    \"AuraCurseTarget\": \"Monster0\"\n}",
+        "{\n    \"AuraCurse\": \"burn\",\n    \"AuraCurseCharges\": 4,\n    \"AuraCurseTarget\": \"Monster1\"\n}",
+        "{\n    \"AuraCurse\": \"burn\",\n    \"AuraCurseCharges\": 2,\n    \"AuraCurseTarget\": \"Monster2\"\n}"
+    ],
+    "CombatID": "csen_11",
+    "CombatMusic": "The Wizard - 320bit",
+    "CombatTier": "T2",
+    "Description": "1 o 2 cornies normales  2 -3 blazing",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "blazingcornie",
+        "blazingcornie",
+        "cornie",
+        "farmer"
+    ],
+    "NPCRemoveInMadness0Index": 0,
+    "ThermometerTierData": "T1",
+    "IsRift": false
+}

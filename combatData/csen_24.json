@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Senenthia_LobosTarde",
+    "CombatEffect": [],
+    "CombatID": "csen_24",
+    "CombatMusic": "12_Nomadic+Dawn - Alexander Nakarada",
+    "CombatTier": "T2",
+    "Description": "jabali warrior sharp shaman",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "warboara",
+        "brigand",
+        "sharpshooter",
+        "shaman"
+    ],
+    "NPCRemoveInMadness0Index": 0,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

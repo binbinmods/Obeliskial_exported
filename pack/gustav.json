@@ -1,0 +1,15 @@
+{
+    "Card0": "powerslavestart",
+    "Card1": "whisperinglies",
+    "Card2": "sweetmelody",
+    "Card3": "songofquickness",
+    "Card4": "shiv",
+    "Card5": "",
+    "CardSpecial0": "",
+    "CardSpecial1": "",
+    "PackClass": "Scout",
+    "PackID": "gustav",
+    "PackName": "Gustav",
+    "PerkList": [],
+    "RequiredClass": "minstrel"
+}

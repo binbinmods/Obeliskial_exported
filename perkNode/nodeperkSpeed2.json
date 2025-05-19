@@ -1,0 +1,13 @@
+{
+    "Column": 5,
+    "Cost": "PerkCostAdvanced",
+    "ID": "nodeperkSpeed2",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "mainperkspeed2",
+    "PerkRequired": "nodeperkSpeed1",
+    "PerksConnected": [],
+    "Row": 5,
+    "Sprite": "speedMini",
+    "Type": 0
+}

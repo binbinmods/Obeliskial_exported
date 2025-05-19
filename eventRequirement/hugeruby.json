@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "It used to be the eye of a large snake statue. It is very valuable.",
+    "ItemSprite": "eventRuby",
+    "RequirementID": "hugeruby",
+    "RequirementName": "Huge Ruby",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

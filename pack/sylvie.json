@@ -1,0 +1,15 @@
+{
+    "Card0": "falconshotstart",
+    "Card1": "quickshot",
+    "Card2": "multishot",
+    "Card3": "camouflage",
+    "Card4": "rapidfire",
+    "Card5": "",
+    "CardSpecial0": "",
+    "CardSpecial1": "",
+    "PackClass": "Scout",
+    "PackID": "sylvie",
+    "PackName": "Sylvie",
+    "PerkList": [],
+    "RequiredClass": "archer"
+}

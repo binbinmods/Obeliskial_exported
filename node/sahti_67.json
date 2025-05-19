@@ -1,0 +1,36 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 60,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_sahti67_a"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "sahti_67",
+    "NodeName": "Eldritch Rift",
+    "NodeRequirement": "sahtiup",
+    "NodesConnected": [
+        "sahti_32",
+        "sahti_36"
+    ],
+    "NodesConnectedRequirement": [
+        "{\n    \"NodeData\": \"sahti_36\",\n    \"ConnectionRequirement\": \"riftsahti67\",\n    \"ConnectionIfNotNode\": \"\"\n}"
+    ],
+    "NodeZone": "Sahti",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Eldritch Rift"
+}

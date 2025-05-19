@@ -1,0 +1,26 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Sahti_ShipStorm",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"slow\",\n    \"AuraCurseCharges\": 2,\n    \"AuraCurseTarget\": \"Monsters\"\n}",
+        "{\n    \"AuraCurse\": \"weak\",\n    \"AuraCurseCharges\": 1,\n    \"AuraCurseTarget\": \"Monsters\"\n}",
+        "{\n    \"AuraCurse\": \"evasion\",\n    \"AuraCurseCharges\": 2,\n    \"AuraCurseTarget\": \"Monsters\"\n}",
+        "{\n    \"AuraCurse\": \"buffer\",\n    \"AuraCurseCharges\": 2,\n    \"AuraCurseTarget\": \"Monsters\"\n}"
+    ],
+    "CombatID": "eulmin_68a",
+    "CombatMusic": "Alexander Nakarada -  Anemo",
+    "CombatTier": "T4",
+    "Description": "combat",
+    "EventData": "e_sahti68_b",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "",
+        "intruder",
+        "riftling",
+        "riftkeeper"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": true
+}

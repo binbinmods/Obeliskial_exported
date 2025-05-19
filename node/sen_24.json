@@ -1,0 +1,35 @@
+{
+    "CombatPercent": 70,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 30,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "csen_24"
+    ],
+    "NodeCombatTier": "T2",
+    "NodeEvent": [
+        "e_sen24_a"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "sen_24",
+    "NodeName": "West Fang Gate",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "sen_27"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Senenthia",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "West Fang Gate "
+}

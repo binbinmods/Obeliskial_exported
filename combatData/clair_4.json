@@ -1,0 +1,23 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Spider_Lair",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"poison\",\n    \"AuraCurseCharges\": 3,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "clair_4",
+    "CombatMusic": "12_Nomadic+Dawn - Alexander Nakarada",
+    "CombatTier": "T3",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "mutant",
+        "slime",
+        "pendulum",
+        "penduluma"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

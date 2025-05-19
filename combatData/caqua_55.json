@@ -1,0 +1,23 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Ulminin_Catacombs",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"dark\",\n    \"AuraCurseCharges\": 3,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "caqua_55",
+    "CombatMusic": "16_Nowhere Land - Alexander Nakarada",
+    "CombatTier": "T4",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "reaper",
+        "bonemage",
+        "harbinger",
+        "bonepriest"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T3",
+    "IsRift": false
+}

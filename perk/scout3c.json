@@ -1,0 +1,23 @@
+{
+    "AdditionalCurrency": 0,
+    "AdditionalShards": 0,
+    "AuraCurseBonus": "",
+    "AuraCurseBonusValue": 0,
+    "CardClass": "Scout",
+    "CustomDescription": "",
+    "DamageFlatBonus": "None",
+    "DamageFlatBonusValue": 0,
+    "EnergyBegin": 1,
+    "HealQuantity": 0,
+    "Icon": "energy",
+    "IconTextValue": "+1",
+    "ID": "scout3c",
+    "Level": 3,
+    "MainPerk": false,
+    "MaxHealth": 0,
+    "ObeliskPerk": false,
+    "ResistModified": "None",
+    "ResistModifiedValue": 0,
+    "Row": 3,
+    "SpeedQuantity": 0
+}

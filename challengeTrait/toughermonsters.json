@@ -1,0 +1,7 @@
+{
+    "Icon": "taunt",
+    "ID": "toughermonsters",
+    "IsMadnessTrait": true,
+    "Name": "Tougher Monsters",
+    "Order": 9
+}

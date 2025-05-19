@@ -1,0 +1,41 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_sen4_a1",
+        "e_sen4_b1"
+    ],
+    "NodeEventPercent": [
+        60,
+        40
+    ],
+    "NodeEventPriority": [
+        0,
+        0
+    ],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "sen_4",
+    "NodeName": "Scorched Field",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "sen_11",
+        "sen_8"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Senenthia",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Scorched Field"
+}

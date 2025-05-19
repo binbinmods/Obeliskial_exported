@@ -1,0 +1,20 @@
+{
+    "Card0": "badaugury",
+    "Card1": "vilelance",
+    "Card2": "blackkarma",
+    "Card3": "darkoutbreak",
+    "Card4": "unholystorm",
+    "Card5": "vampirictouch",
+    "CardSpecial0": "profane",
+    "CardSpecial1": "condemnation",
+    "PackClass": "Healer",
+    "PackID": "heretic",
+    "PackName": "Heretic",
+    "PerkList": [
+        "mainperkshadow2",
+        "mainperkdark2c",
+        "mainperkdark2d",
+        "mainperkdark0"
+    ],
+    "RequiredClass": ""
+}

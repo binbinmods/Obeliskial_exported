@@ -1,0 +1,19 @@
+{
+    "Card0": "",
+    "Card1": "",
+    "Card2": "",
+    "Card3": "",
+    "Card4": "",
+    "Card5": "",
+    "CardSpecial0": "",
+    "CardSpecial1": "",
+    "PackClass": "None",
+    "PackID": "random",
+    "PackName": "Random",
+    "PerkList": [
+        "mainperkhealth6",
+        "mainperkresistance5",
+        "mainperkspeed0"
+    ],
+    "RequiredClass": ""
+}

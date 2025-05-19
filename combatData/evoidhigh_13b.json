@@ -1,0 +1,21 @@
+{
+    "CinematicData": "endgame",
+    "CombatBackground": "Void_BossFinal",
+    "CombatEffect": [],
+    "CombatID": "evoidhigh_13b",
+    "CombatMusic": "Lord of the Riffs",
+    "CombatTier": "T13",
+    "Description": "archon Nhir",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": true,
+    "NPCList": [
+        "",
+        "archonnihr",
+        "",
+        ""
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "",
+    "IsRift": false
+}

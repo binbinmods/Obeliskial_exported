@@ -1,0 +1,40 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_aquar30_a",
+        "e_aquar30_b"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [
+        1,
+        0
+    ],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "aqua_30",
+    "NodeName": "Waterfall Ledge",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "aqua_33",
+        "aqua_40"
+    ],
+    "NodesConnectedRequirement": [
+        "{\n    \"NodeData\": \"aqua_33\",\n    \"ConnectionRequirement\": \"\",\n    \"ConnectionIfNotNode\": \"aqua_40\"\n}"
+    ],
+    "NodeZone": "Aquarfall",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Waterfall Ledge"
+}

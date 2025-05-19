@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "conexion 22 27",
+    "ItemSprite": "",
+    "RequirementID": "forestrail",
+    "RequirementName": "",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "None"
+}

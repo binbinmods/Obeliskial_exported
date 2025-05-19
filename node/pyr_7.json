@@ -1,0 +1,58 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_pyr7_a",
+        "e_pyr7_a2",
+        "e_pyr7_a3",
+        "e_pyr7_a4",
+        "e_pyr7_a5",
+        "e_pyr7_a6",
+        "e_pyr7_a7",
+        "e_pyr7_a8"
+    ],
+    "NodeEventPercent": [
+        13,
+        13,
+        13,
+        12,
+        13,
+        12,
+        12,
+        12
+    ],
+    "NodeEventPriority": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "NodeEventTier": "T0",
+    "NodeGround": "HolyGround",
+    "NodeId": "pyr_7",
+    "NodeName": "Great Hall",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "pyr_8"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Pyramid",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Room"
+}

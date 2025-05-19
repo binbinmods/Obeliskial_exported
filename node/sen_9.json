@@ -1,0 +1,36 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "csen_9"
+    ],
+    "NodeCombatTier": "T1",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "sen_9",
+    "NodeName": "Farm Corral",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "sen_13",
+        "sen_39"
+    ],
+    "NodesConnectedRequirement": [
+        "{\n    \"NodeData\": \"sen_39\",\n    \"ConnectionRequirement\": \"sheeplost\",\n    \"ConnectionIfNotNode\": \"\"\n}"
+    ],
+    "NodeZone": "Senenthia",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Farm Corral"
+}

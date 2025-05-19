@@ -1,0 +1,13 @@
+{
+    "Column": 0,
+    "Cost": "PerkCostBase",
+    "ID": "nodeperkPowerful0",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "mainperkpowerful0",
+    "PerkRequired": "",
+    "PerksConnected": [],
+    "Row": 2,
+    "Sprite": "powerful",
+    "Type": 2
+}

@@ -1,0 +1,38 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_aquar8_a"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "aqua_8",
+    "NodeName": "North Pier",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "aqua_12",
+        "aqua_19",
+        "aqua_22"
+    ],
+    "NodesConnectedRequirement": [
+        "{\n    \"NodeData\": \"aqua_19\",\n    \"ConnectionRequirement\": \"boatup\",\n    \"ConnectionIfNotNode\": \"\"\n}",
+        "{\n    \"NodeData\": \"aqua_22\",\n    \"ConnectionRequirement\": \"boatup\",\n    \"ConnectionIfNotNode\": \"\"\n}"
+    ],
+    "NodeZone": "Aquarfall",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "North Pier"
+}

@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Aquarfall_Water",
+    "CombatEffect": [],
+    "CombatID": "caqua_17",
+    "CombatMusic": "2_Adventure - Alexander Nakarada",
+    "CombatTier": "T3",
+    "Description": "combat",
+    "EventData": "e_aquar7_hunt",
+    "EventRequirementData": "crocomensteal",
+    "HealHeroes": false,
+    "NPCList": [
+        "skirmisher",
+        "dragonfly",
+        "skirmisher",
+        "siren"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

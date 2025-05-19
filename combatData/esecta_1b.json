@@ -1,0 +1,22 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Sectarium",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"fast\",\n    \"AuraCurseCharges\": 2,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "esecta_1b",
+    "CombatMusic": "16_Nowhere Land - Alexander Nakarada",
+    "CombatTier": "T1",
+    "Description": "puerta secta con solo 2",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "",
+        "neophyte",
+        "initiated"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T1",
+    "IsRift": false
+}

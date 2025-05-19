@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "Now you know the location of the tree where the treasure is hidden.",
+    "ItemSprite": "",
+    "RequirementID": "treasurehunt",
+    "RequirementName": "Treasure Hunt",
+    "RequirementTrack": true,
+    "TrackSprite": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "Senenthia"
+}

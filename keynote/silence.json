@@ -1,0 +1,6 @@
+{
+    "Description": "Unable to play <b>\"Spell\"</b> cards.",
+    "DescriptionExtended": "Unable to play <b>\"Spell\"</b> cards.<br3>Remove 1 charge at the <w>end of the turn</w>.",
+    "ID": "silence",
+    "KeynoteName": "Silence"
+}

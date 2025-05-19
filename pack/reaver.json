@@ -1,0 +1,20 @@
+{
+    "Card0": "deflect",
+    "Card1": "scavenge",
+    "Card2": "rupture",
+    "Card3": "hitandrun",
+    "Card4": "exposearmor",
+    "Card5": "gunshotscout",
+    "CardSpecial0": "acrobaticstrike",
+    "CardSpecial1": "adrenaline",
+    "PackClass": "Scout",
+    "PackID": "reaver",
+    "PackName": "Reaver",
+    "PerkList": [
+        "mainperkblock2",
+        "mainperkbleed1",
+        "mainperkvulnerable0b",
+        "mainperkenergy2b"
+    ],
+    "RequiredClass": ""
+}

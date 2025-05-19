@@ -1,0 +1,20 @@
+{
+    "DefaultPercentEpic": 0.0,
+    "DefaultPercentMythic": 0.0,
+    "DefaultPercentRare": 0.0,
+    "DefaultPercentUncommon": 20.0,
+    "GoldQuantity": 0,
+    "ID": "apothecaryhigh",
+    "LootItemTable": [
+        "{\n    \"LootCard\": \"greaterhealthpotion\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"greatermanapotion\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"rejuvenationpotion\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"berserkpotion\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}"
+    ],
+    "NumItems": 4,
+    "ShadyModel": "",
+    "ShadyScaleX": 1.0,
+    "ShadyScaleY": 1.0,
+    "ShadyOffsetX": 0.0,
+    "ShadyOffsetY": 0.0
+}

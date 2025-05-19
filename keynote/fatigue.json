@@ -1,0 +1,6 @@
+{
+    "Description": "Gain<r> 1 less energy per charge</r> at the <w>start of the turn</w>.",
+    "DescriptionExtended": "Gain<r> 1 less energy per charge</r> at the <w>start of the turn</w>, then remove all charges. Can't be dispelled unless specified.",
+    "ID": "fatigue",
+    "KeynoteName": "Fatigue"
+}

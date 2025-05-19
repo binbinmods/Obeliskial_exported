@@ -1,0 +1,23 @@
+{
+    "AdditionalCurrency": 0,
+    "AdditionalShards": 0,
+    "AuraCurseBonus": "dark",
+    "AuraCurseBonusValue": 1,
+    "CardClass": "Mage",
+    "CustomDescription": "",
+    "DamageFlatBonus": "None",
+    "DamageFlatBonusValue": 0,
+    "EnergyBegin": 0,
+    "HealQuantity": 0,
+    "Icon": "dark",
+    "IconTextValue": "+1",
+    "ID": "mage6f",
+    "Level": 6,
+    "MainPerk": false,
+    "MaxHealth": 0,
+    "ObeliskPerk": false,
+    "ResistModified": "None",
+    "ResistModifiedValue": 0,
+    "Row": 6,
+    "SpeedQuantity": 0
+}

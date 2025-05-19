@@ -1,0 +1,23 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Forge_Mid",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"burn\",\n    \"AuraCurseCharges\": 3,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "eforge_5_b",
+    "CombatMusic": "20_Until+the+End - Alexander Nakarada",
+    "CombatTier": "T3",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "golem",
+        "golem",
+        "",
+        ""
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

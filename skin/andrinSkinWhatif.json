@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "andrinSkinWhatif",
+    "SkinID": "andrinSkinWhatif",
+    "SkinName": "Whatif",
+    "SkinOrder": 80,
+    "SkinSubclass": "ranger",
+    "Sku": "",
+    "SpritePortrait": "andrinwhatifportrait",
+    "SpritePortraitGrande": "andrinwhatifportraitGrande",
+    "SpriteSilueta": "andrinwhatifsilueta",
+    "SpriteSiluetaGrande": "andrinwhatifsiluetaGrande",
+    "SteamStat": ""
+}

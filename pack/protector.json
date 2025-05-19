@@ -1,0 +1,20 @@
+{
+    "Card0": "infusecourage",
+    "Card1": "barrier",
+    "Card2": "vitalize",
+    "Card3": "shieldofwarding",
+    "Card4": "prayerofprotection",
+    "Card5": "anthemofhope",
+    "CardSpecial0": "painsupresion",
+    "CardSpecial1": "protectfromevil",
+    "PackClass": "Healer",
+    "PackID": "protector",
+    "PackName": "Protector",
+    "PerkList": [
+        "mainperkshield2",
+        "mainperkshield5",
+        "mainperkcourage1b",
+        "mainperkcourage1c"
+    ],
+    "RequiredClass": ""
+}

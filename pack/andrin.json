@@ -1,0 +1,15 @@
+{
+    "Card0": "experttrackerstart",
+    "Card1": "slice",
+    "Card2": "aimedshot",
+    "Card3": "deflect",
+    "Card4": "huntersmark",
+    "Card5": "",
+    "CardSpecial0": "",
+    "CardSpecial1": "",
+    "PackClass": "Scout",
+    "PackID": "andrin",
+    "PackName": "Andrin",
+    "PerkList": [],
+    "RequiredClass": "ranger"
+}

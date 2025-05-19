@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "A ruby you dug in the quarry.",
+    "ItemSprite": "eventRuby",
+    "RequirementID": "ruby",
+    "RequirementName": "Ruby",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

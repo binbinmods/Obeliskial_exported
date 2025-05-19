@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Faeborg_Bosque",
+    "CombatEffect": [],
+    "CombatID": "cfaen_12",
+    "CombatMusic": "Enchanted Forest",
+    "CombatTier": "T3",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "sentinel",
+        "scrapper",
+        "druid",
+        "druid"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

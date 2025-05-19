@@ -1,0 +1,13 @@
+{
+    "Column": 3,
+    "Cost": "PerkCostBase",
+    "ID": "nodeperkShards1",
+    "LockedInTown": true,
+    "NotStack": false,
+    "Perk": "mainperkshards1",
+    "PerkRequired": "nodeperkShards0",
+    "PerksConnected": [],
+    "Row": 1,
+    "Sprite": "dust",
+    "Type": 0
+}

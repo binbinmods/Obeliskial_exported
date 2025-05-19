@@ -1,0 +1,13 @@
+{
+    "Column": 9,
+    "Cost": "PerkCostAdvanced",
+    "ID": "nodeperkMark1c",
+    "LockedInTown": false,
+    "NotStack": true,
+    "Perk": "mainperkmark1c",
+    "PerkRequired": "nodeperkMark0",
+    "PerksConnected": [],
+    "Row": 6,
+    "Sprite": "mark",
+    "Type": 0
+}

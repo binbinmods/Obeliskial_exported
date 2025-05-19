@@ -1,0 +1,15 @@
+{
+    "BaseSkin": true,
+    "PerkLevel": 0,
+    "SkinGO": "nezglektSkinRegular",
+    "SkinID": "prophet",
+    "SkinName": "Prophet",
+    "SkinOrder": 0,
+    "SkinSubclass": "prophet",
+    "Sku": "",
+    "SpritePortrait": "prophetportrait",
+    "SpritePortraitGrande": "prophetportraitGrande",
+    "SpriteSilueta": "prophetsilueta",
+    "SpriteSiluetaGrande": "prophetsiluetaGrande",
+    "SteamStat": ""
+}

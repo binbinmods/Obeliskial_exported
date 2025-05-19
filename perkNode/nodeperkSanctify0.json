@@ -1,0 +1,13 @@
+{
+    "Column": 1,
+    "Cost": "PerkCostBase",
+    "ID": "nodeperkSanctify0",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "mainperksanctify0",
+    "PerkRequired": "",
+    "PerksConnected": [],
+    "Row": 1,
+    "Sprite": "sanctify",
+    "Type": 3
+}

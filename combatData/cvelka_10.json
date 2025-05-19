@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Velkarath_Lava2",
+    "CombatEffect": [],
+    "CombatID": "cvelka_10",
+    "CombatMusic": "21_Vetur+Frosti - Alexander Nakarada",
+    "CombatTier": "T3",
+    "Description": "sectar",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "ravager",
+        "firebrander_a",
+        "fiend",
+        "fiend"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

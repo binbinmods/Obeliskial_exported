@@ -1,0 +1,27 @@
+{
+    "DefaultPercentEpic": 100.0,
+    "DefaultPercentMythic": 0.0,
+    "DefaultPercentRare": 0.0,
+    "DefaultPercentUncommon": 0.0,
+    "GoldQuantity": 0,
+    "ID": "tradeship9",
+    "LootItemTable": [
+        "{\n    \"LootCard\": \"pancakes\",\n    \"LootPercent\": 75.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"rudder\",\n    \"LootPercent\": 75.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"tinycannon\",\n    \"LootPercent\": 75.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"rustyhook\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"storminabottle\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"piratehat\",\n    \"LootPercent\": 75.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"rustyring\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"runicring\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"pirategrog\",\n    \"LootPercent\": 75.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"powdercask\",\n    \"LootPercent\": 90.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"purpletentacle\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}"
+    ],
+    "NumItems": 8,
+    "ShadyModel": "nezglektSkinMedium",
+    "ShadyScaleX": -1.0,
+    "ShadyScaleY": 1.0,
+    "ShadyOffsetX": 0.0,
+    "ShadyOffsetY": 0.0
+}

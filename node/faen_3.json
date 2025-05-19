@@ -1,0 +1,37 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_faen3_a"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "faen_3",
+    "NodeName": "Gateway",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "faen_6",
+        "faen_7",
+        "faen_8"
+    ],
+    "NodesConnectedRequirement": [
+        "{\n    \"NodeData\": \"faen_8\",\n    \"ConnectionRequirement\": \"\",\n    \"ConnectionIfNotNode\": \"faen_7\"\n}"
+    ],
+    "NodeZone": "Faeborg",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Gateway"
+}

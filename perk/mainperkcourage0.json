@@ -1,0 +1,23 @@
+{
+    "AdditionalCurrency": 0,
+    "AdditionalShards": 0,
+    "AuraCurseBonus": "",
+    "AuraCurseBonusValue": 0,
+    "CardClass": "None",
+    "CustomDescription": "customMainperkCourage0",
+    "DamageFlatBonus": "None",
+    "DamageFlatBonusValue": 0,
+    "EnergyBegin": 0,
+    "HealQuantity": 0,
+    "Icon": "courage",
+    "IconTextValue": "+1",
+    "ID": "mainperkcourage0",
+    "Level": 0,
+    "MainPerk": true,
+    "MaxHealth": 0,
+    "ObeliskPerk": false,
+    "ResistModified": "None",
+    "ResistModifiedValue": 0,
+    "Row": 0,
+    "SpeedQuantity": 0
+}

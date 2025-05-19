@@ -1,0 +1,13 @@
+{
+    "Column": 0,
+    "Cost": "PerkCostBase",
+    "ID": "nodeperkHealth3",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "mainperkhealth3",
+    "PerkRequired": "nodeperkHealth2",
+    "PerksConnected": [],
+    "Row": 3,
+    "Sprite": "heart",
+    "Type": 0
+}

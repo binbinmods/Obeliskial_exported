@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Uprising_Mid",
+    "CombatEffect": [],
+    "CombatID": "cuprising_8",
+    "CombatMusic": "Foreverlands - 320bit",
+    "CombatTier": "T3",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "trooper",
+        "incinerator",
+        "drone",
+        "mechanic"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

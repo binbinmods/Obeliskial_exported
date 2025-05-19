@@ -1,0 +1,34 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_aquar5_a"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "aqua_5",
+    "NodeName": "Western Village",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "aqua_6",
+        "aqua_9"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Aquarfall",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Western Village"
+}

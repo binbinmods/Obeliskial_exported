@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Void_Regular_Rosa",
+    "CombatEffect": [],
+    "CombatID": "challenge_5",
+    "CombatMusic": "21_Vetur+Frosti - Alexander Nakarada",
+    "CombatTier": "T0",
+    "Description": "Challenge Combat Tier 4",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "cornie",
+        "cornie",
+        "cornie",
+        ""
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

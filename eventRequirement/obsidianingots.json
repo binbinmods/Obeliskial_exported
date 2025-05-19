@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "You got these ingots in a shipment you intercepted in Velkarath.",
+    "ItemSprite": "eventObsidianIngots",
+    "RequirementID": "obsidianingots",
+    "RequirementName": "Obsidian Ingots",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

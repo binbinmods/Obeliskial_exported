@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "magnusMediumCardback",
+    "CardbackName": "Swordman",
+    "CardbackOrder": 2,
+    "CardbackSprite": "CartaMagnusMedium",
+    "CardbackSubclass": "mercenary",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 24,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

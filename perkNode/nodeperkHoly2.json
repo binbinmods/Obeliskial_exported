@@ -1,0 +1,13 @@
+{
+    "Column": 2,
+    "Cost": "PerkCostAdvanced",
+    "ID": "nodeperkHoly2",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "mainperkholy2",
+    "PerkRequired": "nodeperkHoly1",
+    "PerksConnected": [],
+    "Row": 4,
+    "Sprite": "holy",
+    "Type": 3
+}

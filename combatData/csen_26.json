@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Senenthia_BosqueEntrada",
+    "CombatEffect": [],
+    "CombatID": "csen_26",
+    "CombatMusic": "12_Nomadic+Dawn - Alexander Nakarada",
+    "CombatTier": "T2",
+    "Description": "forest",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "trunky",
+        "trunky",
+        "dryad",
+        "dryad"
+    ],
+    "NPCRemoveInMadness0Index": 0,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

@@ -1,0 +1,23 @@
+{
+    "AdditionalCurrency": 0,
+    "AdditionalShards": 0,
+    "AuraCurseBonus": "stealth",
+    "AuraCurseBonusValue": 1,
+    "CardClass": "Scout",
+    "CustomDescription": "",
+    "DamageFlatBonus": "None",
+    "DamageFlatBonusValue": 0,
+    "EnergyBegin": 0,
+    "HealQuantity": 0,
+    "Icon": "stealth",
+    "IconTextValue": "+1",
+    "ID": "scout4b",
+    "Level": 4,
+    "MainPerk": false,
+    "MaxHealth": 0,
+    "ObeliskPerk": false,
+    "ResistModified": "None",
+    "ResistModifiedValue": 0,
+    "Row": 2,
+    "SpeedQuantity": 0
+}

@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 32,
+    "SkinGO": "navaleaSkinPro",
+    "SkinID": "fallenPro",
+    "SkinName": "Revenant",
+    "SkinOrder": 2,
+    "SkinSubclass": "fallen",
+    "Sku": "",
+    "SpritePortrait": "navaleaPortraitPro",
+    "SpritePortraitGrande": "navaleaPortraitProGrande",
+    "SpriteSilueta": "navaleaSiluetaPro",
+    "SpriteSiluetaGrande": "navaleaSiluetaProGrande",
+    "SteamStat": ""
+}

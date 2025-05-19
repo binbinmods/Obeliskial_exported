@@ -1,0 +1,23 @@
+{
+    "AdditionalCurrency": 0,
+    "AdditionalShards": 0,
+    "AuraCurseBonus": "",
+    "AuraCurseBonusValue": 0,
+    "CardClass": "Scout",
+    "CustomDescription": "",
+    "DamageFlatBonus": "Mind",
+    "DamageFlatBonusValue": 1,
+    "EnergyBegin": 0,
+    "HealQuantity": 0,
+    "Icon": "mind",
+    "IconTextValue": "+1",
+    "ID": "scout8",
+    "Level": 8,
+    "MainPerk": false,
+    "MaxHealth": 0,
+    "ObeliskPerk": true,
+    "ResistModified": "None",
+    "ResistModifiedValue": 0,
+    "Row": 1,
+    "SpeedQuantity": 0
+}

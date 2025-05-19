@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 16,
+    "SkinGO": "malukahSkinMedium",
+    "SkinID": "voodoowitchMedium",
+    "SkinName": "Shaman",
+    "SkinOrder": 1,
+    "SkinSubclass": "voodoowitch",
+    "Sku": "",
+    "SpritePortrait": "malukahportraitMedium",
+    "SpritePortraitGrande": "malukahportraitGrandeMedium",
+    "SpriteSilueta": "malukahsiluetaMedium",
+    "SpriteSiluetaGrande": "malukahsiluetaGrandeMedium",
+    "SteamStat": ""
+}

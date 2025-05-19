@@ -1,0 +1,20 @@
+{
+    "Card0": "fanaticism",
+    "Card1": "detoxify",
+    "Card2": "barrier",
+    "Card3": "vitalize",
+    "Card4": "panacea",
+    "Card5": "shieldofwarding",
+    "CardSpecial0": "prescription",
+    "CardSpecial1": "protectfromevil",
+    "PackClass": "Healer",
+    "PackID": "devotee",
+    "PackName": "Devotee",
+    "PerkList": [
+        "mainperkbuffer0",
+        "mainperkvitality0",
+        "mainperkvitality1c",
+        "mainperkshield3"
+    ],
+    "RequiredClass": ""
+}

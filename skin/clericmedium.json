@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 16,
+    "SkinGO": "reginaldSkinMedium",
+    "SkinID": "clericmedium",
+    "SkinName": "Friar",
+    "SkinOrder": 1,
+    "SkinSubclass": "cleric",
+    "Sku": "",
+    "SpritePortrait": "reginaldportraitMedium",
+    "SpritePortraitGrande": "reginaldportraitGrandeMedium",
+    "SpriteSilueta": "reginaldsiluetaMedium",
+    "SpriteSiluetaGrande": "reginaldsiluetaGrandeMedium",
+    "SteamStat": ""
+}

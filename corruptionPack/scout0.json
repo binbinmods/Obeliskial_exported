@@ -1,0 +1,31 @@
+{
+    "HighPack": [
+        "adrenalinerare",
+        "farshotrare",
+        "ambidextrousrare",
+        "findweaknessrare",
+        "snipershotrare",
+        "sneakystrikerare",
+        "vitalizingserenaderare",
+        "weaponcacherare",
+        "chantofaccuracyrare",
+        "shadowsteprare",
+        "toxicstrikerare"
+    ],
+    "LowPack": [
+        "multishotrare",
+        "banerare",
+        "ammunitionsrare",
+        "camouflagerare",
+        "backstabrare",
+        "farshotrare",
+        "explosiveshotrare",
+        "exposearmorrare",
+        "scavengerare",
+        "detectionrare",
+        "plagueshotrare"
+    ],
+    "PackClass": "Scout",
+    "PackName": "scout0",
+    "PackTier": 0
+}

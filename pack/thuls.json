@@ -1,0 +1,15 @@
+{
+    "Card0": "killerinstincstart",
+    "Card1": "viperstrike",
+    "Card2": "poisondart",
+    "Card3": "blur",
+    "Card4": "ambush",
+    "Card5": "",
+    "CardSpecial0": "",
+    "CardSpecial1": "",
+    "PackClass": "Scout",
+    "PackID": "thuls",
+    "PackName": "Thuls",
+    "PerkList": [],
+    "RequiredClass": "assassin"
+}

@@ -1,0 +1,8 @@
+{
+    "CinematicBSO": "sorrowshort0",
+    "CinematicCombat": "evoidhigh_13b",
+    "CinematicEndAdventure": false,
+    "CinematicEvent": "",
+    "CinematicGo": "CinematicHanshekKill",
+    "CinematicID": "hanshekkill"
+}

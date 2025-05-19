@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "corneliusRegularCardback",
+    "CardbackName": "Pyromancer",
+    "CardbackOrder": 1,
+    "CardbackSprite": "CartaCornelius",
+    "CardbackSubclass": "pyromancer",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 8,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

@@ -1,0 +1,7 @@
+{
+    "Icon": "slow",
+    "ID": "slowmonsters",
+    "IsMadnessTrait": false,
+    "Name": "Slow Monsters",
+    "Order": 0
+}

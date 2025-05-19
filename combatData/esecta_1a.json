@@ -1,0 +1,23 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Sectarium",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"slow\",\n    \"AuraCurseCharges\": 4,\n    \"AuraCurseTarget\": \"Monster3\"\n}"
+    ],
+    "CombatID": "esecta_1a",
+    "CombatMusic": "16_Nowhere Land - Alexander Nakarada",
+    "CombatTier": "T1",
+    "Description": "puerta secta con 1 durmiendo casi",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "",
+        "neophyte",
+        "initiated",
+        "neophyte"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T1",
+    "IsRift": false
+}

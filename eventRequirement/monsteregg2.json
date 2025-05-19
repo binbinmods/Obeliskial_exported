@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "A special ingredient for the cooking contest somewhere in the upper ruins.",
+    "ItemSprite": "eventMosquito",
+    "RequirementID": "monsteregg2",
+    "RequirementName": "Monster egg",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

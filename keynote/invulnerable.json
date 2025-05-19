@@ -1,0 +1,6 @@
+{
+    "Description": "Immune to damage and harmful effects.",
+    "DescriptionExtended": "Immune to damage and harmful effects.<br3>Remove 1 charge at the <w>start of the turn</w>.",
+    "ID": "invulnerable",
+    "KeynoteName": "Invulnerable"
+}

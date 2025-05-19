@@ -1,0 +1,36 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_secta6_a"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "secta_6",
+    "NodeName": "Stone Statue",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "secta_5",
+        "secta_7"
+    ],
+    "NodesConnectedRequirement": [
+        "{\n    \"NodeData\": \"secta_7\",\n    \"ConnectionRequirement\": \"impaltar\",\n    \"ConnectionIfNotNode\": \"\"\n}"
+    ],
+    "NodeZone": "Sectarium",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Stone Statue"
+}

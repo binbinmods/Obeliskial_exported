@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 16,
+    "SkinGO": "wilburSkinMedium",
+    "SkinID": "loremasterMedium",
+    "SkinName": "Scribe",
+    "SkinOrder": 1,
+    "SkinSubclass": "loremaster",
+    "Sku": "",
+    "SpritePortrait": "loremasterportraitMedium",
+    "SpritePortraitGrande": "loremasterportraitGrandeMedium",
+    "SpriteSilueta": "loremastersiluetaMedium",
+    "SpriteSiluetaGrande": "loremastersiluetaGrandeMedium",
+    "SteamStat": ""
+}

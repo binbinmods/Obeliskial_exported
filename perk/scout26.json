@@ -1,0 +1,23 @@
+{
+    "AdditionalCurrency": 0,
+    "AdditionalShards": 0,
+    "AuraCurseBonus": "shield",
+    "AuraCurseBonusValue": 2,
+    "CardClass": "Scout",
+    "CustomDescription": "",
+    "DamageFlatBonus": "None",
+    "DamageFlatBonusValue": 0,
+    "EnergyBegin": 0,
+    "HealQuantity": 0,
+    "Icon": "shield",
+    "IconTextValue": "+2",
+    "ID": "scout26",
+    "Level": 26,
+    "MainPerk": false,
+    "MaxHealth": 0,
+    "ObeliskPerk": true,
+    "ResistModified": "None",
+    "ResistModifiedValue": 0,
+    "Row": 1,
+    "SpeedQuantity": 0
+}

@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "breeSkinWolfwars",
+    "SkinID": "breewolfwars",
+    "SkinName": "Wolf Wars",
+    "SkinOrder": 60,
+    "SkinSubclass": "warden",
+    "Sku": "2325780",
+    "SpritePortrait": "breeWolfwarsportrait",
+    "SpritePortraitGrande": "breeWolfwarsportraitGrande",
+    "SpriteSilueta": "BreeWolfwarssilueta",
+    "SpriteSiluetaGrande": "BreeWolfwarssiluetaGrande",
+    "SteamStat": ""
+}

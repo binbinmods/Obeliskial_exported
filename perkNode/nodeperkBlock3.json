@@ -1,0 +1,13 @@
+{
+    "Column": 10,
+    "Cost": "PerkCostBase",
+    "ID": "nodeperkBlock3",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "mainperkblock3",
+    "PerkRequired": "nodeperkBlock2",
+    "PerksConnected": [],
+    "Row": 3,
+    "Sprite": "block",
+    "Type": 1
+}

@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "ameliaRegularCardback",
+    "CardbackName": "Queen",
+    "CardbackOrder": 1,
+    "CardbackSprite": "CartaAmelia",
+    "CardbackSubclass": "queen",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 8,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

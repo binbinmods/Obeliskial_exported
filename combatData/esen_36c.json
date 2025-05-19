@@ -1,0 +1,23 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Senenthia_Tarde",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"slow\",\n    \"AuraCurseCharges\": 3,\n    \"AuraCurseTarget\": \"Monsters\"\n}"
+    ],
+    "CombatID": "esen_36c",
+    "CombatMusic": "16_Nowhere Land - Alexander Nakarada",
+    "CombatTier": "T2",
+    "Description": "golden sheep y scared\n",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "",
+        "blacksheep",
+        "",
+        "goldensheep"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

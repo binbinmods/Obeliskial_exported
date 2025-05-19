@@ -1,0 +1,34 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "clair_4"
+    ],
+    "NodeCombatTier": "T4",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "PoisonousAir",
+    "NodeId": "spider_4",
+    "NodeName": "Cave Center",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "spider_6",
+        "spider_7"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Spiderlair",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Cave Center"
+}

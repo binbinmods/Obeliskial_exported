@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "Bajar en el submarino",
+    "ItemSprite": "",
+    "RequirementID": "sahtisubmarinedive",
+    "RequirementName": "",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "None"
+}

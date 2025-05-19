@@ -1,0 +1,23 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Velkarath_Stone",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"bleed\",\n    \"AuraCurseCharges\": 5,\n    \"AuraCurseTarget\": \"Monsters\"\n}"
+    ],
+    "CombatID": "evelka_27d",
+    "CombatMusic": "5_Alexander Nakarada - Explorer",
+    "CombatTier": "T4",
+    "Description": "harpy nest Grukli",
+    "EventData": "e_velka27_a2",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "skyhunter",
+        "stormcaller",
+        "matriarch",
+        ""
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T3",
+    "IsRift": false
+}

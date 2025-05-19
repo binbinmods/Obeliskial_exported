@@ -1,0 +1,24 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Aquarfall_Water",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"vulnerable\",\n    \"AuraCurseCharges\": 6,\n    \"AuraCurseTarget\": \"Monsters\"\n}",
+        "{\n    \"AuraCurse\": \"weak\",\n    \"AuraCurseCharges\": 1,\n    \"AuraCurseTarget\": \"Monsters\"\n}"
+    ],
+    "CombatID": "eaqua_20d",
+    "CombatMusic": "Foreverlands - 320bit",
+    "CombatTier": "T4",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "warden",
+        "skirmisher",
+        "spellbinder",
+        "siren"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T3",
+    "IsRift": false
+}

@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "frozenToTheBone",
+    "CardbackName": "cardbackFrozenToTheBone",
+    "CardbackOrder": 100,
+    "CardbackSprite": "CardBackChallengeFaeborg",
+    "CardbackSubclass": "",
+    "Locked": true,
+    "ObeliskLevel": 0,
+    "RankLevel": 0,
+    "ShowIfLocked": true,
+    "Sku": "",
+    "SteamStat": "challengeFaeborg"
+}

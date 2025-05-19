@@ -1,0 +1,23 @@
+{
+    "AdditionalCurrency": 0,
+    "AdditionalShards": 0,
+    "AuraCurseBonus": "burn",
+    "AuraCurseBonusValue": 1,
+    "CardClass": "Mage",
+    "CustomDescription": "",
+    "DamageFlatBonus": "None",
+    "DamageFlatBonusValue": 0,
+    "EnergyBegin": 0,
+    "HealQuantity": 0,
+    "Icon": "burn",
+    "IconTextValue": "+1",
+    "ID": "mage11",
+    "Level": 11,
+    "MainPerk": false,
+    "MaxHealth": 0,
+    "ObeliskPerk": true,
+    "ResistModified": "None",
+    "ResistModifiedValue": 0,
+    "Row": 1,
+    "SpeedQuantity": 0
+}

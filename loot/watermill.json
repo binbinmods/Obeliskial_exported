@@ -1,0 +1,22 @@
+{
+    "DefaultPercentEpic": 0.0,
+    "DefaultPercentMythic": 0.0,
+    "DefaultPercentRare": 0.0,
+    "DefaultPercentUncommon": 10.0,
+    "GoldQuantity": 50,
+    "ID": "watermill",
+    "LootItemTable": [
+        "{\n    \"LootCard\": \"dagger\",\n    \"LootPercent\": 60.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"leatherarmor\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"slippers\",\n    \"LootPercent\": 60.0,\n    \"LootRarity\": \"Uncommon\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"gloves\",\n    \"LootPercent\": 60.0,\n    \"LootRarity\": \"Uncommon\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"Jewelry\"\n}",
+        "{\n    \"LootCard\": \"dartpouch\",\n    \"LootPercent\": 70.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}"
+    ],
+    "NumItems": 6,
+    "ShadyModel": "",
+    "ShadyScaleX": 1.0,
+    "ShadyScaleY": 1.0,
+    "ShadyOffsetX": 0.0,
+    "ShadyOffsetY": 0.0
+}

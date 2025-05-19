@@ -1,0 +1,15 @@
+{
+    "Card0": "atonementstart",
+    "Card1": "barrier",
+    "Card2": "sacredbolt",
+    "Card3": "shieldofwarding",
+    "Card4": "sunbeam",
+    "Card5": "",
+    "CardSpecial0": "",
+    "CardSpecial1": "",
+    "PackClass": "Healer",
+    "PackID": "ottis",
+    "PackName": "Ottis",
+    "PerkList": [],
+    "RequiredClass": "priest"
+}

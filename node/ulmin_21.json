@@ -1,0 +1,36 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_ulmin21_a"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "ulmin_21",
+    "NodeName": "Campsite",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "ulmin_25",
+        "ulmin_20"
+    ],
+    "NodesConnectedRequirement": [
+        "{\n    \"NodeData\": \"ulmin_20\",\n    \"ConnectionRequirement\": \"uldirope\",\n    \"ConnectionIfNotNode\": \"\"\n}"
+    ],
+    "NodeZone": "Ulminin",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Desert"
+}

@@ -1,0 +1,13 @@
+{
+    "Column": 2,
+    "Cost": "PerkCostBase",
+    "ID": "nodeperkCurrency3",
+    "LockedInTown": true,
+    "NotStack": false,
+    "Perk": "mainperkcurrency3",
+    "PerkRequired": "nodeperkCurrency2",
+    "PerksConnected": [],
+    "Row": 3,
+    "Sprite": "gold",
+    "Type": 0
+}

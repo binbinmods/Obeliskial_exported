@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "A coin with the skull and crossbones; you got it for saving someone from spiders.",
+    "ItemSprite": "eventPirateCoin",
+    "RequirementID": "piratecoin",
+    "RequirementName": "Pirate Coin",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

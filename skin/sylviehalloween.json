@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "sylvieSkinHalloween",
+    "SkinID": "sylviehalloween",
+    "SkinName": "Halloween",
+    "SkinOrder": 50,
+    "SkinSubclass": "archer",
+    "Sku": "2168960",
+    "SpritePortrait": "sylvieportraitHalloween",
+    "SpritePortraitGrande": "sylvieportraitGrandeHalloween",
+    "SpriteSilueta": "sylvieHalloweensilueta",
+    "SpriteSiluetaGrande": "sylvieHalloweensiluetaGrande",
+    "SteamStat": ""
+}

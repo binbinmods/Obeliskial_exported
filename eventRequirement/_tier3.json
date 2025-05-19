@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "_tier3",
+    "ItemSprite": "",
+    "RequirementID": "_tier3",
+    "RequirementName": "",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "None"
+}

@@ -1,0 +1,32 @@
+{
+    "DefaultPercentEpic": 100.0,
+    "DefaultPercentMythic": 0.0,
+    "DefaultPercentRare": 0.0,
+    "DefaultPercentUncommon": 0.0,
+    "GoldQuantity": 0,
+    "ID": "tradeship7",
+    "LootItemTable": [
+        "{\n    \"LootCard\": \"holyrune\",\n    \"LootPercent\": 50.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"shadowrune\",\n    \"LootPercent\": 50.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"megaphone\",\n    \"LootPercent\": 50.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"mixedsalad\",\n    \"LootPercent\": 90.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"desertjam\",\n    \"LootPercent\": 80.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"undeathichor\",\n    \"LootPercent\": 80.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"scarabshield\",\n    \"LootPercent\": 80.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"necromancerrobe\",\n    \"LootPercent\": 80.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"solring\",\n    \"LootPercent\": 80.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"lunaring\",\n    \"LootPercent\": 80.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"turban\",\n    \"LootPercent\": 60.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"tesseract\",\n    \"LootPercent\": 60.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"unholyhammer\",\n    \"LootPercent\": 70.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"sacredaxe\",\n    \"LootPercent\": 70.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"ballofwool\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"alarmbell\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}"
+    ],
+    "NumItems": 8,
+    "ShadyModel": "nezglektSkinMedium",
+    "ShadyScaleX": -1.0,
+    "ShadyScaleY": 1.0,
+    "ShadyOffsetX": 0.0,
+    "ShadyOffsetY": 0.0
+}

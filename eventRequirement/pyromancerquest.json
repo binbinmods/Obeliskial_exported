@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "You told the old man that you will retrieve his fire staff at the cultist main base in Velkarath.",
+    "ItemSprite": "",
+    "RequirementID": "pyromancerquest",
+    "RequirementName": "The wandering wizard",
+    "RequirementTrack": true,
+    "TrackSprite": "quest-pyromancer",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "Velkarath"
+}

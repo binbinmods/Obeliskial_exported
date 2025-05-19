@@ -1,0 +1,23 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Sahti_ShipStorm",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"spark\",\n    \"AuraCurseCharges\": 2,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "csahti_31",
+    "CombatMusic": "Alexander Nakarada - Now We Ride",
+    "CombatTier": "T3",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "sailor",
+        "captain",
+        "helmsman",
+        "pirate"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

@@ -1,0 +1,33 @@
+{
+    "Boss1": "thorim_o",
+    "Boss2": "dt209_o",
+    "BossCombat": "challenge_13mech",
+    "CorruptionList": [
+        "lonelyblob",
+        "windsofamnesia",
+        "poisonfields",
+        "noxiousparasites",
+        "melancholy",
+        "toxicpuddle",
+        "waterpuddle",
+        "coldfront",
+        "thunderstorm"
+    ],
+    "Hero1": "mercenary",
+    "Hero2": "berserker",
+    "Hero3": "pyromancer",
+    "Hero4": "priest",
+    "ID": "week5",
+    "IDSteam": "challengeRise",
+    "Loot": "",
+    "Seed": "Rise4",
+    "Traits": [
+        "extremeburning",
+        "containedfury",
+        "doubleboons",
+        "spiritualmonsters",
+        "vigorousmonsters",
+        "lucky"
+    ],
+    "Week": 5
+}

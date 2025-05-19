@@ -1,0 +1,6 @@
+{
+    "Description": "Damage and heal done<r> -50%</r>.",
+    "DescriptionExtended": "Damage and heal done<r> -50%</r>.<br3>Remove 1 charge at the <w>end of the turn</w>.",
+    "ID": "weak",
+    "KeynoteName": "Weak"
+}

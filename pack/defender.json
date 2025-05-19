@@ -1,0 +1,20 @@
+{
+    "Card0": "intercept",
+    "Card1": "defend",
+    "Card2": "guard",
+    "Card3": "barricade",
+    "Card4": "coatofarms",
+    "Card5": "entrench",
+    "CardSpecial0": "provoke",
+    "CardSpecial1": "shieldwall",
+    "PackClass": "Warrior",
+    "PackID": "defender",
+    "PackName": "Defender",
+    "PerkList": [
+        "mainperkblock5",
+        "mainperkfortify0",
+        "mainperkfortify1c",
+        "mainperktaunt0"
+    ],
+    "RequiredClass": ""
+}

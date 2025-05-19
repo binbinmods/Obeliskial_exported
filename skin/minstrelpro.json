@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 32,
+    "SkinGO": "gustavSkinPro",
+    "SkinID": "minstrelpro",
+    "SkinName": "Bard",
+    "SkinOrder": 2,
+    "SkinSubclass": "minstrel",
+    "Sku": "",
+    "SpritePortrait": "gustavportraitPro",
+    "SpritePortraitGrande": "gustavportraitGrandePro",
+    "SpriteSilueta": "gustavsiluetaPro",
+    "SpriteSiluetaGrande": "gustavsiluetaGrandePro",
+    "SteamStat": ""
+}

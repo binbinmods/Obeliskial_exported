@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "Rhodogor tip de sus compañeros de tripulacion",
+    "ItemSprite": "",
+    "RequirementID": "dreadrhodogortip",
+    "RequirementName": "",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "None"
+}

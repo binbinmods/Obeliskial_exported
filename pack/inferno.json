@@ -1,0 +1,20 @@
+{
+    "Card0": "heatwave",
+    "Card1": "innercombustion",
+    "Card2": "ignite",
+    "Card3": "livingflame",
+    "Card4": "searingnova",
+    "Card5": "immolate",
+    "CardSpecial0": "scorchingray",
+    "CardSpecial1": "combustion",
+    "PackClass": "Mage",
+    "PackID": "inferno",
+    "PackName": "Inferno",
+    "PerkList": [
+        "mainperkfire1",
+        "mainperkburn1",
+        "mainperkburn2b",
+        "mainperkinsulate0"
+    ],
+    "RequiredClass": ""
+}

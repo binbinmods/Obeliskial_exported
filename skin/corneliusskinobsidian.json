@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "Cornelius_Skin_Obsidian",
+    "SkinID": "corneliusskinobsidian",
+    "SkinName": "uprising",
+    "SkinOrder": 70,
+    "SkinSubclass": "pyromancer",
+    "Sku": "2879690",
+    "SpritePortrait": "corneliusuprisingportrait",
+    "SpritePortraitGrande": "corneliusuprisingportraitGrande",
+    "SpriteSilueta": "corneliusuprisingsilueta",
+    "SpriteSiluetaGrande": "corneliusuprisingsiluetaGrande",
+    "SteamStat": ""
+}

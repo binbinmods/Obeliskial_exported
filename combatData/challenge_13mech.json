@@ -1,0 +1,24 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Forge_Boss",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"burn\",\n    \"AuraCurseCharges\": 4,\n    \"AuraCurseTarget\": \"Heroes\"\n}",
+        "{\n    \"AuraCurse\": \"block\",\n    \"AuraCurseCharges\": 100,\n    \"AuraCurseTarget\": \"Monster2\"\n}"
+    ],
+    "CombatID": "challenge_13mech",
+    "CombatMusic": "Lord of the Riffs",
+    "CombatTier": "T0",
+    "Description": "boss final mech",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "flamethrower_o",
+        "dwarfface_o",
+        "dt800_o",
+        "launcher_o"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T4",
+    "IsRift": false
+}

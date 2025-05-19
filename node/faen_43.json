@@ -1,0 +1,36 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 50,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_faen43_a"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "faen_43",
+    "NodeName": "Eldritch Rift",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "faen_29",
+        "faen_35"
+    ],
+    "NodesConnectedRequirement": [
+        "{\n    \"NodeData\": \"faen_29\",\n    \"ConnectionRequirement\": \"riftfaen43\",\n    \"ConnectionIfNotNode\": \"\"\n}"
+    ],
+    "NodeZone": "Faeborg",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Eldritch Rift"
+}

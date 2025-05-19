@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "pitchBlack",
+    "CardbackName": "cardbackPitchBlack",
+    "CardbackOrder": 120,
+    "CardbackSprite": "CardBackChallengeNhir",
+    "CardbackSubclass": "",
+    "Locked": true,
+    "ObeliskLevel": 0,
+    "RankLevel": 0,
+    "ShowIfLocked": true,
+    "Sku": "",
+    "SteamStat": "challengeNhir"
+}

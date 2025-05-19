@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "Boss debilitado por cañon",
+    "ItemSprite": "",
+    "RequirementID": "dreadmastcannon",
+    "RequirementName": "",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "None"
+}

@@ -1,0 +1,24 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Velkarath_Cave",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"spark\",\n    \"AuraCurseCharges\": 10,\n    \"AuraCurseTarget\": \"Monsters\"\n}",
+        "{\n    \"AuraCurse\": \"vulnerable\",\n    \"AuraCurseCharges\": 4,\n    \"AuraCurseTarget\": \"Monsters\"\n}"
+    ],
+    "CombatID": "evelka_29d",
+    "CombatMusic": "5_Alexander Nakarada - Explorer",
+    "CombatTier": "T4",
+    "Description": "interior volcan no elem",
+    "EventData": "e_velka29_a",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "golem",
+        "golem",
+        "",
+        ""
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T3",
+    "IsRift": false
+}

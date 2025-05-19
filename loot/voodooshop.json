@@ -1,0 +1,23 @@
+{
+    "DefaultPercentEpic": 5.0,
+    "DefaultPercentMythic": 0.0,
+    "DefaultPercentRare": 30.0,
+    "DefaultPercentUncommon": 65.0,
+    "GoldQuantity": 50,
+    "ID": "voodooshop",
+    "LootItemTable": [
+        "{\n    \"LootCard\": \"voodoodoll\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"scrollofresurrection\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"healthpotion\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"manapotion\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"strongmojo\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"detoxpotion\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"berserkpotion\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}"
+    ],
+    "NumItems": 8,
+    "ShadyModel": "malukah",
+    "ShadyScaleX": -1.0,
+    "ShadyScaleY": 1.0,
+    "ShadyOffsetX": 0.05000000074505806,
+    "ShadyOffsetY": 0.0
+}

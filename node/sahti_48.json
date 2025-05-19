@@ -1,0 +1,38 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_sahti48_a",
+        "e_sahti48_b"
+    ],
+    "NodeEventPercent": [
+        50,
+        50
+    ],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "DampCavern",
+    "NodeId": "sahti_48",
+    "NodeName": "Echoing Corridor",
+    "NodeRequirement": "sahtidown",
+    "NodesConnected": [
+        "sahti_53",
+        "sahti_54"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Sahti",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Village"
+}

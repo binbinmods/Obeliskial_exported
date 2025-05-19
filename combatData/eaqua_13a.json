@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Aquarfall_Main",
+    "CombatEffect": [],
+    "CombatID": "eaqua_13a",
+    "CombatMusic": "16_Nowhere Land - Alexander Nakarada",
+    "CombatTier": "T3",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "hatchling",
+        "mutant",
+        "spider",
+        "mutant"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

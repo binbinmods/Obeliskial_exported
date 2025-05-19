@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "singularityCompletedMadness",
+    "CardbackName": "SingularityCompletedMadnessCardback",
+    "CardbackOrder": 15,
+    "CardbackSprite": "CardBackSingulatiryHysteria",
+    "CardbackSubclass": "",
+    "Locked": true,
+    "ObeliskLevel": 0,
+    "RankLevel": 0,
+    "ShowIfLocked": true,
+    "Sku": "",
+    "SteamStat": ""
+}

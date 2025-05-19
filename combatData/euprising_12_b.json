@@ -1,0 +1,23 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Uprising_MidElevator",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"fury\",\n    \"AuraCurseCharges\": 4,\n    \"AuraCurseTarget\": \"Monsters\"\n}"
+    ],
+    "CombatID": "euprising_12_b",
+    "CombatMusic": "20_Until+the+End - Alexander Nakarada",
+    "CombatTier": "T3",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "trooper",
+        "incinerator",
+        "drone",
+        "thorim"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

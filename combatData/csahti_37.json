@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Sahti_ShipCloudyStorm",
+    "CombatEffect": [],
+    "CombatID": "csahti_37",
+    "CombatMusic": "9_Alexander Nakarada - Dawn",
+    "CombatTier": "T4",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "shark",
+        "lightjellyfish",
+        "darkjellyfish",
+        "pufferfish"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

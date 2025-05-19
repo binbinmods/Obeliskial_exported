@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "floorIsLava",
+    "CardbackName": "cardbackFloorIsLava",
+    "CardbackOrder": 85,
+    "CardbackSprite": "CardBackChallengeIgnidoh",
+    "CardbackSubclass": "",
+    "Locked": true,
+    "ObeliskLevel": 0,
+    "RankLevel": 0,
+    "ShowIfLocked": true,
+    "Sku": "",
+    "SteamStat": "challengeIgnidoh"
+}

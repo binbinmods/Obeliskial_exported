@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "The key to the ultimate gladiatorial battle at the legendary plaza, the symbol of a true gladiator champion.",
+    "ItemSprite": "eventAncientBadge",
+    "RequirementID": "ancientbadge",
+    "RequirementName": "Ancient badge",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

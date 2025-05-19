@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 16,
+    "SkinGO": "ottisSkinMedium",
+    "SkinID": "priestmedium",
+    "SkinName": "Devotee",
+    "SkinOrder": 1,
+    "SkinSubclass": "priest",
+    "Sku": "",
+    "SpritePortrait": "ottisportraitMedium",
+    "SpritePortraitGrande": "ottisportraitGrandeMedium",
+    "SpriteSilueta": "ottissiluetaMedium",
+    "SpriteSiluetaGrande": "ottissiluetaGrandeMedium",
+    "SteamStat": ""
+}

@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "zekProCardback",
+    "CardbackName": "Reaper",
+    "CardbackOrder": 3,
+    "CardbackSprite": "CartaZekPro",
+    "CardbackSubclass": "warlock",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 40,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

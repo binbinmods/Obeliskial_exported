@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "magnusSkinHalloween",
+    "SkinID": "magnushalloween",
+    "SkinName": "Halloween",
+    "SkinOrder": 50,
+    "SkinSubclass": "mercenary",
+    "Sku": "2168960",
+    "SpritePortrait": "magnusHalloweeenportrait",
+    "SpritePortraitGrande": "magnusHalloweeenportraitGrande",
+    "SpriteSilueta": "magnusHalloweeensilueta",
+    "SpriteSiluetaGrande": "magnusHalloweeensiluetaGrande",
+    "SteamStat": ""
+}

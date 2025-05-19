@@ -1,0 +1,41 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_sen22_a",
+        "e_demoend"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [
+        2,
+        0
+    ],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "sen_22",
+    "NodeName": "Edge of the forest",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "sen_24",
+        "sen_27",
+        "sen_28"
+    ],
+    "NodesConnectedRequirement": [
+        "{\n    \"NodeData\": \"sen_27\",\n    \"ConnectionRequirement\": \"forestrail\",\n    \"ConnectionIfNotNode\": \"\"\n}"
+    ],
+    "NodeZone": "Senenthia",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Edge of the forest"
+}

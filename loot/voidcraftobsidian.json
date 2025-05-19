@@ -1,0 +1,19 @@
+{
+    "DefaultPercentEpic": 0.0,
+    "DefaultPercentMythic": 0.0,
+    "DefaultPercentRare": 0.0,
+    "DefaultPercentUncommon": 0.0,
+    "GoldQuantity": 0,
+    "ID": "voidcraftobsidian",
+    "LootItemTable": [
+        "{\n    \"LootCard\": \"platinumring\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"obsidiandagger\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"orby\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}"
+    ],
+    "NumItems": 3,
+    "ShadyModel": "",
+    "ShadyScaleX": 1.0,
+    "ShadyScaleY": 1.0,
+    "ShadyOffsetX": 0.0,
+    "ShadyOffsetY": 0.0
+}

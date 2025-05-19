@@ -1,0 +1,20 @@
+{
+    "Card0": "toxicrain",
+    "Card1": "uproot",
+    "Card2": "poisonousshot",
+    "Card3": "plagueshot",
+    "Card4": "poisonspray",
+    "Card5": "poisoneddaggers",
+    "CardSpecial0": "lethalshot",
+    "CardSpecial1": "poisonflask",
+    "PackClass": "Scout",
+    "PackID": "plague",
+    "PackName": "Plague",
+    "PerkList": [
+        "mainperkpoison0",
+        "mainperkdecay1a",
+        "mainperkdecay1c",
+        "mainperkpiercing0"
+    ],
+    "RequiredClass": ""
+}

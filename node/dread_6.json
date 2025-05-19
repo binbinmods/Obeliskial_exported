@@ -1,0 +1,36 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "EerieAtmosphere",
+    "NodeId": "dread_6",
+    "NodeName": "Stairs",
+    "NodeRequirement": "dreadup",
+    "NodesConnected": [
+        "dread_7",
+        "dread_8",
+        "dread_9"
+    ],
+    "NodesConnectedRequirement": [
+        "{\n    \"NodeData\": \"dread_8\",\n    \"ConnectionRequirement\": \"\",\n    \"ConnectionIfNotNode\": \"dread_7\"\n}",
+        "{\n    \"NodeData\": \"dread_9\",\n    \"ConnectionRequirement\": \"\",\n    \"ConnectionIfNotNode\": \"dread_7\"\n}"
+    ],
+    "NodeZone": "Dreadnought",
+    "TravelDestination": true,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Stairs"
+}

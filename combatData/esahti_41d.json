@@ -1,0 +1,23 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Sahti_ShipStorm",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"spark\",\n    \"AuraCurseCharges\": 2,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "esahti_41d",
+    "CombatMusic": "5_Alexander Nakarada - Explorer",
+    "CombatTier": "T4",
+    "Description": "help you",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "sailor",
+        "whitebeard",
+        "redbeard",
+        "blackbeard"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T3",
+    "IsRift": false
+}

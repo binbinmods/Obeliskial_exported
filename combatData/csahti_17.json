@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Sahti_ShipCloudy",
+    "CombatEffect": [],
+    "CombatID": "csahti_17",
+    "CombatMusic": "Magic Tavern - 320bit",
+    "CombatTier": "T3",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "buccanner",
+        "parrot",
+        "pirate",
+        "lookout"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

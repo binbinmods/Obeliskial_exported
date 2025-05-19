@@ -1,0 +1,40 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_ulmin5_a",
+        "e_ulmin5_b"
+    ],
+    "NodeEventPercent": [
+        60,
+        40
+    ],
+    "NodeEventPriority": [
+        0,
+        0
+    ],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "ulmin_5",
+    "NodeName": "Dry Lake",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "ulmin_10"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Ulminin",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Dry Lake"
+}

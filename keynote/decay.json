@@ -1,0 +1,6 @@
+{
+    "Description": "Heal received <r>-50%</r>.",
+    "DescriptionExtended": "Heal received <r>-50%</r>.<br3>Remove 1 charge at the <w>end of the turn</w>.",
+    "ID": "decay",
+    "KeynoteName": "Decay"
+}

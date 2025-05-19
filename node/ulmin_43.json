@@ -1,0 +1,38 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_ulmin43_a",
+        "e_ulmin43_b"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [
+        1,
+        0
+    ],
+    "NodeEventTier": "T0",
+    "NodeGround": "Graveyard",
+    "NodeId": "ulmin_43",
+    "NodeName": "Burial Chamber",
+    "NodeRequirement": "ulminindown",
+    "NodesConnected": [
+        "ulmin_44",
+        "ulmin_46"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Ulminin",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Burial Chamber "
+}

@@ -1,0 +1,15 @@
+{
+    "Card0": "banishstart",
+    "Card1": "curativetherapy",
+    "Card2": "mindblast",
+    "Card3": "mentalshake",
+    "Card4": "scry",
+    "Card5": "",
+    "CardSpecial0": "",
+    "CardSpecial1": "",
+    "PackClass": "Healer",
+    "PackID": "nezglekt",
+    "PackName": "Nezglekt",
+    "PerkList": [],
+    "RequiredClass": "prophet"
+}

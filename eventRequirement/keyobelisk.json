@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "A mysterious key you found.",
+    "ItemSprite": "eventKeyYellow",
+    "RequirementID": "keyobelisk",
+    "RequirementName": "Mysterious key",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

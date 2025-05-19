@@ -1,0 +1,25 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Faeborg_Rabbit",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"chill\",\n    \"AuraCurseCharges\": 11,\n    \"AuraCurseTarget\": \"Heroes\"\n}",
+        "{\n    \"AuraCurse\": \"bleed\",\n    \"AuraCurseCharges\": 3,\n    \"AuraCurseTarget\": \"Monsters\"\n}",
+        "{\n    \"AuraCurse\": \"powerful\",\n    \"AuraCurseCharges\": 2,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "efaen_21b",
+    "CombatMusic": "Adventure Beyond - 320bit",
+    "CombatTier": "T4",
+    "Description": "combat conejos",
+    "EventData": "e_faen21_c",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "",
+        "rabbit",
+        "rabbit",
+        ""
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T3",
+    "IsRift": false
+}

@@ -1,0 +1,15 @@
+{
+    "Card0": "standardbearerstart",
+    "Card1": "pommel",
+    "Card2": "spikedshield",
+    "Card3": "invigoratingblow",
+    "Card4": "intimidate",
+    "Card5": "",
+    "CardSpecial0": "",
+    "CardSpecial1": "",
+    "PackClass": "Warrior",
+    "PackID": "bree",
+    "PackName": "Bree",
+    "PerkList": [],
+    "RequiredClass": "warden"
+}

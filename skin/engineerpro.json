@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 32,
+    "SkinGO": "nenukilSkinPro",
+    "SkinID": "engineerpro",
+    "SkinName": "Artificer",
+    "SkinOrder": 2,
+    "SkinSubclass": "engineer",
+    "Sku": "",
+    "SpritePortrait": "NenukilportraitPro",
+    "SpritePortraitGrande": "NenukilportraitGrandePro",
+    "SpriteSilueta": "NenukilsiluetaPro",
+    "SpriteSiluetaGrande": "NenukilsiluetaGrandePro",
+    "SteamStat": ""
+}

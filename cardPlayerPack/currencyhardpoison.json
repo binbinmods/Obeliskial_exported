@@ -1,0 +1,17 @@
+{
+    "Card0": "deathsdoor",
+    "Card0RandomBoon": false,
+    "Card0RandomInjury": false,
+    "Card1": "poisoned",
+    "Card1RandomBoon": false,
+    "Card1RandomInjury": false,
+    "Card2": "poisoned",
+    "Card2RandomBoon": false,
+    "Card2RandomInjury": false,
+    "Card3": "goldyshardscardb",
+    "Card3RandomBoon": false,
+    "Card3RandomInjury": false,
+    "ModIterations": 2,
+    "ModSpeed": 0,
+    "PackId": "currencyhardpoison"
+}

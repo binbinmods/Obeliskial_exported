@@ -1,0 +1,20 @@
+{
+    "Card0": "clarity",
+    "Card1": "flashheal",
+    "Card2": "heal",
+    "Card3": "bindingheal",
+    "Card4": "bulkheal",
+    "Card5": "prayerofhealing",
+    "CardSpecial0": "chainheal",
+    "CardSpecial1": "greaterheal",
+    "PackClass": "Healer",
+    "PackID": "healer",
+    "PackName": "Healer",
+    "PerkList": [
+        "mainperkheal5",
+        "mainperkheal2",
+        "mainperkenergy2c",
+        "mainperkinspire0c"
+    ],
+    "RequiredClass": ""
+}

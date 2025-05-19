@@ -1,0 +1,33 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "csahti_53"
+    ],
+    "NodeCombatTier": "T5",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "DampCavern",
+    "NodeId": "sahti_53",
+    "NodeName": "Clear Corridor",
+    "NodeRequirement": "sahtidown",
+    "NodesConnected": [
+        "sahti_56"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Sahti",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "cave"
+}

@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "obeliskCompletedMadness",
+    "CardbackName": "ObeliskCompletedMadnessCardback",
+    "CardbackOrder": 13,
+    "CardbackSprite": "CardBackObeliskMadness",
+    "CardbackSubclass": "",
+    "Locked": true,
+    "ObeliskLevel": 8,
+    "RankLevel": 0,
+    "ShowIfLocked": true,
+    "Sku": "",
+    "SteamStat": ""
+}

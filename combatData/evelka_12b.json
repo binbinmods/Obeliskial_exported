@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Velkarath_Arena",
+    "CombatEffect": [],
+    "CombatID": "evelka_12b",
+    "CombatMusic": "22_Wanderer - Alexander Nakarada",
+    "CombatTier": "T3",
+    "Description": "fang gang",
+    "EventData": "e_velka12_a3",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "",
+        "rondo",
+        "gonzo",
+        "ponko"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

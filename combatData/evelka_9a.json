@@ -1,0 +1,20 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Velkarath_Cave",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"fury\",\n    \"AuraCurseCharges\": 2,\n    \"AuraCurseTarget\": \"Monsters\"\n}"
+    ],
+    "CombatID": "evelka_9a",
+    "CombatMusic": "Dragonquest - 320bit",
+    "CombatTier": "T3",
+    "Description": "minotauro",
+    "EventData": "e_velka9_a4",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "minotaur"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T3",
+    "IsRift": false
+}

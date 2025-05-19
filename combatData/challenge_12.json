@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Void_ObeliskClose2_Lila",
+    "CombatEffect": [],
+    "CombatID": "challenge_12",
+    "CombatMusic": "20_Until+the+End - Alexander Nakarada",
+    "CombatTier": "T0",
+    "Description": "Challenge Combat Tier 12 fondo obelsl",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "cornie",
+        "cornie",
+        "cornie",
+        ""
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

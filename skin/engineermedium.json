@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 16,
+    "SkinGO": "nenukilSkinMedium",
+    "SkinID": "engineermedium",
+    "SkinName": "Mechanic",
+    "SkinOrder": 1,
+    "SkinSubclass": "engineer",
+    "Sku": "",
+    "SpritePortrait": "NenukilportraitMedium",
+    "SpritePortraitGrande": "NenukilportraitGrandeMedium",
+    "SpriteSilueta": "NenukilsiluetaMedium",
+    "SpriteSiluetaGrande": "NenukilsiluetaGrandeMedium",
+    "SteamStat": ""
+}

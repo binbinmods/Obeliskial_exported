@@ -1,0 +1,25 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Sahti_ShipCloudyStorm",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"slow\",\n    \"AuraCurseCharges\": 2,\n    \"AuraCurseTarget\": \"Heroes\"\n}",
+        "{\n    \"AuraCurse\": \"vulnerable\",\n    \"AuraCurseCharges\": 1,\n    \"AuraCurseTarget\": \"Heroes\"\n}",
+        "{\n    \"AuraCurse\": \"wet\",\n    \"AuraCurseCharges\": 3,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "esahti_24b",
+    "CombatMusic": "16_Nowhere Land - Alexander Nakarada",
+    "CombatTier": "T4",
+    "Description": "combat balleneros fail",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "lookout",
+        "parrot",
+        "pirate",
+        "helmsman"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T3",
+    "IsRift": false
+}

@@ -1,0 +1,23 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Senenthia_Tarde",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"fast\",\n    \"AuraCurseCharges\": 2,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "esen_13a",
+    "CombatMusic": "19_Traveler - Alexander Nakarada",
+    "CombatTier": "T2",
+    "Description": "cultistas bloquan norte",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "neophyte",
+        "neophyte",
+        "fireimp",
+        "initiated"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

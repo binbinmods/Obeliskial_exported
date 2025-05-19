@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Spider_Lair",
+    "CombatEffect": [],
+    "CombatID": "esen_15a",
+    "CombatMusic": "19_Traveler - Alexander Nakarada",
+    "CombatTier": "T2",
+    "Description": "arañas detras la cascada",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "",
+        "",
+        "hatchling",
+        "spider"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

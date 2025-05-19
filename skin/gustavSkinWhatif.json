@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "gustavSkinWhatif",
+    "SkinID": "gustavSkinWhatif",
+    "SkinName": "Whatif",
+    "SkinOrder": 80,
+    "SkinSubclass": "minstrel",
+    "Sku": "",
+    "SpritePortrait": "gustavwhatifportrait",
+    "SpritePortraitGrande": "gustavwhatifportraitGrande",
+    "SpriteSilueta": "gustavwhatifsilueta",
+    "SpriteSiluetaGrande": "gustavwhatifsiluetaGrande",
+    "SteamStat": ""
+}

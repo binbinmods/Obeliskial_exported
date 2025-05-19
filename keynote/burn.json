@@ -1,0 +1,6 @@
+{
+    "Description": "<o>Fire resistance</o> <y>-0.5% per charge</y>.<br3>Suffer <o>1 Fire damage per charge</o> at the <w>start of the turn</w>.",
+    "DescriptionExtended": "<o>Fire resistance</o>  <y>-0.5% per charge</y>.<br3>Suffer <o>1 Fire damage per charge</o> at the <w>start of the turn</w>, then remove 1 charge.<br3>This damage <w>can be blocked</w> and is not affected by other modifiers.",
+    "ID": "burn",
+    "KeynoteName": "Burn"
+}

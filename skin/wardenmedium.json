@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 16,
+    "SkinGO": "breeSkinMedium",
+    "SkinID": "wardenmedium",
+    "SkinName": "Commander",
+    "SkinOrder": 1,
+    "SkinSubclass": "warden",
+    "Sku": "",
+    "SpritePortrait": "breeportraitMedium",
+    "SpritePortraitGrande": "breeportraitGrandeMedium",
+    "SpriteSilueta": "BreesiluetaMedium",
+    "SpriteSiluetaGrande": "BreesiluetaGrandeMedium",
+    "SteamStat": ""
+}

@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 16,
+    "SkinGO": "corneliusSkinMedium",
+    "SkinID": "pyromancermedium",
+    "SkinName": "Wizard",
+    "SkinOrder": 1,
+    "SkinSubclass": "pyromancer",
+    "Sku": "",
+    "SpritePortrait": "corneliusportraitMedium",
+    "SpritePortraitGrande": "corneliusportraitGrandeMedium",
+    "SpriteSilueta": "corneliussiluetaMedium",
+    "SpriteSiluetaGrande": "corneliussiluetaGrandeMedium",
+    "SteamStat": ""
+}

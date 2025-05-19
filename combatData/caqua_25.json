@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Aquarfall_Water",
+    "CombatEffect": [],
+    "CombatID": "caqua_25",
+    "CombatMusic": "12_Nomadic+Dawn - Alexander Nakarada",
+    "CombatTier": "T4",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "skirmisher",
+        "stormbringer",
+        "stormbringer",
+        "warden"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

@@ -1,0 +1,18 @@
+{
+    "DefaultPercentEpic": 40.0,
+    "DefaultPercentMythic": 0.0,
+    "DefaultPercentRare": 60.0,
+    "DefaultPercentUncommon": 0.0,
+    "GoldQuantity": 0,
+    "ID": "Sailor",
+    "LootItemTable": [
+        "{\n    \"LootCard\": \"albatrosspendant\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"Jewelry\"\n}",
+        "{\n    \"LootCard\": \"brasslantern\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"Jewelry\"\n}"
+    ],
+    "NumItems": 6,
+    "ShadyModel": "",
+    "ShadyScaleX": 1.0,
+    "ShadyScaleY": 1.0,
+    "ShadyOffsetX": 0.0,
+    "ShadyOffsetY": 0.0
+}

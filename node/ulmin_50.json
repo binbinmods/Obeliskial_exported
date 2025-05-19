@@ -1,0 +1,37 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_ulmin50_a",
+        "e_ulmin50_b"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [
+        0,
+        1
+    ],
+    "NodeEventTier": "T0",
+    "NodeGround": "Graveyard",
+    "NodeId": "ulmin_50",
+    "NodeName": "Mural",
+    "NodeRequirement": "ulminindown",
+    "NodesConnected": [
+        "ulmin_54"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Ulminin",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Mural"
+}

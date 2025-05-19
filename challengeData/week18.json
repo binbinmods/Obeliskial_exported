@@ -1,0 +1,33 @@
+{
+    "Boss1": "ursur_o",
+    "Boss2": "gorio_o",
+    "BossCombat": "challenge_13hydra",
+    "CorruptionList": [
+        "lonelyblob",
+        "windsofamnesia",
+        "snowfall",
+        "subzero",
+        "melancholy",
+        "icypuddle",
+        "waterpuddle",
+        "coldfront",
+        "thunderstorm"
+    ],
+    "Hero1": "warden",
+    "Hero2": "elementalist",
+    "Hero3": "loremaster",
+    "Hero4": "priest",
+    "ID": "week18",
+    "IDSteam": "challengeHydra",
+    "Loot": "",
+    "Seed": "bHydras4",
+    "Traits": [
+        "icydeluge",
+        "intensecold",
+        "fastheroes",
+        "overchargedmonsters",
+        "vigorousmonsters",
+        "wealthyheroes"
+    ],
+    "Week": 18
+}

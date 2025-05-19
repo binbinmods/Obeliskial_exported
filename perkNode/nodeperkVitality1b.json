@@ -1,0 +1,13 @@
+{
+    "Column": 0,
+    "Cost": "PerkCostAdvanced",
+    "ID": "nodeperkVitality1b",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "mainperkvitality1b",
+    "PerkRequired": "nodeperkVitality0",
+    "PerksConnected": [],
+    "Row": 6,
+    "Sprite": "vitality",
+    "Type": 3
+}

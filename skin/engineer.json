@@ -1,0 +1,15 @@
+{
+    "BaseSkin": true,
+    "PerkLevel": 0,
+    "SkinGO": "nenukilSkinRegular",
+    "SkinID": "engineer",
+    "SkinName": "Engineer",
+    "SkinOrder": 0,
+    "SkinSubclass": "engineer",
+    "Sku": "",
+    "SpritePortrait": "Nenukilportrait",
+    "SpritePortraitGrande": "NenukilportraitGrande",
+    "SpriteSilueta": "Nenukilsilueta",
+    "SpriteSiluetaGrande": "NenukilsiluetaGrande",
+    "SteamStat": ""
+}

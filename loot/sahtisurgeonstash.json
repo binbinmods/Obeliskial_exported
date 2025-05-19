@@ -1,0 +1,22 @@
+{
+    "DefaultPercentEpic": 0.0,
+    "DefaultPercentMythic": 0.0,
+    "DefaultPercentRare": 25.0,
+    "DefaultPercentUncommon": 65.0,
+    "GoldQuantity": 40,
+    "ID": "sahtisurgeonstash",
+    "LootItemTable": [
+        "{\n    \"LootCard\": \"winebottle\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"waterskin\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"compass\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"corsairhat\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"spyglass\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"Weapon\"\n}"
+    ],
+    "NumItems": 6,
+    "ShadyModel": "",
+    "ShadyScaleX": 1.0,
+    "ShadyScaleY": 1.0,
+    "ShadyOffsetX": 0.0,
+    "ShadyOffsetY": 0.0
+}

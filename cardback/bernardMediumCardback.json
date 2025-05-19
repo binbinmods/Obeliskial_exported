@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "bernardMediumCardback",
+    "CardbackName": "Apothecary",
+    "CardbackOrder": 2,
+    "CardbackSprite": "CartaBernardMedium",
+    "CardbackSubclass": "alchemist",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 24,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

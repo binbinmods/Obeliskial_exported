@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Aquarfall_Main",
+    "CombatEffect": [],
+    "CombatID": "caqua_3",
+    "CombatMusic": "19_Traveler - Alexander Nakarada",
+    "CombatTier": "T3",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "bruiser",
+        "sawtooth",
+        "dragonfly",
+        "sawtooth"
+    ],
+    "NPCRemoveInMadness0Index": 3,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "A gnome has asked you to look for ancient books to help him make his invention fly.",
+    "ItemSprite": "",
+    "RequirementID": "lorequest",
+    "RequirementName": "Ancient knowledge",
+    "RequirementTrack": true,
+    "TrackSprite": "quest-loremaster",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "VoidLow"
+}

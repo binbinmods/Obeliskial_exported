@@ -1,0 +1,13 @@
+{
+    "Column": 2,
+    "Cost": "PerkCostBase",
+    "ID": "nodeperkSlashing0",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "mainperkslashing0",
+    "PerkRequired": "",
+    "PerksConnected": [],
+    "Row": 0,
+    "Sprite": "slashing",
+    "Type": 1
+}

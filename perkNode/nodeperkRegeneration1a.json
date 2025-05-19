@@ -1,0 +1,13 @@
+{
+    "Column": 6,
+    "Cost": "PerkCostAdvanced",
+    "ID": "nodeperkRegeneration1a",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "mainperkregeneration1a",
+    "PerkRequired": "nodeperkRegeneration0",
+    "PerksConnected": [],
+    "Row": 6,
+    "Sprite": "regeneration",
+    "Type": 3
+}

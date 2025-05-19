@@ -1,0 +1,43 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 75,
+    "ExistsSku": "2325780",
+    "GoToTown": false,
+    "NodeBackgroundImg": "ladder2",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_aquar43_a",
+        "e_aquar43_b"
+    ],
+    "NodeEventPercent": [
+        50,
+        50
+    ],
+    "NodeEventPriority": [
+        0,
+        0
+    ],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "aqua_43",
+    "NodeName": "Ladder",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "aqua_16",
+        "aqua_46"
+    ],
+    "NodesConnectedRequirement": [
+        "{\n    \"NodeData\": \"aqua_16\",\n    \"ConnectionRequirement\": \"\",\n    \"ConnectionIfNotNode\": \"aqua_46\"\n}"
+    ],
+    "NodeZone": "Aquarfall",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Ladder"
+}

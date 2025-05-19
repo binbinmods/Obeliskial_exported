@@ -1,0 +1,23 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Aquarfall_Water",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"regeneration\",\n    \"AuraCurseCharges\": 3,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "caqua_27b",
+    "CombatMusic": "5_Alexander Nakarada - Explorer",
+    "CombatTier": "T4",
+    "Description": "combat",
+    "EventData": "e_aquar27_a",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "hypnocrab",
+        "hypnocrab",
+        "rhogor",
+        ""
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T3",
+    "IsRift": false
+}

@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Void_StairsClose2",
+    "CombatEffect": [],
+    "CombatID": "challenge_3",
+    "CombatMusic": "Adventure Beyond - 320bit",
+    "CombatTier": "T0",
+    "Description": "Challenge Combat Tier 3",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "cornie",
+        "cornie",
+        "cornie",
+        ""
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

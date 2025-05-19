@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": true,
+    "Description": "zona hielo not done",
+    "ItemSprite": "",
+    "RequirementID": "zonahielo",
+    "RequirementName": "",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "None"
+}

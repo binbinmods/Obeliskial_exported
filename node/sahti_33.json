@@ -1,0 +1,40 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_sahti33_a",
+        "e_sahti33_b"
+    ],
+    "NodeEventPercent": [
+        45,
+        55
+    ],
+    "NodeEventPriority": [
+        0,
+        0
+    ],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "sahti_33",
+    "NodeName": "Lake Island",
+    "NodeRequirement": "sahtiup",
+    "NodesConnected": [
+        "sahti_37"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Sahti",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Village"
+}

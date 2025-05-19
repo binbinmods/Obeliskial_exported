@@ -1,0 +1,20 @@
+{
+    "Card0": "rain",
+    "Card1": "zap",
+    "Card2": "chargebattery",
+    "Card3": "waterjet",
+    "Card4": "squall",
+    "Card5": "thunderbolt",
+    "CardSpecial0": "superconductor",
+    "CardSpecial1": "chainlightning",
+    "PackClass": "Mage",
+    "PackID": "tempest",
+    "PackName": "Tempest",
+    "PerkList": [
+        "mainperkspark0",
+        "mainperkwet0",
+        "mainperkwet1a",
+        "mainperkwet1b"
+    ],
+    "RequiredClass": ""
+}

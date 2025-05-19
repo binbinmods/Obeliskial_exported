@@ -1,0 +1,20 @@
+{
+    "Card0": "huntersmark",
+    "Card1": "camouflage",
+    "Card2": "findweakness",
+    "Card3": "ricochet",
+    "Card4": "shrapnelshot",
+    "Card5": "multishot",
+    "CardSpecial0": "farshot",
+    "CardSpecial1": "volley",
+    "PackClass": "Scout",
+    "PackID": "hunter",
+    "PackName": "Hunter",
+    "PerkList": [
+        "mainperkmark0",
+        "mainperkpiercing1",
+        "mainperkvulnerable0a",
+        "mainperkvulnerable0c"
+    ],
+    "RequiredClass": ""
+}

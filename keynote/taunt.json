@@ -1,0 +1,6 @@
+{
+    "Description": "<w>Become the target</w> of all hostile opponent cards.",
+    "DescriptionExtended": "<w>Become the target</w> of all hostile opponent cards.<br3>Remove 1 charge at the <w>start of the turn</w>.",
+    "ID": "taunt",
+    "KeynoteName": "Taunt"
+}

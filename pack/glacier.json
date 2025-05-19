@@ -1,0 +1,20 @@
+{
+    "Card0": "icyveins",
+    "Card1": "icebarrier",
+    "Card2": "icicle",
+    "Card3": "frostnova",
+    "Card4": "rayoffrost",
+    "Card5": "iciclebarrage",
+    "CardSpecial0": "winterorb",
+    "CardSpecial1": "coldsnap",
+    "PackClass": "Mage",
+    "PackID": "glacier",
+    "PackName": "Glacier",
+    "PerkList": [
+        "mainperkchill0",
+        "mainperkchill2d",
+        "mainperkblock5",
+        "mainperkreinforce0"
+    ],
+    "RequiredClass": ""
+}

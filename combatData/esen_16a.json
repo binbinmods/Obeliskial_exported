@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Senenthia_Tarde",
+    "CombatEffect": [],
+    "CombatID": "esen_16a",
+    "CombatMusic": "19_Traveler - Alexander Nakarada",
+    "CombatTier": "T2",
+    "Description": "4 explosivos",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "volatileimp",
+        "volatileimp",
+        "volatileimp",
+        "volatileimp"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T0",
+    "IsRift": false
+}

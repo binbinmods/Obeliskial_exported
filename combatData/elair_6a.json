@@ -1,0 +1,24 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Spider_Lair",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"burn\",\n    \"AuraCurseCharges\": 10,\n    \"AuraCurseTarget\": \"Monsters\"\n}",
+        "{\n    \"AuraCurse\": \"poison\",\n    \"AuraCurseCharges\": 3,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "elair_6a",
+    "CombatMusic": "5_Alexander Nakarada - Explorer",
+    "CombatTier": "T3",
+    "Description": "hatcheri  fuego",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "hatchling",
+        "spider",
+        "pendulum",
+        "herder"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

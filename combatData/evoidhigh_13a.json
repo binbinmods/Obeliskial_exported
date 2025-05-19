@@ -1,0 +1,21 @@
+{
+    "CinematicData": "hanshekkill",
+    "CombatBackground": "Void_Boss",
+    "CombatEffect": [],
+    "CombatID": "evoidhigh_13a",
+    "CombatMusic": "17_Alexander Nakarada - The Crown",
+    "CombatTier": "T13",
+    "Description": "lord hanshek",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "",
+        "",
+        "lordhanshek",
+        ""
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "",
+    "IsRift": false
+}

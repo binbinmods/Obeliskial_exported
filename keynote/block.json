@@ -1,0 +1,6 @@
+{
+    "Description": "Prevents <g>1 damage per charge</g>.",
+    "DescriptionExtended": "Prevents <g>1 damage per charge</g>.<br3>Remove all charges at the <w>end of the round</w>. Can't be purged unless specified.",
+    "ID": "block",
+    "KeynoteName": "Block"
+}

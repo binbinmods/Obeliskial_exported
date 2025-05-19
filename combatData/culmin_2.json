@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Ulminin_Primero",
+    "CombatEffect": [],
+    "CombatID": "culmin_2",
+    "CombatMusic": "14_Nomadic+Sunset - Alexander Nakarada",
+    "CombatTier": "T3",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "fennec_c",
+        "fennec_a",
+        "bladebeetle",
+        "explorer"
+    ],
+    "NPCRemoveInMadness0Index": 0,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

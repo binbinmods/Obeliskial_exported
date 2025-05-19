@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Velkarath_Lava2",
+    "CombatEffect": [],
+    "CombatID": "evelka_8b",
+    "CombatMusic": "16_Nowhere Land - Alexander Nakarada",
+    "CombatTier": "T3",
+    "Description": "imp revenge",
+    "EventData": "e_velka8_b2",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "ravager",
+        "firebrander_a",
+        "evoker_a",
+        ""
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

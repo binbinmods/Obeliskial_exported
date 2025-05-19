@@ -1,0 +1,18 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Velkarath_Arena",
+    "CombatEffect": [],
+    "CombatID": "challenge_coliseum",
+    "CombatMusic": "22_Alexander Nakarada - The Wandering King",
+    "CombatTier": "T3",
+    "Description": "arena  campeon",
+    "EventData": "e_challengehigh_coliseumb",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "astarios_b"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T4",
+    "IsRift": false
+}

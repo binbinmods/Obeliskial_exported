@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Sahti_ShipCloudyStorm",
+    "CombatEffect": [],
+    "CombatID": "csahti_29",
+    "CombatMusic": "Alexander Nakarada - Now We Ride",
+    "CombatTier": "T3",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "lookout",
+        "buccanner",
+        "pirate",
+        "captain"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

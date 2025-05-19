@@ -1,0 +1,6 @@
+{
+    "Description": "Damage and heal<y> +20% per charge</y>.<br3><b>Cannot be targeted directly by enemies</b>.",
+    "DescriptionExtended": "Damage and heal<y> +20% per charge</y>.<br3><b>Cannot be targeted directly by enemies</b>.<br3><w>Remove all charges</w> after playing a card.<br3>Remove 1 charge at the <w>start of the turn</w>.",
+    "ID": "stealth",
+    "KeynoteName": "Stealth"
+}

@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 16,
+    "SkinGO": "laiaSkinMedium",
+    "SkinID": "paladinmedium",
+    "SkinName": "Zealot",
+    "SkinOrder": 1,
+    "SkinSubclass": "paladin",
+    "Sku": "",
+    "SpritePortrait": "laiaPortraitMedium",
+    "SpritePortraitGrande": "laiaPortraitMediumGrande",
+    "SpriteSilueta": "laiaSiluetaMedium",
+    "SpriteSiluetaGrande": "laiaSiluetaMediumGrande",
+    "SteamStat": ""
+}

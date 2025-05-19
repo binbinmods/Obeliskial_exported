@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "heinerRegularCardback",
+    "CardbackName": "Sentinel",
+    "CardbackOrder": 1,
+    "CardbackSprite": "CartaHeiner",
+    "CardbackSubclass": "sentinel",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 8,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

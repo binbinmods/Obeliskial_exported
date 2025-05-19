@@ -1,0 +1,6 @@
+{
+    "Description": "<hol>Holy</hol>, <sha>Shadow</sha>, and <min>Mind</min> resistances <g>+30%</g>.",
+    "DescriptionExtended": "<hol>Holy</hol>, <sha>Shadow</sha>, and <min>Mind</min> resistances <g>+30%</g>.<br3>Remove 1 charge at the <w>start of the turn</w>.",
+    "ID": "courage",
+    "KeynoteName": "Courage"
+}

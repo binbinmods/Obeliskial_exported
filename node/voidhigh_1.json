@@ -1,0 +1,33 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "cvoidhigh_1"
+    ],
+    "NodeCombatTier": "T12",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "HolyGround",
+    "NodeId": "voidhigh_1",
+    "NodeName": "Ruins",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "voidhigh_3"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Voidhigh",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Ruins"
+}

@@ -1,0 +1,20 @@
+{
+    "DefaultPercentEpic": 0.0,
+    "DefaultPercentMythic": 0.0,
+    "DefaultPercentRare": 0.0,
+    "DefaultPercentUncommon": 50.0,
+    "GoldQuantity": 0,
+    "ID": "werewolfstall_b",
+    "LootItemTable": [
+        "{\n    \"LootCard\": \"brigandarmor\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"lostmail\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"\",\n    \"LootPercent\": 60.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Uncommon\",\n    \"LootType\": \"None\"\n}"
+    ],
+    "NumItems": 8,
+    "ShadyModel": "wrangerRedesign",
+    "ShadyScaleX": 0.8700000047683716,
+    "ShadyScaleY": 0.949999988079071,
+    "ShadyOffsetX": -0.10000000149011612,
+    "ShadyOffsetY": 0.0
+}

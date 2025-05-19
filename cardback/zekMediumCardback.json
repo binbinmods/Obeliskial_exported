@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "zekMediumCardback",
+    "CardbackName": "Shadowmancer",
+    "CardbackOrder": 2,
+    "CardbackSprite": "CartaZekMedium",
+    "CardbackSubclass": "warlock",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 24,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

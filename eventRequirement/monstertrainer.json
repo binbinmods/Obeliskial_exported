@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "A girl asked you to bring this egg to Bash, somewhere in the upper ruins.",
+    "ItemSprite": "",
+    "RequirementID": "monstertrainer",
+    "RequirementName": "Deliver the egg to Bash",
+    "RequirementTrack": true,
+    "TrackSprite": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "None"
+}

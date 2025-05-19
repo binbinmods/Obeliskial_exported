@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Velkarath_Lava2",
+    "CombatEffect": [],
+    "CombatID": "evelka_25b",
+    "CombatMusic": "9_Alexander Nakarada - Dawn",
+    "CombatTier": "T4",
+    "Description": "jefe secta",
+    "EventData": "e_velka25_c",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "fiend",
+        "",
+        "",
+        "erekhal"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T3",
+    "IsRift": false
+}

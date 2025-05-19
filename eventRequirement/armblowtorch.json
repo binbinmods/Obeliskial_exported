@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "A mechanical part that you can install on the robot as an arm.",
+    "ItemSprite": "eventArm",
+    "RequirementID": "armblowtorch",
+    "RequirementName": "Robot Arm",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

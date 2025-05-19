@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": true,
+    "Description": "",
+    "ItemSprite": "",
+    "RequirementID": "boatcenter",
+    "RequirementName": "",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "None"
+}

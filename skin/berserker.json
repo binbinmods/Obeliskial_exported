@@ -1,0 +1,15 @@
+{
+    "BaseSkin": true,
+    "PerkLevel": 0,
+    "SkinGO": "grukliSkinRegular",
+    "SkinID": "berserker",
+    "SkinName": "Berserker",
+    "SkinOrder": 0,
+    "SkinSubclass": "berserker",
+    "Sku": "",
+    "SpritePortrait": "grukliportrait",
+    "SpritePortraitGrande": "grukliportraitGrande",
+    "SpriteSilueta": "gruklisilueta",
+    "SpriteSiluetaGrande": "gruklisiluetaGrande",
+    "SteamStat": ""
+}

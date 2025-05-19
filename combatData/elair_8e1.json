@@ -1,0 +1,25 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Spider_Lair",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"bleed\",\n    \"AuraCurseCharges\": 10,\n    \"AuraCurseTarget\": \"Monster2\"\n}",
+        "{\n    \"AuraCurse\": \"powerful\",\n    \"AuraCurseCharges\": 4,\n    \"AuraCurseTarget\": \"Heroes\"\n}",
+        "{\n    \"AuraCurse\": \"poison\",\n    \"AuraCurseCharges\": 4,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "elair_8e1",
+    "CombatMusic": "20_Until+the+End - Alexander Nakarada",
+    "CombatTier": "T4",
+    "Description": "queen -fall",
+    "EventData": "e_lair8_b",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "",
+        "spider",
+        "herder",
+        "tulah"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T4",
+    "IsRift": false
+}

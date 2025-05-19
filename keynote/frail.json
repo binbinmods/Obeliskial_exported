@@ -1,0 +1,6 @@
+{
+    "Description": "Block charge gains are <r>reduced by 50%</r>.",
+    "DescriptionExtended": "Block charge gains are <r>reduced by 50%</r>.<br3>Remove 1 charge at the <w>end of the turn</w>.",
+    "ID": "frail",
+    "KeynoteName": "Frail"
+}

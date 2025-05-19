@@ -1,0 +1,43 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_sen6_a1",
+        "e_sen6_b"
+    ],
+    "NodeEventPercent": [
+        70,
+        30
+    ],
+    "NodeEventPriority": [
+        0,
+        0
+    ],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "sen_6",
+    "NodeName": "Main Road",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "sen_10",
+        "sen_9"
+    ],
+    "NodesConnectedRequirement": [
+        "{\n    \"NodeData\": \"sen_9\",\n    \"ConnectionRequirement\": \"sheeplost\",\n    \"ConnectionIfNotNode\": \"\"\n}"
+    ],
+    "NodeZone": "Senenthia",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Main Road"
+}

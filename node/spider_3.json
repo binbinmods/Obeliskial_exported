@@ -1,0 +1,33 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "clair_3"
+    ],
+    "NodeCombatTier": "T4",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "PoisonousAir",
+    "NodeId": "spider_3",
+    "NodeName": "Cave Passage",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "spider_4"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Spiderlair",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Cave Passage"
+}

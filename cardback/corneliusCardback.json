@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": true,
+    "CardbackID": "corneliusCardback",
+    "CardbackName": "Default",
+    "CardbackOrder": 1000,
+    "CardbackSprite": "CardBackMage",
+    "CardbackSubclass": "pyromancer",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 0,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

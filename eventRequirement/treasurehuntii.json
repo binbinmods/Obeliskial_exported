@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "The map leads to the treasure, but only if you remember the place the map showed.",
+    "ItemSprite": "",
+    "RequirementID": "treasurehuntii",
+    "RequirementName": "Treasure Hunt II",
+    "RequirementTrack": true,
+    "TrackSprite": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "Aquarfall"
+}

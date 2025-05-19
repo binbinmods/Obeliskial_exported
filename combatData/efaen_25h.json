@@ -1,0 +1,24 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Faeborg_Costa",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"dark\",\n    \"AuraCurseCharges\": 5,\n    \"AuraCurseTarget\": \"Monsters\"\n}",
+        "{\n    \"AuraCurse\": \"weak\",\n    \"AuraCurseCharges\": 2,\n    \"AuraCurseTarget\": \"Monsters\"\n}"
+    ],
+    "CombatID": "efaen_25h",
+    "CombatMusic": "Dragonquest - 320bit",
+    "CombatTier": "T4",
+    "Description": "combat tyran zek",
+    "EventData": "e_faen25_b",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "fisher",
+        "forecaster",
+        "ursur",
+        ""
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T3",
+    "IsRift": false
+}

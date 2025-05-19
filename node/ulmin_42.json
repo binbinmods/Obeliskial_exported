@@ -1,0 +1,34 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "culmin_42"
+    ],
+    "NodeCombatTier": "T4",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "Graveyard",
+    "NodeId": "ulmin_42",
+    "NodeName": "Hall",
+    "NodeRequirement": "ulminindown",
+    "NodesConnected": [
+        "ulmin_44",
+        "ulmin_45"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Ulminin",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Hall"
+}

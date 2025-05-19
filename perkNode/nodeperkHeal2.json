@@ -1,0 +1,13 @@
+{
+    "Column": 10,
+    "Cost": "PerkCostAdvanced",
+    "ID": "nodeperkHeal2",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "mainperkheal2",
+    "PerkRequired": "nodeperkHeal1",
+    "PerksConnected": [],
+    "Row": 2,
+    "Sprite": "heal",
+    "Type": 3
+}

@@ -1,0 +1,20 @@
+{
+    "Card0": "toxicrain",
+    "Card1": "viperstrike",
+    "Card2": "poisoneddaggers",
+    "Card3": "bane",
+    "Card4": "toxicstrike",
+    "Card5": "oxidant",
+    "CardSpecial0": "poisoncatalyst",
+    "CardSpecial1": "poisonflask",
+    "PackClass": "Scout",
+    "PackID": "poisoner",
+    "PackName": "Poisoner",
+    "PerkList": [
+        "mainperkpoison1",
+        "mainperkpoison2b",
+        "mainperkpoison2c",
+        "mainperkslashing0"
+    ],
+    "RequiredClass": ""
+}

@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "defaultCardback",
+    "CardbackName": "DefaultCardback",
+    "CardbackOrder": 0,
+    "CardbackSprite": "CardBackMonster",
+    "CardbackSubclass": "",
+    "Locked": true,
+    "ObeliskLevel": 0,
+    "RankLevel": 0,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

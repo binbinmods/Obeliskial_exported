@@ -1,0 +1,24 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Senenthia_Bosque",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"fast\",\n    \"AuraCurseCharges\": 4,\n    \"AuraCurseTarget\": \"Monster3\"\n}",
+        "{\n    \"AuraCurse\": \"burn\",\n    \"AuraCurseCharges\": 2,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "esen_31b",
+    "CombatMusic": "9_Alexander Nakarada - Dawn",
+    "CombatTier": "T2",
+    "Description": "la driada se cabrea",
+    "EventData": "e_sen31_b",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "",
+        "",
+        "",
+        "elderdryad"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T3",
+    "IsRift": false
+}

@@ -1,0 +1,6 @@
+{
+    "Description": "<min>Mind damage</min>  <y>+2</y>.<br3>At the <w>end of the turn</w> gain <b>1 Energize</b> and <b>Stanza III</b>.<br3>Can't be purged.",
+    "DescriptionExtended": "<min>Mind damage</min>  <y>+2</y>.<br3>At the <w>end of the turn</w> gain <b>1 Energize</b> and <b>Stanza III</b>, then remove Stanza II.<br3>Also counts as Stanza I. Can't be purged.",
+    "ID": "stanzaii",
+    "KeynoteName": "Stanza II"
+}

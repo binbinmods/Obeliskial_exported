@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": true,
+    "Description": "",
+    "ItemSprite": "",
+    "RequirementID": "voidsouthpass",
+    "RequirementName": "",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "None"
+}

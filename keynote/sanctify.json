@@ -1,0 +1,6 @@
+{
+    "Description": "<w>Holy resistance</w> <y>-1% per charge</y>.<br3>The attacker heals<g> 1 HP per charge</g> when the <w>target is hit</w> by an enemy.",
+    "DescriptionExtended": "<w>Holy resistance</w> <y>-1% per charge</y>.<br3>The attacker heals<g> 1 HP per charge</g> when the <w>target is hit</w> by an enemy. Remove 1 charge when this happens.",
+    "ID": "sanctify",
+    "KeynoteName": "Sanctify"
+}

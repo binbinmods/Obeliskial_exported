@@ -1,0 +1,15 @@
+{
+    "Card0": "twinscrollsstart",
+    "Card1": "electricdischarge",
+    "Card2": "waterjet",
+    "Card3": "zap",
+    "Card4": "mirrorimages",
+    "Card5": "",
+    "CardSpecial0": "",
+    "CardSpecial1": "",
+    "PackClass": "Mage",
+    "PackID": "wilbur",
+    "PackName": "Wilbur",
+    "PerkList": [],
+    "RequiredClass": "loremaster"
+}

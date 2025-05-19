@@ -1,0 +1,21 @@
+{
+    "DefaultPercentEpic": 0.0,
+    "DefaultPercentMythic": 0.0,
+    "DefaultPercentRare": 30.0,
+    "DefaultPercentUncommon": 70.0,
+    "GoldQuantity": 75,
+    "ID": "elvenemporium",
+    "LootItemTable": [
+        "{\n    \"LootCard\": \"\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Jewelry\"\n}",
+        "{\n    \"LootCard\": \"glacialhammer\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"iceorb\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"coldrune\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Armor\"\n}"
+    ],
+    "NumItems": 8,
+    "ShadyModel": "elfoguerrero",
+    "ShadyScaleX": 0.9599999785423279,
+    "ShadyScaleY": 0.9599999785423279,
+    "ShadyOffsetX": -0.05000000074505806,
+    "ShadyOffsetY": 0.0
+}

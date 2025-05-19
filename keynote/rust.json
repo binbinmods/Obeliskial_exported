@@ -1,0 +1,6 @@
+{
+    "Description": "<w>Increases the effect</w> of Crack, Poison and Slow by <y>50%</y>.<br3><w>Reduces the effect</w> of Fast, Sharp and Wet by <y>50%</y>.<br3>Prevents<g>  1  </g><y>Reinforce per charge</y>, remove 1 charge when this happens.<br3><w>Removes <b>Reinforce</b> from the target when applied.</w><br3>Remove 1 charge at the <w>end of the turn</w>.",
+    "DescriptionExtended": "<w>Increases the effect</w> of Crack, Poison and Slow by <y>50%</y>.<br3><w>Reduces the effect</w> of Fast, Sharp and Wet by <y>50%</y>.<br3>Prevents<g>  1  </g><y>Reinforce per charge</y>, remove 1 charge when this happens.<br3><w>Removes <b>Reinforce</b> from the target when applied.</w><br3>Remove 1 charge at the <w>end of the turn</w>.",
+    "ID": "rust",
+    "KeynoteName": "Rust"
+}

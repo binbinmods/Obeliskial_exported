@@ -1,0 +1,13 @@
+{
+    "Column": 7,
+    "Cost": "PerkCostBase",
+    "ID": "nodeperkEnergy0",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "mainperkenergy0",
+    "PerkRequired": "",
+    "PerksConnected": [],
+    "Row": 2,
+    "Sprite": "energy",
+    "Type": 0
+}

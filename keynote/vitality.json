@@ -1,0 +1,6 @@
+{
+    "Description": "HP and max HP<y>  +5 per charge</y>.",
+    "DescriptionExtended": "HP and max HP<y>  +5 per charge</y>.<br3>Remove 1 charge at the <w>start of the turn</w>.",
+    "ID": "vitality",
+    "KeynoteName": "Vitality"
+}

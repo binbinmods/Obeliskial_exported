@@ -1,0 +1,6 @@
+{
+    "Description": "<blu>Blunt damage</blu> taken <y>+1 per charge</y>.",
+    "DescriptionExtended": "<blu>Blunt damage</blu> taken <y>+1 per charge</y>.<br3>Remove 1 charge at the <w>start of the turn</w>.",
+    "ID": "crack",
+    "KeynoteName": "Crack"
+}

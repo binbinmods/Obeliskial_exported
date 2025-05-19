@@ -1,0 +1,23 @@
+{
+    "AdditionalCurrency": 0,
+    "AdditionalShards": 0,
+    "AuraCurseBonus": "",
+    "AuraCurseBonusValue": 0,
+    "CardClass": "Warrior",
+    "CustomDescription": "",
+    "DamageFlatBonus": "Piercing",
+    "DamageFlatBonusValue": 1,
+    "EnergyBegin": 0,
+    "HealQuantity": 0,
+    "Icon": "piercing",
+    "IconTextValue": "+1",
+    "ID": "warrior3e",
+    "Level": 6,
+    "MainPerk": false,
+    "MaxHealth": 0,
+    "ObeliskPerk": false,
+    "ResistModified": "None",
+    "ResistModifiedValue": 0,
+    "Row": 5,
+    "SpeedQuantity": 0
+}

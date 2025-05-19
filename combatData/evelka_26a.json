@@ -1,0 +1,23 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Velkarath_Lava1",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"burn\",\n    \"AuraCurseCharges\": 30,\n    \"AuraCurseTarget\": \"Monsters\"\n}"
+    ],
+    "CombatID": "evelka_26a",
+    "CombatMusic": "2_Adventure - Alexander Nakarada",
+    "CombatTier": "T4",
+    "Description": "ayudas a lava",
+    "EventData": "e_velka26_a2",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "obsidianelemental",
+        "obsidianelemental",
+        "stoneelemental",
+        "stoneelemental"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T3",
+    "IsRift": false
+}

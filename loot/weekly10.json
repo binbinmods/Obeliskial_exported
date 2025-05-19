@@ -1,0 +1,20 @@
+{
+    "DefaultPercentEpic": 0.0,
+    "DefaultPercentMythic": 0.0,
+    "DefaultPercentRare": 20.0,
+    "DefaultPercentUncommon": 40.0,
+    "GoldQuantity": 50,
+    "ID": "weekly10",
+    "LootItemTable": [
+        "{\n    \"LootCard\": \"bucket\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Uncommon\",\n    \"LootType\": \"Weapon\"\n}",
+        "{\n    \"LootCard\": \"thepolluter\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Uncommon\",\n    \"LootType\": \"Armor\"\n}",
+        "{\n    \"LootCard\": \"sharpscimitar\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Uncommon\",\n    \"LootType\": \"Armor\"\n}",
+        "{\n    \"LootCard\": \"chumpy\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Uncommon\",\n    \"LootType\": \"Accesory\"\n}"
+    ],
+    "NumItems": 8,
+    "ShadyModel": "",
+    "ShadyScaleX": 1.0,
+    "ShadyScaleY": 1.0,
+    "ShadyOffsetX": 0.0,
+    "ShadyOffsetY": 0.0
+}

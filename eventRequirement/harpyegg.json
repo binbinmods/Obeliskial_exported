@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "A harpy egg, given the right conditions, could even hatch.",
+    "ItemSprite": "eventHarpy",
+    "RequirementID": "harpyegg",
+    "RequirementName": "Harpy Egg",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

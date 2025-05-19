@@ -1,0 +1,23 @@
+{
+    "DefaultPercentEpic": 20.0,
+    "DefaultPercentMythic": 0.0,
+    "DefaultPercentRare": 50.0,
+    "DefaultPercentUncommon": 30.0,
+    "GoldQuantity": 50,
+    "ID": "rift",
+    "LootItemTable": [
+        "{\n    \"LootCard\": \"eldritchsword\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"eldritchring\",\n    \"LootPercent\": 50.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"riftshield\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"eldritchcloak\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"dimensionalcrystal\",\n    \"LootPercent\": 75.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"riftshard\",\n    \"LootPercent\": 50.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"eldritchwand\",\n    \"LootPercent\": 30.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}"
+    ],
+    "NumItems": 6,
+    "ShadyModel": "",
+    "ShadyScaleX": 1.0,
+    "ShadyScaleY": 1.0,
+    "ShadyOffsetX": 0.0,
+    "ShadyOffsetY": 0.0
+}

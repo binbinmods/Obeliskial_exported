@@ -1,0 +1,33 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "csahti_55"
+    ],
+    "NodeCombatTier": "T5",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "DampCavern",
+    "NodeId": "sahti_55",
+    "NodeName": "Wide Grotto",
+    "NodeRequirement": "sahtidown",
+    "NodesConnected": [
+        "sahti_58"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Sahti",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "cave"
+}

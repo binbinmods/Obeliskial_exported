@@ -1,0 +1,6 @@
+{
+    "Description": "",
+    "DescriptionExtended": "The Speed value establish which character moves first. This value can be modified by Auras, Curses, Perks, Items and active effects. In case of a tie, the closest hero to center will have priority, followed by the closest monster to the center.",
+    "ID": "speed",
+    "KeynoteName": "Speed"
+}

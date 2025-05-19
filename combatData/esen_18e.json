@@ -1,0 +1,24 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Senenthia_Tarde",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"powerful\",\n    \"AuraCurseCharges\": 4,\n    \"AuraCurseTarget\": \"Heroes\"\n}",
+        "{\n    \"AuraCurse\": \"sanctify\",\n    \"AuraCurseCharges\": 5,\n    \"AuraCurseTarget\": \"Monsters\"\n}"
+    ],
+    "CombatID": "esen_18e",
+    "CombatMusic": "19_Traveler - Alexander Nakarada",
+    "CombatTier": "T2",
+    "Description": "a wolf in distress",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "",
+        "neophyte",
+        "initiated",
+        "initiated"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

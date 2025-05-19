@@ -1,0 +1,40 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_aquar20_a",
+        "e_aquar20_c"
+    ],
+    "NodeEventPercent": [
+        70,
+        30
+    ],
+    "NodeEventPriority": [
+        0,
+        0
+    ],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "aqua_20",
+    "NodeName": "Main Temple",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "aqua_21"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Aquarfall",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Main Temple"
+}

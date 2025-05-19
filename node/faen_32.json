@@ -1,0 +1,36 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_faen32_a"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "FreezingCold",
+    "NodeId": "faen_32",
+    "NodeName": "House",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "faen_34",
+        "faen_40"
+    ],
+    "NodesConnectedRequirement": [
+        "{\n    \"NodeData\": \"faen_34\",\n    \"ConnectionRequirement\": \"\",\n    \"ConnectionIfNotNode\": \"faen_40\"\n}"
+    ],
+    "NodeZone": "Faeborg",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "House"
+}

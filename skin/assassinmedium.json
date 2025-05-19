@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 16,
+    "SkinGO": "thulsSkinMedium",
+    "SkinID": "assassinmedium",
+    "SkinName": "Rogue",
+    "SkinOrder": 1,
+    "SkinSubclass": "assassin",
+    "Sku": "",
+    "SpritePortrait": "thulsportraitMedium",
+    "SpritePortraitGrande": "thulsportraitGrandeMedium",
+    "SpriteSilueta": "thulssiluetaMedium",
+    "SpriteSiluetaGrande": "thulssiluetaGrandeMedium",
+    "SteamStat": ""
+}

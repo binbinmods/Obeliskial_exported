@@ -1,0 +1,23 @@
+{
+    "AdditionalCurrency": 0,
+    "AdditionalShards": 0,
+    "AuraCurseBonus": "",
+    "AuraCurseBonusValue": 0,
+    "CardClass": "None",
+    "CustomDescription": "customMainperkVulnerable0c",
+    "DamageFlatBonus": "None",
+    "DamageFlatBonusValue": 0,
+    "EnergyBegin": 0,
+    "HealQuantity": 0,
+    "Icon": "vulnerable",
+    "IconTextValue": "+1",
+    "ID": "mainperkvulnerable0c",
+    "Level": 0,
+    "MainPerk": true,
+    "MaxHealth": 0,
+    "ObeliskPerk": false,
+    "ResistModified": "None",
+    "ResistModifiedValue": 0,
+    "Row": 0,
+    "SpeedQuantity": 0
+}

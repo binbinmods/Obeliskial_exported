@@ -1,0 +1,15 @@
+{
+    "Card0": "wingsofheavenstart",
+    "Card1": "chargedlunge",
+    "Card2": "thunderbolt",
+    "Card3": "captivatingvoice",
+    "Card4": "rain",
+    "Card5": "",
+    "CardSpecial0": "",
+    "CardSpecial1": "",
+    "PackClass": "Mage",
+    "PackID": "sigrun",
+    "PackName": "Sigrun",
+    "PerkList": [],
+    "RequiredClass": "valkyrie"
+}

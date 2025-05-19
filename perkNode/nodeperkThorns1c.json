@@ -1,0 +1,13 @@
+{
+    "Column": 6,
+    "Cost": "PerkCostAdvanced",
+    "ID": "nodeperkThorns1c",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "mainperkthorns1c",
+    "PerkRequired": "nodeperkThorns0",
+    "PerksConnected": [],
+    "Row": 6,
+    "Sprite": "poison",
+    "Type": 1
+}

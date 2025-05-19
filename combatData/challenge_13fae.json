@@ -1,0 +1,20 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Faeborg_Boss",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"chill\",\n    \"AuraCurseCharges\": 12,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "challenge_13fae",
+    "CombatMusic": "Lord of the Riffs",
+    "CombatTier": "T0",
+    "Description": "boss final faeborg",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "faeborg_o"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T4",
+    "IsRift": false
+}

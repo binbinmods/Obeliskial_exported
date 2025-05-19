@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "A shiny stone you stole from an elder dryad in the Senenthia Forest.",
+    "ItemSprite": "eventMoonstone",
+    "RequirementID": "moonstone",
+    "RequirementName": "Moonstone",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Velkarath_Lava1",
+    "CombatEffect": [],
+    "CombatID": "cvelka_3",
+    "CombatMusic": "Valley of the Sun - 320bit",
+    "CombatTier": "T3",
+    "Description": "goblins main",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "brute",
+        "raider",
+        "bombardier",
+        "bombardier"
+    ],
+    "NPCRemoveInMadness0Index": 3,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

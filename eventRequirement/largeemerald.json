@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "You found this emerald in a secret compartment. It is very valuable.",
+    "ItemSprite": "eventEmerald",
+    "RequirementID": "largeemerald",
+    "RequirementName": "Large Emerald",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "Timothy has told you that if you see his master, to tell him that he has returned to the workshop.",
+    "ItemSprite": "",
+    "RequirementID": "apprentice",
+    "RequirementName": "Looking for the master",
+    "RequirementTrack": true,
+    "TrackSprite": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "Aquarfall"
+}

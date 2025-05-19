@@ -1,0 +1,24 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Velkarath_Lava2",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"slow\",\n    \"AuraCurseCharges\": 4,\n    \"AuraCurseTarget\": \"Monsters\"\n}",
+        "{\n    \"AuraCurse\": \"weak\",\n    \"AuraCurseCharges\": 3,\n    \"AuraCurseTarget\": \"Monsters\"\n}"
+    ],
+    "CombatID": "evelka_8a",
+    "CombatMusic": "16_Nowhere Land - Alexander Nakarada",
+    "CombatTier": "T3",
+    "Description": "banquete borrachos",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "ravager",
+        "firebrander_a",
+        "evoker_a",
+        "ravager"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

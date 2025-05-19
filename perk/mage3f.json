@@ -1,0 +1,23 @@
+{
+    "AdditionalCurrency": 0,
+    "AdditionalShards": 0,
+    "AuraCurseBonus": "",
+    "AuraCurseBonusValue": 0,
+    "CardClass": "Mage",
+    "CustomDescription": "",
+    "DamageFlatBonus": "Shadow",
+    "DamageFlatBonusValue": 1,
+    "EnergyBegin": 0,
+    "HealQuantity": 0,
+    "Icon": "shadow",
+    "IconTextValue": "+1",
+    "ID": "mage3f",
+    "Level": 3,
+    "MainPerk": false,
+    "MaxHealth": 0,
+    "ObeliskPerk": false,
+    "ResistModified": "None",
+    "ResistModifiedValue": 0,
+    "Row": 6,
+    "SpeedQuantity": 0
+}

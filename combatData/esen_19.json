@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Senenthia_LobosTarde",
+    "CombatEffect": [],
+    "CombatID": "esen_19",
+    "CombatMusic": "Foreverlands - 320bit",
+    "CombatTier": "T1",
+    "Description": "bandidos atacan el grano\n",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "",
+        "warboara",
+        "brigand",
+        "sharpshooter"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

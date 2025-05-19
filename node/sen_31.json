@@ -1,0 +1,40 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_sen31_a",
+        "e_demoend"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [
+        2,
+        0
+    ],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "sen_31",
+    "NodeName": "Forest Glade",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "sen_32",
+        "sen_43"
+    ],
+    "NodesConnectedRequirement": [
+        "{\n    \"NodeData\": \"sen_32\",\n    \"ConnectionRequirement\": \"\",\n    \"ConnectionIfNotNode\": \"sen_43\"\n}"
+    ],
+    "NodeZone": "Senenthia",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Forest Glade"
+}

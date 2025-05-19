@@ -1,0 +1,24 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Velkarath_Lava2",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"stealth\",\n    \"AuraCurseCharges\": 5,\n    \"AuraCurseTarget\": \"Heroes\"\n}",
+        "{\n    \"AuraCurse\": \"fast\",\n    \"AuraCurseCharges\": 3,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "evelka_21b",
+    "CombatMusic": "2_Adventure - Alexander Nakarada",
+    "CombatTier": "T3",
+    "Description": "ambush crit ok",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "ravager",
+        "firebrander_a",
+        "fiend",
+        "pyromancer"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Senenthia_Dia",
+    "CombatEffect": [],
+    "CombatID": "esen_7b",
+    "CombatMusic": "16_Nowhere Land - Alexander Nakarada",
+    "CombatTier": "T0",
+    "Description": "3 wildboars",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "wildboarb",
+        "wildboara",
+        "wildboarb",
+        ""
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T0",
+    "IsRift": false
+}

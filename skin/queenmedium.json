@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 16,
+    "SkinGO": "ameliaSkinMedium",
+    "SkinID": "queenmedium",
+    "SkinName": "Princess",
+    "SkinOrder": 1,
+    "SkinSubclass": "queen",
+    "Sku": "",
+    "SpritePortrait": "ameliaportraitMedium",
+    "SpritePortraitGrande": "ameliaportraitGrandeMedium",
+    "SpriteSilueta": "ameliasiluetaMedium",
+    "SpriteSiluetaGrande": "ameliasiluetaGrandeMedium",
+    "SteamStat": ""
+}

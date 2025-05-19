@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Velkarath_Arena",
+    "CombatEffect": [],
+    "CombatID": "evelka_12a",
+    "CombatMusic": "12_Nomadic+Dawn - Alexander Nakarada",
+    "CombatTier": "T3",
+    "Description": "arena primer combate",
+    "EventData": "e_velka12_a2",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "dragonfly",
+        "dragonfly",
+        "spider",
+        "squirel"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

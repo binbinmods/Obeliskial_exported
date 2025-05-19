@@ -1,0 +1,6 @@
+{
+    "Description": "Damage taken<y> +1 per charge</y>.<br3>Prevents<g>  1  </g><y>Stealth per charge</y>.",
+    "DescriptionExtended": "Damage taken<y> +1 per charge</y>.<br3>Prevents<g>  1  </g><y>Stealth per charge</y>, remove 1 charge when this happens.<br3><w>Removes <b>Stealth</b> from the target when applied.</w><br3>Remove 1 charge at the <w>end of the turn</w>.",
+    "ID": "mark",
+    "KeynoteName": "Mark"
+}

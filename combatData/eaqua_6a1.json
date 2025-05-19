@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Aquarfall_Main",
+    "CombatEffect": [],
+    "CombatID": "eaqua_6a1",
+    "CombatMusic": "5_Alexander Nakarada - Explorer",
+    "CombatTier": "T3",
+    "Description": "combate contra croc leader",
+    "EventData": "e_aquar6_a1",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "",
+        "bruiser",
+        "sawtoothirwin",
+        "sawtooth"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T3",
+    "IsRift": false
+}

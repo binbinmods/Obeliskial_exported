@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "nenukilMediumCardback",
+    "CardbackName": "Mechanic",
+    "CardbackOrder": 2,
+    "CardbackSprite": "CartaNenukilMedium",
+    "CardbackSubclass": "engineer",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 24,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Senenthia_LobosNoche",
+    "CombatEffect": [],
+    "CombatID": "csen_28",
+    "CombatMusic": "12_Nomadic+Dawn - Alexander Nakarada",
+    "CombatTier": "T2",
+    "Description": "warboar warrior rogue shaman",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "warboarb",
+        "brigand",
+        "cutthroat",
+        "shaman"
+    ],
+    "NPCRemoveInMadness0Index": 0,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Senenthia_Tarde",
+    "CombatEffect": [],
+    "CombatID": "csen_10",
+    "CombatMusic": "The Wizard - 320bit",
+    "CombatTier": "T2",
+    "Description": "1 sheep 2 negras 1 farmer",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "sheep",
+        "blacksheep",
+        "sheepshearer",
+        "blacksheep"
+    ],
+    "NPCRemoveInMadness0Index": 3,
+    "ThermometerTierData": "T1",
+    "IsRift": false
+}

@@ -1,0 +1,24 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Aquarfall_Boss",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"fast\",\n    \"AuraCurseCharges\": 10,\n    \"AuraCurseTarget\": \"Monster0\"\n}",
+        "{\n    \"AuraCurse\": \"wet\",\n    \"AuraCurseCharges\": 4,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "challenge_13hydra",
+    "CombatMusic": "Lord of the Riffs",
+    "CombatTier": "T0",
+    "Description": "boss final hydra",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "hydrahatred_o",
+        "hydraarrogance_o",
+        "hydramalice_o",
+        "hydrascorn_o"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T4",
+    "IsRift": false
+}

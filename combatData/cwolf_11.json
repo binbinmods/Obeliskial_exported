@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Wolfwars_Forest",
+    "CombatEffect": [],
+    "CombatID": "cwolf_11",
+    "CombatMusic": "5_Alexander Nakarada - Explorer",
+    "CombatTier": "T0",
+    "Description": "",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "wolf",
+        "savage",
+        "frostfang",
+        "houndmaster"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "",
+    "IsRift": false
+}

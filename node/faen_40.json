@@ -1,0 +1,41 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 75,
+    "ExistsSku": "2325780",
+    "GoToTown": false,
+    "NodeBackgroundImg": "ladder3",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_faen40_a",
+        "e_faen40_b"
+    ],
+    "NodeEventPercent": [
+        50,
+        50
+    ],
+    "NodeEventPriority": [
+        0,
+        0
+    ],
+    "NodeEventTier": "T0",
+    "NodeGround": "FreezingCold",
+    "NodeId": "faen_40",
+    "NodeName": "Ladder",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "faen_34",
+        "faen_28"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Faeborg",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Ladder"
+}

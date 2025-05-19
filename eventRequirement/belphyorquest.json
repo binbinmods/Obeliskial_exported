@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "Belphyor, the Greater Demon, wants you to summon the imps in a place full of cultists.",
+    "ItemSprite": "",
+    "RequirementID": "belphyorquest",
+    "RequirementName": "Revenge of the imps",
+    "RequirementTrack": true,
+    "TrackSprite": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "Velkarath"
+}

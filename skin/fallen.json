@@ -1,0 +1,15 @@
+{
+    "BaseSkin": true,
+    "PerkLevel": 0,
+    "SkinGO": "navaleaSkinBase",
+    "SkinID": "fallen",
+    "SkinName": "Fallen",
+    "SkinOrder": 0,
+    "SkinSubclass": "fallen",
+    "Sku": "",
+    "SpritePortrait": "navaleaPortrait",
+    "SpritePortraitGrande": "navaleaPortraitGrande",
+    "SpriteSilueta": "navaleaSilueta",
+    "SpriteSiluetaGrande": "navaleaSiluetaGrande",
+    "SteamStat": ""
+}

@@ -1,0 +1,37 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "culmin_11"
+    ],
+    "NodeCombatTier": "T3",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "ulmin_11",
+    "NodeName": "Cliff Trail",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "ulmin_17",
+        "ulmin_19",
+        "ulmin_12"
+    ],
+    "NodesConnectedRequirement": [
+        "{\n    \"NodeData\": \"ulmin_19\",\n    \"ConnectionRequirement\": \"\",\n    \"ConnectionIfNotNode\": \"ulmin_12\"\n}"
+    ],
+    "NodeZone": "Ulminin",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Cliff Trail"
+}

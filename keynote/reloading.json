@@ -1,0 +1,6 @@
+{
+    "Description": "Unable to play <b>\"Ranged Attack\"</b> cards.<br3>Remove 1 charge at the <w>end of the turn</w>.<br3>Can't be dispelled or prevented.",
+    "DescriptionExtended": "Unable to play <b>\"Ranged Attack\"</b> cards.<br3>Remove 1 charge at the <w>end of the turn</w>.<br3>Can't be dispelled or prevented.",
+    "ID": "reloading",
+    "KeynoteName": "Reloading"
+}

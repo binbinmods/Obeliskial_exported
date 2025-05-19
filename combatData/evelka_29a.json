@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Velkarath_Cave",
+    "CombatEffect": [],
+    "CombatID": "evelka_29a",
+    "CombatMusic": "5_Alexander Nakarada - Explorer",
+    "CombatTier": "T4",
+    "Description": "interior volcan",
+    "EventData": "e_velka29_a",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "golem",
+        "lavaelemental",
+        "golem",
+        ""
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T3",
+    "IsRift": false
+}

@@ -1,0 +1,13 @@
+{
+    "Column": 9,
+    "Cost": "PerkCostAdvanced",
+    "ID": "nodeperkInspire0a",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "mainperkinspire0a",
+    "PerkRequired": "",
+    "PerksConnected": [],
+    "Row": 6,
+    "Sprite": "inspire",
+    "Type": 2
+}

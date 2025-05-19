@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "This is the horn of Greater Demon Belphyor. Someone may want this powerful item.",
+    "ItemSprite": "eventBelphyor",
+    "RequirementID": "belphyorhorn",
+    "RequirementName": "Belphyor's Horn",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

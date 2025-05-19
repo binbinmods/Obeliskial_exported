@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "Retrieve the sailor's book in the fisherman's hut.",
+    "ItemSprite": "",
+    "RequirementID": "rimeoftheancienti",
+    "RequirementName": "Rime of the Ancient Mariner I",
+    "RequirementTrack": true,
+    "TrackSprite": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "Aquarfall"
+}

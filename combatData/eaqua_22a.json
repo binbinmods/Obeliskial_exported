@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Aquarfall_Main",
+    "CombatEffect": [],
+    "CombatID": "eaqua_22a",
+    "CombatMusic": "2_Adventure - Alexander Nakarada",
+    "CombatTier": "T2",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "dragonfly",
+        "dragonfly",
+        "dragonfly",
+        "dragonfly"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T3",
+    "IsRift": false
+}

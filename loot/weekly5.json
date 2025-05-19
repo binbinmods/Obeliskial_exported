@@ -1,0 +1,21 @@
+{
+    "DefaultPercentEpic": 0.0,
+    "DefaultPercentMythic": 0.0,
+    "DefaultPercentRare": 20.0,
+    "DefaultPercentUncommon": 40.0,
+    "GoldQuantity": 50,
+    "ID": "weekly5",
+    "LootItemTable": [
+        "{\n    \"LootCard\": \"liante\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Uncommon\",\n    \"LootType\": \"Weapon\"\n}",
+        "{\n    \"LootCard\": \"detoxpotion\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Uncommon\",\n    \"LootType\": \"Armor\"\n}",
+        "{\n    \"LootCard\": \"bandages\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Uncommon\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"lifeessence\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Uncommon\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"bell\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Uncommon\",\n    \"LootType\": \"Accesory\"\n}"
+    ],
+    "NumItems": 8,
+    "ShadyModel": "",
+    "ShadyScaleX": 1.0,
+    "ShadyScaleY": 1.0,
+    "ShadyOffsetX": 0.0,
+    "ShadyOffsetY": 0.0
+}

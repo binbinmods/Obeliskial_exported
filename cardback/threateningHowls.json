@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "threateningHowls",
+    "CardbackName": "cardbackThreateningHowls",
+    "CardbackOrder": 90,
+    "CardbackSprite": "CardBackChallengeGorio",
+    "CardbackSubclass": "",
+    "Locked": true,
+    "ObeliskLevel": 0,
+    "RankLevel": 0,
+    "ShowIfLocked": true,
+    "Sku": "",
+    "SteamStat": "challengeYogger"
+}

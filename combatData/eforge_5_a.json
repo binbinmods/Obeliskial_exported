@@ -1,0 +1,27 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Forge_Mid",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"burn\",\n    \"AuraCurseCharges\": 3,\n    \"AuraCurseTarget\": \"Heroes\"\n}",
+        "{\n    \"AuraCurse\": \"vulnerable\",\n    \"AuraCurseCharges\": 5,\n    \"AuraCurseTarget\": \"Monster1\"\n}",
+        "{\n    \"AuraCurse\": \"vulnerable\",\n    \"AuraCurseCharges\": 5,\n    \"AuraCurseTarget\": \"Monster3\"\n}",
+        "{\n    \"AuraCurse\": \"weak\",\n    \"AuraCurseCharges\": 2,\n    \"AuraCurseTarget\": \"Monster1\"\n}",
+        "{\n    \"AuraCurse\": \"weak\",\n    \"AuraCurseCharges\": 2,\n    \"AuraCurseTarget\": \"Monster3\"\n}"
+    ],
+    "CombatID": "eforge_5_a",
+    "CombatMusic": "20_Until+the+End - Alexander Nakarada",
+    "CombatTier": "T3",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "golem",
+        "driller",
+        "golem",
+        "cannoneer"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

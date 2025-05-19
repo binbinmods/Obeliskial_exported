@@ -1,0 +1,6 @@
+{
+    "Description": "Damage done <y>+2 per charge</y>.<br3>Damage taken <y>-1 per charge</y>.<br3>Maximum charges <y>5</y>.<br3>Charges cannot be increased by card effects.",
+    "DescriptionExtended": "Damage done <y>+2 per charge</y>.<br3>Damage taken <y>-1 per charge</y>.<br3>Maximum charges <y>5</y>.<br3>Charges cannot be increased by card effects.",
+    "ID": "spellsword",
+    "KeynoteName": "Spellsword"
+}

@@ -1,0 +1,23 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Velkarath_Lava1",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"slow\",\n    \"AuraCurseCharges\": 3,\n    \"AuraCurseTarget\": \"Monsters\"\n}"
+    ],
+    "CombatID": "evelka_7b",
+    "CombatMusic": "16_Nowhere Land - Alexander Nakarada",
+    "CombatTier": "T3",
+    "Description": "raiders merchant ambushed",
+    "EventData": "e_velka7_c",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "marauder",
+        "raider",
+        "",
+        "raider"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

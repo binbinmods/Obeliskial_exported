@@ -1,0 +1,20 @@
+{
+    "Card0": "setup",
+    "Card1": "findweakness",
+    "Card2": "dualstrike",
+    "Card3": "sneakystrike",
+    "Card4": "backstab",
+    "Card5": "ambush",
+    "CardSpecial0": "adrenaline",
+    "CardSpecial1": "vanish",
+    "PackClass": "Scout",
+    "PackID": "rogue",
+    "PackName": "Rogue",
+    "PerkList": [
+        "mainperkstealth1a",
+        "mainperkstealth0",
+        "mainperkslashing1",
+        "mainperkmark1a"
+    ],
+    "RequiredClass": ""
+}

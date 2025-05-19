@@ -1,0 +1,24 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Velkarath_Lava1",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"vulnerable\",\n    \"AuraCurseCharges\": 5,\n    \"AuraCurseTarget\": \"Monsters\"\n}",
+        "{\n    \"AuraCurse\": \"crack\",\n    \"AuraCurseCharges\": 4,\n    \"AuraCurseTarget\": \"Monsters\"\n}"
+    ],
+    "CombatID": "evelka_26b",
+    "CombatMusic": "2_Adventure - Alexander Nakarada",
+    "CombatTier": "T4",
+    "Description": "ayudas a rock",
+    "EventData": "e_velka26_a2",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "obsidianelemental",
+        "obsidianelemental",
+        "lavaelemental",
+        "lavaelemental"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T3",
+    "IsRift": false
+}

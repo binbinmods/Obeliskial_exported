@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "A gold trophy commemorating your victory in the arena of Velkarath.",
+    "ItemSprite": "eventTrophy",
+    "RequirementID": "goldtrophy",
+    "RequirementName": "Gold Trophy",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

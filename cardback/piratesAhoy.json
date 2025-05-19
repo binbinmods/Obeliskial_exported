@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "piratesAhoy",
+    "CardbackName": "cardbackPiratesAhoy",
+    "CardbackOrder": 160,
+    "CardbackSprite": "CardBackChallengePirates",
+    "CardbackSubclass": "",
+    "Locked": true,
+    "ObeliskLevel": 0,
+    "RankLevel": 0,
+    "ShowIfLocked": true,
+    "Sku": "",
+    "SteamStat": "challengePirates"
+}

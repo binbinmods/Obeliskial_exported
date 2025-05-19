@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "With this merchant VIP card, you will get discounts at various stores.",
+    "ItemSprite": "eventMerchantCard",
+    "RequirementID": "merchantcard",
+    "RequirementName": "Merchant Card",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

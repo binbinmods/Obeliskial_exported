@@ -1,0 +1,23 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Sahti_Kraken",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"spark\",\n    \"AuraCurseCharges\": 3,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "esahti_36a",
+    "CombatMusic": "Dragonquest - 320bit",
+    "CombatTier": "T4",
+    "Description": "combat",
+    "EventData": "e_sahti36_b",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "tentacle",
+        "",
+        "kraken",
+        ""
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T3",
+    "IsRift": false
+}

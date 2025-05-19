@@ -1,0 +1,41 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_velka16_a",
+        "e_velka16_b"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [
+        0,
+        1
+    ],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "velka_16",
+    "NodeName": "Rest Area",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "velka_15",
+        "velka_17",
+        "velka_42"
+    ],
+    "NodesConnectedRequirement": [
+        "{\n    \"NodeData\": \"velka_15\",\n    \"ConnectionRequirement\": \"\",\n    \"ConnectionIfNotNode\": \"velka_42\"\n}"
+    ],
+    "NodeZone": "Velkarath",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Rest Area"
+}

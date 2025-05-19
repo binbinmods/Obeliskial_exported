@@ -1,0 +1,33 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": true,
+    "DisableRandom": true,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "cwolf_7"
+    ],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "wolf_7",
+    "NodeName": "Logged Forest",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "wolf_10"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Wolfwars",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Logged Forest"
+}

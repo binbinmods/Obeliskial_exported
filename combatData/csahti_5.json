@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Sahti_Ship",
+    "CombatEffect": [],
+    "CombatID": "csahti_5",
+    "CombatMusic": "The Wizard - 320bit",
+    "CombatTier": "T3",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "octopus",
+        "octopus",
+        "swordfish",
+        "archerfish"
+    ],
+    "NPCRemoveInMadness0Index": 0,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

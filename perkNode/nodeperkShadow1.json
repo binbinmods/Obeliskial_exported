@@ -1,0 +1,13 @@
+{
+    "Column": 5,
+    "Cost": "PerkCostBase",
+    "ID": "nodeperkShadow1",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "mainperkshadow1",
+    "PerkRequired": "nodeperkShadow0",
+    "PerksConnected": [],
+    "Row": 2,
+    "Sprite": "shadow",
+    "Type": 3
+}

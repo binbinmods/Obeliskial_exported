@@ -1,0 +1,36 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_pyr3_6"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "HolyGround",
+    "NodeId": "pyr_6",
+    "NodeName": "Mural",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "pyr_7",
+        "pyr_12"
+    ],
+    "NodesConnectedRequirement": [
+        "{\n    \"NodeData\": \"pyr_7\",\n    \"ConnectionRequirement\": \"\",\n    \"ConnectionIfNotNode\": \"pyr_12\"\n}"
+    ],
+    "NodeZone": "Pyramid",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Mural"
+}

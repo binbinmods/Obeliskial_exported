@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Void_Stairs",
+    "CombatEffect": [],
+    "CombatID": "evoidlow_5b",
+    "CombatMusic": "Dragonquest - 320bit",
+    "CombatTier": "T10",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "vanguard_dark",
+        "lancer_dark",
+        "gunner_dark",
+        "gunner_dark"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

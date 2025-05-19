@@ -1,0 +1,21 @@
+{
+    "DefaultPercentEpic": 30.0,
+    "DefaultPercentMythic": 0.0,
+    "DefaultPercentRare": 50.0,
+    "DefaultPercentUncommon": 20.0,
+    "GoldQuantity": 75,
+    "ID": "Mansionleftplus",
+    "LootItemTable": [
+        "{\n    \"LootCard\": \"iceorb\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"brasslantern\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"coolingservos\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"razor\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"elvencuirass\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}"
+    ],
+    "NumItems": 8,
+    "ShadyModel": "",
+    "ShadyScaleX": 1.0,
+    "ShadyScaleY": 1.0,
+    "ShadyOffsetX": 0.0,
+    "ShadyOffsetY": 0.0
+}

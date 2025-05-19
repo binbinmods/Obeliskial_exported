@@ -1,0 +1,23 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Sahti_Cavern",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"wet\",\n    \"AuraCurseCharges\": 2,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "esahti_49b",
+    "CombatMusic": "Alexander Nakarada - Dungeons and Dragons",
+    "CombatTier": "T4",
+    "Description": "Dome desert",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "bladebeetle",
+        "scolopendra",
+        "dungbeetle",
+        "scolopendra"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

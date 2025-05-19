@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "A mysterious key with a white ribbon that you found inside the frozen sewers.",
+    "ItemSprite": "eventKeyBlue",
+    "RequirementID": "keynorth",
+    "RequirementName": "Mysterious key",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

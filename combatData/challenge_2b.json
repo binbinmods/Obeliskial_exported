@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Void_StairsClose",
+    "CombatEffect": [],
+    "CombatID": "challenge_2b",
+    "CombatMusic": "16_Nowhere Land - Alexander Nakarada",
+    "CombatTier": "T0",
+    "Description": "Challenge Combat Tier 2 fondo b",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "cornie",
+        "cornie",
+        "cornie",
+        ""
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

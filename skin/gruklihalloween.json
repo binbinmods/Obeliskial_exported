@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "grukliSkinHalloween",
+    "SkinID": "gruklihalloween",
+    "SkinName": "Halloween",
+    "SkinOrder": 50,
+    "SkinSubclass": "berserker",
+    "Sku": "2168960",
+    "SpritePortrait": "grukliportraitHalloween",
+    "SpritePortraitGrande": "grukliportraitGrandeHalloween",
+    "SpriteSilueta": "grukliHalloweensilueta",
+    "SpriteSiluetaGrande": "grukliHalloweensiluetaGrande",
+    "SteamStat": ""
+}

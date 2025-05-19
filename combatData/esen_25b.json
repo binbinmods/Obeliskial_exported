@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Senenthia_BosqueEntrada",
+    "CombatEffect": [],
+    "CombatID": "esen_25b",
+    "CombatMusic": "Enchanted Forest",
+    "CombatTier": "T2",
+    "Description": "les cuentas q has vistoa  ottis",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "brigand",
+        "sharpshooter",
+        "cutthroat",
+        "shaman"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

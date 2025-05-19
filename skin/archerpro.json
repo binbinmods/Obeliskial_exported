@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 32,
+    "SkinGO": "sylvieSkinPro",
+    "SkinID": "archerpro",
+    "SkinName": "Huntress",
+    "SkinOrder": 2,
+    "SkinSubclass": "archer",
+    "Sku": "",
+    "SpritePortrait": "sylvieportraitPro",
+    "SpritePortraitGrande": "sylvieportraitGrandePro",
+    "SpriteSilueta": "sylviesiluetaPro",
+    "SpriteSiluetaGrande": "sylviesiluetaGrandePro",
+    "SteamStat": ""
+}

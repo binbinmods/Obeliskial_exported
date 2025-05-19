@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "bernardRegularCardback",
+    "CardbackName": "Alchemist",
+    "CardbackOrder": 1,
+    "CardbackSprite": "CartaBernard",
+    "CardbackSubclass": "alchemist",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 8,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

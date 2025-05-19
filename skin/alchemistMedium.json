@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 16,
+    "SkinGO": "bernardSkinMedium",
+    "SkinID": "alchemistMedium",
+    "SkinName": "Apothecary",
+    "SkinOrder": 1,
+    "SkinSubclass": "alchemist",
+    "Sku": "",
+    "SpritePortrait": "BernardportraitMedium",
+    "SpritePortraitGrande": "BernardportraitGrandeMedium",
+    "SpriteSilueta": "bernardsiluetaMedium",
+    "SpriteSiluetaGrande": "bernardsiluetaGrandeMedium",
+    "SteamStat": ""
+}

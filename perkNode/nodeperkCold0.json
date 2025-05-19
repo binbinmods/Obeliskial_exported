@@ -1,0 +1,13 @@
+{
+    "Column": 5,
+    "Cost": "PerkCostBase",
+    "ID": "nodeperkCold0",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "mainperkcold0",
+    "PerkRequired": "",
+    "PerksConnected": [],
+    "Row": 0,
+    "Sprite": "cold",
+    "Type": 2
+}

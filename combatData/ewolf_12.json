@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Wolfwars_Forest",
+    "CombatEffect": [],
+    "CombatID": "ewolf_12",
+    "CombatMusic": "19_Traveler - Alexander Nakarada",
+    "CombatTier": "T0",
+    "Description": "",
+    "EventData": "e_wolf12b",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "",
+        "thief",
+        "andrin",
+        "thief"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "",
+    "IsRift": false
+}

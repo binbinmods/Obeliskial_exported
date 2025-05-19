@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": true,
+    "Description": "",
+    "ItemSprite": "",
+    "RequirementID": "voidnorthpass",
+    "RequirementName": "",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "None"
+}

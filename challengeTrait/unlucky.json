@@ -1,0 +1,7 @@
+{
+    "Icon": "dice",
+    "ID": "unlucky",
+    "IsMadnessTrait": true,
+    "Name": "Unlucky",
+    "Order": 2
+}

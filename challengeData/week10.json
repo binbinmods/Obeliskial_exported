@@ -1,0 +1,33 @@
+{
+    "Boss1": "yogger_o",
+    "Boss2": "halfman_o",
+    "BossCombat": "challenge_13rust",
+    "CorruptionList": [
+        "pacifism",
+        "windsofamnesia",
+        "upwind",
+        "heavyweaponry",
+        "subzero",
+        "vigorous",
+        "waterpuddle",
+        "thunderstorm",
+        "chaoticwind"
+    ],
+    "Hero1": "mercenary",
+    "Hero2": "loremaster",
+    "Hero3": "berserker",
+    "Hero4": "cleric",
+    "ID": "week10",
+    "IDSteam": "challengePirates",
+    "Loot": "",
+    "Seed": "Rust4",
+    "Traits": [
+        "icydeluge",
+        "vigorousmonsters",
+        "fastmonsters",
+        "lucky",
+        "elementalmonsters",
+        "doubleboons"
+    ],
+    "Week": 10
+}

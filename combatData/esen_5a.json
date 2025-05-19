@@ -1,0 +1,23 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Senenthia_Dia",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"fast\",\n    \"AuraCurseCharges\": 2,\n    \"AuraCurseTarget\": \"Monsters\"\n}"
+    ],
+    "CombatID": "esen_5a",
+    "CombatMusic": "16_Nowhere Land - Alexander Nakarada",
+    "CombatTier": "T2",
+    "Description": "barker se transforma",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "",
+        "localwerewolfa",
+        "localwerewolfb",
+        "localwerewolfa"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

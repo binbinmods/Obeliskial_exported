@@ -1,0 +1,23 @@
+{
+    "AdditionalCurrency": 0,
+    "AdditionalShards": 0,
+    "AuraCurseBonus": "",
+    "AuraCurseBonusValue": 0,
+    "CardClass": "Mage",
+    "CustomDescription": "",
+    "DamageFlatBonus": "Fire",
+    "DamageFlatBonusValue": 2,
+    "EnergyBegin": 0,
+    "HealQuantity": 0,
+    "Icon": "fire",
+    "IconTextValue": "+2",
+    "ID": "mage5b",
+    "Level": 5,
+    "MainPerk": false,
+    "MaxHealth": 0,
+    "ObeliskPerk": false,
+    "ResistModified": "None",
+    "ResistModifiedValue": 0,
+    "Row": 2,
+    "SpeedQuantity": 0
+}

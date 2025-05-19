@@ -1,0 +1,34 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": true,
+    "DisableRandom": true,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "cwolf_2"
+    ],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "wolf_2",
+    "NodeName": "Forest",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "wolf_4",
+        "wolf_5"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Wolfwars",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Forest"
+}

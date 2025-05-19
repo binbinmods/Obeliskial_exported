@@ -1,0 +1,15 @@
+{
+    "Card0": "eldritchdischargestart",
+    "Card1": "icelance",
+    "Card2": "icicle",
+    "Card3": "icebarrier",
+    "Card4": "frostnova",
+    "Card5": "",
+    "CardSpecial0": "",
+    "CardSpecial1": "",
+    "PackClass": "Mage",
+    "PackID": "amelia",
+    "PackName": "Amelia",
+    "PerkList": [],
+    "RequiredClass": "queen"
+}

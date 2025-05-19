@@ -1,0 +1,20 @@
+{
+    "DefaultPercentEpic": 10.0,
+    "DefaultPercentMythic": 0.0,
+    "DefaultPercentRare": 40.0,
+    "DefaultPercentUncommon": 50.0,
+    "GoldQuantity": 50,
+    "ID": "sahtipiratewarehouse",
+    "LootItemTable": [
+        "{\n    \"LootCard\": \"pirategrog\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"winebottle\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"pancakes\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"mortarandpestle\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"Jewelry\"\n}"
+    ],
+    "NumItems": 4,
+    "ShadyModel": "",
+    "ShadyScaleX": 1.0,
+    "ShadyScaleY": 1.0,
+    "ShadyOffsetX": 0.0,
+    "ShadyOffsetY": 0.0
+}

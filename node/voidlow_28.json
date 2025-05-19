@@ -1,0 +1,34 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 35,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "island7",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_voidlow28_a"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "voidlow_28",
+    "NodeName": "Bridge",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "voidlow_17",
+        "voidlow_20"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Voidlow",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Bridge"
+}

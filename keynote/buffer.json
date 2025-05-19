@@ -1,0 +1,6 @@
+{
+    "Description": "Prevents <g>1</g> <y>Curse per charge</y>.",
+    "DescriptionExtended": "Prevents <g>1</g> <y>Curse per charge</y>. Remove 1 charge when this happens.",
+    "ID": "buffer",
+    "KeynoteName": "Buffer"
+}

@@ -1,0 +1,15 @@
+{
+    "Card0": "vigorousfurystart",
+    "Card1": "precisestrike",
+    "Card2": "intercept",
+    "Card3": "bloodforblood",
+    "Card4": "sharpen",
+    "Card5": "",
+    "CardSpecial0": "",
+    "CardSpecial1": "",
+    "PackClass": "Warrior",
+    "PackID": "grukli",
+    "PackName": "Grukli",
+    "PerkList": [],
+    "RequiredClass": "berserker"
+}

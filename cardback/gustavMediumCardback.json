@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "gustavMediumCardback",
+    "CardbackName": "Skald",
+    "CardbackOrder": 2,
+    "CardbackSprite": "CartaGustavMedium",
+    "CardbackSubclass": "minstrel",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 24,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

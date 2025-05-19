@@ -1,0 +1,37 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_aquar27_b",
+        "e_aquar27_c"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [
+        1,
+        0
+    ],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "aqua_27",
+    "NodeName": "Fisherman's Hut",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "aqua_28"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Aquarfall",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Fisherman's Hut"
+}

@@ -1,0 +1,23 @@
+{
+    "AdditionalCurrency": 0,
+    "AdditionalShards": 0,
+    "AuraCurseBonus": "taunt",
+    "AuraCurseBonusValue": 1,
+    "CardClass": "None",
+    "CustomDescription": "",
+    "DamageFlatBonus": "None",
+    "DamageFlatBonusValue": 0,
+    "EnergyBegin": 0,
+    "HealQuantity": 0,
+    "Icon": "taunt",
+    "IconTextValue": "+1",
+    "ID": "mainperktaunt1a",
+    "Level": 0,
+    "MainPerk": true,
+    "MaxHealth": 0,
+    "ObeliskPerk": false,
+    "ResistModified": "None",
+    "ResistModifiedValue": 0,
+    "Row": 0,
+    "SpeedQuantity": 0
+}

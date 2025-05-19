@@ -1,0 +1,23 @@
+{
+    "AdditionalCurrency": 0,
+    "AdditionalShards": 0,
+    "AuraCurseBonus": "sharp",
+    "AuraCurseBonusValue": 1,
+    "CardClass": "Special",
+    "CustomDescription": "",
+    "DamageFlatBonus": "All",
+    "DamageFlatBonusValue": 2,
+    "EnergyBegin": 0,
+    "HealQuantity": 0,
+    "Icon": "sharp",
+    "IconTextValue": "+1",
+    "ID": "perkcultivatorsco",
+    "Level": 0,
+    "MainPerk": false,
+    "MaxHealth": 0,
+    "ObeliskPerk": false,
+    "ResistModified": "None",
+    "ResistModifiedValue": 0,
+    "Row": 0,
+    "SpeedQuantity": 1
+}

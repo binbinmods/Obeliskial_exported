@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "A mysterious key with a black ribbon that you found inside the Black Forge.",
+    "ItemSprite": "eventKeyRed",
+    "RequirementID": "keyvelkarath",
+    "RequirementName": "Mysterious key",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

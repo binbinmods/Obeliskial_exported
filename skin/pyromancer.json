@@ -1,0 +1,15 @@
+{
+    "BaseSkin": true,
+    "PerkLevel": 0,
+    "SkinGO": "corneliusSkinRegular",
+    "SkinID": "pyromancer",
+    "SkinName": "Pyromancer",
+    "SkinOrder": 0,
+    "SkinSubclass": "pyromancer",
+    "Sku": "",
+    "SpritePortrait": "corneliusportrait",
+    "SpritePortraitGrande": "corneliusportraitGrande",
+    "SpriteSilueta": "corneliussilueta",
+    "SpriteSiluetaGrande": "corneliussiluetaGrande",
+    "SteamStat": ""
+}

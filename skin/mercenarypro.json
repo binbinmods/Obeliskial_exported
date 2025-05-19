@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 32,
+    "SkinGO": "magnusSkinPro",
+    "SkinID": "mercenarypro",
+    "SkinName": "Marauder",
+    "SkinOrder": 2,
+    "SkinSubclass": "mercenary",
+    "Sku": "",
+    "SpritePortrait": "magnusportraitPro",
+    "SpritePortraitGrande": "magnusportraitGrandePro",
+    "SpriteSilueta": "magnussiluetaPro",
+    "SpriteSiluetaGrande": "magnussiluetaGrandePro",
+    "SteamStat": ""
+}

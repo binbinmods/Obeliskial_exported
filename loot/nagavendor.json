@@ -1,0 +1,23 @@
+{
+    "DefaultPercentEpic": 90.0,
+    "DefaultPercentMythic": 0.0,
+    "DefaultPercentRare": 10.0,
+    "DefaultPercentUncommon": 0.0,
+    "GoldQuantity": 75,
+    "ID": "nagavendor",
+    "LootItemTable": [
+        "{\n    \"LootCard\": \"antiquefigurine\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"templeamulet\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"raincoat\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"sharpscimitar\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"mysticstaff\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"lightningrune\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"chargedtrident\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}"
+    ],
+    "NumItems": 8,
+    "ShadyModel": "nagatrident",
+    "ShadyScaleX": 0.8799999952316284,
+    "ShadyScaleY": 0.8799999952316284,
+    "ShadyOffsetX": -0.05000000074505806,
+    "ShadyOffsetY": 0.0
+}

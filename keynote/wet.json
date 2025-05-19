@@ -1,0 +1,6 @@
+{
+    "Description": "<lig>Lightning damage</lig> taken <y>+1 per charge</y>.<br3>Prevents<g>  1  </g><y>Burn per charge</y>.<br3><w>Removes <o>Burn</o> from the target when applied</w>.",
+    "DescriptionExtended": "<lig>Lightning damage</lig> taken <y>+1 per charge</y>.<br3>Prevents<g>  1  </g><y>Burn per charge</y>, remove 1 charge when this happens.<br3><w>Removes <o>Burn</o> from the target</w> when applied.<br3>Remove 1 charge at the <w>end of the turn</w>.",
+    "ID": "wet",
+    "KeynoteName": "Wet"
+}

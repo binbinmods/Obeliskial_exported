@@ -1,0 +1,23 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Senenthia_Bosque",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"fury\",\n    \"AuraCurseCharges\": 8,\n    \"AuraCurseTarget\": \"Monsters\"\n}"
+    ],
+    "CombatID": "esen_30e",
+    "CombatMusic": "16_Nowhere Land - Alexander Nakarada",
+    "CombatTier": "T2",
+    "Description": "Encuentras al hijo del panadero, pero esta rodeado",
+    "EventData": "e_sen30_c",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "trunky",
+        "trunky",
+        "taintedtrunky",
+        "trunky"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

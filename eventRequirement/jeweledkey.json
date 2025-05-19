@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "A small key with a jewel you found inside a grave.",
+    "ItemSprite": "eventJeweledKey",
+    "RequirementID": "jeweledkey",
+    "RequirementName": "Jeweled key",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

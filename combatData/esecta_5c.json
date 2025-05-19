@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Sectarium",
+    "CombatEffect": [],
+    "CombatID": "esecta_5c",
+    "CombatMusic": "Foreverlands - 320bit",
+    "CombatTier": "T1",
+    "Description": "cultistas ritual normal",
+    "EventData": "e_secta5_b",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "firebrander",
+        "firebrander",
+        "evoker",
+        "evoker"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "You made some obsidian ingots in the quarry.",
+    "ItemSprite": "eventObsidianIngots",
+    "RequirementID": "obsidian",
+    "RequirementName": "Obsidian Ingots",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

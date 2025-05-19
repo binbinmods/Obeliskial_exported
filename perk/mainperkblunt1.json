@@ -1,0 +1,23 @@
+{
+    "AdditionalCurrency": 0,
+    "AdditionalShards": 0,
+    "AuraCurseBonus": "",
+    "AuraCurseBonusValue": 0,
+    "CardClass": "None",
+    "CustomDescription": "",
+    "DamageFlatBonus": "Blunt",
+    "DamageFlatBonusValue": 1,
+    "EnergyBegin": 0,
+    "HealQuantity": 0,
+    "Icon": "blunt",
+    "IconTextValue": "+1",
+    "ID": "mainperkblunt1",
+    "Level": 0,
+    "MainPerk": true,
+    "MaxHealth": 0,
+    "ObeliskPerk": false,
+    "ResistModified": "None",
+    "ResistModifiedValue": 0,
+    "Row": 0,
+    "SpeedQuantity": 0
+}

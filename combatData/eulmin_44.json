@@ -1,0 +1,24 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Ulminin_Catacombs",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"dark\",\n    \"AuraCurseCharges\": 2,\n    \"AuraCurseTarget\": \"Hero0\"\n}",
+        "{\n    \"AuraCurse\": \"fast\",\n    \"AuraCurseCharges\": 20,\n    \"AuraCurseTarget\": \"Monsters\"\n}"
+    ],
+    "CombatID": "eulmin_44",
+    "CombatMusic": "14_Nomadic+Sunset - Alexander Nakarada",
+    "CombatTier": "T3",
+    "Description": "scarab fight",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "blackscarab",
+        "blackscarab",
+        "blackscarab",
+        "blackscarab"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

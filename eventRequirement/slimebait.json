@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "The homemade slime bait that you got from the lizardmen.",
+    "ItemSprite": "eventBait",
+    "RequirementID": "slimebait",
+    "RequirementName": "Slime Bait",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

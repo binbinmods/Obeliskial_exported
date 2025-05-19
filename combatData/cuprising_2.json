@@ -1,0 +1,23 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Uprising_LowEnergy",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"burn\",\n    \"AuraCurseCharges\": 3,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "cuprising_2",
+    "CombatMusic": "Untouched Land - 320bit",
+    "CombatTier": "T3",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "obsidiangolem",
+        "drone",
+        "drone",
+        "incinerator"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

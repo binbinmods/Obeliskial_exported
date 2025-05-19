@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "evelynSkinHalloween",
+    "SkinID": "evelynhalloween",
+    "SkinName": "Halloween",
+    "SkinOrder": 50,
+    "SkinSubclass": "elementalist",
+    "Sku": "2168960",
+    "SpritePortrait": "evelynportraitHalloween",
+    "SpritePortraitGrande": "evelynportraitGrandeHalloween",
+    "SpriteSilueta": "evelynHalloweensilueta",
+    "SpriteSiluetaGrande": "evelynHalloweensiluetaGrande",
+    "SteamStat": ""
+}

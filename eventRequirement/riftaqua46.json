@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": true,
+    "Description": "",
+    "ItemSprite": "",
+    "RequirementID": "riftaqua46",
+    "RequirementName": "",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "None"
+}

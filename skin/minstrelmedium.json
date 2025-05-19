@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 16,
+    "SkinGO": "gustavSkinMedium",
+    "SkinID": "minstrelmedium",
+    "SkinName": "Skald",
+    "SkinOrder": 1,
+    "SkinSubclass": "minstrel",
+    "Sku": "",
+    "SpritePortrait": "gustavportraitMedium",
+    "SpritePortraitGrande": "gustavportraitGrandeMedium",
+    "SpriteSilueta": "gustavsiluetaMedium",
+    "SpriteSiluetaGrande": "gustavsiluetaGrandeMedium",
+    "SteamStat": ""
+}

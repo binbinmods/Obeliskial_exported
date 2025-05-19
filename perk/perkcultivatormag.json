@@ -1,0 +1,23 @@
+{
+    "AdditionalCurrency": 0,
+    "AdditionalShards": 0,
+    "AuraCurseBonus": "",
+    "AuraCurseBonusValue": 0,
+    "CardClass": "Special",
+    "CustomDescription": "",
+    "DamageFlatBonus": "All",
+    "DamageFlatBonusValue": 2,
+    "EnergyBegin": 1,
+    "HealQuantity": 0,
+    "Icon": "energy",
+    "IconTextValue": "+1",
+    "ID": "perkcultivatormag",
+    "Level": 0,
+    "MainPerk": false,
+    "MaxHealth": 0,
+    "ObeliskPerk": false,
+    "ResistModified": "All",
+    "ResistModifiedValue": 5,
+    "Row": 0,
+    "SpeedQuantity": 0
+}

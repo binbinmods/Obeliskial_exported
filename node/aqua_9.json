@@ -1,0 +1,50 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_aquar9_a",
+        "e_aquar9_b"
+    ],
+    "NodeEventPercent": [
+        60,
+        40
+    ],
+    "NodeEventPriority": [
+        0,
+        0
+    ],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "aqua_9",
+    "NodeName": "Shore",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "aqua_13",
+        "aqua_17",
+        "aqua_19",
+        "aqua_42",
+        "aqua_44"
+    ],
+    "NodesConnectedRequirement": [
+        "{\n    \"NodeData\": \"aqua_13\",\n    \"ConnectionRequirement\": \"boatdown\",\n    \"ConnectionIfNotNode\": \"\"\n}",
+        "{\n    \"NodeData\": \"aqua_17\",\n    \"ConnectionRequirement\": \"boatdown\",\n    \"ConnectionIfNotNode\": \"\"\n}",
+        "{\n    \"NodeData\": \"aqua_44\",\n    \"ConnectionRequirement\": \"boatdown\",\n    \"ConnectionIfNotNode\": \"\"\n}",
+        "{\n    \"NodeData\": \"aqua_19\",\n    \"ConnectionRequirement\": \"boatrime\",\n    \"ConnectionIfNotNode\": \"aqua_42\"\n}",
+        "{\n    \"NodeData\": \"aqua_42\",\n    \"ConnectionRequirement\": \"boatrime\",\n    \"ConnectionIfNotNode\": \"\"\n}"
+    ],
+    "NodeZone": "Aquarfall",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Shore"
+}

@@ -1,0 +1,6 @@
+{
+    "Description": "Damage done<y> +3% per charge</y>.<br3>At the <w>end of the turn</w> suffer <r>X Bleed</r> (X equals your Fury charges).",
+    "DescriptionExtended": "Damage done<y> +3% per charge</y>.<br3>At the <w>end of the turn</w> suffer <r>X Bleed</r> (X equals your Fury charges), then remove 1 charge.",
+    "ID": "fury",
+    "KeynoteName": "Fury"
+}

@@ -1,0 +1,34 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_voidhigh7_a"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "HolyGround",
+    "NodeId": "voidhigh_7",
+    "NodeName": "Altar",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "voidhigh_9",
+        "voidhigh_15"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Voidhigh",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Altar"
+}

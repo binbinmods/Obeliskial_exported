@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Faeborg_Bosque",
+    "CombatEffect": [],
+    "CombatID": "cfaen_6",
+    "CombatMusic": "Adventure Beyond - 320bit",
+    "CombatTier": "T3",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "sentinel",
+        "squirel",
+        "scrapper",
+        "squirel"
+    ],
+    "NPCRemoveInMadness0Index": 3,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

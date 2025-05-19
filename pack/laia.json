@@ -1,0 +1,15 @@
+{
+    "Card0": "layonpawsstart",
+    "Card1": "holyslashw",
+    "Card2": "prayerofprotection",
+    "Card3": "holynova",
+    "Card4": "innerfire",
+    "Card5": "",
+    "CardSpecial0": "",
+    "CardSpecial1": "",
+    "PackClass": "Healer",
+    "PackID": "laia",
+    "PackName": "Laia",
+    "PerkList": [],
+    "RequiredClass": "paladin"
+}

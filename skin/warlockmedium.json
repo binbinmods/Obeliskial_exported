@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 16,
+    "SkinGO": "zekSkinMedium",
+    "SkinID": "warlockmedium",
+    "SkinName": "Shadowmancer",
+    "SkinOrder": 1,
+    "SkinSubclass": "warlock",
+    "Sku": "",
+    "SpritePortrait": "zekportraitMedium",
+    "SpritePortraitGrande": "zekportraitGrandeMedium",
+    "SpriteSilueta": "zeksiluetaMedium",
+    "SpriteSiluetaGrande": "zeksiluetaGrandeMedium",
+    "SteamStat": ""
+}

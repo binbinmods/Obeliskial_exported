@@ -1,0 +1,13 @@
+{
+    "Column": 11,
+    "Cost": "PerkCostAdvanced",
+    "ID": "nodeperkReinforce0",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "mainperkreinforce0",
+    "PerkRequired": "",
+    "PerksConnected": [],
+    "Row": 2,
+    "Sprite": "reinforce",
+    "Type": 1
+}

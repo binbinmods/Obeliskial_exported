@@ -1,0 +1,18 @@
+{
+    "DefaultPercentEpic": 0.0,
+    "DefaultPercentMythic": 0.0,
+    "DefaultPercentRare": 31.0,
+    "DefaultPercentUncommon": 30.0,
+    "GoldQuantity": 50,
+    "ID": "weeklychristmas",
+    "LootItemTable": [
+        "{\n    \"LootCard\": \"sacredtablet\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Uncommon\",\n    \"LootType\": \"Weapon\"\n}",
+        "{\n    \"LootCard\": \"lavapotion\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Uncommon\",\n    \"LootType\": \"Armor\"\n}"
+    ],
+    "NumItems": 8,
+    "ShadyModel": "",
+    "ShadyScaleX": 1.0,
+    "ShadyScaleY": 1.0,
+    "ShadyOffsetX": 0.0,
+    "ShadyOffsetY": 0.0
+}

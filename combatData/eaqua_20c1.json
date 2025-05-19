@@ -1,0 +1,24 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Aquarfall_Water",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"stealth\",\n    \"AuraCurseCharges\": 3,\n    \"AuraCurseTarget\": \"Heroes\"\n}",
+        "{\n    \"AuraCurse\": \"fast\",\n    \"AuraCurseCharges\": 2,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "eaqua_20c1",
+    "CombatMusic": "Foreverlands - 320bit",
+    "CombatTier": "T4",
+    "Description": "combat",
+    "EventData": "e_aquar20_b",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "warden",
+        "warden",
+        "stormbringer",
+        "siren"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T3",
+    "IsRift": false
+}

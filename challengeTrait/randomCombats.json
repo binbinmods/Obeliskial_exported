@@ -1,0 +1,7 @@
+{
+    "Icon": "dice",
+    "ID": "randomCombats",
+    "IsMadnessTrait": false,
+    "Name": "Random Combats",
+    "Order": 0
+}

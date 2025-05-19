@@ -1,0 +1,20 @@
+{
+    "Card0": "piercinghowl",
+    "Card1": "bloodfeeding",
+    "Card2": "impale",
+    "Card3": "rend",
+    "Card4": "butchering",
+    "Card5": "intimidate",
+    "CardSpecial0": "severartery",
+    "CardSpecial1": "bloodrage",
+    "PackClass": "Warrior",
+    "PackID": "marauder",
+    "PackName": "Marauder",
+    "PerkList": [
+        "mainperkvulnerable0a",
+        "mainperkvulnerable0b",
+        "mainperkbleed2c",
+        "mainperkbleed1"
+    ],
+    "RequiredClass": ""
+}

@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 32,
+    "SkinGO": "andrinSkinPro",
+    "SkinID": "rangerpro",
+    "SkinName": "Reaver",
+    "SkinOrder": 2,
+    "SkinSubclass": "ranger",
+    "Sku": "",
+    "SpritePortrait": "andrinportraitPro",
+    "SpritePortraitGrande": "andrinportraitGrandePro",
+    "SpriteSilueta": "andrinsiluetaPro",
+    "SpriteSiluetaGrande": "andrinsiluetaGrandePro",
+    "SteamStat": ""
+}

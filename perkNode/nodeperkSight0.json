@@ -1,0 +1,13 @@
+{
+    "Column": 8,
+    "Cost": "PerkCostBase",
+    "ID": "nodeperkSight0",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "mainperksight0",
+    "PerkRequired": "",
+    "PerksConnected": [],
+    "Row": 0,
+    "Sprite": "sight",
+    "Type": 0
+}

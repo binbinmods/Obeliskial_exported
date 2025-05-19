@@ -1,0 +1,45 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_sen27_a",
+        "e_sen27_b",
+        "e_sen27_d"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [
+        1,
+        2,
+        0
+    ],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "sen_27",
+    "NodeName": "Bandit Camp",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "sen_33",
+        "sen_38",
+        "sen_45",
+        "sen_46"
+    ],
+    "NodesConnectedRequirement": [
+        "{\n    \"NodeData\": \"sen_33\",\n    \"ConnectionRequirement\": \"\",\n    \"ConnectionIfNotNode\": \"sen_46\"\n}",
+        "{\n    \"NodeData\": \"sen_38\",\n    \"ConnectionRequirement\": \"\",\n    \"ConnectionIfNotNode\": \"sen_46\"\n}"
+    ],
+    "NodeZone": "Senenthia",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Bandit Camp"
+}

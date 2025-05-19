@@ -1,0 +1,13 @@
+{
+    "Column": 6,
+    "Cost": "PerkCostBase",
+    "ID": "nodeperkThorns0",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "mainperkthorns0",
+    "PerkRequired": "",
+    "PerksConnected": [],
+    "Row": 2,
+    "Sprite": "thorns",
+    "Type": 1
+}

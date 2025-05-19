@@ -1,0 +1,24 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Faeborg_Costa",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"stealth\",\n    \"AuraCurseCharges\": 4,\n    \"AuraCurseTarget\": \"Heroes\"\n}",
+        "{\n    \"AuraCurse\": \"fast\",\n    \"AuraCurseCharges\": 1,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "efaen_25d",
+    "CombatMusic": "Dragonquest - 320bit",
+    "CombatTier": "T4",
+    "Description": "combat tyran",
+    "EventData": "e_faen25_b",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "fisher",
+        "forecaster",
+        "ursur",
+        ""
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T3",
+    "IsRift": false
+}

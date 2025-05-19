@@ -1,0 +1,6 @@
+{
+    "Description": "<w>Remove X Curses</w> or those specified.",
+    "DescriptionExtended": "<w>Remove X Curses</w> or those specified. If not specified, the oldest X Curses will be removed (left to right).",
+    "ID": "dispel",
+    "KeynoteName": "Dispel"
+}

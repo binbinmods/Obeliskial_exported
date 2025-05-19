@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Void_Twins",
+    "CombatEffect": [],
+    "CombatID": "challenge_8",
+    "CombatMusic": "17_Alexander Nakarada - The Crown",
+    "CombatTier": "T0",
+    "Description": "Challenge Combat Tier 9 highboss",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "cornie",
+        "cornie",
+        "cornie",
+        ""
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T4",
+    "IsRift": false
+}

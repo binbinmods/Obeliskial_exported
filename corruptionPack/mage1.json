@@ -1,0 +1,33 @@
+{
+    "HighPack": [
+        "superconductorrare",
+        "managemrare",
+        "curseofweaknessrare",
+        "drainliferare",
+        "blizzardrare",
+        "pyroblastrare",
+        "massinvisibilityrare",
+        "balllightningrare",
+        "meteoriterare",
+        "disintegraterare",
+        "theencyclopediarare",
+        "icecometrare"
+    ],
+    "LowPack": [
+        "chainlightningrare",
+        "curseofdecayrare",
+        "managemrare",
+        "replenishmentrare",
+        "flamestrikerare",
+        "wintersnighttalerare",
+        "invisibilityrare",
+        "combustionrare",
+        "darknessfallsrare",
+        "librarianrare",
+        "rayoffrostrare",
+        "scorchingrayrare"
+    ],
+    "PackClass": "Mage",
+    "PackName": "mage1",
+    "PackTier": 1
+}

@@ -1,0 +1,20 @@
+{
+    "Card0": "intercept",
+    "Card1": "repairarmor",
+    "Card2": "guard",
+    "Card3": "shieldbash",
+    "Card4": "steelskin",
+    "Card5": "shieldcharge",
+    "CardSpecial0": "safeguard",
+    "CardSpecial1": "stockade",
+    "PackClass": "Warrior",
+    "PackID": "guardian",
+    "PackName": "Guardian",
+    "PerkList": [
+        "mainperkblock2",
+        "mainperkfortify1b",
+        "mainperkreinforce1c",
+        "mainperkreinforce1b"
+    ],
+    "RequiredClass": ""
+}

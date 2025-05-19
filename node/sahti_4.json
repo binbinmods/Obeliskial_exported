@@ -1,0 +1,37 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_sahti4_a"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "sahti_4",
+    "NodeName": "Military Pier",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "sahti_7",
+        "sahti_8",
+        "sahti_69"
+    ],
+    "NodesConnectedRequirement": [
+        "{\n    \"NodeData\": \"sahti_8\",\n    \"ConnectionRequirement\": \"sahtipolizon\",\n    \"ConnectionIfNotNode\": \"\"\n}"
+    ],
+    "NodeZone": "Sahti",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Village"
+}

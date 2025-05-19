@@ -1,0 +1,15 @@
+{
+    "BaseSkin": true,
+    "PerkLevel": 0,
+    "SkinGO": "magnusSkinRegular",
+    "SkinID": "mercenary",
+    "SkinName": "Mercenary",
+    "SkinOrder": 0,
+    "SkinSubclass": "mercenary",
+    "Sku": "",
+    "SpritePortrait": "magnusportrait",
+    "SpritePortraitGrande": "magnusportraitGrande",
+    "SpriteSilueta": "magnussilueta",
+    "SpriteSiluetaGrande": "magnussiluetaGrande",
+    "SteamStat": ""
+}

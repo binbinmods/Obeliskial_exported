@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 16,
+    "SkinGO": "andrinSkinMedium",
+    "SkinID": "rangermedium",
+    "SkinName": "Explorer",
+    "SkinOrder": 1,
+    "SkinSubclass": "ranger",
+    "Sku": "",
+    "SpritePortrait": "andrinportraitMedium",
+    "SpritePortraitGrande": "andrinportraitGrandeMedium",
+    "SpriteSilueta": "andrinsiluetaMedium",
+    "SpriteSiluetaGrande": "andrinsiluetaGrandeMedium",
+    "SteamStat": ""
+}

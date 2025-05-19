@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Ulminin_Oasis",
+    "CombatEffect": [],
+    "CombatID": "culmin_16",
+    "CombatMusic": "12_Nomadic+Dawn - Alexander Nakarada",
+    "CombatTier": "T3",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "nomad",
+        "rogue",
+        "fennec_c",
+        "enforcer"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

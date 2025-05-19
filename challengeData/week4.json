@@ -1,0 +1,33 @@
+{
+    "Boss1": "ursur_o",
+    "Boss2": "graendor_o",
+    "BossCombat": "challenge_13fae",
+    "CorruptionList": [
+        "bomblottery",
+        "coldfront",
+        "hypotermia",
+        "snowfall",
+        "subzero",
+        "icypuddle",
+        "burningweapons",
+        "armageddon",
+        "lavapuddle"
+    ],
+    "Hero1": "elementalist",
+    "Hero2": "berserker",
+    "Hero3": "warlock",
+    "Hero4": "voodoowitch",
+    "ID": "week4",
+    "IDSteam": "challengeFaeborg",
+    "Loot": "",
+    "Seed": "Faeborgs4",
+    "Traits": [
+        "frostfire",
+        "intensecold",
+        "prosperity",
+        "slowmonsters",
+        "doubleinjuries",
+        "morechampions"
+    ],
+    "Week": 4
+}

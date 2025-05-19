@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "Navalea asks you to search the east for the source of her curse.",
+    "ItemSprite": "",
+    "RequirementID": "fallenquest1",
+    "RequirementName": "Searching for the source",
+    "RequirementTrack": true,
+    "TrackSprite": "quest-fallen",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "Ulminin"
+}

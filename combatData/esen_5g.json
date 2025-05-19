@@ -1,0 +1,23 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Senenthia_Dia",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"wet\",\n    \"AuraCurseCharges\": 4,\n    \"AuraCurseTarget\": \"Monsters\"\n}"
+    ],
+    "CombatID": "esen_5g",
+    "CombatMusic": "16_Nowhere Land - Alexander Nakarada",
+    "CombatTier": "T2",
+    "Description": "evento 4 granjeros, atacas ... habra variantes\nBernard moja a los granjeros",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "sheepshearer",
+        "sheepshearer",
+        "",
+        "farmer"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T1",
+    "IsRift": false
+}

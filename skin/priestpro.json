@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 32,
+    "SkinGO": "ottisSkinPro",
+    "SkinID": "priestpro",
+    "SkinName": "Justicar",
+    "SkinOrder": 2,
+    "SkinSubclass": "priest",
+    "Sku": "",
+    "SpritePortrait": "ottisportraitPro",
+    "SpritePortraitGrande": "ottisportraitGrandePro",
+    "SpriteSilueta": "ottissiluetaPro",
+    "SpriteSiluetaGrande": "ottissiluetaGrandePro",
+    "SteamStat": ""
+}

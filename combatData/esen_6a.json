@@ -1,0 +1,22 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Senenthia_Dia",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"powerful\",\n    \"AuraCurseCharges\": 2,\n    \"AuraCurseTarget\": \"Monsters\"\n}"
+    ],
+    "CombatID": "esen_6a",
+    "CombatMusic": "16_Nowhere Land - Alexander Nakarada",
+    "CombatTier": "T2",
+    "Description": "3 ovejas negras cabreadas\n",
+    "EventData": "e_sen6_a2",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "blacksheep",
+        "blacksheep",
+        "blacksheep"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T1",
+    "IsRift": false
+}

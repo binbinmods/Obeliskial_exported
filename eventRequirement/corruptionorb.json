@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "A strange orb that you used your life force to recharge.",
+    "ItemSprite": "eventOrb",
+    "RequirementID": "corruptionorb",
+    "RequirementName": "Corruption Orb",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

@@ -1,0 +1,20 @@
+{
+    "Card0": "healingrain",
+    "Card1": "dilute",
+    "Card2": "dispelmagic",
+    "Card3": "bindingheal",
+    "Card4": "innervate",
+    "Card5": "renew",
+    "CardSpecial0": "sparkoflife",
+    "CardSpecial1": "chainheal",
+    "PackClass": "Healer",
+    "PackID": "shaman",
+    "PackName": "Shaman",
+    "PerkList": [
+        "mainperkregeneration0",
+        "mainperkregeneration1b",
+        "mainperkregeneration1c",
+        "mainperkwet0"
+    ],
+    "RequiredClass": ""
+}

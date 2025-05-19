@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "You caught this fish in Senenthia Lake. It looks delicious.",
+    "ItemSprite": "eventFish",
+    "RequirementID": "bigfish",
+    "RequirementName": "Big Fish",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

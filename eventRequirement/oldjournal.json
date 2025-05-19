@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "You found this in a cave. Perhaps someone at the Happy Owl Inn knew the owner.",
+    "ItemSprite": "eventOldJournal",
+    "RequirementID": "oldjournal",
+    "RequirementName": "Old Journal",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

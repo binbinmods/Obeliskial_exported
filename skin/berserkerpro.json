@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 32,
+    "SkinGO": "grukliSkinPro",
+    "SkinID": "berserkerpro",
+    "SkinName": "Gladiator",
+    "SkinOrder": 2,
+    "SkinSubclass": "berserker",
+    "Sku": "",
+    "SpritePortrait": "grukliportraitPro",
+    "SpritePortraitGrande": "grukliportraitGrandePro",
+    "SpriteSilueta": "gruklisiluetaPro",
+    "SpriteSiluetaGrande": "gruklisiluetaGrandePro",
+    "SteamStat": ""
+}

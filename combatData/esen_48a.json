@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Senenthia_Tarde",
+    "CombatEffect": [],
+    "CombatID": "esen_48a",
+    "CombatMusic": "Alexander Nakarada -  Anemo",
+    "CombatTier": "T2",
+    "Description": "forest",
+    "EventData": "e_sen48_b",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "",
+        "intruder_easy",
+        "riftling_easy",
+        "riftkeeper_easy"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": true
+}

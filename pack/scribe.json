@@ -1,0 +1,20 @@
+{
+    "Card0": "scrollofintellect",
+    "Card1": "scrollofdefense",
+    "Card2": "scrollofspeed",
+    "Card3": "grimoireofflames",
+    "Card4": "clearinstructions",
+    "Card5": "bookofnightmares",
+    "CardSpecial0": "librarian",
+    "CardSpecial1": "tomeofintellect",
+    "PackClass": "Mage",
+    "PackID": "scribe",
+    "PackName": "Scribe",
+    "PerkList": [
+        "mainperkinspire0a",
+        "mainperkinspire0c",
+        "mainperkinspire0b",
+        "mainperkfast0"
+    ],
+    "RequiredClass": ""
+}

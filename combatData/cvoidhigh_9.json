@@ -1,0 +1,23 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Void_ObeliskClose2",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"sanctify\",\n    \"AuraCurseCharges\": 5,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "cvoidhigh_9",
+    "CombatMusic": "Might & Magic - 320bit",
+    "CombatTier": "T12",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "knight",
+        "dualist",
+        "psychic",
+        "angel"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T3",
+    "IsRift": false
+}

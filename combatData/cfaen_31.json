@@ -1,0 +1,23 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Faeborg_Ciudad",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"chill\",\n    \"AuraCurseCharges\": 8,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "cfaen_31",
+    "CombatMusic": "24_Winter+Night - Alexander Nakarada",
+    "CombatTier": "T4",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "swordman",
+        "draconoid",
+        "archer",
+        "dracomancer"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

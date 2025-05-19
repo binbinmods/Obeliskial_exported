@@ -1,0 +1,23 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Ulminin_Catacombs",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"dark\",\n    \"AuraCurseCharges\": 2,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "culmin_42",
+    "CombatMusic": "Alexander Nakarada - Sunset Fields",
+    "CombatTier": "T3",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "bonewarrior",
+        "bonearcher",
+        "bonearcher",
+        "bonemage"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

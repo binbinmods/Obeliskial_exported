@@ -1,0 +1,24 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Spider_Lair",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"poison\",\n    \"AuraCurseCharges\": 5,\n    \"AuraCurseTarget\": \"Heroes\"\n}",
+        "{\n    \"AuraCurse\": \"slow\",\n    \"AuraCurseCharges\": 3,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "elair_8d2",
+    "CombatMusic": "20_Until+the+End - Alexander Nakarada",
+    "CombatTier": "T4",
+    "Description": "queen - herder antivenom fail",
+    "EventData": "e_lair8_b",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "",
+        "spider",
+        "herder",
+        "tulah"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T4",
+    "IsRift": false
+}

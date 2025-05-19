@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 16,
+    "SkinGO": "sylvieSkinMedium",
+    "SkinID": "archermedium",
+    "SkinName": "Sniper",
+    "SkinOrder": 1,
+    "SkinSubclass": "archer",
+    "Sku": "",
+    "SpritePortrait": "sylvieportraitMedium",
+    "SpritePortraitGrande": "sylvieportraitGrandeMedium",
+    "SpriteSilueta": "sylviesiluetaMedium",
+    "SpriteSiluetaGrande": "sylviesiluetaGrandeMedium",
+    "SteamStat": ""
+}

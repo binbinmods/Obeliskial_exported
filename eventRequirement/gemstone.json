@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "A common gemstone you dug in the quarry.",
+    "ItemSprite": "eventMoonstone",
+    "RequirementID": "gemstone",
+    "RequirementName": "Gemstone",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

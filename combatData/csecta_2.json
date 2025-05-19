@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Sectarium",
+    "CombatEffect": [],
+    "CombatID": "csecta_2",
+    "CombatMusic": "2_Adventure - Alexander Nakarada",
+    "CombatTier": "T2",
+    "Description": "",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "",
+        "fireimp",
+        "initiated",
+        "evoker"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T1",
+    "IsRift": false
+}

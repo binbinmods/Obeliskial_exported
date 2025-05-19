@@ -1,0 +1,20 @@
+{
+    "Card0": "quickshot",
+    "Card1": "ammunitions",
+    "Card2": "camouflage",
+    "Card3": "aimedshot",
+    "Card4": "iceshot",
+    "Card5": "rapidfire",
+    "CardSpecial0": "farshot",
+    "CardSpecial1": "snipershot",
+    "PackClass": "Scout",
+    "PackID": "bowman",
+    "PackName": "Sniper",
+    "PerkList": [
+        "mainperkpiercing2",
+        "mainperksharp1b",
+        "mainperkbleed0",
+        "mainperkenergy2a"
+    ],
+    "RequiredClass": ""
+}

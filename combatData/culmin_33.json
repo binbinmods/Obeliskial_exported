@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Ulminin_Desierto2",
+    "CombatEffect": [],
+    "CombatID": "culmin_33",
+    "CombatMusic": "9_Alexander Nakarada - Dawn",
+    "CombatTier": "T4",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "scolopendra",
+        "reaper",
+        "harbinger",
+        "scolopendra"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

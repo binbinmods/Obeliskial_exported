@@ -1,0 +1,22 @@
+{
+    "DefaultPercentEpic": 85.0,
+    "DefaultPercentMythic": 5.0,
+    "DefaultPercentRare": 10.0,
+    "DefaultPercentUncommon": 0.0,
+    "GoldQuantity": 0,
+    "ID": "exoticshop_tier2",
+    "LootItemTable": [
+        "{\n    \"LootCard\": \"scrollofresurrection\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Weapon\"\n}",
+        "{\n    \"LootCard\": \"\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Armor\"\n}",
+        "{\n    \"LootCard\": \"\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Jewelry\"\n}",
+        "{\n    \"LootCard\": \"\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}"
+    ],
+    "NumItems": 8,
+    "ShadyModel": "wolfwarsBandit",
+    "ShadyScaleX": -1.0,
+    "ShadyScaleY": 1.0,
+    "ShadyOffsetX": 0.05000000074505806,
+    "ShadyOffsetY": 0.0
+}

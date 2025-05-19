@@ -1,0 +1,20 @@
+{
+    "Card0": "helpinghand",
+    "Card1": "bluff",
+    "Card2": "piercinghowl",
+    "Card3": "battleplan",
+    "Card4": "battleshout",
+    "Card5": "colossalblow",
+    "CardSpecial0": "pushforward",
+    "CardSpecial1": "throwbolas",
+    "PackClass": "Warrior",
+    "PackID": "commander",
+    "PackName": "Commander",
+    "PerkList": [
+        "mainperkpowerful0",
+        "mainperkpowerful1b",
+        "mainperkvitality0",
+        "mainperkvitality1a"
+    ],
+    "RequiredClass": ""
+}

@@ -1,0 +1,33 @@
+{
+    "Boss1": "matriarch_o",
+    "Boss2": "minotaur_o",
+    "BossCombat": "challenge_13",
+    "CorruptionList": [
+        "ironclad",
+        "vigorous",
+        "chaoticwind",
+        "empower",
+        "colorfulpuddle",
+        "metalpuddle",
+        "upwind",
+        "heavenlyarmaments",
+        "heavyweaponry"
+    ],
+    "Hero1": "cleric",
+    "Hero2": "priest",
+    "Hero3": "voodoowitch",
+    "Hero4": "prophet",
+    "ID": "week17",
+    "IDSteam": "challengeMinotaur",
+    "Loot": "",
+    "Seed": "bMinotaurs4",
+    "Traits": [
+        "containedfury",
+        "slowmonsters",
+        "doubleboons",
+        "fastheroes",
+        "wealthyheroes",
+        "poverty"
+    ],
+    "Week": 17
+}

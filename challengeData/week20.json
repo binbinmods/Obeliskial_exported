@@ -1,0 +1,33 @@
+{
+    "Boss1": "yogger_o",
+    "Boss2": "halfman_o",
+    "BossCombat": "challenge_13rust",
+    "CorruptionList": [
+        "ironclad",
+        "windsofamnesia",
+        "upwind",
+        "heavyweaponry",
+        "subzero",
+        "vigorous",
+        "waterpuddle",
+        "thunderstorm",
+        "chaoticwind"
+    ],
+    "Hero1": "warden",
+    "Hero2": "assassin",
+    "Hero3": "warlock",
+    "Hero4": "voodoowitch",
+    "ID": "week20",
+    "IDSteam": "challengePirates",
+    "Loot": "",
+    "Seed": "bRusts4",
+    "Traits": [
+        "icydeluge",
+        "vigorousmonsters",
+        "fastmonsters",
+        "lucky",
+        "elementalmonsters",
+        "smartheroes"
+    ],
+    "Week": 20
+}

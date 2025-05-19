@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Wolfwars_Boss",
+    "CombatEffect": [],
+    "CombatID": "ewolf_15",
+    "CombatMusic": "25_Alexander Nakarada - Fallout",
+    "CombatTier": "T0",
+    "Description": "",
+    "EventData": "e_wolf15b",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "wolf",
+        "wolf",
+        "gorio",
+        ""
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "",
+    "IsRift": false
+}

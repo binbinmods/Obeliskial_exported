@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 32,
+    "SkinGO": "zekSkinPro",
+    "SkinID": "warlockpro",
+    "SkinName": "Reaper",
+    "SkinOrder": 2,
+    "SkinSubclass": "warlock",
+    "Sku": "",
+    "SpritePortrait": "zekportraitPro",
+    "SpritePortraitGrande": "zekportraitGrandePro",
+    "SpriteSilueta": "zeksiluetaPro",
+    "SpriteSiluetaGrande": "zeksiluetaGrandePro",
+    "SteamStat": ""
+}

@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "sylvieMediumCardback",
+    "CardbackName": "Sniper",
+    "CardbackOrder": 2,
+    "CardbackSprite": "CartaSylvieMedium",
+    "CardbackSubclass": "archer",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 24,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

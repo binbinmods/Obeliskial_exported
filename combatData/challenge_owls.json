@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Void_StairsClose",
+    "CombatEffect": [],
+    "CombatID": "challenge_owls",
+    "CombatMusic": "Adventure Beyond - 320bit",
+    "CombatTier": "T0",
+    "Description": "Challenge Combat Tier 2 fondo b",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "",
+        "sentinel",
+        "druid",
+        "scrapper"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

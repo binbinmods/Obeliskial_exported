@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "reginaldMediumCardback",
+    "CardbackName": "Friar",
+    "CardbackOrder": 2,
+    "CardbackSprite": "CartaReginaldMedium",
+    "CardbackSubclass": "cleric",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 24,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

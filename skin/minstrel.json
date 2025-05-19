@@ -1,0 +1,15 @@
+{
+    "BaseSkin": true,
+    "PerkLevel": 0,
+    "SkinGO": "gustavSkinRegular",
+    "SkinID": "minstrel",
+    "SkinName": "Minstrel",
+    "SkinOrder": 0,
+    "SkinSubclass": "minstrel",
+    "Sku": "",
+    "SpritePortrait": "gustavportrait",
+    "SpritePortraitGrande": "gustavportraitGrande",
+    "SpriteSilueta": "gustavsilueta",
+    "SpriteSiluetaGrande": "gustavsiluetaGrande",
+    "SteamStat": ""
+}

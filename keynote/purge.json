@@ -1,0 +1,6 @@
+{
+    "Description": "<w>Remove X Auras</w> or those specified.",
+    "DescriptionExtended": "<w>Remove X Auras</w> or those specified. If not specified, the oldest X Auras will be removed (left to right).",
+    "ID": "purge",
+    "KeynoteName": "Purge"
+}

@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": true,
+    "Description": "Demo version of the game.",
+    "ItemSprite": "",
+    "RequirementID": "_demo",
+    "RequirementName": "Demo",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "None"
+}

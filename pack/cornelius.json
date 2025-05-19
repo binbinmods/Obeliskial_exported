@@ -1,0 +1,15 @@
+{
+    "Card0": "fieryshieldstart",
+    "Card1": "innercombustion",
+    "Card2": "flare",
+    "Card3": "fireball",
+    "Card4": "scrollofintellect",
+    "Card5": "",
+    "CardSpecial0": "",
+    "CardSpecial1": "",
+    "PackClass": "Mage",
+    "PackID": "cornelius",
+    "PackName": "Cornelius",
+    "PerkList": [],
+    "RequiredClass": "pyromancer"
+}

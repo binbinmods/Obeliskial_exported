@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "Bree has entrusted you with one Ylmer's seed to plant in a suitable location.",
+    "ItemSprite": "",
+    "RequirementID": "wardenquest",
+    "RequirementName": "Saving the treants",
+    "RequirementTrack": true,
+    "TrackSprite": "quest-warden",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "VoidHigh"
+}

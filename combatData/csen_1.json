@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Senenthia_Dia",
+    "CombatEffect": [],
+    "CombatID": "csen_1",
+    "CombatMusic": "2_Adventure - Alexander Nakarada",
+    "CombatTier": "T0",
+    "Description": "3 cornies",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "cornie",
+        "cornie",
+        "cornie",
+        ""
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T0",
+    "IsRift": false
+}

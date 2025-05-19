@@ -1,0 +1,41 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_velka21_a",
+        "e_velka21_b"
+    ],
+    "NodeEventPercent": [
+        60,
+        40
+    ],
+    "NodeEventPriority": [
+        0,
+        0
+    ],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "velka_21",
+    "NodeName": "Crane",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "velka_34",
+        "velka_40"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Velkarath",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Crane"
+}

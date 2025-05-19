@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 16,
+    "SkinGO": "navaleaSkinMedium",
+    "SkinID": "fallenMedium",
+    "SkinName": "Wraith",
+    "SkinOrder": 1,
+    "SkinSubclass": "fallen",
+    "Sku": "",
+    "SpritePortrait": "navaleaPortraitMedium",
+    "SpritePortraitGrande": "navaleaPortraitMediumGrande",
+    "SpriteSilueta": "navaleaSiluetaMedium",
+    "SpriteSiluetaGrande": "navaleaSiluetaMediumGrande",
+    "SteamStat": ""
+}

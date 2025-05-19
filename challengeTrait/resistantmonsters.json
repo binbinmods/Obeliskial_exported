@@ -1,0 +1,7 @@
+{
+    "Icon": "insulate",
+    "ID": "resistantmonsters",
+    "IsMadnessTrait": true,
+    "Name": "Resistant Monsters",
+    "Order": 5
+}

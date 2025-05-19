@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": true,
+    "CardbackID": "sigrunCardback",
+    "CardbackName": "Default",
+    "CardbackOrder": 1000,
+    "CardbackSprite": "CardBackMage",
+    "CardbackSubclass": "valkyrie",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 0,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

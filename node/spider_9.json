@@ -1,0 +1,33 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_lair9_a"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [
+        1
+    ],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "spider_9",
+    "NodeName": "Cobwebs",
+    "NodeRequirement": "",
+    "NodesConnected": [],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Spiderlair",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Cobwebs"
+}

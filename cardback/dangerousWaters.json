@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "dangerousWaters",
+    "CardbackName": "cardbackDangerousWaters",
+    "CardbackOrder": 140,
+    "CardbackSprite": "CardBackChallengeHydra",
+    "CardbackSubclass": "",
+    "Locked": true,
+    "ObeliskLevel": 0,
+    "RankLevel": 0,
+    "ShowIfLocked": true,
+    "Sku": "",
+    "SteamStat": "challengeHydra"
+}

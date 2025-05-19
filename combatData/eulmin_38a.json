@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Ulminin_DesiertoGusano",
+    "CombatEffect": [],
+    "CombatID": "eulmin_38a",
+    "CombatMusic": "5_Alexander Nakarada - Explorer",
+    "CombatTier": "T4",
+    "Description": "combat",
+    "EventData": "e_ulmin38_b",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "sandworm",
+        "",
+        "",
+        "scolopendra"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T3",
+    "IsRift": false
+}

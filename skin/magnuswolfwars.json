@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "magnusSkinWolfwars",
+    "SkinID": "magnuswolfwars",
+    "SkinName": "Wolf Wars",
+    "SkinOrder": 60,
+    "SkinSubclass": "mercenary",
+    "Sku": "2325780",
+    "SpritePortrait": "magnusWolfwarsportrait",
+    "SpritePortraitGrande": "magnusWolfwarsportraitGrande",
+    "SpriteSilueta": "magnusWolfWarssilueta",
+    "SpriteSiluetaGrande": "magnusWolfWarssiluetaGrande",
+    "SteamStat": ""
+}

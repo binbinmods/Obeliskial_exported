@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "evelynMediumCardback",
+    "CardbackName": "Tempest",
+    "CardbackOrder": 2,
+    "CardbackSprite": "CartaEvelynMedium",
+    "CardbackSubclass": "elementalist",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 24,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

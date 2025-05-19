@@ -1,0 +1,13 @@
+{
+    "Column": 4,
+    "Cost": "PerkCostAdvanced",
+    "ID": "nodeperkChill2c",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "mainperkchill2c",
+    "PerkRequired": "nodeperkChill1",
+    "PerksConnected": [],
+    "Row": 5,
+    "Sprite": "chill",
+    "Type": 2
+}

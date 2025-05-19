@@ -1,0 +1,20 @@
+{
+    "Card0": "mindblast",
+    "Card1": "mindvisions",
+    "Card2": "mentalshake",
+    "Card3": "clairvoyance",
+    "Card4": "mindtwist",
+    "Card5": "foresight",
+    "CardSpecial0": "pandemonium",
+    "CardSpecial1": "spectralmissiles",
+    "PackClass": "Healer",
+    "PackID": "mentalist",
+    "PackName": "Mentalist",
+    "PerkList": [
+        "mainperkmind2",
+        "mainperkinsane2b",
+        "mainperkinsane2c",
+        "mainperksight1c"
+    ],
+    "RequiredClass": ""
+}

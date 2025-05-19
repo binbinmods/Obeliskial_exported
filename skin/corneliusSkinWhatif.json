@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "corneliusSkinWhatif",
+    "SkinID": "corneliusSkinWhatif",
+    "SkinName": "Whatif",
+    "SkinOrder": 80,
+    "SkinSubclass": "pyromancer",
+    "Sku": "",
+    "SpritePortrait": "corneliuswhatifportrait",
+    "SpritePortraitGrande": "corneliuswhatifportraitGrande",
+    "SpriteSilueta": "corneliuswhatifsilueta",
+    "SpriteSiluetaGrande": "corneliuswhatifsiluetaGrande",
+    "SteamStat": ""
+}

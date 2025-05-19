@@ -1,0 +1,20 @@
+{
+    "Card0": "elementalward",
+    "Card1": "manashield",
+    "Card2": "transmision",
+    "Card3": "prismaticfield",
+    "Card4": "manasurge",
+    "Card5": "scrollofintellect",
+    "CardSpecial0": "replenishment",
+    "CardSpecial1": "invisibility",
+    "PackClass": "Mage",
+    "PackID": "enchanter",
+    "PackName": "Enchanter",
+    "PerkList": [
+        "mainperkenergy2a",
+        "mainperkinsulate1b",
+        "mainperkpowerful1a",
+        "mainperkshield5"
+    ],
+    "RequiredClass": ""
+}

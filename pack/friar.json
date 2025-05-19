@@ -1,0 +1,20 @@
+{
+    "Card0": "delayresponse",
+    "Card1": "clarity",
+    "Card2": "innervate",
+    "Card3": "rayofhope",
+    "Card4": "renew",
+    "Card5": "anthemofhope",
+    "CardSpecial0": "sparkoflife",
+    "CardSpecial1": "pulsingheal",
+    "PackClass": "Healer",
+    "PackID": "friar",
+    "PackName": "Friar",
+    "PerkList": [
+        "mainperkcourage0",
+        "mainperkcourage1a",
+        "mainperkregeneration1a",
+        "mainperkinspire0a"
+    ],
+    "RequiredClass": ""
+}

@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Velkarath_Lava1",
+    "CombatEffect": [],
+    "CombatID": "cvelka_2",
+    "CombatMusic": "Valley of the Sun - 320bit",
+    "CombatTier": "T3",
+    "Description": "marauders main",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "marauder",
+        "marauder",
+        "raider",
+        "raider"
+    ],
+    "NPCRemoveInMadness0Index": 3,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

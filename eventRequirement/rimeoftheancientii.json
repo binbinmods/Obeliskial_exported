@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "Deliver the Rime of the Ancient Mariner to the sailors in the Northern Harbor.",
+    "ItemSprite": "",
+    "RequirementID": "rimeoftheancientii",
+    "RequirementName": "Rime of the Ancient Mariner II",
+    "RequirementTrack": true,
+    "TrackSprite": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "Faeborg"
+}

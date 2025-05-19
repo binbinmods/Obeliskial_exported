@@ -1,0 +1,40 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_velka25_a",
+        "e_velka25_b"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [
+        1,
+        0
+    ],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "velka_25",
+    "NodeName": "Cult Temple",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "velka_26",
+        "velka_37"
+    ],
+    "NodesConnectedRequirement": [
+        "{\n    \"NodeData\": \"velka_26\",\n    \"ConnectionRequirement\": \"\",\n    \"ConnectionIfNotNode\": \"velka_37\"\n}"
+    ],
+    "NodeZone": "Velkarath",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Cult Temple"
+}

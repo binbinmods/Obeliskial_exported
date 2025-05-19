@@ -1,0 +1,23 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Sahti_Cavern",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"wet\",\n    \"AuraCurseCharges\": 2,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "csahti_53",
+    "CombatMusic": "Alexander Nakarada - Dungeons and Dragons",
+    "CombatTier": "T4",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "stingray",
+        "mimic",
+        "darkjellyfish",
+        "harpooner"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

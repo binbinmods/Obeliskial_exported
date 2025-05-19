@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Faeborg_BosqueCastor",
+    "CombatEffect": [],
+    "CombatID": "cfaen_8",
+    "CombatMusic": "Adventure Beyond - 320bit",
+    "CombatTier": "T3",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "lumberjack",
+        "squirel",
+        "fisher",
+        "squirel"
+    ],
+    "NPCRemoveInMadness0Index": 3,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

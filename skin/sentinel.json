@@ -1,0 +1,15 @@
+{
+    "BaseSkin": true,
+    "PerkLevel": 0,
+    "SkinGO": "heinerSkinRegular",
+    "SkinID": "sentinel",
+    "SkinName": "Sentinel",
+    "SkinOrder": 0,
+    "SkinSubclass": "sentinel",
+    "Sku": "",
+    "SpritePortrait": "heinerportrait",
+    "SpritePortraitGrande": "heinerportraitGrande",
+    "SpriteSilueta": "heinersilueta",
+    "SpriteSiluetaGrande": "heinersiluetaGrande",
+    "SteamStat": ""
+}

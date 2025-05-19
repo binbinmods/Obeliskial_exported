@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Void_StairsClose",
+    "CombatEffect": [],
+    "CombatID": "cvoidlow_19",
+    "CombatMusic": "21_Vetur+Frosti - Alexander Nakarada",
+    "CombatTier": "T11",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "lancer",
+        "gunner",
+        "monk",
+        "lancer"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

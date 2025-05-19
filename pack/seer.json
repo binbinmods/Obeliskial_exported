@@ -1,0 +1,20 @@
+{
+    "Card0": "mindblast",
+    "Card1": "fortunetelling",
+    "Card2": "expectedprophecy",
+    "Card3": "fade",
+    "Card4": "omenofperil",
+    "Card5": "curativetherapy",
+    "CardSpecial0": "prescription",
+    "CardSpecial1": "temporalchains",
+    "PackClass": "Healer",
+    "PackID": "seer",
+    "PackName": "Seer",
+    "PerkList": [
+        "mainperkinsane1",
+        "mainperkenergy2b",
+        "mainperkinspire0b",
+        "mainperkmind1"
+    ],
+    "RequiredClass": ""
+}

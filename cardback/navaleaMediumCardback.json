@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "navaleaMediumCardback",
+    "CardbackName": "Wraith",
+    "CardbackOrder": 2,
+    "CardbackSprite": "CartaNavaleaMedium",
+    "CardbackSubclass": "fallen",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 24,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

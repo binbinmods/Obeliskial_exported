@@ -1,0 +1,23 @@
+{
+    "AdditionalCurrency": 0,
+    "AdditionalShards": 0,
+    "AuraCurseBonus": "bless",
+    "AuraCurseBonusValue": 1,
+    "CardClass": "Special",
+    "CustomDescription": "",
+    "DamageFlatBonus": "All",
+    "DamageFlatBonusValue": 2,
+    "EnergyBegin": 0,
+    "HealQuantity": 2,
+    "Icon": "bless",
+    "IconTextValue": "+1",
+    "ID": "perkcultivatorhea",
+    "Level": 0,
+    "MainPerk": false,
+    "MaxHealth": 0,
+    "ObeliskPerk": false,
+    "ResistModified": "None",
+    "ResistModifiedValue": 0,
+    "Row": 0,
+    "SpeedQuantity": 0
+}

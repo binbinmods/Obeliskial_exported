@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": true,
+    "CardbackID": "grukliCardback",
+    "CardbackName": "Default",
+    "CardbackOrder": 1000,
+    "CardbackSprite": "CardBackWarrior",
+    "CardbackSubclass": "berserker",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 0,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

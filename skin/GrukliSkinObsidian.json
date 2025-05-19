@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "Grukli_Skin_Obsidian",
+    "SkinID": "GrukliSkinObsidian",
+    "SkinName": "uprising",
+    "SkinOrder": 70,
+    "SkinSubclass": "berserker",
+    "Sku": "2879690",
+    "SpritePortrait": "grukliuprisingportrait",
+    "SpritePortraitGrande": "grukliuprisingportraitGrande",
+    "SpriteSilueta": "grukliuprisingsilueta",
+    "SpriteSiluetaGrande": "grukliuprisingsiluetaGrande",
+    "SteamStat": ""
+}

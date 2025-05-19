@@ -1,0 +1,20 @@
+{
+    "Card0": "feint",
+    "Card1": "slice",
+    "Card2": "disengage",
+    "Card3": "bladeflurry",
+    "Card4": "bladedance",
+    "Card5": "chargedlunge",
+    "CardSpecial0": "acrobaticstrike",
+    "CardSpecial1": "parry",
+    "PackClass": "Scout",
+    "PackID": "fencer",
+    "PackName": "Fencer",
+    "PerkList": [
+        "mainperkevasion0",
+        "mainperkblock5",
+        "mainperksharp1a",
+        "mainperkslashing2"
+    ],
+    "RequiredClass": ""
+}

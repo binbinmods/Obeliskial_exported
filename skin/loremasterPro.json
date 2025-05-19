@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 32,
+    "SkinGO": "wilburSkinPro",
+    "SkinID": "loremasterPro",
+    "SkinName": "Enchanter",
+    "SkinOrder": 2,
+    "SkinSubclass": "loremaster",
+    "Sku": "",
+    "SpritePortrait": "loremasterportraitPro",
+    "SpritePortraitGrande": "loremasterportraitGrandePro",
+    "SpriteSilueta": "loremastersiluetaPro",
+    "SpriteSiluetaGrande": "loremastersiluetaGrandePro",
+    "SteamStat": ""
+}

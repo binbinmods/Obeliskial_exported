@@ -1,0 +1,35 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "csewers_2"
+    ],
+    "NodeCombatTier": "T4",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "FreezingCold",
+    "NodeId": "sewers_2",
+    "NodeName": "Corridor",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "sewers_10",
+        "sewers_11",
+        "sewers_13"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Frozensewers",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Corridor"
+}

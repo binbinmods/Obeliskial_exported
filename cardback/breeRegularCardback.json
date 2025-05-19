@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "breeRegularCardback",
+    "CardbackName": "Warden",
+    "CardbackOrder": 1,
+    "CardbackSprite": "CartaBree",
+    "CardbackSubclass": "warden",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 8,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

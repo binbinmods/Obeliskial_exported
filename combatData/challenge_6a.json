@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Void_Stairs_Rosa",
+    "CombatEffect": [],
+    "CombatID": "challenge_6a",
+    "CombatMusic": "19_Traveler - Alexander Nakarada",
+    "CombatTier": "T0",
+    "Description": "Challenge Combat Tier 5  fondo a",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "cornie",
+        "cornie",
+        "cornie",
+        ""
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

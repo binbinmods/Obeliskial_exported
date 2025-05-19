@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "sylvieProCardback",
+    "CardbackName": "Huntress",
+    "CardbackOrder": 3,
+    "CardbackSprite": "CartaSylviePro",
+    "CardbackSubclass": "archer",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 40,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

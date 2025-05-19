@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "corneliusProCardback",
+    "CardbackName": "Inferno",
+    "CardbackOrder": 3,
+    "CardbackSprite": "CartaCorneliusPro",
+    "CardbackSubclass": "pyromancer",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 40,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

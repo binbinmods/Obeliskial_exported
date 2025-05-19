@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "A gift from an arena champion that proves you are ready for the great challenge at Velkarath Coliseum.",
+    "ItemSprite": "eventArenaBadge",
+    "RequirementID": "arenabadge",
+    "RequirementName": "Arena badge",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

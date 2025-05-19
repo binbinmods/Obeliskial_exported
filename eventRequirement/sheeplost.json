@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "You will return Betty to her owner near Eastern Farmland.",
+    "ItemSprite": "",
+    "RequirementID": "sheeplost",
+    "RequirementName": "The lost sheep",
+    "RequirementTrack": true,
+    "TrackSprite": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "Senenthia"
+}

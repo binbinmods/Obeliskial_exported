@@ -1,0 +1,26 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Senenthia_Dia",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"burn\",\n    \"AuraCurseCharges\": 4,\n    \"AuraCurseTarget\": \"Monster0\"\n}",
+        "{\n    \"AuraCurse\": \"burn\",\n    \"AuraCurseCharges\": 4,\n    \"AuraCurseTarget\": \"Monster1\"\n}",
+        "{\n    \"AuraCurse\": \"burn\",\n    \"AuraCurseCharges\": 4,\n    \"AuraCurseTarget\": \"Monster2\"\n}",
+        "{\n    \"AuraCurse\": \"fast\",\n    \"AuraCurseCharges\": 2,\n    \"AuraCurseTarget\": \"Monsters\"\n}"
+    ],
+    "CombatID": "esen_4f",
+    "CombatMusic": "16_Nowhere Land - Alexander Nakarada",
+    "CombatTier": "T2",
+    "Description": "evento 2 cornies ardiendo, imp",
+    "EventData": "e_sen4_a2",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "",
+        "blazingcornie",
+        "blazingcornie",
+        "fireimp"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T1",
+    "IsRift": false
+}

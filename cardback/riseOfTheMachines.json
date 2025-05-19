@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "riseOfTheMachines",
+    "CardbackName": "cardbackRiseOfTheMachines",
+    "CardbackOrder": 150,
+    "CardbackSprite": "CardBackChallengeDT209",
+    "CardbackSubclass": "",
+    "Locked": true,
+    "ObeliskLevel": 0,
+    "RankLevel": 0,
+    "ShowIfLocked": true,
+    "Sku": "",
+    "SteamStat": "challengeRise"
+}

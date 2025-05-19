@@ -1,0 +1,6 @@
+{
+    "Description": "<lig>Lightning resistance</lig> <y>-1% per charge</y>.<br3>Deal <lig> 1 Lightning damage per charge </lig>to the target's sides at the <w>start of the turn</w>.",
+    "DescriptionExtended": "<lig>Lightning resistance</lig> <y>-1% per charge</y>.<br3>Deal <lig> 1 Lightning damage per charge </lig>to the target's sides at the <w>start of the turn</w>, then remove 1 charge.<br3>This damage <w>can be blocked</w> and is not affected by other modifiers.",
+    "ID": "spark",
+    "KeynoteName": "Spark"
+}

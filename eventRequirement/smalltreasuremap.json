@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "It is a treasure map that leads somewhere in the upper ruins.",
+    "ItemSprite": "eventMap",
+    "RequirementID": "smalltreasuremap",
+    "RequirementName": "Treasure Map",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

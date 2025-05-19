@@ -1,0 +1,38 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_velka18_a",
+        "e_velka18_b"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [
+        1,
+        0
+    ],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "velka_18",
+    "NodeName": "Campsite",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "velka_19",
+        "velka_41"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Velkarath",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Campsite"
+}

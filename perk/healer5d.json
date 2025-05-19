@@ -1,0 +1,23 @@
+{
+    "AdditionalCurrency": 0,
+    "AdditionalShards": 0,
+    "AuraCurseBonus": "",
+    "AuraCurseBonusValue": 0,
+    "CardClass": "Healer",
+    "CustomDescription": "",
+    "DamageFlatBonus": "Shadow",
+    "DamageFlatBonusValue": 2,
+    "EnergyBegin": 0,
+    "HealQuantity": 0,
+    "Icon": "shadow",
+    "IconTextValue": "+2",
+    "ID": "healer5d",
+    "Level": 5,
+    "MainPerk": false,
+    "MaxHealth": 0,
+    "ObeliskPerk": false,
+    "ResistModified": "None",
+    "ResistModifiedValue": 0,
+    "Row": 4,
+    "SpeedQuantity": 0
+}

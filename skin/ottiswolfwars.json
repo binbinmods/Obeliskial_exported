@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "ottisSkinWolfwars",
+    "SkinID": "ottiswolfwars",
+    "SkinName": "Wolf Wars",
+    "SkinOrder": 60,
+    "SkinSubclass": "priest",
+    "Sku": "2325780",
+    "SpritePortrait": "ottisWolfwarsportrait",
+    "SpritePortraitGrande": "ottisWolfwarsportraitGrande",
+    "SpriteSilueta": "ottisWolfwarssilueta",
+    "SpriteSiluetaGrande": "ottisWolfwarssiluetaGrande",
+    "SteamStat": ""
+}

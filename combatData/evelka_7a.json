@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Velkarath_Lava1",
+    "CombatEffect": [],
+    "CombatID": "evelka_7a",
+    "CombatMusic": "16_Nowhere Land - Alexander Nakarada",
+    "CombatTier": "T3",
+    "Description": "raiders merchant",
+    "EventData": "e_velka7_c",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "marauder",
+        "raider",
+        "raider",
+        "raider"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

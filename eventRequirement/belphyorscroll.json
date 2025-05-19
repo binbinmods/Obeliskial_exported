@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "Belphyor gave you this scroll to summon the imps.",
+    "ItemSprite": "eventBelphyorScroll",
+    "RequirementID": "belphyorscroll",
+    "RequirementName": "Belphyor Scroll",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

@@ -1,0 +1,20 @@
+{
+    "Card0": "holyslashw",
+    "Card1": "innerfire",
+    "Card2": "sacredbolt",
+    "Card3": "holynova",
+    "Card4": "prayerofprotection",
+    "Card5": "intercept",
+    "CardSpecial0": "perseverance",
+    "CardSpecial1": "divinepower",
+    "PackClass": "Healer",
+    "PackID": "paladin",
+    "PackName": "Paladin",
+    "PerkList": [
+        "mainperksanctify1",
+        "mainperksanctify2b",
+        "mainperksanctify2c",
+        "mainperkholy0"
+    ],
+    "RequiredClass": ""
+}

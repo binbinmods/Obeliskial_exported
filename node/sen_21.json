@@ -1,0 +1,40 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_sen21_a",
+        "e_sen21_b",
+        "e_sen21_c"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [
+        0,
+        2,
+        1
+    ],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "sen_21",
+    "NodeName": "Isolated Chapel",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "sen_23",
+        "sen_26"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Senenthia",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Isolated Chapel"
+}

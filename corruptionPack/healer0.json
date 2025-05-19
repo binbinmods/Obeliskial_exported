@@ -1,0 +1,32 @@
+{
+    "HighPack": [
+        "meditaterare",
+        "panacearare",
+        "painsupresionrare",
+        "innervaterare",
+        "divinepowerrare",
+        "divineirerare",
+        "holyripplerare",
+        "darkoutbreakrare",
+        "condemnationrare",
+        "prescriptionrare",
+        "sparkofliferare",
+        "greaterhealrare",
+        "desperateplayerrare"
+    ],
+    "LowPack": [
+        "chainhealrare",
+        "benedictionrare",
+        "prayerofhealingrare",
+        "prayerofprotectionrare",
+        "healrare",
+        "barrierrare",
+        "omenofperilrare",
+        "divineinsightrare",
+        "dispelmagicrare",
+        "mindtwistrare"
+    ],
+    "PackClass": "Healer",
+    "PackName": "healer0",
+    "PackTier": 0
+}

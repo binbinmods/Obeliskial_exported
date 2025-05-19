@@ -1,0 +1,13 @@
+{
+    "Column": 5,
+    "Cost": "PerkCostAdvanced",
+    "ID": "nodeperkPiercing2",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "mainperkpiercing2",
+    "PerkRequired": "nodeperkPiercing1",
+    "PerksConnected": [],
+    "Row": 4,
+    "Sprite": "piercing",
+    "Type": 1
+}

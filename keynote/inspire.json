@@ -1,0 +1,6 @@
+{
+    "Description": "Draw <g>1 extra card per charge</g> at the <w>start of the turn</w>.",
+    "DescriptionExtended": "Draw <g>1 extra card per charge</g> at the <w>start of the turn,</w> then remove all charges. Can't be purged unless specified.",
+    "ID": "inspire",
+    "KeynoteName": "Inspire"
+}

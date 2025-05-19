@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 16,
+    "SkinGO": "nezglektSkinMedium",
+    "SkinID": "prophetMedium",
+    "SkinName": "Seer",
+    "SkinOrder": 1,
+    "SkinSubclass": "prophet",
+    "Sku": "",
+    "SpritePortrait": "prophetportraitMedium",
+    "SpritePortraitGrande": "prophetportraitGrandeMedium",
+    "SpriteSilueta": "prophetsiluetaMedium",
+    "SpriteSiluetaGrande": "prophetsiluetaGrandeMedium",
+    "SteamStat": ""
+}

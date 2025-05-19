@@ -1,0 +1,33 @@
+{
+    "Boss1": "matriarch_o",
+    "Boss2": "tulah_o",
+    "BossCombat": "challenge_13hydra",
+    "CorruptionList": [
+        "lonelyblob",
+        "windsofamnesia",
+        "poisonfields",
+        "noxiousparasites",
+        "melancholy",
+        "toxicpuddle",
+        "waterpuddle",
+        "fungaloutbreak",
+        "chaoticwind"
+    ],
+    "Hero1": "mercenary",
+    "Hero2": "minstrel",
+    "Hero3": "loremaster",
+    "Hero4": "prophet",
+    "ID": "week19",
+    "IDSteam": "challengeTulah",
+    "Loot": "",
+    "Seed": "bTulahs4",
+    "Traits": [
+        "lethalpoison",
+        "poverty",
+        "overchargedmonsters",
+        "fastheroes",
+        "spiritualmonsters",
+        "wealthyheroes"
+    ],
+    "Week": 19
+}

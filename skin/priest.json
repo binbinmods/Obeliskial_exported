@@ -1,0 +1,15 @@
+{
+    "BaseSkin": true,
+    "PerkLevel": 0,
+    "SkinGO": "ottisSkinRegular",
+    "SkinID": "priest",
+    "SkinName": "Priest",
+    "SkinOrder": 0,
+    "SkinSubclass": "priest",
+    "Sku": "",
+    "SpritePortrait": "ottisportrait",
+    "SpritePortraitGrande": "ottisportraitGrande",
+    "SpriteSilueta": "ottissilueta",
+    "SpriteSiluetaGrande": "ottissiluetaGrande",
+    "SteamStat": ""
+}

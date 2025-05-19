@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "You agreed to help a rat man participate in a cooking contest somewhere in the upper ruins.",
+    "ItemSprite": "",
+    "RequirementID": "thecook",
+    "RequirementName": "The cooking contest",
+    "RequirementTrack": true,
+    "TrackSprite": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "None"
+}

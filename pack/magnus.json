@@ -1,0 +1,15 @@
+{
+    "Card0": "captainshowlstart",
+    "Card1": "faststrike",
+    "Card2": "defend",
+    "Card3": "barricade",
+    "Card4": "rend",
+    "Card5": "",
+    "CardSpecial0": "",
+    "CardSpecial1": "",
+    "PackClass": "Warrior",
+    "PackID": "magnus",
+    "PackName": "Magnus",
+    "PerkList": [],
+    "RequiredClass": "mercenary"
+}

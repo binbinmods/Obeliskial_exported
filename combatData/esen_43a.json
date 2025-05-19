@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Senenthia_Bosque",
+    "CombatEffect": [],
+    "CombatID": "esen_43a",
+    "CombatMusic": "5_Alexander Nakarada - Explorer",
+    "CombatTier": "T2",
+    "Description": "",
+    "EventData": "e_sen43_b",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "",
+        "raider",
+        "slimesen",
+        "bombardier"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

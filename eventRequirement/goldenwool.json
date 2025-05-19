@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "The wool of the legendary golden sheep. It is very valuable.",
+    "ItemSprite": "eventGoldenWool",
+    "RequirementID": "goldenwool",
+    "RequirementName": "Golden Wool",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

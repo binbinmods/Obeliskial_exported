@@ -1,0 +1,20 @@
+{
+    "Card0": "unstablepower",
+    "Card1": "clearinstructions",
+    "Card2": "elementalbolt",
+    "Card3": "geyser",
+    "Card4": "ignite",
+    "Card5": "lifetap",
+    "CardSpecial0": "wintersnighttale",
+    "CardSpecial1": "invisibility",
+    "PackClass": "Mage",
+    "PackID": "sorcerer",
+    "PackName": "Sorcerer",
+    "PerkList": [
+        "mainperkpowerful0",
+        "mainperkenergy2b",
+        "mainperkenergy2c",
+        "mainperkburn2c"
+    ],
+    "RequiredClass": ""
+}

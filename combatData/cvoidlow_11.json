@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Void_StairsClose",
+    "CombatEffect": [],
+    "CombatID": "cvoidlow_11",
+    "CombatMusic": "5_Alexander Nakarada - Explorer",
+    "CombatTier": "T11",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "lancer_dark",
+        "lancer",
+        "monk",
+        "monk_dark"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

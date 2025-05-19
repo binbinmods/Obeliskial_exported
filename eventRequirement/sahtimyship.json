@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "You are the captain of your own ship and crew.",
+    "ItemSprite": "eventMyship",
+    "RequirementID": "sahtimyship",
+    "RequirementName": "Ship Rudder",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

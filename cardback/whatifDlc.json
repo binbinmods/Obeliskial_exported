@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "whatifDlc",
+    "CardbackName": "brokenBarriers",
+    "CardbackOrder": 55,
+    "CardbackSprite": "CardbackWhatif",
+    "CardbackSubclass": "",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 0,
+    "ShowIfLocked": true,
+    "Sku": "",
+    "SteamStat": ""
+}

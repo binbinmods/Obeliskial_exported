@@ -1,0 +1,13 @@
+{
+    "Column": 10,
+    "Cost": "PerkCostAdvanced",
+    "ID": "nodeperkEvasion0",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "mainperkevasion0",
+    "PerkRequired": "",
+    "PerksConnected": [],
+    "Row": 5,
+    "Sprite": "evasion",
+    "Type": 0
+}

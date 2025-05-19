@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "A useful rope that you used to help rebuild a house.",
+    "ItemSprite": "eventRope",
+    "RequirementID": "oldrope",
+    "RequirementName": "Old Rope",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

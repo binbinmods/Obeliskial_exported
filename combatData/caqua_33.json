@@ -1,0 +1,23 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Aquarfall_Water",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"wet\",\n    \"AuraCurseCharges\": 3,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "caqua_33",
+    "CombatMusic": "The Song of Sirens - 320bit",
+    "CombatTier": "T4",
+    "Description": "combat",
+    "EventData": "e_aquar7_revenge",
+    "EventRequirementData": "crocomenburn",
+    "HealHeroes": false,
+    "NPCList": [
+        "skirmisher",
+        "warden",
+        "siren",
+        "spellbinder"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T3",
+    "IsRift": false
+}

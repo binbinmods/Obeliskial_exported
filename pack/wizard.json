@@ -1,0 +1,20 @@
+{
+    "Card0": "fireblast",
+    "Card1": "emberstorm",
+    "Card2": "searingtouch",
+    "Card3": "flare",
+    "Card4": "fireball",
+    "Card5": "firestorm",
+    "CardSpecial0": "flamestrike",
+    "CardSpecial1": "scorchingray",
+    "PackClass": "Mage",
+    "PackID": "wizard",
+    "PackName": "Wizard",
+    "PerkList": [
+        "mainperkfire2",
+        "mainperkburn2a",
+        "mainperkpowerful1b",
+        "mainperkpowerful1c"
+    ],
+    "RequiredClass": ""
+}

@@ -1,0 +1,33 @@
+{
+    "Boss1": "belphyor_o",
+    "Boss2": "ignidoh_o",
+    "BossCombat": "challenge_13mech",
+    "CorruptionList": [
+        "bomblottery",
+        "burningweapons",
+        "ashysky",
+        "armageddon",
+        "lavabursts",
+        "lavapuddle",
+        "windsofamnesia",
+        "hexproof",
+        "melancholy"
+    ],
+    "Hero1": "sentinel",
+    "Hero2": "minstrel",
+    "Hero3": "elementalist",
+    "Hero4": "prophet",
+    "ID": "week2",
+    "IDSteam": "challengeIgnidoh",
+    "Loot": "",
+    "Seed": "Ignidohs4",
+    "Traits": [
+        "extremeburning",
+        "ludicrousspeed",
+        "doubleboons",
+        "spiritualmonsters",
+        "vigorousmonsters",
+        "lucky"
+    ],
+    "Week": 2
+}

@@ -1,0 +1,20 @@
+{
+    "DefaultPercentEpic": 0.0,
+    "DefaultPercentMythic": 0.0,
+    "DefaultPercentRare": 50.0,
+    "DefaultPercentUncommon": 50.0,
+    "GoldQuantity": 0,
+    "ID": "blobsmyst",
+    "LootItemTable": [
+        "{\n    \"LootCard\": \"holyblobpet\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"darkblobpet\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"Weapon\"\n}",
+        "{\n    \"LootCard\": \"chaosblobpet\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"Armor\"\n}",
+        "{\n    \"LootCard\": \"waterblobpet\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Uncommon\",\n    \"LootType\": \"Jewelry\"\n}"
+    ],
+    "NumItems": 4,
+    "ShadyModel": "",
+    "ShadyScaleX": 1.0,
+    "ShadyScaleY": 1.0,
+    "ShadyOffsetX": 0.0,
+    "ShadyOffsetY": 0.0
+}

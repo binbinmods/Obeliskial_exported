@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "A small log of wood; it has a dark tone and gives off some heat.",
+    "ItemSprite": "eventSmallLog",
+    "RequirementID": "smalllog",
+    "RequirementName": "Small Log",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

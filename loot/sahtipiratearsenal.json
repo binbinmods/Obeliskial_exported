@@ -1,0 +1,20 @@
+{
+    "DefaultPercentEpic": 10.0,
+    "DefaultPercentMythic": 0.0,
+    "DefaultPercentRare": 40.0,
+    "DefaultPercentUncommon": 50.0,
+    "GoldQuantity": 50,
+    "ID": "sahtipiratearsenal",
+    "LootItemTable": [
+        "{\n    \"LootCard\": \"powdercask\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"twinblades\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"Weapon\"\n}",
+        "{\n    \"LootCard\": \"warhammer\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"Weapon\"\n}",
+        "{\n    \"LootCard\": \"longbow\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"Weapon\"\n}"
+    ],
+    "NumItems": 4,
+    "ShadyModel": "",
+    "ShadyScaleX": 1.0,
+    "ShadyScaleY": 1.0,
+    "ShadyOffsetX": 0.0,
+    "ShadyOffsetY": 0.0
+}

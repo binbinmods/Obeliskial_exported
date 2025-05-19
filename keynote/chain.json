@@ -1,0 +1,6 @@
+{
+    "Description": "Repeat the card's effect to a target next to it <w>X times</w>. Each time, damage and heal done <r>-50%</r>.",
+    "DescriptionExtended": "Repeat the card's effect to a target next to it <w>X times</w>. Each time, damage and heal done <r>-50%</r>.",
+    "ID": "chain",
+    "KeynoteName": "Chain"
+}

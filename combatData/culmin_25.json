@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Ulminin_Oasis2",
+    "CombatEffect": [],
+    "CombatID": "culmin_25",
+    "CombatMusic": "Alexander Nakarada - Now We Ride",
+    "CombatTier": "T3",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "nomad",
+        "enforcer",
+        "rogue",
+        "priestess"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

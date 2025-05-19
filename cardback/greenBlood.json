@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "greenBlood",
+    "CardbackName": "cardbackGreenBlood",
+    "CardbackOrder": 110,
+    "CardbackSprite": "CardBackChallengeTulah",
+    "CardbackSubclass": "",
+    "Locked": true,
+    "ObeliskLevel": 0,
+    "RankLevel": 0,
+    "ShowIfLocked": true,
+    "Sku": "",
+    "SteamStat": "challengeTulah"
+}

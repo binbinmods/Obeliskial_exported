@@ -1,0 +1,45 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_sen44_a"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "sen_44",
+    "NodeName": "Caravan",
+    "NodeRequirement": "caravan",
+    "NodesConnected": [
+        "sen_1",
+        "sen_2",
+        "sen_15",
+        "sen_17",
+        "sen_20",
+        "sen_21"
+    ],
+    "NodesConnectedRequirement": [
+        "{\n    \"NodeData\": \"sen_1\",\n    \"ConnectionRequirement\": \"caravannopay\",\n    \"ConnectionIfNotNode\": \"\"\n}",
+        "{\n    \"NodeData\": \"sen_2\",\n    \"ConnectionRequirement\": \"caravannopay\",\n    \"ConnectionIfNotNode\": \"\"\n}",
+        "{\n    \"NodeData\": \"sen_15\",\n    \"ConnectionRequirement\": \"caravanpay\",\n    \"ConnectionIfNotNode\": \"\"\n}",
+        "{\n    \"NodeData\": \"sen_17\",\n    \"ConnectionRequirement\": \"caravanpay\",\n    \"ConnectionIfNotNode\": \"\"\n}",
+        "{\n    \"NodeData\": \"sen_20\",\n    \"ConnectionRequirement\": \"caravanpay\",\n    \"ConnectionIfNotNode\": \"\"\n}",
+        "{\n    \"NodeData\": \"sen_21\",\n    \"ConnectionRequirement\": \"caravanpay\",\n    \"ConnectionIfNotNode\": \"\"\n}"
+    ],
+    "NodeZone": "Senenthia",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Caravan"
+}

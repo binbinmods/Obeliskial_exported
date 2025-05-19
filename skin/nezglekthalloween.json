@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "nezglektSkinHalloween",
+    "SkinID": "nezglekthalloween",
+    "SkinName": "Halloween",
+    "SkinOrder": 50,
+    "SkinSubclass": "prophet",
+    "Sku": "2168960",
+    "SpritePortrait": "nezglektportraitHalloween",
+    "SpritePortraitGrande": "nezglektportraitGrandeHalloween",
+    "SpriteSilueta": "nezglektHalloweensilueta",
+    "SpriteSiluetaGrande": "nezglektHalloweensiluetaGrande",
+    "SteamStat": ""
+}

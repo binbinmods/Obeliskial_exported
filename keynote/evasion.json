@@ -1,0 +1,6 @@
+{
+    "Description": "Prevents<g>  1  </g><y>Hit per charge</y>.",
+    "DescriptionExtended": "Prevents<g>  1  </g><y>Hit per charge</y>, remove 1 charge when this happens.<br3><w>Removes <b>Shackle</b> from the target when applied.</w>",
+    "ID": "evasion",
+    "KeynoteName": "Evasion"
+}

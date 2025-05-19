@@ -1,0 +1,33 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 60,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "island1",
+    "NodeCombat": [
+        "challenge_7"
+    ],
+    "NodeCombatTier": "T7",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "oh6_31",
+    "NodeName": "",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "oh6_24"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Oh6",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Obelisk Challenge"
+}

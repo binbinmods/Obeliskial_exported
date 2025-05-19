@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "corneliusMediumCardback",
+    "CardbackName": "Wizard",
+    "CardbackOrder": 2,
+    "CardbackSprite": "CartaCorneliusMedium",
+    "CardbackSubclass": "pyromancer",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 24,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

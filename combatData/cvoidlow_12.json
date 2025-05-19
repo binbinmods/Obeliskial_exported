@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Void_StairsClose",
+    "CombatEffect": [],
+    "CombatID": "cvoidlow_12",
+    "CombatMusic": "Adventure Beyond - 320bit",
+    "CombatTier": "T11",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "lancer_dark",
+        "gunner_dark",
+        "oddball",
+        "monk_dark"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Aquarfall_Main",
+    "CombatEffect": [],
+    "CombatID": "eaqua_6a3",
+    "CombatMusic": "5_Alexander Nakarada - Explorer",
+    "CombatTier": "T3",
+    "Description": "combate contra los dos leader",
+    "EventData": "e_aquar6_a3",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "bruiser",
+        "sawtoothirwin",
+        "stalker",
+        "mysticsauron"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T3",
+    "IsRift": false
+}

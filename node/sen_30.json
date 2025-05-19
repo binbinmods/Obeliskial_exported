@@ -1,0 +1,39 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_sen30_a",
+        "e_sen30_b"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [
+        0,
+        1
+    ],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "sen_30",
+    "NodeName": "Forest Arch",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "sen_32"
+    ],
+    "NodesConnectedRequirement": [
+        "{\n    \"NodeData\": \"sen_31\",\n    \"ConnectionRequirement\": \"\",\n    \"ConnectionIfNotNode\": \"\"\n}"
+    ],
+    "NodeZone": "Senenthia",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Forest Arch"
+}

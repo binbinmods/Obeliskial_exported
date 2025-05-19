@@ -1,0 +1,43 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 65,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "islandship",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_challengehigh_tradeship1",
+        "e_challengehigh_tradeship2",
+        "e_challengehigh_tradeship3"
+    ],
+    "NodeEventPercent": [
+        34,
+        33,
+        33
+    ],
+    "NodeEventPriority": [
+        0,
+        0,
+        0
+    ],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "oh5_29",
+    "NodeName": "",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "oh5_22"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Oh5",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Obelisk Challenge"
+}

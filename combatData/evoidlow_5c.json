@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Void_Stairs",
+    "CombatEffect": [],
+    "CombatID": "evoidlow_5c",
+    "CombatMusic": "Dragonquest - 320bit",
+    "CombatTier": "T10",
+    "Description": "Campeon blancos",
+    "EventData": "e_voidlow5_c1",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "alexander",
+        "vanguard",
+        "lancer",
+        "gunner"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

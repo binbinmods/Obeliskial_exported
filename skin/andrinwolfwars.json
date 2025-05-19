@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "andrinSkinWolfwars",
+    "SkinID": "andrinwolfwars",
+    "SkinName": "Wolf Wars",
+    "SkinOrder": 60,
+    "SkinSubclass": "ranger",
+    "Sku": "2325780",
+    "SpritePortrait": "andrinWolfwarsportrait",
+    "SpritePortraitGrande": "andrinWolfwarsportraitGrande",
+    "SpriteSilueta": "andrinWolfwarssilueta",
+    "SpriteSiluetaGrande": "andrinWolfwarssiluetaGrande",
+    "SteamStat": ""
+}

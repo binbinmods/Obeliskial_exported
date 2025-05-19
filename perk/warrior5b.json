@@ -1,0 +1,23 @@
+{
+    "AdditionalCurrency": 0,
+    "AdditionalShards": 0,
+    "AuraCurseBonus": "",
+    "AuraCurseBonusValue": 0,
+    "CardClass": "Warrior",
+    "CustomDescription": "",
+    "DamageFlatBonus": "Slashing",
+    "DamageFlatBonusValue": 2,
+    "EnergyBegin": 0,
+    "HealQuantity": 0,
+    "Icon": "slash",
+    "IconTextValue": "+2",
+    "ID": "warrior5b",
+    "Level": 5,
+    "MainPerk": false,
+    "MaxHealth": 0,
+    "ObeliskPerk": false,
+    "ResistModified": "None",
+    "ResistModifiedValue": 0,
+    "Row": 2,
+    "SpeedQuantity": 0
+}

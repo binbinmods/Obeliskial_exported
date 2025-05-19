@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "A pearl you have found in the abyssal trench, it is very valuable.",
+    "ItemSprite": "eventPearl",
+    "RequirementID": "abyssalpearl",
+    "RequirementName": "Abyssal Pearl",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "halloweenDlc",
+    "CardbackName": "challengeSpooky",
+    "CardbackOrder": 60,
+    "CardbackSprite": "CartaHalloweenDLC",
+    "CardbackSubclass": "",
+    "Locked": true,
+    "ObeliskLevel": 0,
+    "RankLevel": 0,
+    "ShowIfLocked": true,
+    "Sku": "2168960",
+    "SteamStat": ""
+}

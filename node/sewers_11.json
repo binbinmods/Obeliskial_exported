@@ -1,0 +1,40 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_sewers11_a",
+        "e_sewers11_b"
+    ],
+    "NodeEventPercent": [
+        50,
+        50
+    ],
+    "NodeEventPriority": [
+        0,
+        0
+    ],
+    "NodeEventTier": "T0",
+    "NodeGround": "FreezingCold",
+    "NodeId": "sewers_11",
+    "NodeName": "Crates",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "sewers_12"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Frozensewers",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Crates"
+}

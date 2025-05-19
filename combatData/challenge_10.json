@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Void_Obelisk_Lila",
+    "CombatEffect": [],
+    "CombatID": "challenge_10",
+    "CombatMusic": "2_Adventure - Alexander Nakarada",
+    "CombatTier": "T0",
+    "Description": "Challenge Combat Tier 10 fondo obelsl",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "cornie",
+        "cornie",
+        "cornie",
+        ""
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

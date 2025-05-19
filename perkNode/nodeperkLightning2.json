@@ -1,0 +1,13 @@
+{
+    "Column": 8,
+    "Cost": "PerkCostAdvanced",
+    "ID": "nodeperkLightning2",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "mainperklightning2",
+    "PerkRequired": "nodeperkLightning1",
+    "PerksConnected": [],
+    "Row": 4,
+    "Sprite": "lightning",
+    "Type": 2
+}

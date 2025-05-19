@@ -1,0 +1,6 @@
+{
+    "Description": "Complete the requirements of each scarab to get a bonus at the end of the combat.<br3><y>Golden Scarab:</y> Kill it <w>before it escapes</w> to earn +150 gold per hero.<br3><col>Crystal Scarab:</col> Kill it <w>after it uses the Crystallize card</w> and <w>before it escapes</w> to earn +150 shards per hero. <br3><g>Jade Scarab:</g> Kill it <w>before it escapes</w> to earn +50 gold, +50 shards and +50 experience per hero.",
+    "DescriptionExtended": "Complete the requirements of each scarab to get a bonus at the end of the combat.<br3><y>Golden Scarab:</y> Kill it <w>before it escapes</w> to earn +150 gold per hero.<br3><col>Crystal Scarab:</col> Kill it <w>after it uses the Crystallize card</w> and <w>before it escapes</w> to earn +150 shards per hero. <br3><g>Jade Scarab:</g> Kill it <w>before it escapes</w> to earn +50 gold, +50 shards and +50 experience per hero.",
+    "ID": "luckyscarab",
+    "KeynoteName": "Lucky Scarab"
+}

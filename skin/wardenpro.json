@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 32,
+    "SkinGO": "breeSkinPro",
+    "SkinID": "wardenpro",
+    "SkinName": "Warlord",
+    "SkinOrder": 2,
+    "SkinSubclass": "warden",
+    "Sku": "",
+    "SpritePortrait": "breeportraitPro",
+    "SpritePortraitGrande": "breeportraitGrandePro",
+    "SpriteSilueta": "BreesiluetaPro",
+    "SpriteSiluetaGrande": "BreesiluetaGrandePro",
+    "SteamStat": ""
+}

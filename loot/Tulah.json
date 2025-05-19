@@ -1,0 +1,21 @@
+{
+    "DefaultPercentEpic": 30.0,
+    "DefaultPercentMythic": 0.0,
+    "DefaultPercentRare": 60.0,
+    "DefaultPercentUncommon": 10.0,
+    "GoldQuantity": 100,
+    "ID": "Tulah",
+    "LootItemTable": [
+        "{\n    \"LootCard\": \"venomfang\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"spiderqueeneye\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"freelover\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Jewelry\"\n}",
+        "{\n    \"LootCard\": \"\",\n    \"LootPercent\": 70.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"Accesory\"\n}"
+    ],
+    "NumItems": 8,
+    "ShadyModel": "",
+    "ShadyScaleX": 1.0,
+    "ShadyScaleY": 1.0,
+    "ShadyOffsetX": 0.0,
+    "ShadyOffsetY": 0.0
+}

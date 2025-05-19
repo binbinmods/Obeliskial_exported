@@ -1,0 +1,6 @@
+{
+    "Description": "<r>Lose 1 HP per charge</r> at the <w>end of the turn</w>.",
+    "DescriptionExtended": "<r>Lose 1 HP per charge</r> at the <w>end of the turn</w>, then remove 1 charge.",
+    "ID": "poison",
+    "KeynoteName": "Poison"
+}

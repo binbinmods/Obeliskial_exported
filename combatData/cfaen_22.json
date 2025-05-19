@@ -1,0 +1,23 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Faeborg_Ciudad",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"chill\",\n    \"AuraCurseCharges\": 5,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "cfaen_22",
+    "CombatMusic": "Fairy of the Forest - 320bit",
+    "CombatTier": "T3",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "swordman",
+        "draconoid",
+        "swordman",
+        "archer"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

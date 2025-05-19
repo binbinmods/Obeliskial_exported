@@ -1,0 +1,41 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 75,
+    "ExistsSku": "2325780",
+    "GoToTown": false,
+    "NodeBackgroundImg": "ladder1",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_velka36_a",
+        "e_velka36_b"
+    ],
+    "NodeEventPercent": [
+        50,
+        50
+    ],
+    "NodeEventPriority": [
+        0,
+        0
+    ],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "velka_36",
+    "NodeName": "Ladder",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "velka_17",
+        "velka_18"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Velkarath",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Ladder"
+}

@@ -1,0 +1,23 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Sectarium",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"fast\",\n    \"AuraCurseCharges\": 2,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "esecta_5a",
+    "CombatMusic": "Foreverlands - 320bit",
+    "CombatTier": "T1",
+    "Description": "cultistas ritual tu atacas primero",
+    "EventData": "e_secta5_b",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "firebrander",
+        "firebrander",
+        "evoker",
+        "evoker"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

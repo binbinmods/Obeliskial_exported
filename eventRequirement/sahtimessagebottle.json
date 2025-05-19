@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "Send help! Faeborg's bear tyrant is big! VERY BAD!",
+    "ItemSprite": "eventBottle",
+    "RequirementID": "sahtimessagebottle",
+    "RequirementName": "Message in a bottle",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

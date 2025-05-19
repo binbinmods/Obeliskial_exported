@@ -1,0 +1,13 @@
+{
+    "Column": 8,
+    "Cost": "PerkCostAdvanced",
+    "ID": "nodeperkBlunt2",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "mainperkblunt2",
+    "PerkRequired": "nodeperkBlunt1",
+    "PerksConnected": [],
+    "Row": 4,
+    "Sprite": "blunt",
+    "Type": 1
+}

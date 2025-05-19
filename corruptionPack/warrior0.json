@@ -1,0 +1,31 @@
+{
+    "HighPack": [
+        "enragerare",
+        "overpowerrare",
+        "barricaderare",
+        "mortalstrikerare",
+        "stockaderare",
+        "bloodragerare",
+        "guardrare",
+        "rampagerare",
+        "firstaidrare",
+        "shieldbreakerrare",
+        "furiousslashrare"
+    ],
+    "LowPack": [
+        "cleaverare",
+        "sharpenrare",
+        "barricaderare",
+        "mortalstrikerare",
+        "precisestrikerare",
+        "groundslamrare",
+        "repetitiontrainingrare",
+        "guardrare",
+        "spikedshieldrare",
+        "shakeitoffrare",
+        "invigoratingblowrare"
+    ],
+    "PackClass": "Warrior",
+    "PackName": "warrior0",
+    "PackTier": 0
+}

@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "A special ingredient for the cooking contest somewhere in the upper ruins.",
+    "ItemSprite": "eventGrain",
+    "RequirementID": "sackofgrain",
+    "RequirementName": "Grain sack",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

@@ -1,0 +1,25 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Forge_Boss",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"burn\",\n    \"AuraCurseCharges\": 4,\n    \"AuraCurseTarget\": \"Heroes\"\n}",
+        "{\n    \"AuraCurse\": \"block\",\n    \"AuraCurseCharges\": 80,\n    \"AuraCurseTarget\": \"Monster2\"\n}",
+        "{\n    \"AuraCurse\": \"block\",\n    \"AuraCurseCharges\": 30,\n    \"AuraCurseTarget\": \"Monsters\"\n}"
+    ],
+    "CombatID": "eforge_6_b",
+    "CombatMusic": "Dragonquest - 320bit",
+    "CombatTier": "T4",
+    "Description": "combat boss",
+    "EventData": "e_forge6_c",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "flamethrower",
+        "dwarfface",
+        "dt800",
+        "launcher"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T4",
+    "IsRift": false
+}

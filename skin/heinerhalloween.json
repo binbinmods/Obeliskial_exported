@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "heinerSkinHalloween",
+    "SkinID": "heinerhalloween",
+    "SkinName": "Halloween",
+    "SkinOrder": 50,
+    "SkinSubclass": "sentinel",
+    "Sku": "2168960",
+    "SpritePortrait": "heinerportraitHalloween",
+    "SpritePortraitGrande": "heinerportraitGrandeHalloween",
+    "SpriteSilueta": "heinerHalloweensilueta",
+    "SpriteSiluetaGrande": "heinerHalloweensiluetaGrande",
+    "SteamStat": ""
+}

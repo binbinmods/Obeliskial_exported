@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "It is a treasure map, but the image magically vanished.",
+    "ItemSprite": "eventMap",
+    "RequirementID": "treasuremap",
+    "RequirementName": "Treasure Map",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

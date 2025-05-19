@@ -1,0 +1,6 @@
+{
+    "Description": "All resistances<g> +7% per charge</g>.<br3>Healing received from <w>Sanctify</w> <g>+20% per charge</g>.<br3>Damage done<y> +1% </y>per<w> Burn charge</w>.<br3>Remove all charges at the <w>end of the turn</w>.",
+    "DescriptionExtended": "All resistances<g> +7% per charge</g>.<br3>Healing received from <w>Sanctify</w> <g>+20% per charge</g>.<br3>Damage done<y> +1% </y>per<w> Burn charge</w>.<br3>Remove all charges at the <w>end of the turn</w>.",
+    "ID": "zeal",
+    "KeynoteName": "Zeal"
+}

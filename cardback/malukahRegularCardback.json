@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "malukahRegularCardback",
+    "CardbackName": "Voodoo Witch",
+    "CardbackOrder": 1,
+    "CardbackSprite": "CartaMalukah",
+    "CardbackSubclass": "voodoowitch",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 8,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

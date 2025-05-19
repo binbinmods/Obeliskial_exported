@@ -1,0 +1,27 @@
+{
+    "DefaultPercentEpic": 100.0,
+    "DefaultPercentMythic": 0.0,
+    "DefaultPercentRare": 0.0,
+    "DefaultPercentUncommon": 0.0,
+    "GoldQuantity": 0,
+    "ID": "tradeship8",
+    "LootItemTable": [
+        "{\n    \"LootCard\": \"durandal\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"fistofthedamned\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"mixedsalad\",\n    \"LootPercent\": 50.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"blackpyramid\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"crimsonraiment\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"suppressionhelmet\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"thejuggernaut\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"energyshield\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"unholyhammer\",\n    \"LootPercent\": 80.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"sacredaxe\",\n    \"LootPercent\": 80.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"architectsring\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}"
+    ],
+    "NumItems": 8,
+    "ShadyModel": "nezglektSkinMedium",
+    "ShadyScaleX": -1.0,
+    "ShadyScaleY": 1.0,
+    "ShadyOffsetX": 0.0,
+    "ShadyOffsetY": 0.0
+}

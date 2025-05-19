@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "laiaMediumCardback",
+    "CardbackName": "Zealot",
+    "CardbackOrder": 2,
+    "CardbackSprite": "CartaLaiaMedium",
+    "CardbackSubclass": "paladin",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 24,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

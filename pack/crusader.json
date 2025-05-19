@@ -1,0 +1,20 @@
+{
+    "Card0": "dawnlight",
+    "Card1": "flash",
+    "Card2": "holysmite",
+    "Card3": "holynova",
+    "Card4": "penance",
+    "Card5": "holystorm",
+    "CardSpecial0": "divinepower",
+    "CardSpecial1": "holyblast",
+    "PackClass": "Healer",
+    "PackID": "crusader",
+    "PackName": "Crusader",
+    "PerkList": [
+        "mainperkholy2",
+        "mainperkbless0",
+        "mainperkbless1a",
+        "mainperksanctify0"
+    ],
+    "RequiredClass": ""
+}

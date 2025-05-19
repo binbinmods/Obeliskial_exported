@@ -1,0 +1,6 @@
+{
+    "Description": "<y>Pay 1 extra energy</y> to apply the stated effect. You can repeat this as long as you have energy.",
+    "DescriptionExtended": "<y>Pay 1 extra energy</y> to apply the stated effect. You can repeat this as long as you have energy.",
+    "ID": "overcharge",
+    "KeynoteName": "Overcharge"
+}

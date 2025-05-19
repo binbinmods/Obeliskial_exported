@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "Thuls_Skin_Wolfwars",
+    "SkinID": "ThulsSkinWolfwars",
+    "SkinName": "Wolf Wars",
+    "SkinOrder": 60,
+    "SkinSubclass": "assassin",
+    "Sku": "2325780",
+    "SpritePortrait": "thulsportraitwolfwars",
+    "SpritePortraitGrande": "thulsportraitGrandewolfwars",
+    "SpriteSilueta": "thulssiluetawolfwars",
+    "SpriteSiluetaGrande": "thulssiluetaGrandewolfwars",
+    "SteamStat": ""
+}

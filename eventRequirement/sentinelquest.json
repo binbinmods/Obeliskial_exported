@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "Find a way to repair the golem. You can find a new core in the Black Forge in Velkarath.",
+    "ItemSprite": "",
+    "RequirementID": "sentinelquest",
+    "RequirementName": "The last sentinel",
+    "RequirementTrack": true,
+    "TrackSprite": "quest-sentinel",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "Velkarath"
+}

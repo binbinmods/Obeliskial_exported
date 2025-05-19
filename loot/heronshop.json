@@ -1,0 +1,22 @@
+{
+    "DefaultPercentEpic": 5.0,
+    "DefaultPercentMythic": 0.0,
+    "DefaultPercentRare": 30.0,
+    "DefaultPercentUncommon": 65.0,
+    "GoldQuantity": 75,
+    "ID": "heronshop",
+    "LootItemTable": [
+        "{\n    \"LootCard\": \"necromancerrobe\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"blackpyramid\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"unholyhammer\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"shadowrune\",\n    \"LootPercent\": 0.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"mixedsalad\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"Jewelry\"\n}",
+        "{\n    \"LootCard\": \"\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"Jewelry\"\n}"
+    ],
+    "NumItems": 8,
+    "ShadyModel": "heretic",
+    "ShadyScaleX": 0.9399999976158142,
+    "ShadyScaleY": 0.8999999761581421,
+    "ShadyOffsetX": -0.07000000029802323,
+    "ShadyOffsetY": -0.10000000149011612
+}

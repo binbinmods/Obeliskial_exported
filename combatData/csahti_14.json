@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Sahti_Ship",
+    "CombatEffect": [],
+    "CombatID": "csahti_14",
+    "CombatMusic": "Magic Tavern - 320bit",
+    "CombatTier": "T3",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "swordfish",
+        "octopus",
+        "archerfish",
+        "hermit"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

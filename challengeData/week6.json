@@ -1,0 +1,33 @@
+{
+    "Boss1": "belphyor_o",
+    "Boss2": "ratone_o",
+    "BossCombat": "challenge_13",
+    "CorruptionList": [
+        "deathgrip",
+        "putrefaction",
+        "backlash",
+        "darkpuddle",
+        "melancholy",
+        "windsofamnesia",
+        "hexproof",
+        "noxiousparasites",
+        "chaospuddle"
+    ],
+    "Hero1": "warden",
+    "Hero2": "cleric",
+    "Hero3": "assassin",
+    "Hero4": "voodoowitch",
+    "ID": "week6",
+    "IDSteam": "challengeNhir",
+    "Loot": "",
+    "Seed": "Nhirs4",
+    "Traits": [
+        "darkestnight",
+        "vigorousmonsters",
+        "smartheroes",
+        "fastmonsters",
+        "vulnerablemonsters",
+        "ironcladmonsters"
+    ],
+    "Week": 6
+}

@@ -1,0 +1,35 @@
+{
+    "CombatPercent": 67,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 33,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "csen_29"
+    ],
+    "NodeCombatTier": "T2",
+    "NodeEvent": [
+        "e_sen29_a"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "sen_29",
+    "NodeName": "Obelisk Route",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "sen_33"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Senenthia",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Obelisk Route"
+}

@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "A mysterious key that supposedly opens the greatest treasure that has ever existed.",
+    "ItemSprite": "eventKeyGreen",
+    "RequirementID": "keyaquarfall",
+    "RequirementName": "Mysterious key",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

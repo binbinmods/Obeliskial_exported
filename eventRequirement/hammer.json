@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "A hammer and a few nails for quick repairs.",
+    "ItemSprite": "eventHammer",
+    "RequirementID": "hammer",
+    "RequirementName": "Hammer and Nails",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Void_Regular",
+    "CombatEffect": [],
+    "CombatID": "cvoidlow_2",
+    "CombatMusic": "19_Traveler - Alexander Nakarada",
+    "CombatTier": "T10",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "vanguard",
+        "vanguard",
+        "oddball",
+        "gunner"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

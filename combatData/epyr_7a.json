@@ -1,0 +1,24 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Ulminin_PyramidBoss",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"sanctify\",\n    \"AuraCurseCharges\": 4,\n    \"AuraCurseTarget\": \"Heroes\"\n}",
+        "{\n    \"AuraCurse\": \"fast\",\n    \"AuraCurseCharges\": 22,\n    \"AuraCurseTarget\": \"Monster0\"\n}"
+    ],
+    "CombatID": "epyr_7a",
+    "CombatMusic": "Alexander Nakarada - Sleipnir",
+    "CombatTier": "T4",
+    "Description": "boss",
+    "EventData": "e_pyr7_c",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "basthet",
+        "",
+        "",
+        "eternalcube"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T4",
+    "IsRift": false
+}

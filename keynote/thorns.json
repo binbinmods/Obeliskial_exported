@@ -1,0 +1,6 @@
+{
+    "Description": "Deal <pie>1 Piercing per charge</pie> to the attacker when the <w>target is hit</w> by an enemy.",
+    "DescriptionExtended": "Deal <pie>1 Piercing per charge</pie> to the attacker when the <w>target is hit</w> by an enemy, remove 1 charge when this happens.<br3>This damage <w>can be blocked</w> and is not affected by other modifiers.<br3>Remove 1 charge at the <w>start of the turn</w>.",
+    "ID": "thorns",
+    "KeynoteName": "Thorns"
+}

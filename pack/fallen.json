@@ -1,0 +1,20 @@
+{
+    "Card0": "darkblow",
+    "Card1": "curseoffragility",
+    "Card2": "punch",
+    "Card3": "defend",
+    "Card4": "lifetap",
+    "Card5": "manashield",
+    "CardSpecial0": "curseoftorment",
+    "CardSpecial1": "pummel",
+    "PackClass": "Warrior",
+    "PackID": "fallen",
+    "PackName": "Fallen",
+    "PerkList": [
+        "mainperkblunt1",
+        "mainperkcrack0",
+        "mainperkenergy2b",
+        "mainperkinspire0a"
+    ],
+    "RequiredClass": ""
+}

@@ -1,0 +1,6 @@
+{
+    "Description": "Speed<r> -2 per charge</r>.<br3>Prevents<g>  1  </g><y>Fast per charge</y>.",
+    "DescriptionExtended": "Speed<r> -2 per charge</r>.<br3>Prevents<g>  1  </g><y>Fast per charge</y>, remove 1 charge when this happens.</w><br3>Remove 1 charge at the <w>start of the turn</w>.",
+    "ID": "slow",
+    "KeynoteName": "Slow"
+}

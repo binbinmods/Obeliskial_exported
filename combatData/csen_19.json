@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Senenthia_LobosTarde",
+    "CombatEffect": [],
+    "CombatID": "csen_19",
+    "CombatMusic": "Foreverlands - 320bit",
+    "CombatTier": "T2",
+    "Description": "warboar + brigand\n",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "warboara",
+        "warboara",
+        "warboarb",
+        "brigand"
+    ],
+    "NPCRemoveInMadness0Index": 0,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

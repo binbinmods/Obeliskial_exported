@@ -1,0 +1,20 @@
+{
+    "Card0": "trace",
+    "Card1": "sprint",
+    "Card2": "detection",
+    "Card3": "vigilance",
+    "Card4": "doublestrike",
+    "Card5": "hitandrun",
+    "CardSpecial0": "parry",
+    "CardSpecial1": "fanofknives",
+    "PackClass": "Scout",
+    "PackID": "explorer",
+    "PackName": "Explorer",
+    "PerkList": [
+        "mainperkmark1c",
+        "mainperksight1b",
+        "mainperksight1c",
+        "mainperkinspire0a"
+    ],
+    "RequiredClass": ""
+}

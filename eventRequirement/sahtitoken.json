@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "An allegiance symbol with the Sahti.",
+    "ItemSprite": "eventSahti",
+    "RequirementID": "sahtitoken",
+    "RequirementName": "Sahti Token",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

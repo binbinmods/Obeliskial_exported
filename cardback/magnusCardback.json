@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": true,
+    "CardbackID": "magnusCardback",
+    "CardbackName": "Default",
+    "CardbackOrder": 1000,
+    "CardbackSprite": "CardBackWarrior",
+    "CardbackSubclass": "mercenary",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 0,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

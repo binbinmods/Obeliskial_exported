@@ -1,0 +1,23 @@
+{
+    "HighPack": [
+        "icecometrare",
+        "cursenomiconrare",
+        "meteorshowerrare",
+        "vampirictutorrare",
+        "deepdarknessrare"
+    ],
+    "LowPack": [
+        "electrocuterare",
+        "massinvisibilityrare",
+        "pyroblastrare",
+        "blizzardrare",
+        "balllightningrare",
+        "endlessabyssrare",
+        "disintegraterare",
+        "flashfreezerare",
+        "theencyclopediarare"
+    ],
+    "PackClass": "Mage",
+    "PackName": "mage3",
+    "PackTier": 3
+}

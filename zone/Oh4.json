@@ -1,0 +1,21 @@
+{
+    "ChangeTeamOnEntrance": false,
+    "DisableExperienceOnThisZone": false,
+    "DisableMadnessOnThisZone": false,
+    "NewTeam": [],
+    "ObeliskFinal": false,
+    "ObeliskHigh": true,
+    "ObeliskLow": false,
+    "RestoreTeamOnExit": false,
+    "ZoneID": "Oh4",
+    "ZoneName": "Obelisk Challenge",
+    "BackgroundImg": "",
+    "TransitionImg": "",
+    "MainZoneID": "",
+    "ReplaceMapGOSprite": "",
+    "ReplaceMapGOSpriteWith": "",
+    "BackgroundImg2": "",
+    "BackgroundImg3": "",
+    "BackgroundImg2Req": "",
+    "BackgroundImg3Req": ""
+}

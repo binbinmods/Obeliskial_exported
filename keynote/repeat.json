@@ -1,0 +1,6 @@
+{
+    "Description": "Repeat the card's effect <w>X times</w>.",
+    "DescriptionExtended": "Repeat the card's effect <w>X times</w>.",
+    "ID": "repeat",
+    "KeynoteName": "Repeat X"
+}

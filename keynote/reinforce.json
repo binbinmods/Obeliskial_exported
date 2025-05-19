@@ -1,0 +1,6 @@
+{
+    "Description": "<sla>Slashing</sla>, <blu>Blunt</blu>, and <pie>Piercing</pie> resistances<g> +30%</g>.",
+    "DescriptionExtended": "<sla>Slashing</sla>, <blu>Blunt</blu>, and <pie>Piercing</pie> resistances<g> +30%</g>.<br3>Remove 1 charge at the <w>start of the turn</w>.",
+    "ID": "reinforce",
+    "KeynoteName": "Reinforce"
+}

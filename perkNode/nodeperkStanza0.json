@@ -1,0 +1,17 @@
+{
+    "Column": 9,
+    "Cost": "PerkCostAdvanced",
+    "ID": "nodeperkStanza0",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "",
+    "PerkRequired": "",
+    "PerksConnected": [
+        "nodeperkStanza0a",
+        "nodeperkStanza0b",
+        "nodeperkStanza0c"
+    ],
+    "Row": 2,
+    "Sprite": "stanzai",
+    "Type": 3
+}

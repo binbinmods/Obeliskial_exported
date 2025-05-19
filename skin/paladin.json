@@ -1,0 +1,15 @@
+{
+    "BaseSkin": true,
+    "PerkLevel": 0,
+    "SkinGO": "laiaSkinBase",
+    "SkinID": "paladin",
+    "SkinName": "Paladin",
+    "SkinOrder": 0,
+    "SkinSubclass": "paladin",
+    "Sku": "",
+    "SpritePortrait": "laiaPortrait",
+    "SpritePortraitGrande": "laiaPortraitGrande",
+    "SpriteSilueta": "laiaSilueta",
+    "SpriteSiluetaGrande": "laiaSiluetaGrande",
+    "SteamStat": ""
+}

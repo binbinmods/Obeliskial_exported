@@ -1,0 +1,33 @@
+{
+    "Boss1": "yogger_o",
+    "Boss2": "gorio_o",
+    "BossCombat": "challenge_13",
+    "CorruptionList": [
+        "ironclad",
+        "electricpuddle",
+        "meatfeast",
+        "thunderstorm",
+        "pacifism",
+        "bloodpuddle",
+        "metalpuddle",
+        "heavyweaponry",
+        "heavenlyarmaments"
+    ],
+    "Hero1": "warden",
+    "Hero2": "archer",
+    "Hero3": "loremaster",
+    "Hero4": "priest",
+    "ID": "week3",
+    "IDSteam": "challengeYogger",
+    "Loot": "",
+    "Seed": "Yoggers4",
+    "Traits": [
+        "hemorrhage",
+        "energizedheroes",
+        "slowheroes",
+        "elementalmonsters",
+        "wealthyheroes",
+        "doubleinjuries"
+    ],
+    "Week": 3
+}

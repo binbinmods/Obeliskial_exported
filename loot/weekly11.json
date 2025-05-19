@@ -1,0 +1,20 @@
+{
+    "DefaultPercentEpic": 0.0,
+    "DefaultPercentMythic": 0.0,
+    "DefaultPercentRare": 20.0,
+    "DefaultPercentUncommon": 40.0,
+    "GoldQuantity": 50,
+    "ID": "weekly11",
+    "LootItemTable": [
+        "{\n    \"LootCard\": \"huntingring\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Uncommon\",\n    \"LootType\": \"Weapon\"\n}",
+        "{\n    \"LootCard\": \"theproficient\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Uncommon\",\n    \"LootType\": \"Armor\"\n}",
+        "{\n    \"LootCard\": \"ringoffire\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Uncommon\",\n    \"LootType\": \"Armor\"\n}",
+        "{\n    \"LootCard\": \"roundshield\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Uncommon\",\n    \"LootType\": \"Armor\"\n}"
+    ],
+    "NumItems": 8,
+    "ShadyModel": "",
+    "ShadyScaleX": 1.0,
+    "ShadyScaleY": 1.0,
+    "ShadyOffsetX": 0.0,
+    "ShadyOffsetY": 0.0
+}

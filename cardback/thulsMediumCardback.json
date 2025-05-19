@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "thulsMediumCardback",
+    "CardbackName": "Rogue",
+    "CardbackOrder": 2,
+    "CardbackSprite": "CartaThulsMedium",
+    "CardbackSubclass": "assassin",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 24,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

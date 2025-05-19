@@ -1,0 +1,13 @@
+{
+    "Column": 11,
+    "Cost": "PerkCostAdvanced",
+    "ID": "nodeperkCourage0",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "mainperkcourage0",
+    "PerkRequired": "",
+    "PerksConnected": [],
+    "Row": 2,
+    "Sprite": "courage",
+    "Type": 3
+}

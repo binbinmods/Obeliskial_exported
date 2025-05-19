@@ -1,0 +1,6 @@
+{
+    "Description": "Speed<g> +6</g>.",
+    "DescriptionExtended": "Speed<g> +6</g>.<br3><w>Removes <b>Daze</b> from the target.</w><br3>Remove 1 charge at the <w>start of the turn</w>.",
+    "ID": "haste",
+    "KeynoteName": "Haste"
+}

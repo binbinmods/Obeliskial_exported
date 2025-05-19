@@ -1,0 +1,25 @@
+{
+    "HighPack": [
+        "eviscerate",
+        "lastrequiem",
+        "lastreward",
+        "neurotoxinrare",
+        "energizingserenade",
+        "barrage"
+    ],
+    "LowPack": [
+        "poisonflaskrare",
+        "poisoncatalystrare",
+        "rainofarrowsrare",
+        "eternallullabyrare",
+        "snipershotrare",
+        "debilitaterare",
+        "corruptedbladerare",
+        "healingserenaderare",
+        "weaponcacherare",
+        "neverendingstoryrare"
+    ],
+    "PackClass": "Scout",
+    "PackName": "scout2",
+    "PackTier": 2
+}

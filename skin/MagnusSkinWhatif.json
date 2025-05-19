@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "MagnusSkinWhatif",
+    "SkinID": "MagnusSkinWhatif",
+    "SkinName": "What if",
+    "SkinOrder": 80,
+    "SkinSubclass": "mercenary",
+    "Sku": "",
+    "SpritePortrait": "magnuswhatifportrait",
+    "SpritePortraitGrande": "magnuswhatifportraitGrande",
+    "SpriteSilueta": "magnuswhatifsilueta",
+    "SpriteSiluetaGrande": "magnuswhatifsiluetaGrande",
+    "SteamStat": ""
+}

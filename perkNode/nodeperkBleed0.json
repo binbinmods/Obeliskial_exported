@@ -1,0 +1,13 @@
+{
+    "Column": 1,
+    "Cost": "PerkCostBase",
+    "ID": "nodeperkBleed0",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "mainperkbleed0",
+    "PerkRequired": "",
+    "PerksConnected": [],
+    "Row": 1,
+    "Sprite": "bleed",
+    "Type": 1
+}

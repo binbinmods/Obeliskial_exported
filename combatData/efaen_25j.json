@@ -1,0 +1,24 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Faeborg_Costa",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"spark\",\n    \"AuraCurseCharges\": 5,\n    \"AuraCurseTarget\": \"Monsters\"\n}",
+        "{\n    \"AuraCurse\": \"fatigue\",\n    \"AuraCurseCharges\": 1,\n    \"AuraCurseTarget\": \"Monsters\"\n}"
+    ],
+    "CombatID": "efaen_25j",
+    "CombatMusic": "Dragonquest - 320bit",
+    "CombatTier": "T4",
+    "Description": "combat tyran Sigrun",
+    "EventData": "e_faen25_b",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "fisher",
+        "forecaster",
+        "ursur",
+        ""
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T3",
+    "IsRift": false
+}

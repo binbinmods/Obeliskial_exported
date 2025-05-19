@@ -1,0 +1,19 @@
+{
+    "DefaultPercentEpic": 15.0,
+    "DefaultPercentMythic": 0.0,
+    "DefaultPercentRare": 55.0,
+    "DefaultPercentUncommon": 30.0,
+    "GoldQuantity": 100,
+    "ID": "sahtikraken",
+    "LootItemTable": [
+        "{\n    \"LootCard\": \"krakensushi\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"purpletentacle\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"storminabottle\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}"
+    ],
+    "NumItems": 8,
+    "ShadyModel": "",
+    "ShadyScaleX": 1.0,
+    "ShadyScaleY": 1.0,
+    "ShadyOffsetX": 0.0,
+    "ShadyOffsetY": 0.0
+}

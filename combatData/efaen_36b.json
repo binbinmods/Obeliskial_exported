@@ -1,0 +1,24 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Faeborg_Ciudad",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"fast\",\n    \"AuraCurseCharges\": 2,\n    \"AuraCurseTarget\": \"Heroes\"\n}",
+        "{\n    \"AuraCurse\": \"chill\",\n    \"AuraCurseCharges\": 11,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "efaen_36b",
+    "CombatMusic": "Fairy of the Forest - 320bit",
+    "CombatTier": "T4",
+    "Description": "patruya",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "draconoid",
+        "swordman",
+        "archer",
+        "dracomancer"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T3",
+    "IsRift": false
+}

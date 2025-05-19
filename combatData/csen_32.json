@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Senenthia_Bosque",
+    "CombatEffect": [],
+    "CombatID": "csen_32",
+    "CombatMusic": "2_Adventure - Alexander Nakarada",
+    "CombatTier": "T2",
+    "Description": "forest",
+    "EventData": "e_sen32_a",
+    "EventRequirementData": "wolfstory",
+    "HealHeroes": false,
+    "NPCList": [
+        "trunky",
+        "taintedtrunky",
+        "dryad",
+        "tainteddryad"
+    ],
+    "NPCRemoveInMadness0Index": 0,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

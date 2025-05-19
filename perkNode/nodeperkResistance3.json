@@ -1,0 +1,13 @@
+{
+    "Column": 1,
+    "Cost": "PerkCostBase",
+    "ID": "nodeperkResistance3",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "mainperkresistance3",
+    "PerkRequired": "nodeperkResistance2",
+    "PerksConnected": [],
+    "Row": 3,
+    "Sprite": "ui_resistance",
+    "Type": 0
+}

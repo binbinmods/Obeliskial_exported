@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "heinerSkinWolfwars",
+    "SkinID": "heinerwolfwars",
+    "SkinName": "Wolf Wars",
+    "SkinOrder": 60,
+    "SkinSubclass": "sentinel",
+    "Sku": "2325780",
+    "SpritePortrait": "heinerWolfwarsportrait",
+    "SpritePortraitGrande": "heinerWolfwarsportraitGrande",
+    "SpriteSilueta": "heinerWolfwarssilueta",
+    "SpriteSiluetaGrande": "heinerWolfwarssiluetaGrande",
+    "SteamStat": ""
+}

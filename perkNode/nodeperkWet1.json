@@ -1,0 +1,17 @@
+{
+    "Column": 6,
+    "Cost": "PerkCostAdvanced",
+    "ID": "nodeperkWet1",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "",
+    "PerkRequired": "nodeperkWet0",
+    "PerksConnected": [
+        "nodeperkWet1a",
+        "nodeperkWet1b",
+        "nodeperkWet1c"
+    ],
+    "Row": 6,
+    "Sprite": "perk",
+    "Type": 2
+}

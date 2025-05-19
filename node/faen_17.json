@@ -1,0 +1,37 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_faen17_a",
+        "e_faen17_b"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [
+        0,
+        1
+    ],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "faen_17",
+    "NodeName": "Owl Guardian",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "faen_21"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Faeborg",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Owl Guardian"
+}

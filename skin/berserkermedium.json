@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 16,
+    "SkinGO": "grukliSkinMedium",
+    "SkinID": "berserkermedium",
+    "SkinName": "Brawler",
+    "SkinOrder": 1,
+    "SkinSubclass": "berserker",
+    "Sku": "",
+    "SpritePortrait": "grukliportraitMedium",
+    "SpritePortraitGrande": "grukliportraitGrandeMedium",
+    "SpriteSilueta": "gruklisiluetaMedium",
+    "SpriteSiluetaGrande": "gruklisiluetaGrandeMedium",
+    "SteamStat": ""
+}

@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "A pile of rabbit meat that you saved after surviving the White Horde.",
+    "ItemSprite": "eventRabbitmeat",
+    "RequirementID": "rabbitmeat",
+    "RequirementName": "Rabbit Meat",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

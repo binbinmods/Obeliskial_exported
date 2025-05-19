@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 32,
+    "SkinGO": "corneliusSkinPro",
+    "SkinID": "pyromancerpro",
+    "SkinName": "Inferno",
+    "SkinOrder": 2,
+    "SkinSubclass": "pyromancer",
+    "Sku": "",
+    "SpritePortrait": "corneliusportraitPro",
+    "SpritePortraitGrande": "corneliusportraitGrandePro",
+    "SpriteSilueta": "corneliussiluetaPro",
+    "SpriteSiluetaGrande": "corneliussiluetaGrandePro",
+    "SteamStat": ""
+}

@@ -1,0 +1,49 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_sen13_a",
+        "e_sen13_b"
+    ],
+    "NodeEventPercent": [
+        60,
+        40
+    ],
+    "NodeEventPriority": [
+        0,
+        0
+    ],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "sen_13",
+    "NodeName": "Crossroad",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "sen_16",
+        "sen_17",
+        "sen_35",
+        "sen_48"
+    ],
+    "NodesConnectedRequirement": [
+        "{\n    \"NodeData\": \"sen_16\",\n    \"ConnectionRequirement\": \"crossroadnorth\",\n    \"ConnectionIfNotNode\": \"\"\n}",
+        "{\n    \"NodeData\": \"sen_17\",\n    \"ConnectionRequirement\": \"crossroadsouth\",\n    \"ConnectionIfNotNode\": \"\"\n}",
+        "{\n    \"NodeData\": \"sen_17\",\n    \"ConnectionRequirement\": \"\",\n    \"ConnectionIfNotNode\": \"sen_35\"\n}",
+        "{\n    \"NodeData\": \"sen_35\",\n    \"ConnectionRequirement\": \"crossroadsouth\",\n    \"ConnectionIfNotNode\": \"\"\n}",
+        "{\n    \"NodeData\": \"sen_48\",\n    \"ConnectionRequirement\": \"crossroadsouth\",\n    \"ConnectionIfNotNode\": \"sen_35\"\n}"
+    ],
+    "NodeZone": "Senenthia",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Crossroad"
+}

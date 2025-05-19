@@ -1,0 +1,42 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_velka7_a",
+        "e_velka7_b"
+    ],
+    "NodeEventPercent": [
+        60,
+        40
+    ],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "velka_7",
+    "NodeName": "Cliff",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "velka_9",
+        "velka_10",
+        "velka_35"
+    ],
+    "NodesConnectedRequirement": [
+        "{\n    \"NodeData\": \"velka_9\",\n    \"ConnectionRequirement\": \"\",\n    \"ConnectionIfNotNode\": \"velka_35\"\n}",
+        "{\n    \"NodeData\": \"velka_10\",\n    \"ConnectionRequirement\": \"\",\n    \"ConnectionIfNotNode\": \"velka_35\"\n}"
+    ],
+    "NodeZone": "Velkarath",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Cliff"
+}

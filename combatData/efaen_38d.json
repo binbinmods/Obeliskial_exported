@@ -1,0 +1,22 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Faeborg_Boss",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"chill\",\n    \"AuraCurseCharges\": 16,\n    \"AuraCurseTarget\": \"Heroes\"\n}",
+        "{\n    \"AuraCurse\": \"sight\",\n    \"AuraCurseCharges\": 7,\n    \"AuraCurseTarget\": \"Monsters\"\n}",
+        "{\n    \"AuraCurse\": \"vulnerable\",\n    \"AuraCurseCharges\": 2,\n    \"AuraCurseTarget\": \"Monsters\"\n}"
+    ],
+    "CombatID": "efaen_38d",
+    "CombatMusic": "Might & Magic - 320bit",
+    "CombatTier": "T5",
+    "Description": "boss",
+    "EventData": "e_faen38_b",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "faeborg"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T4",
+    "IsRift": false
+}

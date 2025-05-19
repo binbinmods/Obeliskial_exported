@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Void_StairsClose2_Rosa",
+    "CombatEffect": [],
+    "CombatID": "challenge_7",
+    "CombatMusic": "Foreverlands - 320bit",
+    "CombatTier": "T0",
+    "Description": "Challenge Combat Tier 6 ",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "cornie",
+        "cornie",
+        "cornie",
+        ""
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "wilburSkinHalloween",
+    "SkinID": "willburhalloween",
+    "SkinName": "Halloween",
+    "SkinOrder": 50,
+    "SkinSubclass": "loremaster",
+    "Sku": "2168960",
+    "SpritePortrait": "wilburHalloweeenportrait",
+    "SpritePortraitGrande": "wilburHalloweeenportraitGrande",
+    "SpriteSilueta": "wilburHalloweeensilueta",
+    "SpriteSiluetaGrande": "wilburHalloweeensiluetaGrande",
+    "SteamStat": ""
+}

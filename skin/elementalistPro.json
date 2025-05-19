@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 32,
+    "SkinGO": "evelynSkinPro",
+    "SkinID": "elementalistPro",
+    "SkinName": "Glacier",
+    "SkinOrder": 2,
+    "SkinSubclass": "elementalist",
+    "Sku": "",
+    "SpritePortrait": "evelynportraitPro",
+    "SpritePortraitGrande": "evelynportraitGrandePro",
+    "SpriteSilueta": "evelynsiluetaPro",
+    "SpriteSiluetaGrande": "evelynsiluetaGrandePro",
+    "SteamStat": ""
+}

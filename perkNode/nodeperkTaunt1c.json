@@ -1,0 +1,13 @@
+{
+    "Column": 11,
+    "Cost": "PerkCostAdvanced",
+    "ID": "nodeperkTaunt1c",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "mainperktaunt1c",
+    "PerkRequired": "nodeperkTaunt0",
+    "PerksConnected": [],
+    "Row": 6,
+    "Sprite": "taunt",
+    "Type": 1
+}

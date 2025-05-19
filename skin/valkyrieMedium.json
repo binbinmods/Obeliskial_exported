@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 16,
+    "SkinGO": "sigrunSkinMedium",
+    "SkinID": "valkyrieMedium",
+    "SkinName": "Skald",
+    "SkinOrder": 1,
+    "SkinSubclass": "valkyrie",
+    "Sku": "",
+    "SpritePortrait": "sigrunportraitMedium",
+    "SpritePortraitGrande": "sigrunportraitGrandeMedium",
+    "SpriteSilueta": "sigrunsiluetaMedium",
+    "SpriteSiluetaGrande": "sigrunsiluetaGrandeMedium",
+    "SteamStat": ""
+}

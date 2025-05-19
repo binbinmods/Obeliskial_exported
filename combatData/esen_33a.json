@@ -1,0 +1,20 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Senenthia_BosqueBoss",
+    "CombatEffect": [],
+    "CombatID": "esen_33a",
+    "CombatMusic": "22_Alexander Nakarada - The Wandering King",
+    "CombatTier": "T2",
+    "Description": "arbol event\n",
+    "EventData": "e_sen33_b",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "taintedtrunky",
+        "tainteddryad",
+        "ylmer"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T4",
+    "IsRift": false
+}

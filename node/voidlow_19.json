@@ -1,0 +1,34 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "cvoidlow_19"
+    ],
+    "NodeCombatTier": "T11",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "voidlow_19",
+    "NodeName": "Ruins",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "voidlow_15",
+        "voidlow_21"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Voidlow",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Ruins"
+}

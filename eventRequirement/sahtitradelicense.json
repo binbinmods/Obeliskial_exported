@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "This document allows you to claim treasures and goods in the name of the Company of Overseas Trade.",
+    "ItemSprite": "eventLicense",
+    "RequirementID": "sahtitradelicense",
+    "RequirementName": "COT Trade License",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

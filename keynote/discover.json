@@ -1,0 +1,6 @@
+{
+    "Description": "Show X cards<w> from your class pool</w>.",
+    "DescriptionExtended": "Show X cards<w> from your class pool</w>.<br3>The displayed cards are selected at random.",
+    "ID": "discover",
+    "KeynoteName": "Discover"
+}

@@ -1,0 +1,6 @@
+{
+    "Description": "<min>Mind resistance</min> <y>-1% per charge</y>.<br3>Damage done <r>-0.5% per charge</r>.",
+    "DescriptionExtended": "<min>Mind resistance</min> <y>-1% per charge</y>.<br3>Damage done <r>-0.5% per charge</r>.<br3>Remove 1 charge at the <w>end of the turn</w>.",
+    "ID": "insane",
+    "KeynoteName": "Insane"
+}

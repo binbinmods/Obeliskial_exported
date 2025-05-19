@@ -1,0 +1,24 @@
+{
+    "HighPack": [
+        "evisceraterare",
+        "lastrequiemrare",
+        "lastrewardrare",
+        "barragerare",
+        "energizingserenaderare"
+    ],
+    "LowPack": [
+        "poisoncatalystrare",
+        "neurotoxinrare",
+        "rainofarrowsrare",
+        "eternallullabyrare",
+        "smokebombrare",
+        "debilitaterare",
+        "corruptedbladerare",
+        "healingserenaderare",
+        "poisonflaskrare",
+        "weaponcacherare"
+    ],
+    "PackClass": "Scout",
+    "PackName": "scout3",
+    "PackTier": 3
+}

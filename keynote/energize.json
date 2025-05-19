@@ -1,0 +1,6 @@
+{
+    "Description": "Gain<g> 1 extra Energy per charge</g> at the<w> start of the turn</w>.",
+    "DescriptionExtended": "Gain<g> 1 extra Energy per charge</g> at the<w> start of the turn</w>, then remove all charges. Can't be purged unless specified.",
+    "ID": "energize",
+    "KeynoteName": "Energize"
+}

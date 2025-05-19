@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Senenthia_Tarde",
+    "CombatEffect": [],
+    "CombatID": "csen_9",
+    "CombatMusic": "The Wizard - 320bit",
+    "CombatTier": "T2",
+    "Description": "mix granja\n",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "cornie",
+        "sheepshearer",
+        "sheep",
+        "farmer"
+    ],
+    "NPCRemoveInMadness0Index": 0,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

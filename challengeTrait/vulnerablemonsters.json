@@ -1,0 +1,7 @@
+{
+    "Icon": "vulnerable",
+    "ID": "vulnerablemonsters",
+    "IsMadnessTrait": false,
+    "Name": "Vulnerable Monsters",
+    "Order": 0
+}

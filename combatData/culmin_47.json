@@ -1,0 +1,23 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Ulminin_Catacombs",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"dark\",\n    \"AuraCurseCharges\": 3,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "culmin_47",
+    "CombatMusic": "Alexander Nakarada - Dungeons and Dragons",
+    "CombatTier": "T4",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "reaper",
+        "bonemage_b",
+        "harbinger",
+        "bonewarlock"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

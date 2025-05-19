@@ -1,0 +1,15 @@
+{
+    "Card0": "coldsparkstart",
+    "Card1": "elementalward",
+    "Card2": "frostbolt",
+    "Card3": "chargebattery",
+    "Card4": "transmision",
+    "Card5": "",
+    "CardSpecial0": "",
+    "CardSpecial1": "",
+    "PackClass": "Mage",
+    "PackID": "evelyn",
+    "PackName": "Evelyn",
+    "PerkList": [],
+    "RequiredClass": "elementalist"
+}

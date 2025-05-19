@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "magnusProCardback",
+    "CardbackName": "Marauder",
+    "CardbackOrder": 3,
+    "CardbackSprite": "CartaMagnusPro",
+    "CardbackSubclass": "mercenary",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 40,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

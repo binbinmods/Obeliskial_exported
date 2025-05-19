@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "This document allows you to take actions in the name of the admiralty.",
+    "ItemSprite": "eventMarque",
+    "RequirementID": "sahtiletterofmarque",
+    "RequirementName": "Letter of marque",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

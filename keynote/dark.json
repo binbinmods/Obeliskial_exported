@@ -1,0 +1,6 @@
+{
+    "Description": "<sha>Shadow resistance</sha> <y>-1% per charge</y>.<br3>Upon reaching <w>25 charges</w>, it explodes: Remove all charges, then suffer <sha>2 Shadow damage per charge</sha>.",
+    "DescriptionExtended": "<sha>Shadow resistance</sha> <y>-1% per charge</y>.<br3>Upon reaching <w>25 charges</w>, it explodes: Remove all charges, then suffer <sha>2 Shadow damage per charge</sha>.<br3>This damage <w>can be blocked</w> and is not affected by other modifiers.<br3>Remove 1 charge at the <w>end of the turn</w>.",
+    "ID": "dark",
+    "KeynoteName": "Dark"
+}

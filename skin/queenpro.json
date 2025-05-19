@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 32,
+    "SkinGO": "ameliaSkinPro",
+    "SkinID": "queenpro",
+    "SkinName": "Empress",
+    "SkinOrder": 2,
+    "SkinSubclass": "queen",
+    "Sku": "",
+    "SpritePortrait": "ameliaportraitPro",
+    "SpritePortraitGrande": "ameliaportraitGrandePro",
+    "SpriteSilueta": "ameliasiluetaPro",
+    "SpriteSiluetaGrande": "ameliasiluetaGrandePro",
+    "SteamStat": ""
+}

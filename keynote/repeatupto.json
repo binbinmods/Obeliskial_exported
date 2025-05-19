@@ -1,0 +1,6 @@
+{
+    "Description": "<y>Pay 1 extra energy</y> to repeat the card's effect, can pay up to <w>X times</w>.",
+    "DescriptionExtended": "<y>Pay 1 extra energy</y> to repeat the card's effect, can pay up to <w>X times</w>.",
+    "ID": "repeatupto",
+    "KeynoteName": "Repeat up to X"
+}

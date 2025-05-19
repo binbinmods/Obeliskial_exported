@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "You have a map that leads to some interesting ruins somewhere in the upper ruins.",
+    "ItemSprite": "",
+    "RequirementID": "map2",
+    "RequirementName": "Interesting ruins",
+    "RequirementTrack": true,
+    "TrackSprite": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "None"
+}

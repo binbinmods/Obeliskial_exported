@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": true,
+    "CardbackID": "nenukilCardback",
+    "CardbackName": "Default",
+    "CardbackOrder": 1000,
+    "CardbackSprite": "CardBackScout",
+    "CardbackSubclass": "engineer",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 0,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

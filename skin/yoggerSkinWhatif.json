@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "yoggerSkinWhatif",
+    "SkinID": "yoggerSkinWhatif",
+    "SkinName": "Whatif",
+    "SkinOrder": 80,
+    "SkinSubclass": "bandit",
+    "Sku": "",
+    "SpritePortrait": "yoggerwhatifportrait",
+    "SpritePortraitGrande": "yoggerwhatifportraitGrande",
+    "SpriteSilueta": "yoggerwhatifsilueta",
+    "SpriteSiluetaGrande": "yoggerwhatifsiluetaGrande",
+    "SteamStat": ""
+}

@@ -1,0 +1,47 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_voidlow5_a",
+        "e_voidlow5_b",
+        "e_voidlow5_c"
+    ],
+    "NodeEventPercent": [
+        50,
+        50,
+        100
+    ],
+    "NodeEventPriority": [
+        1,
+        1,
+        0
+    ],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "voidlow_5",
+    "NodeName": "Plaza",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "voidlow_6",
+        "voidlow_7"
+    ],
+    "NodesConnectedRequirement": [
+        "{\n    \"NodeData\": \"voidlow_6\",\n    \"ConnectionRequirement\": \"voidnorth\",\n    \"ConnectionIfNotNode\": \"\"\n}",
+        "{\n    \"NodeData\": \"voidlow_7\",\n    \"ConnectionRequirement\": \"voidsouth\",\n    \"ConnectionIfNotNode\": \"\"\n}"
+    ],
+    "NodeZone": "Voidlow",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Plaza"
+}

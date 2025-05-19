@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 16,
+    "SkinGO": "yoggerSkinMedium",
+    "SkinID": "banditmedium",
+    "SkinName": "Outlaw",
+    "SkinOrder": 1,
+    "SkinSubclass": "bandit",
+    "Sku": "",
+    "SpritePortrait": "yoggerportraitMedium",
+    "SpritePortraitGrande": "yoggerportraitGrandeMedium",
+    "SpriteSilueta": "yoggersiluetaMedium",
+    "SpriteSiluetaGrande": "yoggersiluetaGrandeMedium",
+    "SteamStat": ""
+}

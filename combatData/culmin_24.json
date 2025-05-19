@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Ulminin_Arriba2",
+    "CombatEffect": [],
+    "CombatID": "culmin_24",
+    "CombatMusic": "Alexander Nakarada - Now We Ride",
+    "CombatTier": "T3",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "halberdier",
+        "explorer",
+        "heretic",
+        "pagan"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

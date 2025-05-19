@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "Find Tsnemo's merchant ship and deliver the package to Tsnemo.",
+    "ItemSprite": "",
+    "RequirementID": "prophetquest",
+    "RequirementName": "Finding Tsnemo",
+    "RequirementTrack": true,
+    "TrackSprite": "quest-prophet",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "VoidLow"
+}

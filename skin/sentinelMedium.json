@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 16,
+    "SkinGO": "heinerSkinMedium",
+    "SkinID": "sentinelMedium",
+    "SkinName": "Avenger",
+    "SkinOrder": 1,
+    "SkinSubclass": "sentinel",
+    "Sku": "",
+    "SpritePortrait": "heinerportraitMedium",
+    "SpritePortraitGrande": "heinerportraitGrandeMedium",
+    "SpriteSilueta": "heinersiluetaMedium",
+    "SpriteSiluetaGrande": "heinersiluetaGrandeMedium",
+    "SteamStat": ""
+}

@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "You found them inside the chest in the lake; one of them is a sketch of a tree.",
+    "ItemSprite": "eventNotes",
+    "RequirementID": "oldnotes",
+    "RequirementName": "Old Notes",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "A gem given to you by Tsnemo to use in the upper ruins.",
+    "ItemSprite": "eventPurpleGem",
+    "RequirementID": "tsnemogem",
+    "RequirementName": "Purple Gem",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

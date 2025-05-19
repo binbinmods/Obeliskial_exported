@@ -1,0 +1,15 @@
+{
+    "BaseSkin": true,
+    "PerkLevel": 0,
+    "SkinGO": "zekSkinRegular",
+    "SkinID": "warlock",
+    "SkinName": "Warlock",
+    "SkinOrder": 0,
+    "SkinSubclass": "warlock",
+    "Sku": "",
+    "SpritePortrait": "zekportrait",
+    "SpritePortraitGrande": "zekportraitGrande",
+    "SpriteSilueta": "zeksilueta",
+    "SpriteSiluetaGrande": "zeksiluetaGrande",
+    "SteamStat": ""
+}

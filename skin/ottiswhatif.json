@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "ottisSkinWhatif",
+    "SkinID": "ottiswhatif",
+    "SkinName": "What if",
+    "SkinOrder": 80,
+    "SkinSubclass": "priest",
+    "Sku": "",
+    "SpritePortrait": "ottiswhatifportrait",
+    "SpritePortraitGrande": "ottiswhatifportraitGrande",
+    "SpriteSilueta": "ottiswhatifsilueta",
+    "SpriteSiluetaGrande": "ottiswhatifsiluetaGrande",
+    "SteamStat": ""
+}

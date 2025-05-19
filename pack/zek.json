@@ -1,0 +1,15 @@
+{
+    "Card0": "blackdeathstart",
+    "Card1": "curseofexhaustion",
+    "Card2": "shadowbolt",
+    "Card3": "darkpact",
+    "Card4": "drainlife",
+    "Card5": "",
+    "CardSpecial0": "",
+    "CardSpecial1": "",
+    "PackClass": "Mage",
+    "PackID": "zek",
+    "PackName": "Zek",
+    "PerkList": [],
+    "RequiredClass": "warlock"
+}

@@ -1,0 +1,20 @@
+{
+    "Card0": "gunshotscout",
+    "Card1": "burningshot",
+    "Card2": "sprint",
+    "Card3": "hitandrun",
+    "Card4": "stoneskin",
+    "Card5": "shrapnelshot",
+    "CardSpecial0": "explosiveshot",
+    "CardSpecial1": "volley",
+    "PackClass": "Scout",
+    "PackID": "gunner",
+    "PackName": "Gunner",
+    "PerkList": [
+        "mainperkmark0",
+        "mainperkpiercing1",
+        "mainperkvulnerable0a",
+        "mainperkvulnerable0c"
+    ],
+    "RequiredClass": ""
+}

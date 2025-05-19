@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "Bree_Skin_Obsidian",
+    "SkinID": "BreeSkinObsidian",
+    "SkinName": "uprising",
+    "SkinOrder": 70,
+    "SkinSubclass": "warden",
+    "Sku": "2879690",
+    "SpritePortrait": "breeuprisingportrait",
+    "SpritePortraitGrande": "breeuprisingportraitGrande",
+    "SpriteSilueta": "Breeuprisingsilueta",
+    "SpriteSiluetaGrande": "BreeuprisingsiluetaGrande",
+    "SteamStat": ""
+}

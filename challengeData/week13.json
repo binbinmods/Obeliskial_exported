@@ -1,0 +1,33 @@
+{
+    "Boss1": "yogger_o",
+    "Boss2": "gorio_o",
+    "BossCombat": "challenge_13",
+    "CorruptionList": [
+        "bomblottery",
+        "burningweapons",
+        "ashysky",
+        "armageddon",
+        "lavabursts",
+        "lavapuddle",
+        "windsofamnesia",
+        "upwind",
+        "melancholy"
+    ],
+    "Hero1": "mercenary",
+    "Hero2": "archer",
+    "Hero3": "berserker",
+    "Hero4": "prophet",
+    "ID": "week13",
+    "IDSteam": "challengeYogger",
+    "Loot": "",
+    "Seed": "bGorios4",
+    "Traits": [
+        "hemorrhage",
+        "energizedheroes",
+        "slowheroes",
+        "vigorousmonsters",
+        "wealthyheroes",
+        "doubleinjuries"
+    ],
+    "Week": 13
+}

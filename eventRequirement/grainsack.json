@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "A small sack of grain produced in the fields of Senenthia.",
+    "ItemSprite": "eventGrain",
+    "RequirementID": "grainsack",
+    "RequirementName": "Grain Sack",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

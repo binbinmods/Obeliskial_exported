@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "A monster egg given to you by a girl.",
+    "ItemSprite": "eventHarpy",
+    "RequirementID": "monsteregg",
+    "RequirementName": "Monster egg",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

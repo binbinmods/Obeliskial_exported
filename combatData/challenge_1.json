@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Void_Regular",
+    "CombatEffect": [],
+    "CombatID": "challenge_1",
+    "CombatMusic": "2_Adventure - Alexander Nakarada",
+    "CombatTier": "T0",
+    "Description": "Challenge Combat Tier 1",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "cornie",
+        "cornie",
+        "cornie",
+        ""
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T1",
+    "IsRift": false
+}

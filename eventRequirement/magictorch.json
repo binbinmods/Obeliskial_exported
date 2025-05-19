@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "A magic torch that you can use to melt ice or to prevent yourselves from freezing.",
+    "ItemSprite": "eventMagicTorch",
+    "RequirementID": "magictorch",
+    "RequirementName": "Magic Torch",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

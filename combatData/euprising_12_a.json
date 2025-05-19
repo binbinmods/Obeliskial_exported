@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Uprising_MidElevator",
+    "CombatEffect": [],
+    "CombatID": "euprising_12_a",
+    "CombatMusic": "20_Until+the+End - Alexander Nakarada",
+    "CombatTier": "T3",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "trooper",
+        "incinerator",
+        "drone",
+        "thorim"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

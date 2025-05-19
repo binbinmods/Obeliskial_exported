@@ -1,0 +1,6 @@
+{
+    "Description": "<col>Cold resistance</col> <y>-1% per charge</y>.<br3>Speed <r>-1 per 5 charges</r>.",
+    "DescriptionExtended": "<col>Cold resistance</col> <y>-1% per charge</y>.<br3>Speed <r>-1 per 5 charges</r>.<br3>Remove 1 charge at the <w>start of the turn</w>.",
+    "ID": "chill",
+    "KeynoteName": "Chill"
+}

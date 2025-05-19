@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Aquarfall_Water",
+    "CombatEffect": [],
+    "CombatID": "caqua_27",
+    "CombatMusic": "5_Alexander Nakarada - Explorer",
+    "CombatTier": "T4",
+    "Description": "combat",
+    "EventData": "e_aquar27_a",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "hypnocrab",
+        "hypnocrab",
+        "rhogor",
+        ""
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T3",
+    "IsRift": false
+}

@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "wildChampions",
+    "CardbackName": "cardbackWildChampions",
+    "CardbackOrder": 130,
+    "CardbackSprite": "CardBackChallengeMinotaur",
+    "CardbackSubclass": "",
+    "Locked": true,
+    "ObeliskLevel": 0,
+    "RankLevel": 0,
+    "ShowIfLocked": true,
+    "Sku": "",
+    "SteamStat": "challengeMinotaur"
+}

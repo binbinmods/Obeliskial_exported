@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "malukahSkinHalloween",
+    "SkinID": "malukahhalloween",
+    "SkinName": "Halloween",
+    "SkinOrder": 50,
+    "SkinSubclass": "voodoowitch",
+    "Sku": "2168960",
+    "SpritePortrait": "malukahHalloweeenportrait",
+    "SpritePortraitGrande": "malukahHalloweeenportraitGrande",
+    "SpriteSilueta": "malukahHalloweeensilueta",
+    "SpriteSiluetaGrande": "malukahHalloweeensiluetaGrande",
+    "SteamStat": ""
+}

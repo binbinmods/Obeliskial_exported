@@ -1,0 +1,33 @@
+{
+    "DefaultPercentEpic": 100.0,
+    "DefaultPercentMythic": 0.0,
+    "DefaultPercentRare": 0.0,
+    "DefaultPercentUncommon": 0.0,
+    "GoldQuantity": 0,
+    "ID": "tradeship3",
+    "LootItemTable": [
+        "{\n    \"LootCard\": \"venomfang\",\n    \"LootPercent\": 60.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"hellblade\",\n    \"LootPercent\": 60.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"redcape\",\n    \"LootPercent\": 60.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"minotaurhorn\",\n    \"LootPercent\": 60.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"spiderqueeneye\",\n    \"LootPercent\": 50.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"freelover\",\n    \"LootPercent\": 50.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"pyromancerrobe\",\n    \"LootPercent\": 60.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"chargedtrident\",\n    \"LootPercent\": 60.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"frostaxe\",\n    \"LootPercent\": 60.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"frozentear\",\n    \"LootPercent\": 60.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"ylmerbranch\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"edgeoffury\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"shieldofthorns\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"ringoffire\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"stormcallerfeather\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"yggdrasilroot\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"mysticstaff\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}"
+    ],
+    "NumItems": 8,
+    "ShadyModel": "nezglektSkinMedium",
+    "ShadyScaleX": -1.0,
+    "ShadyScaleY": 1.0,
+    "ShadyOffsetX": 0.0,
+    "ShadyOffsetY": 0.0
+}

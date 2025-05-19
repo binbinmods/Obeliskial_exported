@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "A necklace you picked up from some dead goblin scouts.",
+    "ItemSprite": "eventGoblin",
+    "RequirementID": "goblinnecklace",
+    "RequirementName": "Goblin Necklace",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

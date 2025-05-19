@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "You agreed to help the goblins and kill the beast that feeds on them.",
+    "ItemSprite": "",
+    "RequirementID": "goblinquest",
+    "RequirementName": "The chieftain's request",
+    "RequirementTrack": true,
+    "TrackSprite": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "Velkarath"
+}

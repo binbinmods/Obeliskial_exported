@@ -1,0 +1,24 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Dread_Halfman",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"fast\",\n    \"AuraCurseCharges\": 3,\n    \"AuraCurseTarget\": \"Heroes\"\n}",
+        "{\n    \"AuraCurse\": \"powerful\",\n    \"AuraCurseCharges\": 2,\n    \"AuraCurseTarget\": \"Heroes\"\n}",
+        "{\n    \"AuraCurse\": \"insane\",\n    \"AuraCurseCharges\": 3,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "edread_11d",
+    "CombatMusic": "20_Until+the+End - Alexander Nakarada",
+    "CombatTier": "T4",
+    "Description": "halfman flank sc",
+    "EventData": "e_dread11_b",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "mimic",
+        "phantasm",
+        "halfman"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T4",
+    "IsRift": false
+}

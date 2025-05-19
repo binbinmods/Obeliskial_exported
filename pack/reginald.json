@@ -1,0 +1,15 @@
+{
+    "Card0": "divinegracestart",
+    "Card1": "heal",
+    "Card2": "holysmite",
+    "Card3": "healingrain",
+    "Card4": "flash",
+    "Card5": "",
+    "CardSpecial0": "",
+    "CardSpecial1": "",
+    "PackClass": "Healer",
+    "PackID": "reginald",
+    "PackName": "Reginald",
+    "PerkList": [],
+    "RequiredClass": "cleric"
+}

@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "navaleaSkinWhatif",
+    "SkinID": "navaleaSkinWhatif",
+    "SkinName": "Whatif",
+    "SkinOrder": 80,
+    "SkinSubclass": "fallen",
+    "Sku": "",
+    "SpritePortrait": "navaleawhatifPortrait",
+    "SpritePortraitGrande": "navaleawhatifPortraitGrande",
+    "SpriteSilueta": "navaleawhatifSilueta",
+    "SpriteSiluetaGrande": "navaleawhatifSiluetaGrande",
+    "SteamStat": ""
+}

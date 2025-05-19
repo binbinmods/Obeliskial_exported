@@ -1,0 +1,31 @@
+{
+    "DefaultPercentEpic": 100.0,
+    "DefaultPercentMythic": 0.0,
+    "DefaultPercentRare": 0.0,
+    "DefaultPercentUncommon": 0.0,
+    "GoldQuantity": 0,
+    "ID": "tradeship6",
+    "LootItemTable": [
+        "{\n    \"LootCard\": \"bloodseeker\",\n    \"LootPercent\": 60.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"tempest\",\n    \"LootPercent\": 60.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Mythic\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"hydraegg\",\n    \"LootPercent\": 60.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"faeborgscale\",\n    \"LootPercent\": 60.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"icebreaker\",\n    \"LootPercent\": 60.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"stormtiara\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"titangauntlets\",\n    \"LootPercent\": 50.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"blackdeck\",\n    \"LootPercent\": 60.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"thepolluter\",\n    \"LootPercent\": 60.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"dracomancerstaff\",\n    \"LootPercent\": 60.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"strongmojo\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"elvencuirass\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"ironkanabo\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"igniscloack\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}"
+    ],
+    "NumItems": 8,
+    "ShadyModel": "nezglektSkinMedium",
+    "ShadyScaleX": -1.0,
+    "ShadyScaleY": 1.0,
+    "ShadyOffsetX": 0.0,
+    "ShadyOffsetY": 0.0
+}

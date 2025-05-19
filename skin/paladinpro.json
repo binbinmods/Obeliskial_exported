@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 32,
+    "SkinGO": "laiaSkinPro",
+    "SkinID": "paladinpro",
+    "SkinName": "Vanguard",
+    "SkinOrder": 2,
+    "SkinSubclass": "paladin",
+    "Sku": "",
+    "SpritePortrait": "laiaPortraitPro",
+    "SpritePortraitGrande": "laiaPortraitProGrande",
+    "SpriteSilueta": "laiaSiluetaPro",
+    "SpriteSiluetaGrande": "laiaSiluetaProGrande",
+    "SteamStat": ""
+}

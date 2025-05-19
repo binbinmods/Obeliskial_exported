@@ -1,0 +1,31 @@
+{
+    "HighPack": [
+        "adrenalinerare",
+        "lethalshotrare",
+        "corruptedbladerare",
+        "rainofarrowsrare",
+        "snipershotrare",
+        "debilitaterare",
+        "healingserenaderare",
+        "weaponcacherare",
+        "smokebombrare",
+        "balladofconquestrare",
+        "poisonflaskrare"
+    ],
+    "LowPack": [
+        "adrenalinerare",
+        "banerare",
+        "shadowsteprare",
+        "ambidextrousrare",
+        "farshotrare",
+        "findweaknessrare",
+        "poisonsprayrare",
+        "neverendingstoryrare",
+        "sharpeningkniferare",
+        "volleyrare",
+        "wickedcraftsmanrare"
+    ],
+    "PackClass": "Scout",
+    "PackName": "scout1",
+    "PackTier": 1
+}

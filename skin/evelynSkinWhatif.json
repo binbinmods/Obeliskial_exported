@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "evelynSkinWhatif",
+    "SkinID": "evelynSkinWhatif",
+    "SkinName": "What if",
+    "SkinOrder": 80,
+    "SkinSubclass": "elementalist",
+    "Sku": "",
+    "SpritePortrait": "evelynwhatifportrait",
+    "SpritePortraitGrande": "evelynwhatifportraitGrande",
+    "SpriteSilueta": "evelynwhatifsilueta",
+    "SpriteSiluetaGrande": "evelynwhatifsiluetaGrande",
+    "SteamStat": ""
+}

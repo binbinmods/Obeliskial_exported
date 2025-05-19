@@ -1,0 +1,13 @@
+{
+    "Column": 9,
+    "Cost": "PerkCostAdvanced",
+    "ID": "nodeperkVulnerable0b",
+    "LockedInTown": false,
+    "NotStack": true,
+    "Perk": "mainperkvulnerable0b",
+    "PerkRequired": "",
+    "PerksConnected": [],
+    "Row": 3,
+    "Sprite": "vulnerable",
+    "Type": 1
+}

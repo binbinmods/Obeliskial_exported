@@ -1,0 +1,23 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Velkarath_Arena",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"vitality\",\n    \"AuraCurseCharges\": 20,\n    \"AuraCurseTarget\": \"Monsters\"\n}",
+        "{\n    \"AuraCurse\": \"fury\",\n    \"AuraCurseCharges\": 10,\n    \"AuraCurseTarget\": \"Monsters\"\n}",
+        "{\n    \"AuraCurse\": \"mitigate\",\n    \"AuraCurseCharges\": 6,\n    \"AuraCurseTarget\": \"Monsters\"\n}",
+        "{\n    \"AuraCurse\": \"fast\",\n    \"AuraCurseCharges\": 2,\n    \"AuraCurseTarget\": \"Monsters\"\n}"
+    ],
+    "CombatID": "evelka_12e",
+    "CombatMusic": "22_Alexander Nakarada - The Wandering King",
+    "CombatTier": "T3",
+    "Description": "arena  campeon especial",
+    "EventData": "e_velka12_a5",
+    "EventRequirementData": "",
+    "HealHeroes": true,
+    "NPCList": [
+        "astarios"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T4",
+    "IsRift": false
+}

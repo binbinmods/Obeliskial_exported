@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "You found them in the crocomen village; they explain how to decipher the naga runes.",
+    "ItemSprite": "eventNagaNotes",
+    "RequirementID": "naganotes",
+    "RequirementName": "Naga Notes",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

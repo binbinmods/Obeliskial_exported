@@ -1,0 +1,15 @@
+{
+    "BaseSkin": true,
+    "PerkLevel": 0,
+    "SkinGO": "yoggerSkinRegular",
+    "SkinID": "bandit",
+    "SkinName": "Bandit",
+    "SkinOrder": 0,
+    "SkinSubclass": "bandit",
+    "Sku": "",
+    "SpritePortrait": "yoggerportrait",
+    "SpritePortraitGrande": "yoggerportraitGrande",
+    "SpriteSilueta": "yoggersilueta",
+    "SpriteSiluetaGrande": "yoggersiluetaGrande",
+    "SteamStat": ""
+}

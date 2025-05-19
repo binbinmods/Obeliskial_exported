@@ -1,0 +1,15 @@
+{
+    "BaseSkin": true,
+    "PerkLevel": 0,
+    "SkinGO": "bernardSkinRegular",
+    "SkinID": "alchemist",
+    "SkinName": "Alchemist",
+    "SkinOrder": 0,
+    "SkinSubclass": "alchemist",
+    "Sku": "",
+    "SpritePortrait": "Bernardportrait",
+    "SpritePortraitGrande": "BernardportraitGrande",
+    "SpriteSilueta": "bernardsilueta",
+    "SpriteSiluetaGrande": "bernardsiluetaGrande",
+    "SteamStat": ""
+}

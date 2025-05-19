@@ -1,0 +1,27 @@
+{
+    "HighPack": [
+        "challengingshout",
+        "secondwind",
+        "reinforcedsteelrare",
+        "devastate",
+        "citadel",
+        "bouncingshield",
+        "titanfall"
+    ],
+    "LowPack": [
+        "enragerare",
+        "arsenalrare",
+        "overpowerrare",
+        "whirlwindrare",
+        "bleedoutrare",
+        "shieldslamrare",
+        "laststandrare",
+        "provokerare",
+        "shieldwallrare",
+        "grindingwheelrare",
+        "demolishingblowrare"
+    ],
+    "PackClass": "Warrior",
+    "PackName": "warrior2",
+    "PackTier": 2
+}

@@ -1,0 +1,13 @@
+{
+    "Column": 7,
+    "Cost": "PerkCostBase",
+    "ID": "nodeperkSpark0",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "mainperkspark0",
+    "PerkRequired": "",
+    "PerksConnected": [],
+    "Row": 1,
+    "Sprite": "spark",
+    "Type": 2
+}

@@ -1,0 +1,20 @@
+{
+    "Card0": "curseofexhaustion",
+    "Card1": "curseofshadows",
+    "Card2": "curseofelements",
+    "Card3": "curseoffragility",
+    "Card4": "curseofdecay",
+    "Card5": "curseofagony",
+    "CardSpecial0": "curseofvulnerability",
+    "CardSpecial1": "recurringnightmare",
+    "PackClass": "Mage",
+    "PackID": "witch",
+    "PackName": "Witch",
+    "PerkList": [
+        "mainperkdark0",
+        "mainperkdark2b",
+        "mainperkdecay1c",
+        "mainperkshadow2"
+    ],
+    "RequiredClass": ""
+}

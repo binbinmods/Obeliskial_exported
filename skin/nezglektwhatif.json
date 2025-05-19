@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "nezglektSkinWhatif",
+    "SkinID": "nezglektwhatif",
+    "SkinName": "What if",
+    "SkinOrder": 80,
+    "SkinSubclass": "prophet",
+    "Sku": "",
+    "SpritePortrait": "Nezglektwhatifportrait",
+    "SpritePortraitGrande": "NezglektwhatifportraitGrande",
+    "SpriteSilueta": "Nezglektwhatifsilueta",
+    "SpriteSiluetaGrande": "NezglektwhatifsiluetaGrande",
+    "SteamStat": ""
+}

@@ -1,0 +1,13 @@
+{
+    "Column": 4,
+    "Cost": "PerkCostAdvanced",
+    "ID": "nodeperkDark2c",
+    "LockedInTown": false,
+    "NotStack": true,
+    "Perk": "mainperkdark2c",
+    "PerkRequired": "nodeperkDark1",
+    "PerksConnected": [],
+    "Row": 5,
+    "Sprite": "dark",
+    "Type": 3
+}

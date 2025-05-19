@@ -1,0 +1,37 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_ulmin20_a"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "ulmin_20",
+    "NodeName": "Stone Door",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "ulmin_24",
+        "ulmin_42",
+        "ulmin_61"
+    ],
+    "NodesConnectedRequirement": [
+        "{\n    \"NodeData\": \"ulmin_24\",\n    \"ConnectionRequirement\": \"\",\n    \"ConnectionIfNotNode\": \"ulmin_61\"\n}"
+    ],
+    "NodeZone": "Ulminin",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Stone Door"
+}

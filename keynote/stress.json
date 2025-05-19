@@ -1,0 +1,6 @@
+{
+    "Description": "Draw<r> 1 fewer card per charge</r> at the <w>start of the turn</w>.",
+    "DescriptionExtended": "Draw<r> 1 fewer card per charge</r> at the <w>start of the turn</w>, then remove all charges. Can't be dispelled unless specified.",
+    "ID": "stress",
+    "KeynoteName": "Stress"
+}

@@ -1,0 +1,19 @@
+{
+    "DefaultPercentEpic": 25.0,
+    "DefaultPercentMythic": 0.0,
+    "DefaultPercentRare": 75.0,
+    "DefaultPercentUncommon": 0.0,
+    "GoldQuantity": 120,
+    "ID": "sahtirustkingtreasure",
+    "LootItemTable": [
+        "{\n    \"LootCard\": \"rustyhook\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"jollyroger\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"piratehat\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}"
+    ],
+    "NumItems": 8,
+    "ShadyModel": "",
+    "ShadyScaleX": 1.0,
+    "ShadyScaleY": 1.0,
+    "ShadyOffsetX": 0.0,
+    "ShadyOffsetY": 0.0
+}

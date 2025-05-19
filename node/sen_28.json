@@ -1,0 +1,39 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "csen_28"
+    ],
+    "NodeCombatTier": "T2",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [
+        0
+    ],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "sen_28",
+    "NodeName": "South Fang Gate",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "sen_27",
+        "sen_33",
+        "sen_38"
+    ],
+    "NodesConnectedRequirement": [
+        "{\n    \"NodeData\": \"sen_33\",\n    \"ConnectionRequirement\": \"\",\n    \"ConnectionIfNotNode\": \"sen_38\"\n}"
+    ],
+    "NodeZone": "Senenthia",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "South Fang Gate"
+}

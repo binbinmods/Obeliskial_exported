@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "Search Navalea's homeland for a sacred place to purify the source of the curse.",
+    "ItemSprite": "",
+    "RequirementID": "fallenquest2",
+    "RequirementName": "Lifting the curse",
+    "RequirementTrack": true,
+    "TrackSprite": "quest-fallen",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "VoidHigh"
+}

@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "gustavSkinHalloween",
+    "SkinID": "gustavhalloween",
+    "SkinName": "Halloween",
+    "SkinOrder": 50,
+    "SkinSubclass": "minstrel",
+    "Sku": "2168960",
+    "SpritePortrait": "gustavportraitHalloween",
+    "SpritePortraitGrande": "gustavportraitGrandeHalloween",
+    "SpriteSilueta": "gustavHalloweensilueta",
+    "SpriteSiluetaGrande": "gustavHalloweensiluetaGrande",
+    "SteamStat": ""
+}

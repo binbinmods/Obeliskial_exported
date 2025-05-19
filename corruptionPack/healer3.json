@@ -1,0 +1,23 @@
+{
+    "HighPack": [
+        "crescentlightrare",
+        "sanctificationrare",
+        "demonictutorrare",
+        "guardianangelrare",
+        "heavenlyblessingrare"
+    ],
+    "LowPack": [
+        "mesmericmiragerare",
+        "sacredceremonyrare",
+        "sanctuaryrare",
+        "circleofhealingrare",
+        "baptismrare",
+        "sanctificationrare",
+        "deathsreachrare",
+        "pandemoniumrare",
+        "celestialbrillancerare"
+    ],
+    "PackClass": "Healer",
+    "PackName": "healer3",
+    "PackTier": 3
+}

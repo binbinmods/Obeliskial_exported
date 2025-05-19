@@ -1,0 +1,20 @@
+{
+    "Card0": "maliciouseye",
+    "Card1": "darkpact",
+    "Card2": "darkritual",
+    "Card3": "shadowbolt",
+    "Card4": "pestilence",
+    "Card5": "necroticburst",
+    "CardSpecial0": "darknessfalls",
+    "CardSpecial1": "bookofnightmares",
+    "PackClass": "Mage",
+    "PackID": "shadowmancer",
+    "PackName": "Shadowmancer",
+    "PerkList": [
+        "mainperksharp1d",
+        "mainperkdark1",
+        "mainperkdark2c",
+        "mainperkdark2d"
+    ],
+    "RequiredClass": ""
+}

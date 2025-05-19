@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "reginaldRegularCardback",
+    "CardbackName": "Cleric",
+    "CardbackOrder": 1,
+    "CardbackSprite": "CartaReginald",
+    "CardbackSubclass": "cleric",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 8,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

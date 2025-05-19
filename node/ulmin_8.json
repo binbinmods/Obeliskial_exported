@@ -1,0 +1,37 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_ulmin8_a"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "ulmin_8",
+    "NodeName": "Tent",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "ulmin_11",
+        "ulmin_13",
+        "ulmin_15"
+    ],
+    "NodesConnectedRequirement": [
+        "{\n    \"NodeData\": \"ulmin_11\",\n    \"ConnectionRequirement\": \"\",\n    \"ConnectionIfNotNode\": \"ulmin_13\"\n}"
+    ],
+    "NodeZone": "Ulminin",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Tent"
+}

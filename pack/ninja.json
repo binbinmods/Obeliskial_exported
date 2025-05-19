@@ -1,0 +1,20 @@
+{
+    "Card0": "shiv",
+    "Card1": "blur",
+    "Card2": "caltrops",
+    "Card3": "sneakpeek",
+    "Card4": "ambush",
+    "Card5": "sneakystrike",
+    "CardSpecial0": "shadowstep",
+    "CardSpecial1": "fanofknives",
+    "PackClass": "Scout",
+    "PackID": "ninja",
+    "PackName": "Ninja",
+    "PerkList": [
+        "mainperkinspire0a",
+        "mainperkstealth1b",
+        "mainperkstealth1c",
+        "mainperkenergy2c"
+    ],
+    "RequiredClass": ""
+}

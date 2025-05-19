@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Velkarath_Stone",
+    "CombatEffect": [],
+    "CombatID": "cvelka_28",
+    "CombatMusic": "14_Nomadic+Sunset - Alexander Nakarada",
+    "CombatTier": "T4",
+    "Description": "harpys",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "stoneelemental",
+        "skyhunter",
+        "obsidianelemental",
+        "stormcaller"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T3",
+    "IsRift": false
+}

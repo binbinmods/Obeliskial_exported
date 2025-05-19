@@ -1,0 +1,33 @@
+{
+    "Boss1": "matriarch_o",
+    "Boss2": "gorio_o",
+    "BossCombat": "challenge_13hydra",
+    "CorruptionList": [
+        "lonelyblob",
+        "windsofamnesia",
+        "poisonfields",
+        "noxiousparasites",
+        "melancholy",
+        "toxicpuddle",
+        "waterpuddle",
+        "coldfront",
+        "thunderstorm"
+    ],
+    "Hero1": "mercenary",
+    "Hero2": "ranger",
+    "Hero3": "loremaster",
+    "Hero4": "voodoowitch",
+    "ID": "week8",
+    "IDSteam": "challengeHydra",
+    "Loot": "",
+    "Seed": "Hydras4",
+    "Traits": [
+        "icydeluge",
+        "lucky",
+        "fastmonsters",
+        "doubleinjuries",
+        "reinforcedmonsters",
+        "wealthyheroes"
+    ],
+    "Week": 8
+}

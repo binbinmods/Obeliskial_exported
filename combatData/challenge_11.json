@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Void_Obelisk_Lila",
+    "CombatEffect": [],
+    "CombatID": "challenge_11",
+    "CombatMusic": "Might & Magic - 320bit",
+    "CombatTier": "T0",
+    "Description": "Challenge Combat Tier 11 fondo obelsl",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "cornie",
+        "cornie",
+        "cornie",
+        ""
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

@@ -1,0 +1,6 @@
+{
+    "Description": "Heal<g> 1 HP per charge </g> at the <w>start of the turn</w>.",
+    "DescriptionExtended": "Heal<g> 1 HP per charge </g> at the <w>start of the turn</w>, then remove 1 charge.",
+    "ID": "regeneration",
+    "KeynoteName": "Regeneration"
+}

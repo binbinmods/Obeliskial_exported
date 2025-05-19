@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "halloweenEvent",
+    "CardbackName": "cardbackTrickOrTreat",
+    "CardbackOrder": 75,
+    "CardbackSprite": "CartaHalloweenEvent",
+    "CardbackSubclass": "",
+    "Locked": true,
+    "ObeliskLevel": 0,
+    "RankLevel": 0,
+    "ShowIfLocked": true,
+    "Sku": "",
+    "SteamStat": "challengeSpooky"
+}

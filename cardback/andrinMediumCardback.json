@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "andrinMediumCardback",
+    "CardbackName": "Explorer",
+    "CardbackOrder": 2,
+    "CardbackSprite": "CartaAndrinMedium",
+    "CardbackSubclass": "ranger",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 24,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

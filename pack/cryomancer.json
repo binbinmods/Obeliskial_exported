@@ -1,0 +1,20 @@
+{
+    "Card0": "icelance",
+    "Card1": "shatter",
+    "Card2": "frostbolt",
+    "Card3": "frostnova",
+    "Card4": "iciclebarrage",
+    "Card5": "rayoffrost",
+    "CardSpecial0": "coldsnap",
+    "CardSpecial1": "winterorb",
+    "PackClass": "Mage",
+    "PackID": "cryomancer",
+    "PackName": "Cryomancer",
+    "PerkList": [
+        "mainperkcold2",
+        "mainperkchill1",
+        "mainperkchill2b",
+        "mainperkchill2c"
+    ],
+    "RequiredClass": ""
+}

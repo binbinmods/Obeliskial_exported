@@ -1,0 +1,36 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_ulmin35_a"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "ulmin_35",
+    "NodeName": "Obelisk",
+    "NodeRequirement": "ulmininup",
+    "NodesConnected": [
+        "ulmin_36",
+        "ulmin_38"
+    ],
+    "NodesConnectedRequirement": [
+        "{\n    \"NodeData\": \"ulmin_38\",\n    \"ConnectionRequirement\": \"\",\n    \"ConnectionIfNotNode\": \"ulmin_36\"\n}"
+    ],
+    "NodeZone": "Ulminin",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Desert"
+}

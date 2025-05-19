@@ -1,0 +1,20 @@
+{
+    "Card0": "dawnlight",
+    "Card1": "flashheal",
+    "Card2": "benediction",
+    "Card3": "heal",
+    "Card4": "holysmite",
+    "Card5": "prayerofhealing",
+    "CardSpecial0": "pulsingheal",
+    "CardSpecial1": "divinepower",
+    "PackClass": "Healer",
+    "PackID": "saint",
+    "PackName": "Saint",
+    "PerkList": [
+        "mainperkbless1b",
+        "mainperkbless1c",
+        "mainperkheal0",
+        "mainperkholy1"
+    ],
+    "RequiredClass": ""
+}

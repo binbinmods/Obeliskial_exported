@@ -1,0 +1,23 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Sectarium",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"mark\",\n    \"AuraCurseCharges\": 7,\n    \"AuraCurseTarget\": \"Monster3\"\n}"
+    ],
+    "CombatID": "esecta_6b",
+    "CombatMusic": "16_Nowhere Land - Alexander Nakarada",
+    "CombatTier": "T1",
+    "Description": "imp altar",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "volatileimp",
+        "fireimp",
+        "",
+        "impaltar"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T3",
+    "IsRift": false
+}

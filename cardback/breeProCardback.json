@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "breeProCardback",
+    "CardbackName": "Warlord",
+    "CardbackOrder": 3,
+    "CardbackSprite": "CartaBreePro",
+    "CardbackSubclass": "warden",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 40,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

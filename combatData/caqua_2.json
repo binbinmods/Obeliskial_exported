@@ -1,0 +1,23 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Aquarfall_Main",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"stealth\",\n    \"AuraCurseCharges\": 2,\n    \"AuraCurseTarget\": \"Monster2\"\n}"
+    ],
+    "CombatID": "caqua_2",
+    "CombatMusic": "19_Traveler - Alexander Nakarada",
+    "CombatTier": "T3",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "stalker",
+        "dragonfly",
+        "stalker",
+        "mystic"
+    ],
+    "NPCRemoveInMadness0Index": 0,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

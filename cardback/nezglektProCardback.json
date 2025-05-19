@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "nezglektProCardback",
+    "CardbackName": "Mentalist",
+    "CardbackOrder": 3,
+    "CardbackSprite": "CartaNezglektPro",
+    "CardbackSubclass": "prophet",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 40,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

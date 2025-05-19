@@ -1,0 +1,15 @@
+{
+    "BaseSkin": true,
+    "PerkLevel": 0,
+    "SkinGO": "breeSkinRegular",
+    "SkinID": "warden",
+    "SkinName": "Warden",
+    "SkinOrder": 0,
+    "SkinSubclass": "warden",
+    "Sku": "",
+    "SpritePortrait": "breeportrait",
+    "SpritePortraitGrande": "breeportraitGrande",
+    "SpriteSilueta": "Breesilueta",
+    "SpriteSiluetaGrande": "BreesiluetaGrande",
+    "SteamStat": ""
+}

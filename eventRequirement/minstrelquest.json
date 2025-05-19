@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "Gustav needs a new lute, but not just any lute; the one he wants is in an elven mansion.",
+    "ItemSprite": "",
+    "RequirementID": "minstrelquest",
+    "RequirementName": "A stylish instrument",
+    "RequirementTrack": true,
+    "TrackSprite": "quest-minstrel",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "Faeborg"
+}

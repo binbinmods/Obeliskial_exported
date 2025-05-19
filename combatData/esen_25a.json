@@ -1,0 +1,24 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Senenthia_BosqueEntrada",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"bleed\",\n    \"AuraCurseCharges\": 3,\n    \"AuraCurseTarget\": \"Heroes\"\n}",
+        "{\n    \"AuraCurse\": \"slow\",\n    \"AuraCurseCharges\": 3,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "esen_25a",
+    "CombatMusic": "Enchanted Forest",
+    "CombatTier": "T2",
+    "Description": "Te quedas a dormir  sin sospechar nada, te despiertas aturdido y con un injury",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "brigand",
+        "sharpshooter",
+        "cutthroat",
+        "shaman"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

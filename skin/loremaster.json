@@ -1,0 +1,15 @@
+{
+    "BaseSkin": true,
+    "PerkLevel": 0,
+    "SkinGO": "wilburSkinRegular",
+    "SkinID": "loremaster",
+    "SkinName": "Loremaster",
+    "SkinOrder": 0,
+    "SkinSubclass": "loremaster",
+    "Sku": "",
+    "SpritePortrait": "loremasterportrait",
+    "SpritePortraitGrande": "loremasterportraitGrande",
+    "SpriteSilueta": "loremastersilueta",
+    "SpriteSiluetaGrande": "loremastersiluetaGrande",
+    "SteamStat": ""
+}

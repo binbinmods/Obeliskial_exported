@@ -1,0 +1,23 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Dread_Ship",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"insane\",\n    \"AuraCurseCharges\": 3,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "edread_8a",
+    "CombatMusic": "Moon - 320bit",
+    "CombatTier": "T3",
+    "Description": "combat normal",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "phantasm",
+        "mimic",
+        "phantasm",
+        "mimic"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

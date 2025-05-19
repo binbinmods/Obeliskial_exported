@@ -1,0 +1,15 @@
+{
+    "Card0": "heatlaserstart",
+    "Card1": "bluff",
+    "Card2": "guard",
+    "Card3": "intercept",
+    "Card4": "shieldcharge",
+    "Card5": "",
+    "CardSpecial0": "",
+    "CardSpecial1": "",
+    "PackClass": "Warrior",
+    "PackID": "heiner",
+    "PackName": "Heiner",
+    "PerkList": [],
+    "RequiredClass": "sentinel"
+}

@@ -1,0 +1,6 @@
+{
+    "Description": "<w>Skip the next turn</w>.",
+    "DescriptionExtended": "<w>Skip the next turn,</w> then remove 1 charge.",
+    "ID": "paralyze",
+    "KeynoteName": "Paralyze"
+}

@@ -1,0 +1,13 @@
+{
+    "Column": 11,
+    "Cost": "PerkCostBase",
+    "ID": "nodeperkTaunt0",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "mainperktaunt0",
+    "PerkRequired": "",
+    "PerksConnected": [],
+    "Row": 5,
+    "Sprite": "taunt",
+    "Type": 1
+}

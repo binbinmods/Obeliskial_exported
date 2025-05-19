@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 32,
+    "SkinGO": "heinerSkinPro",
+    "SkinID": "sentinelPro",
+    "SkinName": "Guardian",
+    "SkinOrder": 2,
+    "SkinSubclass": "sentinel",
+    "Sku": "",
+    "SpritePortrait": "heinerportraitPro",
+    "SpritePortraitGrande": "heinerportraitGrandePro",
+    "SpriteSilueta": "heinersiluetaPro",
+    "SpriteSiluetaGrande": "heinersiluetaGrandePro",
+    "SteamStat": ""
+}

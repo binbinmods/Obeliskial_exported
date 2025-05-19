@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "The shadow figure wants a strong venom, which can be found inside a spider cave in Aquarfall.",
+    "ItemSprite": "",
+    "RequirementID": "assassinquest",
+    "RequirementName": "Whispers in the shadow",
+    "RequirementTrack": true,
+    "TrackSprite": "quest-assassin",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "Aquarfall"
+}

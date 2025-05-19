@@ -1,0 +1,40 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_velka9_a1",
+        "e_velka9_a2"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [
+        1,
+        0
+    ],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "velka_9",
+    "NodeName": "Cave",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "velka_18",
+        "velka_36"
+    ],
+    "NodesConnectedRequirement": [
+        "{\n    \"NodeData\": \"velka_18\",\n    \"ConnectionRequirement\": \"\",\n    \"ConnectionIfNotNode\": \"velka_36\"\n}"
+    ],
+    "NodeZone": "Velkarath",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Cave"
+}

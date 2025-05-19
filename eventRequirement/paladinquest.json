@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "Laia asked you to ring the silver bell three times, on an ancient battlefield.",
+    "ItemSprite": "",
+    "RequirementID": "paladinquest",
+    "RequirementName": "The Void bells",
+    "RequirementTrack": true,
+    "TrackSprite": "quest-paladin",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "VoidHigh"
+}

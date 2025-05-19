@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "yoggerMediumCardback",
+    "CardbackName": "Outlaw",
+    "CardbackOrder": 2,
+    "CardbackSprite": "CartaYoggerMedium",
+    "CardbackSubclass": "bandit",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 24,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

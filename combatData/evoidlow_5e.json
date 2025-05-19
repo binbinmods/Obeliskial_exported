@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Void_Stairs",
+    "CombatEffect": [],
+    "CombatID": "evoidlow_5e",
+    "CombatMusic": "Dragonquest - 320bit",
+    "CombatTier": "T10",
+    "Description": "Los dos campeones",
+    "EventData": "e_voidlow5_c1",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "guts",
+        "vanguard_dark",
+        "gunner",
+        "alexander"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

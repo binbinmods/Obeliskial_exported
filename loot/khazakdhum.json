@@ -1,0 +1,22 @@
+{
+    "DefaultPercentEpic": 20.0,
+    "DefaultPercentMythic": 0.0,
+    "DefaultPercentRare": 60.0,
+    "DefaultPercentUncommon": 20.0,
+    "GoldQuantity": 100,
+    "ID": "khazakdhum",
+    "LootItemTable": [
+        "{\n    \"LootCard\": \"thewall\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"bronzegear\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"lavapotion\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Weapon\"\n}",
+        "{\n    \"LootCard\": \"\",\n    \"LootPercent\": 70.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"lavaorb\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}"
+    ],
+    "NumItems": 8,
+    "ShadyModel": "",
+    "ShadyScaleX": 1.0,
+    "ShadyScaleY": 1.0,
+    "ShadyOffsetX": 0.0,
+    "ShadyOffsetY": 0.0
+}

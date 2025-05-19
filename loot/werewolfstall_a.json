@@ -1,0 +1,22 @@
+{
+    "DefaultPercentEpic": 0.0,
+    "DefaultPercentMythic": 0.0,
+    "DefaultPercentRare": 0.0,
+    "DefaultPercentUncommon": 50.0,
+    "GoldQuantity": 0,
+    "ID": "werewolfstall_a",
+    "LootItemTable": [
+        "{\n    \"LootCard\": \"reinforcedarmor\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Uncommon\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"lostmail\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Uncommon\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"leathergloves\",\n    \"LootPercent\": 60.0,\n    \"LootRarity\": \"Uncommon\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"leatherboots\",\n    \"LootPercent\": 60.0,\n    \"LootRarity\": \"Uncommon\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"warbanner\",\n    \"LootPercent\": 50.0,\n    \"LootRarity\": \"Uncommon\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Uncommon\",\n    \"LootType\": \"Weapon\"\n}"
+    ],
+    "NumItems": 8,
+    "ShadyModel": "wrangerRedesign",
+    "ShadyScaleX": 0.8700000047683716,
+    "ShadyScaleY": 0.949999988079071,
+    "ShadyOffsetX": -0.10000000149011612,
+    "ShadyOffsetY": 0.0
+}

@@ -1,0 +1,6 @@
+{
+    "Description": "Gain<b> 1 Block per charge</b> at the <w>start of the round</w>.",
+    "DescriptionExtended": "Gain<b> 1 Block per charge</b> at the <w>start of the round</w>, then remove all charges. Can't be purged unless specified.",
+    "ID": "shield",
+    "KeynoteName": "Shield"
+}

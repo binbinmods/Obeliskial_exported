@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "SylvieSkinWhatif",
+    "SkinID": "sylvieSkinWhatif",
+    "SkinName": "What if",
+    "SkinOrder": 80,
+    "SkinSubclass": "archer",
+    "Sku": "",
+    "SpritePortrait": "sylviewhatifportrait",
+    "SpritePortraitGrande": "sylviewhatifportraitGrande",
+    "SpriteSilueta": "sylviewhatifsilueta",
+    "SpriteSiluetaGrande": "sylviewhatifsiluetaGrande",
+    "SteamStat": ""
+}

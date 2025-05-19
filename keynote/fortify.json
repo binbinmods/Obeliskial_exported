@@ -1,0 +1,6 @@
+{
+    "Description": "Block is not removed at the <w>end of the round</w>.",
+    "DescriptionExtended": "Block is not removed at the <w>end of the round</w>.<br3>Remove 1 charge at the <w>end of the round</w>.",
+    "ID": "fortify",
+    "KeynoteName": "Fortify"
+}

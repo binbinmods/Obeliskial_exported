@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "obeliskCompleted",
+    "CardbackName": "ObeliskCompletedCardback",
+    "CardbackOrder": 12,
+    "CardbackSprite": "CardBackObelisk",
+    "CardbackSubclass": "",
+    "Locked": true,
+    "ObeliskLevel": 1,
+    "RankLevel": 0,
+    "ShowIfLocked": true,
+    "Sku": "",
+    "SteamStat": ""
+}

@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "LunarEvent",
+    "CardbackName": "cardbackWeeklyLunar",
+    "CardbackOrder": 77,
+    "CardbackSprite": "CardbackLunar",
+    "CardbackSubclass": "",
+    "Locked": true,
+    "ObeliskLevel": 0,
+    "RankLevel": 0,
+    "ShowIfLocked": true,
+    "Sku": "",
+    "SteamStat": "challengeLunar"
+}

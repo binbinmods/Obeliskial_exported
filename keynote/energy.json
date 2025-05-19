@@ -1,0 +1,6 @@
+{
+    "Description": "<w>Gain X Energy</w>. Used to cast cards.",
+    "DescriptionExtended": "Used to cast cards. Unused energy will be available next turn. Maximum energy is 10.",
+    "ID": "energy",
+    "KeynoteName": "Energy"
+}

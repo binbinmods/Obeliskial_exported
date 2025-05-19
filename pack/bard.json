@@ -1,0 +1,20 @@
+{
+    "Card0": "tuneup",
+    "Card1": "songofcelerity",
+    "Card2": "sweetmelody",
+    "Card3": "vexingcrescendo",
+    "Card4": "vitalizingserenade",
+    "Card5": "annoyingwhistle",
+    "CardSpecial0": "eternallullaby",
+    "CardSpecial1": "musicsheet",
+    "PackClass": "Scout",
+    "PackID": "bard",
+    "PackName": "Bard",
+    "PerkList": [
+        "mainperkhealth6",
+        "mainperkstanza0b",
+        "mainperkinsane2c",
+        "mainperkvitality1c"
+    ],
+    "RequiredClass": ""
+}

@@ -1,0 +1,20 @@
+{
+    "Card0": "warpaint",
+    "Card1": "punch",
+    "Card2": "pommel",
+    "Card3": "heavystrike",
+    "Card4": "leapslam",
+    "Card5": "groundslam",
+    "CardSpecial0": "overpower",
+    "CardSpecial1": "wreckingball",
+    "PackClass": "Warrior",
+    "PackID": "destroyer",
+    "PackName": "Destroyer",
+    "PerkList": [
+        "mainperkblunt2",
+        "mainperkcrack1",
+        "mainperkcrack2b",
+        "mainperkcrack2c"
+    ],
+    "RequiredClass": ""
+}

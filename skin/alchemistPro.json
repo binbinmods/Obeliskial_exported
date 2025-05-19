@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 32,
+    "SkinGO": "bernardSkinPro",
+    "SkinID": "alchemistPro",
+    "SkinName": "Sage",
+    "SkinOrder": 2,
+    "SkinSubclass": "alchemist",
+    "Sku": "",
+    "SpritePortrait": "BernardportraitPro",
+    "SpritePortraitGrande": "BernardportraitGrandePro",
+    "SpriteSilueta": "bernardsiluetaPro",
+    "SpriteSiluetaGrande": "bernardsiluetaGrandePro",
+    "SteamStat": ""
+}

@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Void_StairsClose_Rosa",
+    "CombatEffect": [],
+    "CombatID": "challenge_6b",
+    "CombatMusic": "Fairy of the Forest - 320bit",
+    "CombatTier": "T0",
+    "Description": "Challenge Combat Tier 5  fondo b",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "cornie",
+        "cornie",
+        "cornie",
+        ""
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

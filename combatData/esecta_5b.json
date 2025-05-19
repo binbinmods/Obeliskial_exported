@@ -1,0 +1,20 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Sectarium",
+    "CombatEffect": [],
+    "CombatID": "esecta_5b",
+    "CombatMusic": "5_Alexander Nakarada - Explorer",
+    "CombatTier": "T2",
+    "Description": "belphyor",
+    "EventData": "e_secta5_c",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "",
+        "",
+        "belphyor"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T3",
+    "IsRift": false
+}

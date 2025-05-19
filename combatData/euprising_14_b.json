@@ -1,0 +1,24 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Uprising_Top",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"chill\",\n    \"AuraCurseCharges\": 2,\n    \"AuraCurseTarget\": \"Monsters\"\n}",
+        "{\n    \"AuraCurse\": \"insane\",\n    \"AuraCurseCharges\": 2,\n    \"AuraCurseTarget\": \"Monsters\"\n}"
+    ],
+    "CombatID": "euprising_14_b",
+    "CombatMusic": "Dragonquest - 320bit",
+    "CombatTier": "T4",
+    "Description": "combat boss",
+    "EventData": "e_uprising14_b",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "dt209",
+        "",
+        "",
+        "mechanic"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T4",
+    "IsRift": false
+}

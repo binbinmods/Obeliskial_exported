@@ -1,0 +1,32 @@
+{
+    "HighPack": [
+        "meditaterare",
+        "sacredceremonyrare",
+        "sanctuaryrare",
+        "circleofhealingrare",
+        "sanctificationrare",
+        "baptismrare",
+        "massdispelrare",
+        "tabularasarare",
+        "protectfromevilrare",
+        "enervaterare",
+        "pulsinghealrare",
+        "celestialbrillancerare",
+        "pandemoniumrare"
+    ],
+    "LowPack": [
+        "chainhealrare",
+        "sparkofliferare",
+        "renewrare",
+        "divinepowerrare",
+        "panacearare",
+        "painsupresionrare",
+        "omenofperilrare",
+        "divineinsightrare",
+        "prescriptionrare",
+        "greaterhealrare"
+    ],
+    "PackClass": "Healer",
+    "PackName": "healer1",
+    "PackTier": 1
+}

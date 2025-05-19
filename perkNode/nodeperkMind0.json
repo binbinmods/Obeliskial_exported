@@ -1,0 +1,13 @@
+{
+    "Column": 8,
+    "Cost": "PerkCostBase",
+    "ID": "nodeperkMind0",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "mainperkmind0",
+    "PerkRequired": "",
+    "PerksConnected": [],
+    "Row": 0,
+    "Sprite": "mind",
+    "Type": 3
+}

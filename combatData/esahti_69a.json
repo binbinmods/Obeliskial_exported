@@ -1,0 +1,24 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Sahti_Ship",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"block\",\n    \"AuraCurseCharges\": 16,\n    \"AuraCurseTarget\": \"Heroes\"\n}",
+        "{\n    \"AuraCurse\": \"fast\",\n    \"AuraCurseCharges\": 1,\n    \"AuraCurseTarget\": \"Monsters\"\n}"
+    ],
+    "CombatID": "esahti_69a",
+    "CombatMusic": "14_Nomadic+Sunset - Alexander Nakarada",
+    "CombatTier": "T3",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "parrot",
+        "sailor",
+        "lookout",
+        "pirate"
+    ],
+    "NPCRemoveInMadness0Index": 0,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

@@ -1,0 +1,13 @@
+{
+    "Column": 11,
+    "Cost": "PerkCostAdvanced",
+    "ID": "nodeperkStealth1c",
+    "LockedInTown": false,
+    "NotStack": true,
+    "Perk": "mainperkstealth1c",
+    "PerkRequired": "nodeperkStealth0",
+    "PerksConnected": [],
+    "Row": 5,
+    "Sprite": "stealth",
+    "Type": 0
+}

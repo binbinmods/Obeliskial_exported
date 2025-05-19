@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "Deliver the heavy package to the adventurers somewhere in the upper ruins.",
+    "ItemSprite": "",
+    "RequirementID": "thecourier",
+    "RequirementName": "Home delivery",
+    "RequirementTrack": true,
+    "TrackSprite": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "None"
+}

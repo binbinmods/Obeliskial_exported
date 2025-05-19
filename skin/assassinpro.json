@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 32,
+    "SkinGO": "thulsSkinPro",
+    "SkinID": "assassinpro",
+    "SkinName": "Scoundrel",
+    "SkinOrder": 2,
+    "SkinSubclass": "assassin",
+    "Sku": "",
+    "SpritePortrait": "thulsportraitPro",
+    "SpritePortraitGrande": "thulsportraitGrandePro",
+    "SpriteSilueta": "thulssiluetaPro",
+    "SpriteSiluetaGrande": "thulssiluetaGrandePro",
+    "SteamStat": ""
+}

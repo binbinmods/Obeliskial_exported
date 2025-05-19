@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "A brilliant topaz that you found in a beetle nest.",
+    "ItemSprite": "eventBrilliantTopaz",
+    "RequirementID": "brillianttopaz",
+    "RequirementName": "Brilliant Topaz",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

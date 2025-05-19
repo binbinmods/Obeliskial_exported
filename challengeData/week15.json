@@ -1,0 +1,33 @@
+{
+    "Boss1": "thorim_o",
+    "Boss2": "dt209_o",
+    "BossCombat": "challenge_13mech",
+    "CorruptionList": [
+        "bomblottery",
+        "burningweapons",
+        "ashysky",
+        "armageddon",
+        "lavabursts",
+        "lavapuddle",
+        "windsofamnesia",
+        "upwind",
+        "melancholy"
+    ],
+    "Hero1": "sentinel",
+    "Hero2": "minstrel",
+    "Hero3": "pyromancer",
+    "Hero4": "priest",
+    "ID": "week15",
+    "IDSteam": "challengeRise",
+    "Loot": "",
+    "Seed": "bRises4",
+    "Traits": [
+        "extremeburning",
+        "containedfury",
+        "energizedheroes",
+        "fastmonsters",
+        "vigorousmonsters",
+        "lucky"
+    ],
+    "Week": 15
+}

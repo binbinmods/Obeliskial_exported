@@ -1,0 +1,20 @@
+{
+    "Card0": "faststrike",
+    "Card1": "sharpen",
+    "Card2": "precisestrike",
+    "Card3": "cleave",
+    "Card4": "bladestorm",
+    "Card5": "flankingstrike",
+    "CardSpecial0": "repetitiontraining",
+    "CardSpecial1": "mortalstrike",
+    "PackClass": "Warrior",
+    "PackID": "swordman",
+    "PackName": "Swordman",
+    "PerkList": [
+        "mainperkslashing2",
+        "mainperksharp1a",
+        "mainperksharp0",
+        "mainperkenergy2c"
+    ],
+    "RequiredClass": ""
+}

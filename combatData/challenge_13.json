@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Void_BossFinal",
+    "CombatEffect": [],
+    "CombatID": "challenge_13",
+    "CombatMusic": "Lord of the Riffs",
+    "CombatTier": "T0",
+    "Description": "boss final",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "",
+        "archonnihr_o",
+        "",
+        ""
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T4",
+    "IsRift": false
+}

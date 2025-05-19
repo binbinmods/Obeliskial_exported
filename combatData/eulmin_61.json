@@ -1,0 +1,24 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Ulminin_Desierto",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"evasion\",\n    \"AuraCurseCharges\": 2,\n    \"AuraCurseTarget\": \"Monsters\"\n}",
+        "{\n    \"AuraCurse\": \"buffer\",\n    \"AuraCurseCharges\": 2,\n    \"AuraCurseTarget\": \"Monsters\"\n}"
+    ],
+    "CombatID": "eulmin_61",
+    "CombatMusic": "Alexander Nakarada -  Anemo",
+    "CombatTier": "T4",
+    "Description": "combat",
+    "EventData": "e_ulmin61_b",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "",
+        "intruder",
+        "riftling",
+        "riftkeeper"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": true
+}

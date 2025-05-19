@@ -1,0 +1,30 @@
+{
+    "DefaultPercentEpic": 0.0,
+    "DefaultPercentMythic": 0.0,
+    "DefaultPercentRare": 0.0,
+    "DefaultPercentUncommon": 0.0,
+    "GoldQuantity": 0,
+    "ID": "obeliskgirl",
+    "LootItemTable": [
+        "{\n    \"LootCard\": \"stormy\",\n    \"LootPercent\": 35.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"Pet\"\n}",
+        "{\n    \"LootCard\": \"sharpy\",\n    \"LootPercent\": 35.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"Pet\"\n}",
+        "{\n    \"LootCard\": \"flamy\",\n    \"LootPercent\": 35.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"Pet\"\n}",
+        "{\n    \"LootCard\": \"orby\",\n    \"LootPercent\": 35.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"Pet\"\n}",
+        "{\n    \"LootCard\": \"mozzy\",\n    \"LootPercent\": 30.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"Pet\"\n}",
+        "{\n    \"LootCard\": \"slimy\",\n    \"LootPercent\": 30.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"Pet\"\n}",
+        "{\n    \"LootCard\": \"liante\",\n    \"LootPercent\": 35.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"Pet\"\n}",
+        "{\n    \"LootCard\": \"betty\",\n    \"LootPercent\": 35.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"Pet\"\n}",
+        "{\n    \"LootCard\": \"oculy\",\n    \"LootPercent\": 35.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"Pet\"\n}",
+        "{\n    \"LootCard\": \"daley\",\n    \"LootPercent\": 35.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"Pet\"\n}",
+        "{\n    \"LootCard\": \"asmody\",\n    \"LootPercent\": 35.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"Pet\"\n}",
+        "{\n    \"LootCard\": \"bunny\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"Pet\"\n}",
+        "{\n    \"LootCard\": \"betty\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"Pet\"\n}",
+        "{\n    \"LootCard\": \"liante\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"Pet\"\n}"
+    ],
+    "NumItems": 3,
+    "ShadyModel": "",
+    "ShadyScaleX": 1.0,
+    "ShadyScaleY": 1.0,
+    "ShadyOffsetX": 0.0,
+    "ShadyOffsetY": 0.0
+}

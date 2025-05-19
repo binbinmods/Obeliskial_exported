@@ -1,0 +1,20 @@
+{
+    "Card0": "intercept",
+    "Card1": "warpaint",
+    "Card2": "shieldbash",
+    "Card3": "shieldcharge",
+    "Card4": "shieldthrow",
+    "Card5": "shieldbreaker",
+    "CardSpecial0": "shieldslam",
+    "CardSpecial1": "overpower",
+    "PackClass": "Warrior",
+    "PackID": "avenger",
+    "PackName": "Avenger",
+    "PerkList": [
+        "mainperkfortify1a",
+        "mainperkreinforce0",
+        "mainperkblunt0",
+        "mainperkpowerful1c"
+    ],
+    "RequiredClass": ""
+}

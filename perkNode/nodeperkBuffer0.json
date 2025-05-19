@@ -1,0 +1,13 @@
+{
+    "Column": 10,
+    "Cost": "PerkCostBase",
+    "ID": "nodeperkBuffer0",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "mainperkbuffer0",
+    "PerkRequired": "",
+    "PerksConnected": [],
+    "Row": 2,
+    "Sprite": "buffer",
+    "Type": 0
+}

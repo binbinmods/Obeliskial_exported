@@ -1,0 +1,20 @@
+{
+    "Card0": "fanaticism",
+    "Card1": "vampirictouch",
+    "Card2": "hallucination",
+    "Card3": "shadowmend",
+    "Card4": "ruinbolt",
+    "Card5": "profane",
+    "CardSpecial0": "condemnation",
+    "CardSpecial1": "terrorize",
+    "PackClass": "Healer",
+    "PackID": "zealot",
+    "PackName": "Zealot",
+    "PerkList": [
+        "mainperkdecay0",
+        "mainperkdark1",
+        "mainperkshadow1",
+        "mainperkdecay1c"
+    ],
+    "RequiredClass": ""
+}

@@ -1,0 +1,20 @@
+{
+    "Card0": "zap",
+    "Card1": "chargebattery",
+    "Card2": "electricitymanual",
+    "Card3": "electricdischarge",
+    "Card4": "shocknova",
+    "Card5": "elementalbolt",
+    "CardSpecial0": "chainlightning",
+    "CardSpecial1": "superconductor",
+    "PackClass": "Mage",
+    "PackID": "aeromancer",
+    "PackName": "Aeromancer",
+    "PerkList": [
+        "mainperklightning2",
+        "mainperkspark1",
+        "mainperkspark2b",
+        "mainperkspark2c"
+    ],
+    "RequiredClass": ""
+}

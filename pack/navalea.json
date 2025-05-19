@@ -1,0 +1,15 @@
+{
+    "Card0": "vengeancestart",
+    "Card1": "darkblow",
+    "Card2": "lifetap",
+    "Card3": "curseoffragility",
+    "Card4": "punch",
+    "Card5": "",
+    "CardSpecial0": "",
+    "CardSpecial1": "",
+    "PackClass": "Warrior",
+    "PackID": "navalea",
+    "PackName": "Navalea",
+    "PerkList": [],
+    "RequiredClass": "fallen"
+}

@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Faeborg_Costa",
+    "CombatEffect": [],
+    "CombatID": "cfaen_9",
+    "CombatMusic": "Adventure Beyond - 320bit",
+    "CombatTier": "T3",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "lumberjack",
+        "fisher",
+        "forecaster",
+        "fisher"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

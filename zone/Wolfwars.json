@@ -1,0 +1,26 @@
+{
+    "ChangeTeamOnEntrance": true,
+    "DisableExperienceOnThisZone": true,
+    "DisableMadnessOnThisZone": true,
+    "NewTeam": [
+        "youngmagnus",
+        "youngbinks",
+        "youngcharls",
+        "youngyogger"
+    ],
+    "ObeliskFinal": false,
+    "ObeliskHigh": false,
+    "ObeliskLow": false,
+    "RestoreTeamOnExit": true,
+    "ZoneID": "Wolfwars",
+    "ZoneName": "Wolf Wars",
+    "BackgroundImg": "",
+    "TransitionImg": "",
+    "MainZoneID": "",
+    "ReplaceMapGOSprite": "",
+    "ReplaceMapGOSpriteWith": "",
+    "BackgroundImg2": "",
+    "BackgroundImg3": "",
+    "BackgroundImg2Req": "",
+    "BackgroundImg3Req": ""
+}

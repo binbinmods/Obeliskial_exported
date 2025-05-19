@@ -1,0 +1,15 @@
+{
+    "Card0": "quickconcoctionstart",
+    "Card1": "oxidant",
+    "Card2": "vilegas",
+    "Card3": "toxicrain",
+    "Card4": "panacea",
+    "Card5": "",
+    "CardSpecial0": "",
+    "CardSpecial1": "",
+    "PackClass": "Mage",
+    "PackID": "bernard",
+    "PackName": "Bernard",
+    "PerkList": [],
+    "RequiredClass": "alchemist"
+}

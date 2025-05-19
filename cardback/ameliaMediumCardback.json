@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "ameliaMediumCardback",
+    "CardbackName": "Princess",
+    "CardbackOrder": 2,
+    "CardbackSprite": "CartaAmeliaMedium",
+    "CardbackSubclass": "queen",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 24,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

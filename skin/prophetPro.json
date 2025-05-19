@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 32,
+    "SkinGO": "nezglektSkinPro",
+    "SkinID": "prophetPro",
+    "SkinName": "Mentalist",
+    "SkinOrder": 2,
+    "SkinSubclass": "prophet",
+    "Sku": "",
+    "SpritePortrait": "prophetportraitPro",
+    "SpritePortraitGrande": "prophetportraitGrandePro",
+    "SpriteSilueta": "prophetsiluetaPro",
+    "SpriteSiluetaGrande": "prophetsiluetaGrandePro",
+    "SteamStat": ""
+}

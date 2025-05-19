@@ -1,0 +1,6 @@
+{
+    "Description": "Dies when charges reach<w> 0</w>.<br3>Remove 1 charge at the <w>end of the turn</w>",
+    "DescriptionExtended": "Dies when charges reach<w> 0</w>.<br3>Remove 1 charge at the <w>end of the turn</w>.<br3>Can't be dispelled or prevented.",
+    "ID": "doom",
+    "KeynoteName": "Doom"
+}

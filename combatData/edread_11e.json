@@ -1,0 +1,23 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Dread_Halfman",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"block\",\n    \"AuraCurseCharges\": 12,\n    \"AuraCurseTarget\": \"Heroes\"\n}",
+        "{\n    \"AuraCurse\": \"insane\",\n    \"AuraCurseCharges\": 3,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "edread_11e",
+    "CombatMusic": "20_Until+the+End - Alexander Nakarada",
+    "CombatTier": "T4",
+    "Description": "halfman defensive ss",
+    "EventData": "e_dread11_b",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "mimic",
+        "phantasm",
+        "halfman"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T4",
+    "IsRift": false
+}

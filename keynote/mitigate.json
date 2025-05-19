@@ -1,0 +1,6 @@
+{
+    "Description": "Damage taken<y> -1 per charge</y>.",
+    "DescriptionExtended": "Damage taken<y> -1 per charge</y>.<br3>Maximum charges <y>10</y>.<br3>Remove 1 charge at the <w>start of the turn</w>.",
+    "ID": "mitigate",
+    "KeynoteName": "Mitigate"
+}

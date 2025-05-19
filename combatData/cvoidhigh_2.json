@@ -1,0 +1,23 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Void_Obelisk",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"dark\",\n    \"AuraCurseCharges\": 4,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "cvoidhigh_2",
+    "CombatMusic": "20_Until+the+End - Alexander Nakarada",
+    "CombatTier": "T12",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "dualist",
+        "knight_dark",
+        "magus_dark",
+        "angel_dark"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T3",
+    "IsRift": false
+}

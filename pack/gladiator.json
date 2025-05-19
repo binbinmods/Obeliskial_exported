@@ -1,0 +1,20 @@
+{
+    "Card0": "bloodforblood",
+    "Card1": "flankingstrike",
+    "Card2": "rend",
+    "Card3": "bloodbath",
+    "Card4": "recklesscharge",
+    "Card5": "butchering",
+    "CardSpecial0": "bloodrage",
+    "CardSpecial1": "furiousslash",
+    "PackClass": "Warrior",
+    "PackID": "gladiator",
+    "PackName": "Gladiator",
+    "PerkList": [
+        "mainperkbleed2b",
+        "mainperkfury0",
+        "mainperkfury1b",
+        "mainperkfury1c"
+    ],
+    "RequiredClass": ""
+}

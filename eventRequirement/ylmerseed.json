@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "One of the few remaining Ylmer seeds.",
+    "ItemSprite": "eventYlmerseed",
+    "RequirementID": "ylmerseed",
+    "RequirementName": "Ylmer's seed",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

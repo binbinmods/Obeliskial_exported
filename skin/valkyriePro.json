@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 32,
+    "SkinGO": "sigrunSkinPro",
+    "SkinID": "valkyriePro",
+    "SkinName": "Angel",
+    "SkinOrder": 2,
+    "SkinSubclass": "valkyrie",
+    "Sku": "",
+    "SpritePortrait": "sigrunportraitPro",
+    "SpritePortraitGrande": "sigrunportraitGrandePro",
+    "SpriteSilueta": "sigrunsiluetaPro",
+    "SpriteSiluetaGrande": "sigrunsiluetaGrandePro",
+    "SteamStat": ""
+}

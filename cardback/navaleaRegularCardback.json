@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "navaleaRegularCardback",
+    "CardbackName": "Fallen",
+    "CardbackOrder": 1,
+    "CardbackSprite": "CartaNavalea",
+    "CardbackSubclass": "fallen",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 8,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

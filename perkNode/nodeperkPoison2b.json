@@ -1,0 +1,13 @@
+{
+    "Column": 4,
+    "Cost": "PerkCostAdvanced",
+    "ID": "nodeperkPoison2b",
+    "LockedInTown": false,
+    "NotStack": true,
+    "Perk": "mainperkpoison2b",
+    "PerkRequired": "nodeperkPoison1",
+    "PerksConnected": [],
+    "Row": 5,
+    "Sprite": "shadow",
+    "Type": 1
+}

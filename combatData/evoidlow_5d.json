@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Void_Stairs",
+    "CombatEffect": [],
+    "CombatID": "evoidlow_5d",
+    "CombatMusic": "Dragonquest - 320bit",
+    "CombatTier": "T10",
+    "Description": "Campeon Negros",
+    "EventData": "e_voidlow5_c1",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "guts",
+        "vanguard_dark",
+        "lancer_dark",
+        "gunner_dark"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

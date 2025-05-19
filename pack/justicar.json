@@ -1,0 +1,20 @@
+{
+    "Card0": "sunbeam",
+    "Card1": "flash",
+    "Card2": "sacredbolt",
+    "Card3": "holynova",
+    "Card4": "shiningforce",
+    "Card5": "holyripple",
+    "CardSpecial0": "divineire",
+    "CardSpecial1": "divineinsight",
+    "PackClass": "Healer",
+    "PackID": "justicar",
+    "PackName": "Justicar",
+    "PerkList": [
+        "mainperksanctify1",
+        "mainperksanctify2b",
+        "mainperksanctify2c",
+        "mainperkholy0"
+    ],
+    "RequiredClass": ""
+}

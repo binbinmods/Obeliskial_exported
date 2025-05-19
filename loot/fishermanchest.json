@@ -1,0 +1,20 @@
+{
+    "DefaultPercentEpic": 15.0,
+    "DefaultPercentMythic": 0.0,
+    "DefaultPercentRare": 55.0,
+    "DefaultPercentUncommon": 30.0,
+    "GoldQuantity": 100,
+    "ID": "fishermanchest",
+    "LootItemTable": [
+        "{\n    \"LootCard\": \"\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"raincoat\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"hypnoshell\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"taintedrod\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"None\"\n}"
+    ],
+    "NumItems": 8,
+    "ShadyModel": "",
+    "ShadyScaleX": 1.0,
+    "ShadyScaleY": 1.0,
+    "ShadyOffsetX": 0.0,
+    "ShadyOffsetY": 0.0
+}

@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "A depleted magic sapphire. Even so, it is still very valuable.",
+    "ItemSprite": "eventSapphire",
+    "RequirementID": "magicsapphyre",
+    "RequirementName": "Magic Sapphire",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

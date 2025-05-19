@@ -1,0 +1,20 @@
+{
+    "DefaultPercentEpic": 25.0,
+    "DefaultPercentMythic": 0.0,
+    "DefaultPercentRare": 75.0,
+    "DefaultPercentUncommon": 0.0,
+    "GoldQuantity": 120,
+    "ID": "Mortis",
+    "LootItemTable": [
+        "{\n    \"LootCard\": \"scarabshield\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"burialmask\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"architectsring\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"undeathichor\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"None\"\n}"
+    ],
+    "NumItems": 8,
+    "ShadyModel": "",
+    "ShadyScaleX": 1.0,
+    "ShadyScaleY": 1.0,
+    "ShadyOffsetX": 0.0,
+    "ShadyOffsetY": 0.0
+}

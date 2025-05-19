@@ -1,0 +1,25 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Velkarath_Stone",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"fast\",\n    \"AuraCurseCharges\": 3,\n    \"AuraCurseTarget\": \"Heroes\"\n}",
+        "{\n    \"AuraCurse\": \"weak\",\n    \"AuraCurseCharges\": 1,\n    \"AuraCurseTarget\": \"Monster2\"\n}",
+        "{\n    \"AuraCurse\": \"bleed\",\n    \"AuraCurseCharges\": 8,\n    \"AuraCurseTarget\": \"Monster2\"\n}"
+    ],
+    "CombatID": "evelka_27b",
+    "CombatMusic": "5_Alexander Nakarada - Explorer",
+    "CombatTier": "T4",
+    "Description": "harpy nest",
+    "EventData": "e_velka27_a2",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "skyhunter",
+        "stormcaller",
+        "matriarch",
+        ""
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T3",
+    "IsRift": false
+}

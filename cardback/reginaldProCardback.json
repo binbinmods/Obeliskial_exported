@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "reginaldProCardback",
+    "CardbackName": "Crusader",
+    "CardbackOrder": 3,
+    "CardbackSprite": "CartaReginaldPro",
+    "CardbackSubclass": "cleric",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 40,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

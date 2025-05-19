@@ -1,0 +1,32 @@
+{
+    "HighPack": [
+        "enragerare",
+        "provokerare",
+        "laststandrare",
+        "overpowerrare",
+        "whirlwindrare",
+        "infuriaterare",
+        "demoralizingshoutrare",
+        "arsenalrare",
+        "reinforcedsteelrare",
+        "shieldwallrare",
+        "bludgeonrare",
+        "furiousslashrare"
+    ],
+    "LowPack": [
+        "enragerare",
+        "entrenchrare",
+        "wreckingballrare",
+        "whirlwindrare",
+        "stockaderare",
+        "firstaidrare",
+        "mortalstrikerare",
+        "bloodbathrare",
+        "bludgeonrare",
+        "battleshoutrare",
+        "bloodragerare"
+    ],
+    "PackClass": "Warrior",
+    "PackName": "warrior1",
+    "PackTier": 1
+}

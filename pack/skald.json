@@ -1,0 +1,20 @@
+{
+    "Card0": "chantofinitiative",
+    "Card1": "chantofaccuracy",
+    "Card2": "whisperinglies",
+    "Card3": "captivatingvoice",
+    "Card4": "odeofwar",
+    "Card5": "sweetmelody",
+    "CardSpecial0": "reverberantverse",
+    "CardSpecial1": "balladofevasion",
+    "PackClass": "Scout",
+    "PackID": "skald",
+    "PackName": "Skald",
+    "PerkList": [
+        "mainperkmind2",
+        "mainperkstanza0a",
+        "mainperkinsane2b",
+        "mainperksharp1d"
+    ],
+    "RequiredClass": ""
+}

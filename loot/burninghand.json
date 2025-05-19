@@ -1,0 +1,19 @@
+{
+    "DefaultPercentEpic": 15.0,
+    "DefaultPercentMythic": 0.0,
+    "DefaultPercentRare": 40.0,
+    "DefaultPercentUncommon": 45.0,
+    "GoldQuantity": 100,
+    "ID": "burninghand",
+    "LootItemTable": [
+        "{\n    \"LootCard\": \"hellblade\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"ringoffire\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"impstatuette\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}"
+    ],
+    "NumItems": 8,
+    "ShadyModel": "",
+    "ShadyScaleX": 1.0,
+    "ShadyScaleY": 1.0,
+    "ShadyOffsetX": 0.0,
+    "ShadyOffsetY": 0.0
+}

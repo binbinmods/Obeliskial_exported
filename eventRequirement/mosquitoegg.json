@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "A mosquito egg, given the right conditions, could even hatch.",
+    "ItemSprite": "eventMosquito",
+    "RequirementID": "mosquitoegg",
+    "RequirementName": "Mosquito Egg",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

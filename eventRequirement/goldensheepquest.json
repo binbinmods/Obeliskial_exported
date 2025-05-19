@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "You have the location of the legendary golden sheep.",
+    "ItemSprite": "",
+    "RequirementID": "goldensheepquest",
+    "RequirementName": "The Golden Sheep",
+    "RequirementTrack": true,
+    "TrackSprite": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "Senenthia"
+}

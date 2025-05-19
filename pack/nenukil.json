@@ -1,0 +1,15 @@
+{
+    "Card0": "toolboxstart",
+    "Card1": "hitandrun",
+    "Card2": "gunshotscout",
+    "Card3": "caltrops",
+    "Card4": "stoneskin",
+    "Card5": "",
+    "CardSpecial0": "",
+    "CardSpecial1": "",
+    "PackClass": "Scout",
+    "PackID": "nenukil",
+    "PackName": "Nenukil",
+    "PerkList": [],
+    "RequiredClass": "engineer"
+}

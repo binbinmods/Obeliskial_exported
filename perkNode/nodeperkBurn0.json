@@ -1,0 +1,13 @@
+{
+    "Column": 1,
+    "Cost": "PerkCostBase",
+    "ID": "nodeperkBurn0",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "mainperkburn0",
+    "PerkRequired": "",
+    "PerksConnected": [],
+    "Row": 1,
+    "Sprite": "burn",
+    "Type": 2
+}

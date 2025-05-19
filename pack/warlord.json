@@ -1,0 +1,20 @@
+{
+    "Card0": "intimidate",
+    "Card1": "barbedwire",
+    "Card2": "spikedshield",
+    "Card3": "groundslam",
+    "Card4": "invigoratingblow",
+    "Card5": "spikedball",
+    "CardSpecial0": "stockade",
+    "CardSpecial1": "thousandneedles",
+    "PackClass": "Warrior",
+    "PackID": "warlord",
+    "PackName": "Warlord",
+    "PerkList": [
+        "mainperkthorns1a",
+        "mainperkthorns1b",
+        "mainperkthorns1c",
+        "mainperkthorns0"
+    ],
+    "RequiredClass": ""
+}

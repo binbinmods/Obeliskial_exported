@@ -1,0 +1,39 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_sahti42_a",
+        "e_sahti42_b",
+        "e_sahti42_c",
+        "e_sahti42_d"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [
+        1,
+        0,
+        0,
+        0
+    ],
+    "NodeEventTier": "T0",
+    "NodeGround": "StaticElectricity",
+    "NodeId": "sahti_42",
+    "NodeName": "Whirlpool",
+    "NodeRequirement": "sahtipirateking",
+    "NodesConnected": [],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Sahti",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Village"
+}

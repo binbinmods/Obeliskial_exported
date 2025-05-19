@@ -1,0 +1,20 @@
+{
+    "DefaultPercentEpic": 25.0,
+    "DefaultPercentMythic": 0.0,
+    "DefaultPercentRare": 75.0,
+    "DefaultPercentUncommon": 0.0,
+    "GoldQuantity": 120,
+    "ID": "Faeborg",
+    "LootItemTable": [
+        "{\n    \"LootCard\": \"faeborgscale\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"frozentear\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
+        "{\n    \"LootCard\": \"\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}",
+        "{\n    \"LootCard\": \"freezingink\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Weapon\"\n}"
+    ],
+    "NumItems": 8,
+    "ShadyModel": "",
+    "ShadyScaleX": 1.0,
+    "ShadyScaleY": 1.0,
+    "ShadyOffsetX": 0.0,
+    "ShadyOffsetY": 0.0
+}

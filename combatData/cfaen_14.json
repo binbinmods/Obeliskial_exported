@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Faeborg_BosqueCastor",
+    "CombatEffect": [],
+    "CombatID": "cfaen_14",
+    "CombatMusic": "Enchanted Forest",
+    "CombatTier": "T3",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "lumberjack",
+        "fisher",
+        "forecaster",
+        "forecaster"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

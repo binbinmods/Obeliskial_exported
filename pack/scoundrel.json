@@ -1,0 +1,20 @@
+{
+    "Card0": "poisondart",
+    "Card1": "sawtoothknife",
+    "Card2": "sawblade",
+    "Card3": "hiddenweapon",
+    "Card4": "sharpeningknife",
+    "Card5": "wickedcraftsman",
+    "CardSpecial0": "corruptedblade",
+    "CardSpecial1": "weaponcache",
+    "PackClass": "Scout",
+    "PackID": "scoundrel",
+    "PackName": "Scoundrel",
+    "PerkList": [
+        "mainperksharp1d",
+        "mainperkenergy2b",
+        "mainperkbleed2c",
+        "mainperkinspire0c"
+    ],
+    "RequiredClass": ""
+}

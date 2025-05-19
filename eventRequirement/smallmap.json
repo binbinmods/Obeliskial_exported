@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "It is a map that leads to some interesting ruins somewhere in the upper ruins.",
+    "ItemSprite": "eventMap",
+    "RequirementID": "smallmap",
+    "RequirementName": "Special map",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

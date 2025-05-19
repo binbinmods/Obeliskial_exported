@@ -1,0 +1,6 @@
+{
+    "Description": "",
+    "DescriptionExtended": "The base damage of an attack is modified by Auras, Curses, Perks, Items and active effects. Then it is blocked by the Block amount of the target and finally it is resisted by the target's percent resistance (based on its damage type).",
+    "ID": "damage",
+    "KeynoteName": "Damage"
+}

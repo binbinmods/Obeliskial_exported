@@ -1,0 +1,33 @@
+{
+    "Boss1": "elderdryad_o",
+    "Boss2": "ylmer_o",
+    "BossCombat": "challenge_13dawn",
+    "CorruptionList": [
+        "starrynight",
+        "forestallies",
+        "holypuddle",
+        "rosegarden",
+        "thornproliferation",
+        "livingforest",
+        "sacredground",
+        "heavenlyarmaments",
+        "thunderstorm"
+    ],
+    "Hero1": "warden",
+    "Hero2": "minstrel",
+    "Hero3": "loremaster",
+    "Hero4": "cleric",
+    "ID": "week11",
+    "IDSteam": "challengeYlmer",
+    "Loot": "",
+    "Seed": "bYlmers4",
+    "Traits": [
+        "sacredthorns",
+        "morechampions",
+        "slowheroes",
+        "unlucky",
+        "wealthyheroes",
+        "reinforcedmonsters"
+    ],
+    "Week": 11
+}

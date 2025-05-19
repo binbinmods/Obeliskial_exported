@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "A book that tells the misfortunes of a seaman who shoots an albatross.",
+    "ItemSprite": "eventRime",
+    "RequirementID": "rime",
+    "RequirementName": "Rime of the Ancient Mariner",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

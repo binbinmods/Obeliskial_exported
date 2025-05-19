@@ -1,0 +1,17 @@
+{
+    "Card0": "coldfeet",
+    "Card0RandomBoon": false,
+    "Card0RandomInjury": false,
+    "Card1": "goldcard",
+    "Card1RandomBoon": false,
+    "Card1RandomInjury": false,
+    "Card2": "goldyshardscard",
+    "Card2RandomBoon": false,
+    "Card2RandomInjury": false,
+    "Card3": "shardscard",
+    "Card3RandomBoon": false,
+    "Card3RandomInjury": false,
+    "ModIterations": 0,
+    "ModSpeed": 0,
+    "PackId": "currencyeasycold"
+}

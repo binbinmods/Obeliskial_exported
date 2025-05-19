@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "ottisMediumCardback",
+    "CardbackName": "Devotee",
+    "CardbackOrder": 2,
+    "CardbackSprite": "CartaOttisMedium",
+    "CardbackSubclass": "priest",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 24,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

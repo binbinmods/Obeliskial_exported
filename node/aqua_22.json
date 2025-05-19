@@ -1,0 +1,35 @@
+{
+    "CombatPercent": 60,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 40,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "caqua_22"
+    ],
+    "NodeCombatTier": "T4",
+    "NodeEvent": [
+        "e_aquar22_a"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "aqua_22",
+    "NodeName": "Marsh Deeps",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "aqua_23"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Aquarfall",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Marsh Deeps"
+}

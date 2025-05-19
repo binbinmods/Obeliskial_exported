@@ -1,0 +1,20 @@
+{
+    "Card0": "punch",
+    "Card1": "bluff",
+    "Card2": "headbutt",
+    "Card3": "shakeitoff",
+    "Card4": "charge",
+    "Card5": "maim",
+    "CardSpecial0": "bludgeon",
+    "CardSpecial1": "pummel",
+    "PackClass": "Warrior",
+    "PackID": "brawler",
+    "PackName": "Brawler",
+    "PerkList": [
+        "mainperkblunt1",
+        "mainperkcrack0",
+        "mainperkenergy2b",
+        "mainperkinspire0a"
+    ],
+    "RequiredClass": ""
+}

@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "Reginald_Skin_Wolfwars",
+    "SkinID": "reginaldSkinWolfwars",
+    "SkinName": "Wolf Wars",
+    "SkinOrder": 60,
+    "SkinSubclass": "cleric",
+    "Sku": "2325780",
+    "SpritePortrait": "reginaldportraitwolfwars",
+    "SpritePortraitGrande": "reginaldportraitGrandewolfwars",
+    "SpriteSilueta": "reginaldsiluetawolfwars",
+    "SpriteSiluetaGrande": "reginaldsiluetaGrandewolfwars",
+    "SteamStat": ""
+}

@@ -1,0 +1,13 @@
+{
+    "Column": 11,
+    "Cost": "PerkCostAdvanced",
+    "ID": "nodeperkInsulate1c",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "mainperkinsulate1c",
+    "PerkRequired": "",
+    "PerksConnected": [],
+    "Row": 4,
+    "Sprite": "insulate",
+    "Type": 2
+}

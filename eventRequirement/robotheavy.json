@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "A small service robot you found in the Forge. It's missing an arm.",
+    "ItemSprite": "eventRobot",
+    "RequirementID": "robotheavy",
+    "RequirementName": "Service Robot",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

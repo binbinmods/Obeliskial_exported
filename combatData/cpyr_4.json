@@ -1,0 +1,23 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Ulminin_Pyramid",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"sanctify\",\n    \"AuraCurseCharges\": 3,\n    \"AuraCurseTarget\": \"Heroes\"\n}"
+    ],
+    "CombatID": "cpyr_4",
+    "CombatMusic": "Moon - 320bit",
+    "CombatTier": "T3",
+    "Description": "combat",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "gyroorb",
+        "pylon",
+        "holycube",
+        "pylon"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

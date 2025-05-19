@@ -1,0 +1,21 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Faeborg_Costa",
+    "CombatEffect": [],
+    "CombatID": "efaen_25c",
+    "CombatMusic": "Dragonquest - 320bit",
+    "CombatTier": "T4",
+    "Description": "combat tyran",
+    "EventData": "e_faen25_b",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "fisher",
+        "forecaster",
+        "ursur",
+        ""
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T3",
+    "IsRift": false
+}

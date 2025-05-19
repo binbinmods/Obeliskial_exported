@@ -1,0 +1,20 @@
+{
+    "Card0": "intimidate",
+    "Card1": "hamstring",
+    "Card2": "rampage",
+    "Card3": "sweepingstrike",
+    "Card4": "cleave",
+    "Card5": "sharpen",
+    "CardSpecial0": "mortalstrike",
+    "CardSpecial1": "carnage",
+    "PackClass": "Warrior",
+    "PackID": "axman",
+    "PackName": "Axman",
+    "PerkList": [
+        "mainperkbleed0",
+        "mainperkslashing0",
+        "mainperksharp1c",
+        "mainperkvulnerable0c"
+    ],
+    "RequiredClass": ""
+}

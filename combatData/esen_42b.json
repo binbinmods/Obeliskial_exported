@@ -1,0 +1,24 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Sectarium",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"wet\",\n    \"AuraCurseCharges\": 3,\n    \"AuraCurseTarget\": \"Heroes\"\n}",
+        "{\n    \"AuraCurse\": \"slow\",\n    \"AuraCurseCharges\": 3,\n    \"AuraCurseTarget\": \"Monsters\"\n}"
+    ],
+    "CombatID": "esen_42b",
+    "CombatMusic": "5_Alexander Nakarada - Explorer",
+    "CombatTier": "T2",
+    "Description": "",
+    "EventData": "e_sen42_b",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "neophyte",
+        "initiated",
+        "fireimp",
+        "pyromancersen"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

@@ -1,0 +1,6 @@
+{
+    "Description": "Repeat the card's effect on another target <w>X times.</w> Each time, damage and heal done <y>+Bonus%</y>.",
+    "DescriptionExtended": "Repeat the card's effect on another target <w>X times.</w> Each time, damage and heal done <y>+Bonus%</y>.",
+    "ID": "jump(bonus%)",
+    "KeynoteName": "Jump X (bonus%)"
+}

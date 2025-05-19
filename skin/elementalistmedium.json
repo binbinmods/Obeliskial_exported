@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 16,
+    "SkinGO": "evelynSkinMedium",
+    "SkinID": "elementalistmedium",
+    "SkinName": "Tempest",
+    "SkinOrder": 1,
+    "SkinSubclass": "elementalist",
+    "Sku": "",
+    "SpritePortrait": "evelynportraitMedium",
+    "SpritePortraitGrande": "evelynportraitGrandeMedium",
+    "SpriteSilueta": "evelynsiluetaMedium",
+    "SpriteSiluetaGrande": "evelynsiluetaGrandeMedium",
+    "SteamStat": ""
+}

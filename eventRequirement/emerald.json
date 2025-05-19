@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "An emerald you dug in the quarry.",
+    "ItemSprite": "eventEmerald",
+    "RequirementID": "emerald",
+    "RequirementName": "Emerald",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

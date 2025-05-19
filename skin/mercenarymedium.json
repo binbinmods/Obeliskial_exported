@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 16,
+    "SkinGO": "magnusSkinMedium",
+    "SkinID": "mercenarymedium",
+    "SkinName": "Swordman",
+    "SkinOrder": 1,
+    "SkinSubclass": "mercenary",
+    "Sku": "",
+    "SpritePortrait": "magnusportraitMedium",
+    "SpritePortraitGrande": "magnusportraitGrandeMedium",
+    "SpriteSilueta": "magnussiluetaMedium",
+    "SpriteSiluetaGrande": "magnussiluetaGrandeMedium",
+    "SteamStat": ""
+}

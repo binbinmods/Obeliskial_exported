@@ -1,0 +1,6 @@
+{
+    "Description": "Reveal<y> 1 card per charge</y>.",
+    "DescriptionExtended": "Reveal<y> 1 card per charge</y>.<br3>Remove 1 charge at the <w>end of the turn</w>.",
+    "ID": "sight",
+    "KeynoteName": "Sight"
+}

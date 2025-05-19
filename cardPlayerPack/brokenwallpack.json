@@ -1,0 +1,17 @@
+{
+    "Card0": "dislocatedjaw",
+    "Card0RandomBoon": false,
+    "Card0RandomInjury": false,
+    "Card1": "brokenbone",
+    "Card1RandomBoon": false,
+    "Card1RandomInjury": false,
+    "Card2": "brokenbone",
+    "Card2RandomBoon": false,
+    "Card2RandomInjury": false,
+    "Card3": "success",
+    "Card3RandomBoon": false,
+    "Card3RandomInjury": false,
+    "ModIterations": 0,
+    "ModSpeed": 0,
+    "PackId": "brokenwallpack"
+}

@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "You told the baker that you will find his son at the Forest Arch.",
+    "ItemSprite": "",
+    "RequirementID": "bakerson",
+    "RequirementName": "The baker's son",
+    "RequirementTrack": true,
+    "TrackSprite": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "Senenthia"
+}

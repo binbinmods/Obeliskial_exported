@@ -1,0 +1,23 @@
+{
+    "AdditionalCurrency": 0,
+    "AdditionalShards": 0,
+    "AuraCurseBonus": "block",
+    "AuraCurseBonusValue": 4,
+    "CardClass": "Special",
+    "CustomDescription": "",
+    "DamageFlatBonus": "All",
+    "DamageFlatBonusValue": 2,
+    "EnergyBegin": 0,
+    "HealQuantity": 0,
+    "Icon": "block",
+    "IconTextValue": "+4",
+    "ID": "perkcultivatorwar",
+    "Level": 0,
+    "MainPerk": false,
+    "MaxHealth": 10,
+    "ObeliskPerk": false,
+    "ResistModified": "None",
+    "ResistModifiedValue": 0,
+    "Row": 0,
+    "SpeedQuantity": 0
+}

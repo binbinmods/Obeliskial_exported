@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "LaiaSkinWhatif",
+    "SkinID": "laiaSkinWhatif",
+    "SkinName": "Whatif",
+    "SkinOrder": 80,
+    "SkinSubclass": "paladin",
+    "Sku": "",
+    "SpritePortrait": "laiawhatifPortrait",
+    "SpritePortraitGrande": "laiawhatifPortraitGrande",
+    "SpriteSilueta": "laiawhatifSilueta",
+    "SpriteSiluetaGrande": "laiawhatifSiluetaGrande",
+    "SteamStat": ""
+}

@@ -1,0 +1,15 @@
+{
+    "BaseSkin": true,
+    "PerkLevel": 0,
+    "SkinGO": "reginaldSkinRegular",
+    "SkinID": "cleric",
+    "SkinName": "Cleric",
+    "SkinOrder": 0,
+    "SkinSubclass": "cleric",
+    "Sku": "",
+    "SpritePortrait": "reginaldportrait",
+    "SpritePortraitGrande": "reginaldportraitGrande",
+    "SpriteSilueta": "reginaldsilueta",
+    "SpriteSiluetaGrande": "reginaldsiluetaGrande",
+    "SteamStat": ""
+}

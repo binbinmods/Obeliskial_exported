@@ -1,0 +1,29 @@
+{
+    "HighPack": [
+        "chainlightningrare",
+        "flamestrikerare",
+        "curseofvulnerabilityrare",
+        "drainliferare",
+        "managemrare",
+        "grimoireofflamesrare",
+        "iciclebarragerare",
+        "equivalentexchangerare",
+        "meteoriterare",
+        "winterorbrare"
+    ],
+    "LowPack": [
+        "chainlightningrare",
+        "curseofvulnerabilityrare",
+        "darkpactrare",
+        "elementalboltrare",
+        "frostnovarare",
+        "grimoireofflamesrare",
+        "mirrorimagesrare",
+        "manasurgerare",
+        "tomeofintellectrare",
+        "unstablepowerrare"
+    ],
+    "PackClass": "Mage",
+    "PackName": "mage0",
+    "PackTier": 0
+}

@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "bajaste al sotano y sumoneaste a belphyor,  ya sea que te fuiste o lo derrotaste.",
+    "ItemSprite": "",
+    "RequirementID": "belphyorsummoned",
+    "RequirementName": "",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "None"
+}

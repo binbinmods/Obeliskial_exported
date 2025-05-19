@@ -1,0 +1,6 @@
+{
+    "Description": "Damage and heal done<y> +5% per charge</y>.",
+    "DescriptionExtended": "Damage and heal done<y> +5% per charge</y>.<br3>Maximum charges <y>10</y>.<br3>Remove 2 charges at the <w>end of the turn</w>.",
+    "ID": "powerful",
+    "KeynoteName": "Powerful"
+}

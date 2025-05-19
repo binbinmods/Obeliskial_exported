@@ -1,0 +1,13 @@
+{
+    "Column": 9,
+    "Cost": "PerkCostBase",
+    "ID": "nodeperkForttify0",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "mainperkfortify0",
+    "PerkRequired": "",
+    "PerksConnected": [],
+    "Row": 4,
+    "Sprite": "fortify",
+    "Type": 1
+}

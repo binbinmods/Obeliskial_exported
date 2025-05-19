@@ -1,0 +1,15 @@
+{
+    "Card0": "freshmeatstart",
+    "Card1": "rampage",
+    "Card2": "sharpen",
+    "Card3": "butchering",
+    "Card4": "piercinghowl",
+    "Card5": "",
+    "CardSpecial0": "",
+    "CardSpecial1": "",
+    "PackClass": "Warrior",
+    "PackID": "bandit",
+    "PackName": "Yogger",
+    "PerkList": [],
+    "RequiredClass": "bandit"
+}

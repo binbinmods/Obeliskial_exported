@@ -1,0 +1,15 @@
+{
+    "BaseSkin": true,
+    "PerkLevel": 0,
+    "SkinGO": "andrinSkinRegular",
+    "SkinID": "ranger",
+    "SkinName": "Ranger",
+    "SkinOrder": 0,
+    "SkinSubclass": "ranger",
+    "Sku": "",
+    "SpritePortrait": "andrinportrait",
+    "SpritePortraitGrande": "andrinportraitGrande",
+    "SpriteSilueta": "andrinsilueta",
+    "SpriteSiluetaGrande": "andrinsiluetaGrande",
+    "SteamStat": ""
+}

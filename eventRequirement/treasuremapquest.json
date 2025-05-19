@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "You have a map that leads to a treasure hidden somewhere in the upper ruins.",
+    "ItemSprite": "",
+    "RequirementID": "treasuremapquest",
+    "RequirementName": "Treasure hunt",
+    "RequirementTrack": true,
+    "TrackSprite": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "None"
+}

@@ -1,0 +1,11 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "You promised the priest that you will deal with Yogger at the Bandit Camp.",
+    "ItemSprite": "",
+    "RequirementID": "priestquest",
+    "RequirementName": "The scared pigman",
+    "RequirementTrack": true,
+    "TrackSprite": "quest-priest",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "Senenthia"
+}
