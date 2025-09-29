@@ -1,0 +1,12 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "En el mercado prometiste rescatar a los presos. ",
+    "ItemSprite": "",
+    "RequirementID": "sunkenrescuemission",
+    "RequirementName": "",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "TrackCard": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "None"
+}

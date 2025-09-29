@@ -1,6 +1,6 @@
 {
     "AICards": [
-        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"chop\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 6,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}"
+        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"chop\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 6,\n    \"StartsAtObeliskMadnessLevel\": 0,\n    \"StartsAtSingularityMadnessLevel\": 0,\n    \"SpecialSecondTargetID\": \"\",\n    \"SecondOnlyCastIf\": \"\",\n    \"SecondValueCastIf\": 0.0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}"
     ],
     "AuraCurseImmune": [],
     "BaseMonster": "",
@@ -16,10 +16,12 @@
     "FluffOffsetX": -0.5,
     "FluffOffsetY": 3.299999952316284,
     "GameObjectAnimated": "wwarriorRedesign",
+    "GameObjectAnimatedAlternate": "",
     "GoldReward": 20,
     "HellModeMob": "",
     "HitSound": "",
     "HP": 30,
+    "OnlyKillBossWhenHpZero": false,
     "ID": "bandita_plus",
     "IsBoss": false,
     "IsNamed": false,
@@ -41,6 +43,8 @@
     "Sprite": "",
     "SpritePortrait": "LoboGuerreroportraitGrande",
     "SpriteSpeed": "LoboGuerreroportrait",
+    "SpriteSpeedAlternate": "",
+    "SpritePortraitAlternate": "",
     "TierMob": "T0",
     "TierReward": "1",
     "UpgradedMob": "",

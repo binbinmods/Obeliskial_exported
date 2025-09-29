@@ -1,14 +1,14 @@
 {
     "AICards": [
-        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"hardeningb\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 1,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
-        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"fieryfistb\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 2,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
-        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"landslideb\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 3,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
-        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"trebuchetb\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 4,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
-        "{\n    \"AddCardRound\": 2,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"earthquakeb\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 5,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
-        "{\n    \"AddCardRound\": 3,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"reassembleb\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
-        "{\n    \"AddCardRound\": 3,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"aftershockb\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 6,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
-        "{\n    \"AddCardRound\": 5,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"earthquakeb\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 5,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
-        "{\n    \"AddCardRound\": 6,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"aftershockb\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 6,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}"
+        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"hardeningb\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 1,\n    \"StartsAtObeliskMadnessLevel\": 0,\n    \"StartsAtSingularityMadnessLevel\": 0,\n    \"SpecialSecondTargetID\": \"\",\n    \"SecondOnlyCastIf\": \"\",\n    \"SecondValueCastIf\": 0.0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
+        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"fieryfistb\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 2,\n    \"StartsAtObeliskMadnessLevel\": 0,\n    \"StartsAtSingularityMadnessLevel\": 0,\n    \"SpecialSecondTargetID\": \"\",\n    \"SecondOnlyCastIf\": \"\",\n    \"SecondValueCastIf\": 0.0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
+        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"landslideb\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 3,\n    \"StartsAtObeliskMadnessLevel\": 0,\n    \"StartsAtSingularityMadnessLevel\": 0,\n    \"SpecialSecondTargetID\": \"\",\n    \"SecondOnlyCastIf\": \"\",\n    \"SecondValueCastIf\": 0.0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
+        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"trebuchetb\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 4,\n    \"StartsAtObeliskMadnessLevel\": 0,\n    \"StartsAtSingularityMadnessLevel\": 0,\n    \"SpecialSecondTargetID\": \"\",\n    \"SecondOnlyCastIf\": \"\",\n    \"SecondValueCastIf\": 0.0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
+        "{\n    \"AddCardRound\": 2,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"earthquakeb\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 5,\n    \"StartsAtObeliskMadnessLevel\": 0,\n    \"StartsAtSingularityMadnessLevel\": 0,\n    \"SpecialSecondTargetID\": \"\",\n    \"SecondOnlyCastIf\": \"\",\n    \"SecondValueCastIf\": 0.0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
+        "{\n    \"AddCardRound\": 3,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"reassembleb\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 0,\n    \"StartsAtObeliskMadnessLevel\": 0,\n    \"StartsAtSingularityMadnessLevel\": 0,\n    \"SpecialSecondTargetID\": \"\",\n    \"SecondOnlyCastIf\": \"\",\n    \"SecondValueCastIf\": 0.0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
+        "{\n    \"AddCardRound\": 3,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"aftershockb\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 6,\n    \"StartsAtObeliskMadnessLevel\": 0,\n    \"StartsAtSingularityMadnessLevel\": 0,\n    \"SpecialSecondTargetID\": \"\",\n    \"SecondOnlyCastIf\": \"\",\n    \"SecondValueCastIf\": 0.0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
+        "{\n    \"AddCardRound\": 5,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"earthquakeb\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 5,\n    \"StartsAtObeliskMadnessLevel\": 0,\n    \"StartsAtSingularityMadnessLevel\": 0,\n    \"SpecialSecondTargetID\": \"\",\n    \"SecondOnlyCastIf\": \"\",\n    \"SecondValueCastIf\": 0.0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
+        "{\n    \"AddCardRound\": 6,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"aftershockb\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 6,\n    \"StartsAtObeliskMadnessLevel\": 0,\n    \"StartsAtSingularityMadnessLevel\": 0,\n    \"SpecialSecondTargetID\": \"\",\n    \"SecondOnlyCastIf\": \"\",\n    \"SecondValueCastIf\": 0.0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}"
     ],
     "AuraCurseImmune": [
         "bleed"
@@ -26,10 +26,12 @@
     "FluffOffsetX": -0.20000000298023225,
     "FluffOffsetY": 3.799999952316284,
     "GameObjectAnimated": "obsidianelemental",
+    "GameObjectAnimatedAlternate": "",
     "GoldReward": 50,
     "HellModeMob": "",
     "HitSound": "",
     "HP": 333,
+    "OnlyKillBossWhenHpZero": false,
     "ID": "obsidianelemental_plus_b",
     "IsBoss": false,
     "IsNamed": false,
@@ -51,6 +53,8 @@
     "Sprite": "",
     "SpritePortrait": "obsidianelementalSpeedBig",
     "SpriteSpeed": "obsidianelementalSpeed",
+    "SpriteSpeedAlternate": "",
+    "SpritePortraitAlternate": "",
     "TierMob": "T2",
     "TierReward": "6",
     "UpgradedMob": "",

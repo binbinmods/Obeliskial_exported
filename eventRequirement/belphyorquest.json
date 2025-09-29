@@ -6,6 +6,7 @@
     "RequirementName": "Revenge of the imps",
     "RequirementTrack": true,
     "TrackSprite": "",
+    "TrackCard": "",
     "ItemTrack": false,
     "RequirementZoneFinishTrack": "Velkarath"
 }

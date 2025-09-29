@@ -1,9 +1,9 @@
 {
     "AICards": [
-        "{\n    \"AddCardRound\": 1,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"dampenmagica\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
-        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"dreadfulwavea\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 2,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
-        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"curseofelementsma\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 1,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
-        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"shadowmendma\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 3,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}"
+        "{\n    \"AddCardRound\": 1,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"dampenmagica\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 0,\n    \"StartsAtObeliskMadnessLevel\": 0,\n    \"StartsAtSingularityMadnessLevel\": 0,\n    \"SpecialSecondTargetID\": \"\",\n    \"SecondOnlyCastIf\": \"\",\n    \"SecondValueCastIf\": 0.0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
+        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"dreadfulwavea\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 2,\n    \"StartsAtObeliskMadnessLevel\": 0,\n    \"StartsAtSingularityMadnessLevel\": 0,\n    \"SpecialSecondTargetID\": \"\",\n    \"SecondOnlyCastIf\": \"\",\n    \"SecondValueCastIf\": 0.0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
+        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"curseofelementsma\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 1,\n    \"StartsAtObeliskMadnessLevel\": 0,\n    \"StartsAtSingularityMadnessLevel\": 0,\n    \"SpecialSecondTargetID\": \"\",\n    \"SecondOnlyCastIf\": \"\",\n    \"SecondValueCastIf\": 0.0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
+        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"shadowmendma\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 3,\n    \"StartsAtObeliskMadnessLevel\": 0,\n    \"StartsAtSingularityMadnessLevel\": 0,\n    \"SpecialSecondTargetID\": \"\",\n    \"SecondOnlyCastIf\": \"\",\n    \"SecondValueCastIf\": 0.0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}"
     ],
     "AuraCurseImmune": [],
     "BaseMonster": "",
@@ -19,10 +19,12 @@
     "FluffOffsetX": -0.4000000059604645,
     "FluffOffsetY": 3.5999999046325685,
     "GameObjectAnimated": "advisor",
+    "GameObjectAnimatedAlternate": "",
     "GoldReward": 50,
     "HellModeMob": "",
     "HitSound": "",
     "HP": 223,
+    "OnlyKillBossWhenHpZero": false,
     "ID": "advisor_b",
     "IsBoss": false,
     "IsNamed": false,
@@ -44,6 +46,8 @@
     "Sprite": "",
     "SpritePortrait": "RataConsejeroPortraitGrande",
     "SpriteSpeed": "RataConsejeroPortraitPequeño",
+    "SpriteSpeedAlternate": "",
+    "SpritePortraitAlternate": "",
     "TierMob": "T2",
     "TierReward": "6",
     "UpgradedMob": "",

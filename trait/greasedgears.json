@@ -1,5 +1,6 @@
 {
     "Activation": "PreBeginCombat",
+    "ActivateOnRuneTypeAdded": false,
     "AuraCurseBonus1": "",
     "AuraCurseBonus2": "",
     "AuraCurseBonus3": "",
@@ -23,12 +24,13 @@
     "DamageBonusPercentValue": 20.0,
     "DamageBonusPercentValue2": 0.0,
     "DamageBonusPercentValue3": 0.0,
-    "Description": "Inmune to Slow, Fast on this hero increases all damage done by 1 per charge.",
+    "Description": "All Damage done +20%. Immune to Slow. Fast on this hero increases all damage done by 1 per charge.",
     "HealFlatBonus": 0,
     "HealPercentBonus": 0.0,
     "HealReceivedFlatBonus": 0,
     "HealReceivedPercentBonus": 0.0,
     "ID": "greasedgears",
+    "MaxBleedDamagePerTurn": -1,
     "ResistModified1": "None",
     "ResistModified2": "None",
     "ResistModified3": "None",
@@ -39,5 +41,6 @@
     "TimesPerTurn": 0,
     "TraitCard": "",
     "TraitCardForAllHeroes": "",
-    "TraitName": "Greased Gears"
+    "TraitName": "Greased Gears",
+    "TryActivateOnEveryEvent": false
 }

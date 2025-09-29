@@ -6,10 +6,13 @@
     "CardbackOrder": 55,
     "CardbackSprite": "CardbackWhatif",
     "CardbackSubclass": "",
+    "CardbackTextId": "",
     "Locked": false,
     "ObeliskLevel": 0,
+    "PdxAccountRequired": true,
     "RankLevel": 0,
     "ShowIfLocked": true,
+    "SingularityLevel": 0,
     "Sku": "",
     "SteamStat": ""
 }

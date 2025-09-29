@@ -2,6 +2,8 @@
     "Icon": "mitigate",
     "ID": "ironcladmonsters",
     "IsMadnessTrait": false,
+    "IsSingularityTrait": false,
     "Name": "Ironclad Monsters",
-    "Order": 0
+    "Order": 0,
+    "OrderSingularity": 0
 }

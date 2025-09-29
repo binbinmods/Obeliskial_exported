@@ -1,11 +1,11 @@
 {
     "AICards": [
-        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"barkskinplusa\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
-        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"frenziedtermitesplus\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 2,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
-        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"poundb\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 3,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
-        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"earthquake\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 1,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
-        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"entanglingrootsb\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 4,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
-        "{\n    \"AddCardRound\": 4,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"earthwaveplus\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 5,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}"
+        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"barkskinplusa\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 0,\n    \"StartsAtObeliskMadnessLevel\": 0,\n    \"StartsAtSingularityMadnessLevel\": 0,\n    \"SpecialSecondTargetID\": \"\",\n    \"SecondOnlyCastIf\": \"\",\n    \"SecondValueCastIf\": 0.0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
+        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"frenziedtermitesplus\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 2,\n    \"StartsAtObeliskMadnessLevel\": 0,\n    \"StartsAtSingularityMadnessLevel\": 0,\n    \"SpecialSecondTargetID\": \"\",\n    \"SecondOnlyCastIf\": \"\",\n    \"SecondValueCastIf\": 0.0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
+        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"poundb\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 3,\n    \"StartsAtObeliskMadnessLevel\": 0,\n    \"StartsAtSingularityMadnessLevel\": 0,\n    \"SpecialSecondTargetID\": \"\",\n    \"SecondOnlyCastIf\": \"\",\n    \"SecondValueCastIf\": 0.0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
+        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"earthquake\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 1,\n    \"StartsAtObeliskMadnessLevel\": 0,\n    \"StartsAtSingularityMadnessLevel\": 0,\n    \"SpecialSecondTargetID\": \"\",\n    \"SecondOnlyCastIf\": \"\",\n    \"SecondValueCastIf\": 0.0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
+        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"entanglingrootsb\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 4,\n    \"StartsAtObeliskMadnessLevel\": 0,\n    \"StartsAtSingularityMadnessLevel\": 0,\n    \"SpecialSecondTargetID\": \"\",\n    \"SecondOnlyCastIf\": \"\",\n    \"SecondValueCastIf\": 0.0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
+        "{\n    \"AddCardRound\": 4,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"earthwaveplus\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 5,\n    \"StartsAtObeliskMadnessLevel\": 0,\n    \"StartsAtSingularityMadnessLevel\": 0,\n    \"SpecialSecondTargetID\": \"\",\n    \"SecondOnlyCastIf\": \"\",\n    \"SecondValueCastIf\": 0.0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}"
     ],
     "AuraCurseImmune": [
         "bleed"
@@ -23,10 +23,12 @@
     "FluffOffsetX": -0.4000000059604645,
     "FluffOffsetY": 2.5999999046325685,
     "GameObjectAnimated": "trunkyb",
+    "GameObjectAnimatedAlternate": "",
     "GoldReward": 34,
     "HellModeMob": "treevor_plush",
     "HitSound": "",
     "HP": 150,
+    "OnlyKillBossWhenHpZero": false,
     "ID": "treevor_plus",
     "IsBoss": false,
     "IsNamed": true,
@@ -48,6 +50,8 @@
     "Sprite": "",
     "SpritePortrait": "trunkybSpeedBig",
     "SpriteSpeed": "trunkybSpeed",
+    "SpriteSpeedAlternate": "",
+    "SpritePortraitAlternate": "",
     "TierMob": "T0",
     "TierReward": "3",
     "UpgradedMob": "",

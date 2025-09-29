@@ -6,6 +6,7 @@
     "RequirementName": "The Golden Sheep",
     "RequirementTrack": true,
     "TrackSprite": "",
+    "TrackCard": "",
     "ItemTrack": false,
     "RequirementZoneFinishTrack": "Senenthia"
 }

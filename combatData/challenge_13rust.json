@@ -18,6 +18,9 @@
         "rustking_o"
     ],
     "NPCRemoveInMadness0Index": -1,
+    "NPCToSummonOnNpcKilled": "",
+    "RandomizeNpcPosition": false,
+    "StepSound": "",
     "ThermometerTierData": "T4",
     "IsRift": false
 }

@@ -1,4 +1,5 @@
 {
+    "AllowDropOnlyItems": false,
     "DefaultPercentEpic": 0.0,
     "DefaultPercentMythic": 0.0,
     "DefaultPercentRare": 25.0,
@@ -6,10 +7,10 @@
     "GoldQuantity": 30,
     "ID": "sahtisurgeonarsenal",
     "LootItemTable": [
-        "{\n    \"LootCard\": \"corsairhat\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
-        "{\n    \"LootCard\": \"compass\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
-        "{\n    \"LootCard\": \"spyglass\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
-        "{\n    \"LootCard\": \"\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"Weapon\"\n}"
+        "{\n    \"LootCard\": \"corsairhat\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"compass\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"spyglass\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"Weapon\",\n    \"LootMisc\": \"\"\n}"
     ],
     "NumItems": 4,
     "ShadyModel": "",

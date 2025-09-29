@@ -2,6 +2,8 @@
     "Icon": "insulate",
     "ID": "resistantmonsters",
     "IsMadnessTrait": true,
+    "IsSingularityTrait": false,
     "Name": "Resistant Monsters",
-    "Order": 5
+    "Order": 5,
+    "OrderSingularity": 0
 }

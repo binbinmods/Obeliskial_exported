@@ -6,10 +6,13 @@
     "CardbackOrder": 77,
     "CardbackSprite": "CardbackLunar",
     "CardbackSubclass": "",
+    "CardbackTextId": "",
     "Locked": true,
     "ObeliskLevel": 0,
+    "PdxAccountRequired": false,
     "RankLevel": 0,
     "ShowIfLocked": true,
+    "SingularityLevel": 0,
     "Sku": "",
     "SteamStat": "challengeLunar"
 }

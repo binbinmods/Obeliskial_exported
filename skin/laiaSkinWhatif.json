@@ -6,6 +6,7 @@
     "SkinName": "Whatif",
     "SkinOrder": 80,
     "SkinSubclass": "paladin",
+    "SkinTextId": "laiawhatiftext",
     "Sku": "",
     "SpritePortrait": "laiawhatifPortrait",
     "SpritePortraitGrande": "laiawhatifPortraitGrande",

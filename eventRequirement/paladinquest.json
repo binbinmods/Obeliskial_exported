@@ -6,6 +6,7 @@
     "RequirementName": "The Void bells",
     "RequirementTrack": true,
     "TrackSprite": "quest-paladin",
+    "TrackCard": "",
     "ItemTrack": false,
     "RequirementZoneFinishTrack": "VoidHigh"
 }

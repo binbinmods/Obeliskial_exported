@@ -2,6 +2,8 @@
     "Icon": "gold",
     "ID": "poverty",
     "IsMadnessTrait": true,
+    "IsSingularityTrait": true,
     "Name": "Poverty",
-    "Order": 4
+    "Order": 4,
+    "OrderSingularity": 7
 }

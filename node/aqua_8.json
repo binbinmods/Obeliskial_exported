@@ -23,7 +23,8 @@
     "NodesConnected": [
         "aqua_12",
         "aqua_19",
-        "aqua_22"
+        "aqua_22",
+        "aqua_49"
     ],
     "NodesConnectedRequirement": [
         "{\n    \"NodeData\": \"aqua_19\",\n    \"ConnectionRequirement\": \"boatup\",\n    \"ConnectionIfNotNode\": \"\"\n}",

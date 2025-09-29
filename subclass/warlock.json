@@ -67,5 +67,22 @@
     "Trait4A": "absolutedarkness",
     "Trait4B": "vampirism",
     "AutoUnlock": false,
-    "SourceCharacterName": "Zek"
+    "SourceCharacterName": "Zek",
+    "CardsSingularity": [
+        "blackdeathstart",
+        "shadowbolt",
+        "curseofshadows",
+        "curseofexhaustion",
+        "darkpact",
+        "darkritual",
+        "drainlife",
+        "necroticburst",
+        "lifetap",
+        "maliciouseye",
+        "curseofagony",
+        "curseoffragility",
+        "pestilence",
+        "nightmare",
+        "darkfuture"
+    ]
 }

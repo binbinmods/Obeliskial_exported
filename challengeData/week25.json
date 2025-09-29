@@ -1,0 +1,31 @@
+{
+    "Boss1": "elderdryad_o",
+    "Boss2": "gorio_o",
+    "BossCombat": "challenge_13dawn",
+    "CorruptionList": [
+        "threeghost",
+        "holypuddle",
+        "thegrinch",
+        "starrynight",
+        "snowfall",
+        "holynight",
+        "christmastree"
+    ],
+    "Hero1": "bandit",
+    "Hero2": "paladin",
+    "Hero3": "elementalist",
+    "Hero4": "priest",
+    "ID": "week25",
+    "IDSteam": "challengeChristmas",
+    "Loot": "weeklychristmas",
+    "Seed": "ChristmasEve2024",
+    "Traits": [
+        "holypenance",
+        "morechampions",
+        "vigorousmonsters",
+        "lucky",
+        "doubleboons",
+        "elementalmonsters"
+    ],
+    "Week": 25
+}

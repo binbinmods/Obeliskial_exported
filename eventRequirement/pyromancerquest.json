@@ -6,6 +6,7 @@
     "RequirementName": "The wandering wizard",
     "RequirementTrack": true,
     "TrackSprite": "quest-pyromancer",
+    "TrackCard": "",
     "ItemTrack": false,
     "RequirementZoneFinishTrack": "Velkarath"
 }

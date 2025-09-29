@@ -6,10 +6,13 @@
     "CardbackOrder": 2,
     "CardbackSprite": "CartaMagnusMedium",
     "CardbackSubclass": "mercenary",
+    "CardbackTextId": "",
     "Locked": false,
     "ObeliskLevel": 0,
+    "PdxAccountRequired": false,
     "RankLevel": 24,
     "ShowIfLocked": false,
+    "SingularityLevel": 0,
     "Sku": "",
     "SteamStat": ""
 }

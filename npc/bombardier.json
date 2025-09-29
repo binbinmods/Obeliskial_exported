@@ -1,10 +1,10 @@
 {
     "AICards": [
-        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"fireinthehole\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
-        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"smokebombm\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 8,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
-        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"explosivegift\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 3,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
-        "{\n    \"AddCardRound\": 3,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"bombard\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 1,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
-        "{\n    \"AddCardRound\": 3,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"overcoat\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 6,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}"
+        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"fireinthehole\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 0,\n    \"StartsAtObeliskMadnessLevel\": 0,\n    \"StartsAtSingularityMadnessLevel\": 0,\n    \"SpecialSecondTargetID\": \"\",\n    \"SecondOnlyCastIf\": \"\",\n    \"SecondValueCastIf\": 0.0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
+        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"smokebombm\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 8,\n    \"StartsAtObeliskMadnessLevel\": 0,\n    \"StartsAtSingularityMadnessLevel\": 0,\n    \"SpecialSecondTargetID\": \"\",\n    \"SecondOnlyCastIf\": \"\",\n    \"SecondValueCastIf\": 0.0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
+        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"explosivegift\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 3,\n    \"StartsAtObeliskMadnessLevel\": 0,\n    \"StartsAtSingularityMadnessLevel\": 0,\n    \"SpecialSecondTargetID\": \"\",\n    \"SecondOnlyCastIf\": \"\",\n    \"SecondValueCastIf\": 0.0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
+        "{\n    \"AddCardRound\": 3,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"bombard\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 1,\n    \"StartsAtObeliskMadnessLevel\": 0,\n    \"StartsAtSingularityMadnessLevel\": 0,\n    \"SpecialSecondTargetID\": \"\",\n    \"SecondOnlyCastIf\": \"\",\n    \"SecondValueCastIf\": 0.0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}",
+        "{\n    \"AddCardRound\": 3,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"overcoat\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 6,\n    \"StartsAtObeliskMadnessLevel\": 0,\n    \"StartsAtSingularityMadnessLevel\": 0,\n    \"SpecialSecondTargetID\": \"\",\n    \"SecondOnlyCastIf\": \"\",\n    \"SecondValueCastIf\": 0.0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}"
     ],
     "AuraCurseImmune": [],
     "BaseMonster": "",
@@ -20,10 +20,12 @@
     "FluffOffsetX": -0.30000001192092898,
     "FluffOffsetY": 2.8499999046325685,
     "GameObjectAnimated": "bombardier",
+    "GameObjectAnimatedAlternate": "",
     "GoldReward": 32,
     "HellModeMob": "",
     "HitSound": "",
     "HP": 83,
+    "OnlyKillBossWhenHpZero": false,
     "ID": "bombardier",
     "IsBoss": false,
     "IsNamed": false,
@@ -45,6 +47,8 @@
     "Sprite": "",
     "SpritePortrait": "bombariderSpeedBig",
     "SpriteSpeed": "bombariderSpeed",
+    "SpriteSpeedAlternate": "",
+    "SpritePortraitAlternate": "",
     "TierMob": "T1",
     "TierReward": "4",
     "UpgradedMob": "bombardier_b",

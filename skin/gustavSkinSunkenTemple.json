@@ -1,0 +1,16 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "Gustav_Skin_SunkenTemple",
+    "SkinID": "gustavSkinSunkenTemple",
+    "SkinName": "sunken",
+    "SkinOrder": 90,
+    "SkinSubclass": "minstrel",
+    "SkinTextId": "",
+    "Sku": "3473720",
+    "SpritePortrait": "gustavSunkenportrait",
+    "SpritePortraitGrande": "gustavSunkenportraitGrande",
+    "SpriteSilueta": "gustavSunkensilueta",
+    "SpriteSiluetaGrande": "gustavSunkensiluetaGrande",
+    "SteamStat": ""
+}

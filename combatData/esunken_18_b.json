@@ -1,0 +1,24 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Sunken_Secondfloor",
+    "CombatEffect": [],
+    "CombatID": "esunken_18_b",
+    "CombatMusic": "Untouched Land - 320bit",
+    "CombatTier": "T3",
+    "Description": "combat offering room normal loot",
+    "EventData": "e_sunken18_a1",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "warrior",
+        "warrior",
+        "eagleshaman",
+        ""
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "NPCToSummonOnNpcKilled": "",
+    "RandomizeNpcPosition": false,
+    "StepSound": "",
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

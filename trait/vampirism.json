@@ -1,5 +1,6 @@
 {
     "Activation": "Damage",
+    "ActivateOnRuneTypeAdded": false,
     "AuraCurseBonus1": "bleed",
     "AuraCurseBonus2": "chill",
     "AuraCurseBonus3": "",
@@ -23,12 +24,13 @@
     "DamageBonusPercentValue": 30.0,
     "DamageBonusPercentValue2": 0.0,
     "DamageBonusPercentValue3": 0.0,
-    "Description": "All Damage done +30%. Heal yourself for 30% of the damage done.",
+    "Description": "Bleed +1, Chill +1. All Damage done +30%. Heal yourself for 30% of the damage done.",
     "HealFlatBonus": 0,
     "HealPercentBonus": 0.0,
     "HealReceivedFlatBonus": 0,
     "HealReceivedPercentBonus": 0.0,
     "ID": "vampirism",
+    "MaxBleedDamagePerTurn": -1,
     "ResistModified1": "None",
     "ResistModified2": "None",
     "ResistModified3": "None",
@@ -39,5 +41,6 @@
     "TimesPerTurn": 0,
     "TraitCard": "",
     "TraitCardForAllHeroes": "",
-    "TraitName": "Vampirism"
+    "TraitName": "Vampirism",
+    "TryActivateOnEveryEvent": false
 }

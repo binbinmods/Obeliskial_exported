@@ -6,6 +6,7 @@
     "RequirementName": "Merchant Card",
     "RequirementTrack": false,
     "TrackSprite": "",
+    "TrackCard": "",
     "ItemTrack": true,
     "RequirementZoneFinishTrack": "None"
 }

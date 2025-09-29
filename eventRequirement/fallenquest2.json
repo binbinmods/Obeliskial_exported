@@ -6,6 +6,7 @@
     "RequirementName": "Lifting the curse",
     "RequirementTrack": true,
     "TrackSprite": "quest-fallen",
+    "TrackCard": "",
     "ItemTrack": false,
     "RequirementZoneFinishTrack": "VoidHigh"
 }

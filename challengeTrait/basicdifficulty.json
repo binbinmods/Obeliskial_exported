@@ -2,6 +2,8 @@
     "Icon": "madnessatlas",
     "ID": "basicdifficulty",
     "IsMadnessTrait": true,
+    "IsSingularityTrait": true,
     "Name": "Basic Difficulty",
-    "Order": 0
+    "Order": 0,
+    "OrderSingularity": 0
 }

@@ -1,4 +1,5 @@
 {
+    "AllowDropOnlyItems": false,
     "DefaultPercentEpic": 20.0,
     "DefaultPercentMythic": 0.0,
     "DefaultPercentRare": 60.0,
@@ -6,12 +7,12 @@
     "GoldQuantity": 100,
     "ID": "upriprebossnenukill",
     "LootItemTable": [
-        "{\n    \"LootCard\": \"\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
-        "{\n    \"LootCard\": \"rocketboots\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
-        "{\n    \"LootCard\": \"dwarvenhelmet\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
-        "{\n    \"LootCard\": \"blunderbluss\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Weapon\"\n}",
-        "{\n    \"LootCard\": \"machineoil\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Weapon\"\n}",
-        "{\n    \"LootCard\": \"\",\n    \"LootPercent\": 70.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"Accesory\"\n}"
+        "{\n    \"LootCard\": \"\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\",\n    \"LootMisc\": \"scrappyrobot\"\n}",
+        "{\n    \"LootCard\": \"rocketboots\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"dwarvenhelmet\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"blunderbluss\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Weapon\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"machineoil\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Weapon\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"\",\n    \"LootPercent\": 70.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"Accesory\",\n    \"LootMisc\": \"\"\n}"
     ],
     "NumItems": 8,
     "ShadyModel": "",

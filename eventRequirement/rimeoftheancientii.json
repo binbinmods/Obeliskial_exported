@@ -6,6 +6,7 @@
     "RequirementName": "Rime of the Ancient Mariner II",
     "RequirementTrack": true,
     "TrackSprite": "",
+    "TrackCard": "",
     "ItemTrack": false,
     "RequirementZoneFinishTrack": "Faeborg"
 }

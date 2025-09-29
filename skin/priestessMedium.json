@@ -1,0 +1,16 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 16,
+    "SkinGO": "TulahSkinMedium",
+    "SkinID": "priestessMedium",
+    "SkinName": "Matriarch",
+    "SkinOrder": 1,
+    "SkinSubclass": "priestess",
+    "SkinTextId": "",
+    "Sku": "",
+    "SpritePortrait": "thulaportraitMedium",
+    "SpritePortraitGrande": "thulaportraitGrandeMedium",
+    "SpriteSilueta": "thulasiluetaMedium",
+    "SpriteSiluetaGrande": "thulasiluetaGrandeMedium",
+    "SteamStat": ""
+}

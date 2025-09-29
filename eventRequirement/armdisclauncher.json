@@ -6,6 +6,7 @@
     "RequirementName": "Robot Arm",
     "RequirementTrack": false,
     "TrackSprite": "",
+    "TrackCard": "disclauncher",
     "ItemTrack": true,
     "RequirementZoneFinishTrack": "None"
 }

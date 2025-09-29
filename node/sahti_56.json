@@ -11,9 +11,15 @@
     "NodeCombat": [],
     "NodeCombatTier": "T0",
     "NodeEvent": [
-        "e_sahti56_a"
+        "e_sahti56_a",
+        "e_sahti56_b1",
+        "e_sahti56_b2"
     ],
-    "NodeEventPercent": [],
+    "NodeEventPercent": [
+        0,
+        100,
+        100
+    ],
     "NodeEventPriority": [],
     "NodeEventTier": "T0",
     "NodeGround": "DampCavern",
@@ -29,5 +35,5 @@
     "VisibleIfNotRequirement": false,
     "medsPosX": 0.0,
     "medsPosY": 0.0,
-    "SourceNodeName": "Village"
+    "SourceNodeName": "Crates"
 }

@@ -1,0 +1,25 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Senenthia_BosqueEntrada_Nightmare",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"sight\",\n    \"AuraCurseCharges\": 4,\n    \"AuraCurseTarget\": \"Monsters\"\n}"
+    ],
+    "CombatID": "cdream_13_ss",
+    "CombatMusic": "2_Adventure - Alexander Nakarada",
+    "CombatTier": "T2",
+    "Description": "sheep and boar mix",
+    "EventData": "e_dream13_a2",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "",
+        "reweaverservant",
+        "thereweaver"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "NPCToSummonOnNpcKilled": "",
+    "RandomizeNpcPosition": false,
+    "StepSound": "",
+    "ThermometerTierData": "T1",
+    "IsRift": false
+}

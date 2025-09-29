@@ -16,6 +16,9 @@
         "pirate"
     ],
     "NPCRemoveInMadness0Index": 0,
+    "NPCToSummonOnNpcKilled": "",
+    "RandomizeNpcPosition": false,
+    "StepSound": "",
     "ThermometerTierData": "T2",
     "IsRift": false
 }

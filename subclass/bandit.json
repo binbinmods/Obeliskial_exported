@@ -67,5 +67,22 @@
     "Trait4A": "gluttony",
     "Trait4B": "threestarchef",
     "AutoUnlock": false,
-    "SourceCharacterName": "Yogger"
+    "SourceCharacterName": "Yogger",
+    "CardsSingularity": [
+        "freshmeatstart",
+        "rampage",
+        "intercept",
+        "sharpen",
+        "piercinghowl",
+        "warpaint",
+        "butchering",
+        "intimidate",
+        "sweepingstrike",
+        "faststrike",
+        "recklesscharge",
+        "bladestorm",
+        "rend",
+        "shakeitoff",
+        "cleave"
+    ]
 }

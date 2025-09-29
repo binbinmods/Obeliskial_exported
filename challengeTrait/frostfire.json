@@ -2,6 +2,8 @@
     "Icon": "burn",
     "ID": "frostfire",
     "IsMadnessTrait": false,
+    "IsSingularityTrait": false,
     "Name": "Frostfire",
-    "Order": 0
+    "Order": 0,
+    "OrderSingularity": 0
 }

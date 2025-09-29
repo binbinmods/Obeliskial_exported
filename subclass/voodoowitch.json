@@ -67,5 +67,22 @@
     "Trait4A": "shadowform",
     "Trait4B": "mojo",
     "AutoUnlock": false,
-    "SourceCharacterName": "Malukah"
+    "SourceCharacterName": "Malukah",
+    "CardsSingularity": [
+        "maledictionstart",
+        "shadowmend",
+        "vitalize",
+        "blackkarma",
+        "vilelance",
+        "badaugury",
+        "dispelmagic",
+        "fanaticism",
+        "vilegas",
+        "vampirictouch",
+        "rayofhope",
+        "healingrain",
+        "unholystorm",
+        "darkoutbreak",
+        "scry"
+    ]
 }

@@ -67,5 +67,22 @@
     "Trait4A": "widesleeves",
     "Trait4B": "veilofshadows",
     "AutoUnlock": false,
-    "SourceCharacterName": "Thuls"
+    "SourceCharacterName": "Thuls",
+    "CardsSingularity": [
+        "killerinstincstart",
+        "viperstrike",
+        "poisondart",
+        "dualstrike",
+        "blur",
+        "ambush",
+        "sneakpeek",
+        "bladeflurry",
+        "camouflage",
+        "sawblade",
+        "shiv",
+        "setup",
+        "scavenge",
+        "deflect",
+        "sawtoothknife"
+    ]
 }

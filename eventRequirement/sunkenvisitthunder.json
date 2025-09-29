@@ -1,0 +1,12 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "sunken Thunder altar visit",
+    "ItemSprite": "",
+    "RequirementID": "sunkenvisitthunder",
+    "RequirementName": "",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "TrackCard": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "None"
+}

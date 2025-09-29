@@ -67,5 +67,22 @@
     "Trait4A": "reverberation",
     "Trait4B": "archangel",
     "AutoUnlock": true,
-    "SourceCharacterName": "Reginald"
+    "SourceCharacterName": "Reginald",
+    "CardsSingularity": [
+        "divinegracestart",
+        "heal",
+        "barrier",
+        "flash",
+        "foresight",
+        "holysmite",
+        "healingrain",
+        "flashheal",
+        "prayerofhealing",
+        "penance",
+        "holynova",
+        "clarity",
+        "benediction",
+        "dawnlight",
+        "bulkheal"
+    ]
 }

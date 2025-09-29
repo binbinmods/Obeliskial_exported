@@ -1,0 +1,12 @@
+{
+    "AssignToPlayerAtBegin": true,
+    "Description": "parte y nodos de arriba",
+    "ItemSprite": "",
+    "RequirementID": "sunkenup",
+    "RequirementName": "",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "TrackCard": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "None"
+}

@@ -1,0 +1,16 @@
+{
+    "BaseSkin": true,
+    "PerkLevel": 0,
+    "SkinGO": "TulahSkinBase",
+    "SkinID": "priestess",
+    "SkinName": "Priestess",
+    "SkinOrder": 0,
+    "SkinSubclass": "priestess",
+    "SkinTextId": "",
+    "Sku": "",
+    "SpritePortrait": "thulaportrait",
+    "SpritePortraitGrande": "thulaportraitGrande",
+    "SpriteSilueta": "thulasilueta",
+    "SpriteSiluetaGrande": "thulasiluetaGrande",
+    "SteamStat": ""
+}

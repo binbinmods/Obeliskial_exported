@@ -1,4 +1,5 @@
 {
+    "AllowDropOnlyItems": false,
     "DefaultPercentEpic": 100.0,
     "DefaultPercentMythic": 0.0,
     "DefaultPercentRare": 0.0,
@@ -6,16 +7,16 @@
     "GoldQuantity": 0,
     "ID": "tradeship10",
     "LootItemTable": [
-        "{\n    \"LootCard\": \"divinghelmet\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
-        "{\n    \"LootCard\": \"sextant\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
-        "{\n    \"LootCard\": \"krakensushi\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
-        "{\n    \"LootCard\": \"jollyroger\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
-        "{\n    \"LootCard\": \"spicydish\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"Accesory\"\n}",
-        "{\n    \"LootCard\": \"chaoticspear\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"Accesory\"\n}",
-        "{\n    \"LootCard\": \"pearlbelt\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}",
-        "{\n    \"LootCard\": \"mjolnir\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}",
-        "{\n    \"LootCard\": \"piratehat\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}",
-        "{\n    \"LootCard\": \"alchemypot\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\"\n}"
+        "{\n    \"LootCard\": \"divinghelmet\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"sextant\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"krakensushi\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"jollyroger\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"spicydish\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"Accesory\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"chaoticspear\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"Accesory\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"pearlbelt\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"mjolnir\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"piratehat\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"alchemypot\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Accesory\",\n    \"LootMisc\": \"\"\n}"
     ],
     "NumItems": 8,
     "ShadyModel": "nezglektSkinMedium",

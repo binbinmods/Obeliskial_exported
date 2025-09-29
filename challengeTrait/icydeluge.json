@@ -2,6 +2,8 @@
     "Icon": "wet",
     "ID": "icydeluge",
     "IsMadnessTrait": false,
+    "IsSingularityTrait": false,
     "Name": "Icy Deluge",
-    "Order": 0
+    "Order": 0,
+    "OrderSingularity": 0
 }

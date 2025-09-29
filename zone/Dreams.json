@@ -1,0 +1,21 @@
+{
+    "ChangeTeamOnEntrance": false,
+    "DisableExperienceOnThisZone": false,
+    "DisableMadnessOnThisZone": false,
+    "NewTeam": [],
+    "ObeliskFinal": false,
+    "ObeliskHigh": false,
+    "ObeliskLow": false,
+    "RestoreTeamOnExit": false,
+    "ZoneID": "Dreams",
+    "ZoneName": "Dreams",
+    "BackgroundImg": "",
+    "TransitionImg": "",
+    "MainZoneID": "",
+    "ReplaceMapGOSprite": "",
+    "ReplaceMapGOSpriteWith": "",
+    "BackgroundImg2": "",
+    "BackgroundImg3": "",
+    "BackgroundImg2Req": "",
+    "BackgroundImg3Req": ""
+}

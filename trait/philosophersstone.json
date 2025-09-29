@@ -1,5 +1,6 @@
 {
     "Activation": "EndTurn",
+    "ActivateOnRuneTypeAdded": false,
     "AuraCurseBonus1": "",
     "AuraCurseBonus2": "",
     "AuraCurseBonus3": "",
@@ -23,12 +24,13 @@
     "DamageBonusPercentValue": 0.0,
     "DamageBonusPercentValue2": 0.0,
     "DamageBonusPercentValue3": 0.0,
-    "Description": "",
+    "Description": "At the end of your turn, grant 2 Bless and 2 Vitality to all heroes plus 1 more for each Rust charge on you. Healer Duality can be activated 4 times per turn.",
     "HealFlatBonus": 0,
     "HealPercentBonus": 0.0,
     "HealReceivedFlatBonus": 0,
     "HealReceivedPercentBonus": 0.0,
     "ID": "philosophersstone",
+    "MaxBleedDamagePerTurn": -1,
     "ResistModified1": "None",
     "ResistModified2": "None",
     "ResistModified3": "None",
@@ -39,5 +41,6 @@
     "TimesPerTurn": 0,
     "TraitCard": "",
     "TraitCardForAllHeroes": "",
-    "TraitName": "Philosophers Stone"
+    "TraitName": "Philosopher's Stone",
+    "TryActivateOnEveryEvent": false
 }

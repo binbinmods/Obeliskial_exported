@@ -2,6 +2,8 @@
     "Icon": "courage",
     "ID": "spiritualmonsters",
     "IsMadnessTrait": false,
+    "IsSingularityTrait": false,
     "Name": "Spiritual Monsters",
-    "Order": 0
+    "Order": 0,
+    "OrderSingularity": 0
 }

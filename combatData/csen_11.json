@@ -20,6 +20,9 @@
         "farmer"
     ],
     "NPCRemoveInMadness0Index": 0,
+    "NPCToSummonOnNpcKilled": "",
+    "RandomizeNpcPosition": false,
+    "StepSound": "",
     "ThermometerTierData": "T1",
     "IsRift": false
 }

@@ -1,6 +1,6 @@
 {
     "AICards": [
-        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"holysmitemcb\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}"
+        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"holysmitemcb\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 0,\n    \"StartsAtObeliskMadnessLevel\": 0,\n    \"StartsAtSingularityMadnessLevel\": 0,\n    \"SpecialSecondTargetID\": \"\",\n    \"SecondOnlyCastIf\": \"\",\n    \"SecondValueCastIf\": 0.0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}"
     ],
     "AuraCurseImmune": [],
     "BaseMonster": "",
@@ -16,10 +16,12 @@
     "FluffOffsetX": -0.20000000298023225,
     "FluffOffsetY": 3.0,
     "GameObjectAnimated": "cubeLight",
+    "GameObjectAnimatedAlternate": "",
     "GoldReward": 52,
     "HellModeMob": "",
     "HitSound": "",
     "HP": 1777,
+    "OnlyKillBossWhenHpZero": false,
     "ID": "eternalcube_plus_b",
     "IsBoss": false,
     "IsNamed": false,
@@ -41,6 +43,8 @@
     "Sprite": "",
     "SpritePortrait": "CuboLuzPiramidePortraitGrande",
     "SpriteSpeed": "CuboLuzPiramidePortrait",
+    "SpriteSpeedAlternate": "",
+    "SpritePortraitAlternate": "",
     "TierMob": "T2",
     "TierReward": "6",
     "UpgradedMob": "",

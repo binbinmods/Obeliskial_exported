@@ -67,5 +67,22 @@
     "Trait4A": "valhalla",
     "Trait4B": "ragnarok",
     "AutoUnlock": true,
-    "SourceCharacterName": "Sigrun"
+    "SourceCharacterName": "Sigrun",
+    "CardsSingularity": [
+        "wingsofheavenstart",
+        "thunderbolt",
+        "captivatingvoice",
+        "chargedlunge",
+        "rain",
+        "odeofwar",
+        "stormjavelin",
+        "zap",
+        "chantofinitiative",
+        "chargebattery",
+        "tuneup",
+        "unstablepower",
+        "scavenge",
+        "electricdischarge",
+        "vexingcrescendo"
+    ]
 }

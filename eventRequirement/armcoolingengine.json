@@ -6,6 +6,7 @@
     "RequirementName": "Robot Arm",
     "RequirementTrack": false,
     "TrackSprite": "",
+    "TrackCard": "coolingengine",
     "ItemTrack": true,
     "RequirementZoneFinishTrack": "None"
 }

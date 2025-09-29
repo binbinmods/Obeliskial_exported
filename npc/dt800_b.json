@@ -1,6 +1,6 @@
 {
     "AICards": [
-        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"volatilecorea\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}"
+        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"volatilecorea\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 0,\n    \"StartsAtObeliskMadnessLevel\": 0,\n    \"StartsAtSingularityMadnessLevel\": 0,\n    \"SpecialSecondTargetID\": \"\",\n    \"SecondOnlyCastIf\": \"\",\n    \"SecondValueCastIf\": 0.0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}"
     ],
     "AuraCurseImmune": [],
     "BaseMonster": "",
@@ -16,10 +16,12 @@
     "FluffOffsetX": -0.10000000149011612,
     "FluffOffsetY": 4.300000190734863,
     "GameObjectAnimated": "dt800_cabin",
+    "GameObjectAnimatedAlternate": "",
     "GoldReward": 108,
     "HellModeMob": "",
     "HitSound": "",
     "HP": 332,
+    "OnlyKillBossWhenHpZero": false,
     "ID": "dt800_b",
     "IsBoss": true,
     "IsNamed": false,
@@ -41,6 +43,8 @@
     "Sprite": "",
     "SpritePortrait": "BossNucleoPortraitGrande",
     "SpriteSpeed": "BossNucleoPortraitPequeño",
+    "SpriteSpeedAlternate": "",
+    "SpritePortraitAlternate": "",
     "TierMob": "T2",
     "TierReward": "7",
     "UpgradedMob": "",

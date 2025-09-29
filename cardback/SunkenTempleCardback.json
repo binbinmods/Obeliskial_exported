@@ -1,0 +1,18 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "SunkenTempleCardback",
+    "CardbackName": "SunkenTemple",
+    "CardbackOrder": 69,
+    "CardbackSprite": "CardBackSunken",
+    "CardbackSubclass": "",
+    "CardbackTextId": "",
+    "Locked": true,
+    "ObeliskLevel": 0,
+    "PdxAccountRequired": false,
+    "RankLevel": 0,
+    "ShowIfLocked": true,
+    "SingularityLevel": 0,
+    "Sku": "3473720",
+    "SteamStat": ""
+}

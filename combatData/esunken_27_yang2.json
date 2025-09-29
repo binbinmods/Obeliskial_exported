@@ -1,0 +1,24 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Sunken_BossHoly",
+    "CombatEffect": [],
+    "CombatID": "esunken_27_yang2",
+    "CombatMusic": "Dragonquest - 320bit",
+    "CombatTier": "T4",
+    "Description": "Sacred Flame Disrespected normal",
+    "EventData": "e_sunken27_c1",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "",
+        "quetzoyang",
+        "",
+        ""
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "NPCToSummonOnNpcKilled": "",
+    "RandomizeNpcPosition": false,
+    "StepSound": "",
+    "ThermometerTierData": "T4",
+    "IsRift": false
+}

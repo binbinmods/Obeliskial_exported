@@ -6,6 +6,7 @@
     "RequirementName": "A stylish instrument",
     "RequirementTrack": true,
     "TrackSprite": "quest-minstrel",
+    "TrackCard": "",
     "ItemTrack": false,
     "RequirementZoneFinishTrack": "Faeborg"
 }

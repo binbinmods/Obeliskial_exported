@@ -67,5 +67,22 @@
     "Trait4A": "tireless",
     "Trait4B": "indomitable",
     "AutoUnlock": false,
-    "SourceCharacterName": "Heiner"
+    "SourceCharacterName": "Heiner",
+    "CardsSingularity": [
+        "heatlaserstart",
+        "guard",
+        "intercept",
+        "steelskin",
+        "bluff",
+        "sunderarmor",
+        "shieldcharge",
+        "shieldbash",
+        "shieldthrow",
+        "repairarmor",
+        "barricade",
+        "coatofarms",
+        "charge",
+        "defend",
+        "pommel"
+    ]
 }

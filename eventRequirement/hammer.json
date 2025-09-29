@@ -6,6 +6,7 @@
     "RequirementName": "Hammer and Nails",
     "RequirementTrack": false,
     "TrackSprite": "",
+    "TrackCard": "",
     "ItemTrack": true,
     "RequirementZoneFinishTrack": "None"
 }

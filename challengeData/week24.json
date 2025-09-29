@@ -1,0 +1,31 @@
+{
+    "Boss1": "belphyor_o",
+    "Boss2": "mortis_o",
+    "BossCombat": "challenge_13",
+    "CorruptionList": [
+        "sugarrush",
+        "trickortreat",
+        "deathgrip",
+        "spookynight",
+        "darkpuddle",
+        "backlash",
+        "noxiousparasites"
+    ],
+    "Hero1": "mercenary",
+    "Hero2": "prophet",
+    "Hero3": "loremaster",
+    "Hero4": "voodoowitch",
+    "ID": "week24",
+    "IDSteam": "challengeSpooky",
+    "Loot": "weeklyhalloween",
+    "Seed": "Halloween2024",
+    "Traits": [
+        "darkestnight",
+        "morechampions",
+        "fastheroes",
+        "unlucky",
+        "wealthyheroes",
+        "reinforcedmonsters"
+    ],
+    "Week": 24
+}

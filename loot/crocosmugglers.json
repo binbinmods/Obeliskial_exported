@@ -1,4 +1,5 @@
 {
+    "AllowDropOnlyItems": false,
     "DefaultPercentEpic": 0.0,
     "DefaultPercentMythic": 0.0,
     "DefaultPercentRare": 50.0,
@@ -6,13 +7,13 @@
     "GoldQuantity": 50,
     "ID": "crocosmugglers",
     "LootItemTable": [
-        "{\n    \"LootCard\": \"rustyarmor\",\n    \"LootPercent\": 80.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
-        "{\n    \"LootCard\": \"stonemaul\",\n    \"LootPercent\": 80.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
-        "{\n    \"LootCard\": \"primalnecklace\",\n    \"LootPercent\": 80.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
-        "{\n    \"LootCard\": \"mysticstaff\",\n    \"LootPercent\": 80.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
-        "{\n    \"LootCard\": \"tikimask\",\n    \"LootPercent\": 80.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
-        "{\n    \"LootCard\": \"warbanner\",\n    \"LootPercent\": 60.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
-        "{\n    \"LootCard\": \"\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"None\"\n}"
+        "{\n    \"LootCard\": \"rustyarmor\",\n    \"LootPercent\": 80.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"stonemaul\",\n    \"LootPercent\": 80.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"primalnecklace\",\n    \"LootPercent\": 80.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"mysticstaff\",\n    \"LootPercent\": 80.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"tikimask\",\n    \"LootPercent\": 80.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"warbanner\",\n    \"LootPercent\": 60.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"None\",\n    \"LootMisc\": \"\"\n}"
     ],
     "NumItems": 6,
     "ShadyModel": "",

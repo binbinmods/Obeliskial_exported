@@ -1,5 +1,6 @@
 {
     "Activation": "None",
+    "ActivateOnRuneTypeAdded": false,
     "AuraCurseBonus1": "",
     "AuraCurseBonus2": "",
     "AuraCurseBonus3": "",
@@ -29,6 +30,7 @@
     "HealReceivedFlatBonus": 0,
     "HealReceivedPercentBonus": 0.0,
     "ID": "fatedfuture",
+    "MaxBleedDamagePerTurn": -1,
     "ResistModified1": "None",
     "ResistModified2": "None",
     "ResistModified3": "None",
@@ -39,5 +41,6 @@
     "TimesPerTurn": 0,
     "TraitCard": "fatedfuture",
     "TraitCardForAllHeroes": "",
-    "TraitName": "Fated Future"
+    "TraitName": "Fated Future",
+    "TryActivateOnEveryEvent": false
 }

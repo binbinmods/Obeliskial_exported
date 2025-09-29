@@ -6,6 +6,7 @@
     "RequirementName": "Ship Rudder",
     "RequirementTrack": false,
     "TrackSprite": "",
+    "TrackCard": "",
     "ItemTrack": true,
     "RequirementZoneFinishTrack": "None"
 }

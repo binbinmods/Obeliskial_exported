@@ -1,6 +1,6 @@
 {
     "AICards": [
-        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"bigboom\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}"
+        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"bigboom\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 0,\n    \"StartsAtObeliskMadnessLevel\": 0,\n    \"StartsAtSingularityMadnessLevel\": 0,\n    \"SpecialSecondTargetID\": \"\",\n    \"SecondOnlyCastIf\": \"\",\n    \"SecondValueCastIf\": 0.0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 1,\n    \"ValueCastIf\": 0.0\n}"
     ],
     "AuraCurseImmune": [],
     "BaseMonster": "",
@@ -16,10 +16,12 @@
     "FluffOffsetX": -0.5,
     "FluffOffsetY": 3.200000047683716,
     "GameObjectAnimated": "impvolatile",
+    "GameObjectAnimatedAlternate": "",
     "GoldReward": 34,
     "HellModeMob": "",
     "HitSound": "",
     "HP": 82,
+    "OnlyKillBossWhenHpZero": false,
     "ID": "wickb",
     "IsBoss": false,
     "IsNamed": false,
@@ -41,6 +43,8 @@
     "Sprite": "",
     "SpritePortrait": "impvolatileSpeedBig",
     "SpriteSpeed": "impvolatileSpeed",
+    "SpriteSpeedAlternate": "",
+    "SpritePortraitAlternate": "",
     "TierMob": "T3",
     "TierReward": "5",
     "UpgradedMob": "",

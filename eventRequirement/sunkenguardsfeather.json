@@ -1,0 +1,12 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "A guardsman gave you this feather for helping him on the market place.",
+    "ItemSprite": "eventFeatherGuard",
+    "RequirementID": "sunkenguardsfeather",
+    "RequirementName": "Guardsman's feather",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "TrackCard": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

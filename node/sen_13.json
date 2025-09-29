@@ -12,13 +12,16 @@
     "NodeCombatTier": "T0",
     "NodeEvent": [
         "e_sen13_a",
-        "e_sen13_b"
+        "e_sen13_b",
+        "e_sen13_c"
     ],
     "NodeEventPercent": [
-        60,
-        40
+        40,
+        30,
+        30
     ],
     "NodeEventPriority": [
+        0,
         0,
         0
     ],

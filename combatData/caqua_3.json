@@ -16,6 +16,9 @@
         "sawtooth"
     ],
     "NPCRemoveInMadness0Index": 3,
+    "NPCToSummonOnNpcKilled": "",
+    "RandomizeNpcPosition": false,
+    "StepSound": "",
     "ThermometerTierData": "T2",
     "IsRift": false
 }

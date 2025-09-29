@@ -1,0 +1,12 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "You sense a powerful magic within this emblem.",
+    "ItemSprite": "eventEmblem",
+    "RequirementID": "casthakcrest",
+    "RequirementName": "Broken crest",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "TrackCard": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

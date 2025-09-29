@@ -6,6 +6,7 @@
     "RequirementName": "Gold Trophy",
     "RequirementTrack": false,
     "TrackSprite": "",
+    "TrackCard": "",
     "ItemTrack": true,
     "RequirementZoneFinishTrack": "None"
 }

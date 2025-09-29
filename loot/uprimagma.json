@@ -1,4 +1,5 @@
 {
+    "AllowDropOnlyItems": false,
     "DefaultPercentEpic": 5.0,
     "DefaultPercentMythic": 0.0,
     "DefaultPercentRare": 50.0,
@@ -6,8 +7,8 @@
     "GoldQuantity": 50,
     "ID": "uprimagma",
     "LootItemTable": [
-        "{\n    \"LootCard\": \"dynamite\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
-        "{\n    \"LootCard\": \"screwdriver\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}"
+        "{\n    \"LootCard\": \"dynamite\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"screwdriver\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\",\n    \"LootMisc\": \"\"\n}"
     ],
     "NumItems": 4,
     "ShadyModel": "",

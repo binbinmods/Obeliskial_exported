@@ -67,5 +67,22 @@
     "Trait4A": "weaponexpert",
     "Trait4B": "tireless",
     "AutoUnlock": true,
-    "SourceCharacterName": "Magnus"
+    "SourceCharacterName": "Magnus",
+    "CardsSingularity": [
+        "captainshowlstart",
+        "faststrike",
+        "defend",
+        "intercept",
+        "rend",
+        "barricade",
+        "enrage",
+        "bladestorm",
+        "intimidate",
+        "precisestrike",
+        "shieldbash",
+        "guard",
+        "piercinghowl",
+        "shakeitoff",
+        "helpinghand"
+    ]
 }

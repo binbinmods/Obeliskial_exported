@@ -1,0 +1,12 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "sunken Blood altar visit",
+    "ItemSprite": "",
+    "RequirementID": "sunkenvisitblood",
+    "RequirementName": "",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "TrackCard": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "None"
+}

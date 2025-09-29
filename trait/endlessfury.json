@@ -1,5 +1,6 @@
 {
     "Activation": "PreBeginCombat",
+    "ActivateOnRuneTypeAdded": false,
     "AuraCurseBonus1": "fury",
     "AuraCurseBonus2": "",
     "AuraCurseBonus3": "",
@@ -29,6 +30,7 @@
     "HealReceivedFlatBonus": 0,
     "HealReceivedPercentBonus": 0.0,
     "ID": "endlessfury",
+    "MaxBleedDamagePerTurn": -1,
     "ResistModified1": "None",
     "ResistModified2": "None",
     "ResistModified3": "None",
@@ -39,5 +41,6 @@
     "TimesPerTurn": 0,
     "TraitCard": "",
     "TraitCardForAllHeroes": "",
-    "TraitName": "Endless Fury"
+    "TraitName": "Endless Fury",
+    "TryActivateOnEveryEvent": false
 }

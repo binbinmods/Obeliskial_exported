@@ -1,0 +1,16 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "Heiner_Skin_SunkenTemple",
+    "SkinID": "heinerSkinSunkenTemple",
+    "SkinName": "sunken",
+    "SkinOrder": 90,
+    "SkinSubclass": "sentinel",
+    "SkinTextId": "",
+    "Sku": "3473720",
+    "SpritePortrait": "heinersunkenportrait",
+    "SpritePortraitGrande": "heinersunkenportraitGrande",
+    "SpriteSilueta": "heinersunkensilueta",
+    "SpriteSiluetaGrande": "heinersunkensiluetaGrande",
+    "SteamStat": ""
+}

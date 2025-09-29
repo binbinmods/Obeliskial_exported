@@ -1,0 +1,16 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "Zek_Skin_SunkenTemple",
+    "SkinID": "ZekSkinSunkenTemple",
+    "SkinName": "sunken",
+    "SkinOrder": 90,
+    "SkinSubclass": "warlock",
+    "SkinTextId": "",
+    "Sku": "3473720",
+    "SpritePortrait": "zeksunkenportrait",
+    "SpritePortraitGrande": "zeksunkenportraitGrande",
+    "SpriteSilueta": "zeksunkensilueta",
+    "SpriteSiluetaGrande": "zeksunkensiluetaGrande",
+    "SteamStat": ""
+}

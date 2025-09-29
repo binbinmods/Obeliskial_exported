@@ -1,0 +1,16 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "Grukli_Skin_SunkenTemple",
+    "SkinID": "GrukliSkinSunkenTemple",
+    "SkinName": "sunken",
+    "SkinOrder": 90,
+    "SkinSubclass": "berserker",
+    "SkinTextId": "",
+    "Sku": "3473720",
+    "SpritePortrait": "gruklisunkenportrait",
+    "SpritePortraitGrande": "gruklisunkenportraitGrande",
+    "SpriteSilueta": "gruklisunkensilueta",
+    "SpriteSiluetaGrande": "gruklisunkensiluetaGrande",
+    "SteamStat": ""
+}

@@ -1,5 +1,6 @@
 {
     "Activation": "PreBeginCombat",
+    "ActivateOnRuneTypeAdded": false,
     "AuraCurseBonus1": "sight",
     "AuraCurseBonus2": "inspire",
     "AuraCurseBonus3": "buffer",
@@ -29,6 +30,7 @@
     "HealReceivedFlatBonus": 0,
     "HealReceivedPercentBonus": 0.0,
     "ID": "omniscient",
+    "MaxBleedDamagePerTurn": -1,
     "ResistModified1": "None",
     "ResistModified2": "None",
     "ResistModified3": "None",
@@ -39,5 +41,6 @@
     "TimesPerTurn": 0,
     "TraitCard": "",
     "TraitCardForAllHeroes": "",
-    "TraitName": "Omniscient"
+    "TraitName": "Omniscient",
+    "TryActivateOnEveryEvent": false
 }

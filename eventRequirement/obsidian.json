@@ -6,6 +6,7 @@
     "RequirementName": "Obsidian Ingots",
     "RequirementTrack": false,
     "TrackSprite": "",
+    "TrackCard": "",
     "ItemTrack": true,
     "RequirementZoneFinishTrack": "None"
 }

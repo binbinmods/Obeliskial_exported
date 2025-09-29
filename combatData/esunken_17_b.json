@@ -1,0 +1,27 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Sunken_Secondfloor",
+    "CombatEffect": [
+        "{\n    \"AuraCurse\": \"powerful\",\n    \"AuraCurseCharges\": 3,\n    \"AuraCurseTarget\": \"Monsters\"\n}",
+        "{\n    \"AuraCurse\": \"fast\",\n    \"AuraCurseCharges\": 3,\n    \"AuraCurseTarget\": \"Monsters\"\n}"
+    ],
+    "CombatID": "esunken_17_b",
+    "CombatMusic": "Untouched Land - 320bit",
+    "CombatTier": "T3",
+    "Description": "combat the hole dificil",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "warrior",
+        "eagleshaman",
+        "ritualist",
+        ""
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "NPCToSummonOnNpcKilled": "",
+    "RandomizeNpcPosition": false,
+    "StepSound": "",
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

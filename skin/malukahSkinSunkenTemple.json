@@ -1,0 +1,16 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "Malukah_Skin_SunkenTemple",
+    "SkinID": "malukahSkinSunkenTemple",
+    "SkinName": "sunken",
+    "SkinOrder": 90,
+    "SkinSubclass": "voodoowitch",
+    "SkinTextId": "",
+    "Sku": "3473720",
+    "SpritePortrait": "malukahsunkenportrait",
+    "SpritePortraitGrande": "malukahsunkenportraitGrande",
+    "SpriteSilueta": "malukahsunkensilueta",
+    "SpriteSiluetaGrande": "malukahsunkensiluetaGrande",
+    "SteamStat": ""
+}

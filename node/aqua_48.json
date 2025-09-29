@@ -4,7 +4,7 @@
     "DisableCorruption": false,
     "DisableRandom": false,
     "EventPercent": 0,
-    "ExistsPercent": 65,
+    "ExistsPercent": 100,
     "ExistsSku": "",
     "GoToTown": false,
     "NodeBackgroundImg": "",
@@ -12,13 +12,19 @@
     "NodeCombatTier": "T0",
     "NodeEvent": [
         "e_aquar48_a",
-        "e_aquar48_b"
+        "e_aquar48_b",
+        "e_aquar48_c1",
+        "e_aquar48_c2"
     ],
     "NodeEventPercent": [
-        50,
-        50
+        60,
+        40,
+        100,
+        100
     ],
     "NodeEventPriority": [
+        1,
+        1,
         0,
         0
     ],

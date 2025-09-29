@@ -6,6 +6,7 @@
     "RequirementName": "Treasure Hunt II",
     "RequirementTrack": true,
     "TrackSprite": "",
+    "TrackCard": "",
     "ItemTrack": false,
     "RequirementZoneFinishTrack": "Aquarfall"
 }

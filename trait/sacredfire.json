@@ -1,5 +1,6 @@
 {
     "Activation": "PreBeginCombat",
+    "ActivateOnRuneTypeAdded": false,
     "AuraCurseBonus1": "sanctify",
     "AuraCurseBonus2": "burn",
     "AuraCurseBonus3": "",
@@ -23,12 +24,13 @@
     "DamageBonusPercentValue": 0.0,
     "DamageBonusPercentValue2": 0.0,
     "DamageBonusPercentValue3": 0.0,
-    "Description": "Sanctify +3.",
+    "Description": "Sanctify +2, Burn +1.",
     "HealFlatBonus": 0,
     "HealPercentBonus": 0.0,
     "HealReceivedFlatBonus": 0,
     "HealReceivedPercentBonus": 0.0,
     "ID": "sacredfire",
+    "MaxBleedDamagePerTurn": -1,
     "ResistModified1": "None",
     "ResistModified2": "None",
     "ResistModified3": "None",
@@ -39,5 +41,6 @@
     "TimesPerTurn": 0,
     "TraitCard": "",
     "TraitCardForAllHeroes": "",
-    "TraitName": "Sacred Fire"
+    "TraitName": "Sacred Fire",
+    "TryActivateOnEveryEvent": false
 }

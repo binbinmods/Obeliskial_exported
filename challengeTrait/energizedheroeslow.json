@@ -2,6 +2,8 @@
     "Icon": "energy",
     "ID": "energizedheroeslow",
     "IsMadnessTrait": false,
+    "IsSingularityTrait": false,
     "Name": "Energized Heroes Low",
-    "Order": 0
+    "Order": 0,
+    "OrderSingularity": 0
 }

@@ -1,4 +1,5 @@
 {
+    "AllowDropOnlyItems": false,
     "DefaultPercentEpic": 0.0,
     "DefaultPercentMythic": 0.0,
     "DefaultPercentRare": 0.0,
@@ -6,9 +7,9 @@
     "GoldQuantity": 0,
     "ID": "wareweap0",
     "LootItemTable": [
-        "{\n    \"LootCard\": \"\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Weapon\"\n}",
-        "{\n    \"LootCard\": \"brokenitem\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Weapon\"\n}",
-        "{\n    \"LootCard\": \"burneditem\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Weapon\"\n}"
+        "{\n    \"LootCard\": \"\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Weapon\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"brokenitem\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Weapon\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"burneditem\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Weapon\",\n    \"LootMisc\": \"\"\n}"
     ],
     "NumItems": 3,
     "ShadyModel": "",

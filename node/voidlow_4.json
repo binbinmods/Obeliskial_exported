@@ -11,9 +11,13 @@
     "NodeCombat": [],
     "NodeCombatTier": "T0",
     "NodeEvent": [
-        "e_voidlow4_a"
+        "e_voidlow4_a",
+        "e_voidlow4_b"
     ],
-    "NodeEventPercent": [],
+    "NodeEventPercent": [
+        0,
+        100
+    ],
     "NodeEventPriority": [],
     "NodeEventTier": "T0",
     "NodeGround": "None",

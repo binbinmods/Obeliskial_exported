@@ -67,5 +67,22 @@
     "Trait4A": "wildfire",
     "Trait4B": "avataroffire",
     "AutoUnlock": false,
-    "SourceCharacterName": "Cornelius"
+    "SourceCharacterName": "Cornelius",
+    "CardsSingularity": [
+        "fieryshieldstart",
+        "flare",
+        "searingtouch",
+        "fireball",
+        "innercombustion",
+        "scrollofintellect",
+        "heatwave",
+        "fireblast",
+        "scrollofdefense",
+        "ignite",
+        "livingflame",
+        "cauterize",
+        "emberstorm",
+        "searingnova",
+        "manashield"
+    ]
 }

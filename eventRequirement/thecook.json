@@ -6,6 +6,7 @@
     "RequirementName": "The cooking contest",
     "RequirementTrack": true,
     "TrackSprite": "",
+    "TrackCard": "",
     "ItemTrack": false,
     "RequirementZoneFinishTrack": "None"
 }

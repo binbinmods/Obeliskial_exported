@@ -67,5 +67,22 @@
     "Trait4A": "widesleeves",
     "Trait4B": "choir",
     "AutoUnlock": false,
-    "SourceCharacterName": "Gustav"
+    "SourceCharacterName": "Gustav",
+    "CardsSingularity": [
+        "powerslavestart",
+        "annoyingwhistle",
+        "shiv",
+        "whisperinglies",
+        "sweetmelody",
+        "chantofaccuracy",
+        "songofquickness",
+        "chantofinitiative",
+        "tuneup",
+        "sawblade",
+        "odeofwar",
+        "sarcasticsonnet",
+        "vexingcrescendo",
+        "scavenge",
+        "revealingflask"
+    ]
 }

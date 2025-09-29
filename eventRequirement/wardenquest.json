@@ -6,6 +6,7 @@
     "RequirementName": "Saving the treants",
     "RequirementTrack": true,
     "TrackSprite": "quest-warden",
+    "TrackCard": "",
     "ItemTrack": false,
     "RequirementZoneFinishTrack": "VoidHigh"
 }

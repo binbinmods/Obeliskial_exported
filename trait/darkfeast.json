@@ -1,5 +1,6 @@
 {
     "Activation": "BeginTurnCardsDealt",
+    "ActivateOnRuneTypeAdded": false,
     "AuraCurseBonus1": "",
     "AuraCurseBonus2": "",
     "AuraCurseBonus3": "",
@@ -23,12 +24,13 @@
     "DamageBonusPercentValue": 0.0,
     "DamageBonusPercentValue2": 0.0,
     "DamageBonusPercentValue3": 0.0,
-    "Description": "At the start of your turn, for every 9 Dark you have, reduce the cost of the cards in your hand by 1 until they are discarded.",
+    "Description": "At the start of your turn, for every 8 Dark you have, reduce the cost of the cards in your hand by 1 until they are discarded.",
     "HealFlatBonus": 0,
     "HealPercentBonus": 0.0,
     "HealReceivedFlatBonus": 0,
     "HealReceivedPercentBonus": 0.0,
     "ID": "darkfeast",
+    "MaxBleedDamagePerTurn": -1,
     "ResistModified1": "None",
     "ResistModified2": "None",
     "ResistModified3": "None",
@@ -39,5 +41,6 @@
     "TimesPerTurn": 0,
     "TraitCard": "",
     "TraitCardForAllHeroes": "",
-    "TraitName": "Dark Feast"
+    "TraitName": "Dark Feast",
+    "TryActivateOnEveryEvent": false
 }

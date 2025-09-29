@@ -2,6 +2,8 @@
     "Icon": "slash",
     "ID": "dangerousmonsters",
     "IsMadnessTrait": false,
+    "IsSingularityTrait": false,
     "Name": "Dangerous Monsters",
-    "Order": 0
+    "Order": 0,
+    "OrderSingularity": 0
 }

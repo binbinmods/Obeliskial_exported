@@ -11,10 +11,20 @@
     "NodeCombat": [],
     "NodeCombatTier": "T0",
     "NodeEvent": [
-        "e_ulmin6_a"
+        "e_ulmin6_a",
+        "e_ulmin6_b1",
+        "e_ulmin6_b2"
     ],
-    "NodeEventPercent": [],
-    "NodeEventPriority": [],
+    "NodeEventPercent": [
+        0,
+        100,
+        100
+    ],
+    "NodeEventPriority": [
+        1,
+        0,
+        0
+    ],
     "NodeEventTier": "T0",
     "NodeGround": "None",
     "NodeId": "ulmin_6",

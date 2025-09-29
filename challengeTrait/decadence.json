@@ -2,6 +2,8 @@
     "Icon": "decay",
     "ID": "decadence",
     "IsMadnessTrait": true,
+    "IsSingularityTrait": true,
     "Name": "Decadence",
-    "Order": 8
+    "Order": 8,
+    "OrderSingularity": 5
 }

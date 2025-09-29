@@ -67,5 +67,22 @@
     "Trait4A": "incubation",
     "Trait4B": "omniscient",
     "AutoUnlock": false,
-    "SourceCharacterName": "Nezglekt"
+    "SourceCharacterName": "Nezglekt",
+    "CardsSingularity": [
+        "banishstart",
+        "mindblast",
+        "mentalshake",
+        "scry",
+        "curativetherapy",
+        "expectedprophecy",
+        "mindvisions",
+        "delayresponse",
+        "dispelmagic",
+        "fade",
+        "badaugury",
+        "clairvoyance",
+        "foresight",
+        "mindtwist",
+        "fortunetelling"
+    ]
 }

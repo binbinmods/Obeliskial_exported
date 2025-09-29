@@ -1,0 +1,15 @@
+{
+    "Card0": "spiderhatchingstart",
+    "Card1": "rayofhope",
+    "Card2": "dawnlight",
+    "Card3": "bulkheal",
+    "Card4": "dejavu",
+    "Card5": "",
+    "CardSpecial0": "",
+    "CardSpecial1": "",
+    "PackClass": "Healer",
+    "PackID": "tulah",
+    "PackName": "Tulah",
+    "PerkList": [],
+    "RequiredClass": "priestess"
+}

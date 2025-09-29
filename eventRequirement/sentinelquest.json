@@ -6,6 +6,7 @@
     "RequirementName": "The last sentinel",
     "RequirementTrack": true,
     "TrackSprite": "quest-sentinel",
+    "TrackCard": "",
     "ItemTrack": false,
     "RequirementZoneFinishTrack": "Velkarath"
 }

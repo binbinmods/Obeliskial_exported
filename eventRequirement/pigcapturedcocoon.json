@@ -1,0 +1,12 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "You tied this pigman at the basement front door.",
+    "ItemSprite": "eventPigCaptured",
+    "RequirementID": "pigcapturedcocoon",
+    "RequirementName": "Captured Pig",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "TrackCard": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

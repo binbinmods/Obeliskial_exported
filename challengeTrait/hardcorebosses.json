@@ -2,6 +2,8 @@
     "Icon": "finalboss",
     "ID": "hardcorebosses",
     "IsMadnessTrait": true,
+    "IsSingularityTrait": true,
     "Name": "Hardcore Bosses",
-    "Order": 10
+    "Order": 10,
+    "OrderSingularity": 2
 }

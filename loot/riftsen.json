@@ -1,4 +1,5 @@
 {
+    "AllowDropOnlyItems": false,
     "DefaultPercentEpic": 5.0,
     "DefaultPercentMythic": 0.0,
     "DefaultPercentRare": 45.0,
@@ -6,12 +7,12 @@
     "GoldQuantity": 40,
     "ID": "riftsen",
     "LootItemTable": [
-        "{\n    \"LootCard\": \"eldritchring\",\n    \"LootPercent\": 10.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
-        "{\n    \"LootCard\": \"eldritchcloak\",\n    \"LootPercent\": 10.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\"\n}",
-        "{\n    \"LootCard\": \"eldritchwand\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
-        "{\n    \"LootCard\": \"riftshard\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
-        "{\n    \"LootCard\": \"riftshield\",\n    \"LootPercent\": 75.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}",
-        "{\n    \"LootCard\": \"dimensionalcrystal\",\n    \"LootPercent\": 10.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\"\n}"
+        "{\n    \"LootCard\": \"eldritchring\",\n    \"LootPercent\": 10.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"eldritchcloak\",\n    \"LootPercent\": 10.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"eldritchwand\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"riftshard\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"riftshield\",\n    \"LootPercent\": 75.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"dimensionalcrystal\",\n    \"LootPercent\": 10.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\",\n    \"LootMisc\": \"\"\n}"
     ],
     "NumItems": 6,
     "ShadyModel": "",

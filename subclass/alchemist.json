@@ -67,5 +67,22 @@
     "Trait4A": "philosophersstone",
     "Trait4B": "alkahest",
     "AutoUnlock": true,
-    "SourceCharacterName": "Bernard"
+    "SourceCharacterName": "Bernard",
+    "CardsSingularity": [
+        "quickconcoctionstart",
+        "oxidant",
+        "vilegas",
+        "toxicrain",
+        "uproot",
+        "detoxify",
+        "panacea",
+        "poisondart",
+        "vilelance",
+        "revealingflask",
+        "dilute",
+        "setup",
+        "healingrain",
+        "scavenge",
+        "dispelmagic"
+    ]
 }

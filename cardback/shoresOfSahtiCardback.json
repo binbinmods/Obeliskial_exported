@@ -6,10 +6,13 @@
     "CardbackOrder": 68,
     "CardbackSprite": "CardbackSahti",
     "CardbackSubclass": "",
+    "CardbackTextId": "",
     "Locked": true,
     "ObeliskLevel": 0,
+    "PdxAccountRequired": false,
     "RankLevel": 0,
     "ShowIfLocked": true,
+    "SingularityLevel": 0,
     "Sku": "3185630",
     "SteamStat": ""
 }

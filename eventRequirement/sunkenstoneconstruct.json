@@ -1,0 +1,12 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "An almost finished stone construct awaiting for a spark of life.",
+    "ItemSprite": "eventStonePart",
+    "RequirementID": "sunkenstoneconstruct",
+    "RequirementName": "Stone construct part",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "TrackCard": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

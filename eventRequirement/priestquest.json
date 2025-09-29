@@ -6,6 +6,7 @@
     "RequirementName": "The scared pigman",
     "RequirementTrack": true,
     "TrackSprite": "quest-priest",
+    "TrackCard": "",
     "ItemTrack": false,
     "RequirementZoneFinishTrack": "Senenthia"
 }

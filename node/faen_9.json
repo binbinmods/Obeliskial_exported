@@ -22,7 +22,8 @@
     "NodeRequirement": "",
     "NodesConnected": [
         "faen_20",
-        "faen_25"
+        "faen_25",
+        "faen_44"
     ],
     "NodesConnectedRequirement": [
         "{\n    \"NodeData\": \"faen_25\",\n    \"ConnectionRequirement\": \"\",\n    \"ConnectionIfNotNode\": \"faen_20\"\n}"

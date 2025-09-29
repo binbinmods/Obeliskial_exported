@@ -6,6 +6,7 @@
     "RequirementName": "Interesting ruins",
     "RequirementTrack": true,
     "TrackSprite": "",
+    "TrackCard": "",
     "ItemTrack": false,
     "RequirementZoneFinishTrack": "None"
 }

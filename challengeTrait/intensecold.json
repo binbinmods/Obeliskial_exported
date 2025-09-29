@@ -2,6 +2,8 @@
     "Icon": "chill",
     "ID": "intensecold",
     "IsMadnessTrait": false,
+    "IsSingularityTrait": false,
     "Name": "Intense Cold",
-    "Order": 0
+    "Order": 0,
+    "OrderSingularity": 0
 }

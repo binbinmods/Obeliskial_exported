@@ -1,5 +1,6 @@
 {
     "Activation": "PreBeginCombat",
+    "ActivateOnRuneTypeAdded": false,
     "AuraCurseBonus1": "burn",
     "AuraCurseBonus2": "",
     "AuraCurseBonus3": "",
@@ -23,12 +24,13 @@
     "DamageBonusPercentValue": 0.0,
     "DamageBonusPercentValue2": 0.0,
     "DamageBonusPercentValue3": 0.0,
-    "Description": "Burn +1. Burn on this hero heals 0.3 hp per charge instead of suffering damage.\r",
+    "Description": "Burn +1. Burn on this hero heals 0.3 hp per charge instead of suffering damage. Zeal on this hero increases all damage done by 7% per charge.",
     "HealFlatBonus": 0,
     "HealPercentBonus": 0.0,
     "HealReceivedFlatBonus": 0,
     "HealReceivedPercentBonus": 0.0,
     "ID": "righteousflame",
+    "MaxBleedDamagePerTurn": -1,
     "ResistModified1": "None",
     "ResistModified2": "None",
     "ResistModified3": "None",
@@ -39,5 +41,6 @@
     "TimesPerTurn": 0,
     "TraitCard": "",
     "TraitCardForAllHeroes": "",
-    "TraitName": "Righteous Flame"
+    "TraitName": "Righteous Flame",
+    "TryActivateOnEveryEvent": false
 }

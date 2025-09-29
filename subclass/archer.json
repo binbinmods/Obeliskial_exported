@@ -67,5 +67,22 @@
     "Trait4A": "eternalbond",
     "Trait4B": "perforatingshots",
     "AutoUnlock": false,
-    "SourceCharacterName": "Sylvie"
+    "SourceCharacterName": "Sylvie",
+    "CardsSingularity": [
+        "falconshotstart",
+        "quickshot",
+        "iceshot",
+        "rapidfire",
+        "camouflage",
+        "multishot",
+        "vigilance",
+        "aimedshot",
+        "ammunitions",
+        "chantofinitiative",
+        "poisonousshot",
+        "ricochet",
+        "setup",
+        "feint",
+        "detection"
+    ]
 }

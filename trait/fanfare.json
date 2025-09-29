@@ -1,5 +1,6 @@
 {
     "Activation": "FinishCast",
+    "ActivateOnRuneTypeAdded": false,
     "AuraCurseBonus1": "",
     "AuraCurseBonus2": "",
     "AuraCurseBonus3": "",
@@ -23,12 +24,13 @@
     "DamageBonusPercentValue": 0.0,
     "DamageBonusPercentValue2": 0.0,
     "DamageBonusPercentValue3": 0.0,
-    "Description": "When you play a \"Song\" card that costs Energy, refund 1 Energy. (3 times/turn)",
+    "Description": "When you play a \"Song Spell\" card that costs Energy, refund 1 Energy and grant 2 Regeneration to the most damaged hero. (3 times/turn)",
     "HealFlatBonus": 0,
     "HealPercentBonus": 0.0,
     "HealReceivedFlatBonus": 0,
     "HealReceivedPercentBonus": 0.0,
     "ID": "fanfare",
+    "MaxBleedDamagePerTurn": -1,
     "ResistModified1": "None",
     "ResistModified2": "None",
     "ResistModified3": "None",
@@ -39,5 +41,6 @@
     "TimesPerTurn": 3,
     "TraitCard": "",
     "TraitCardForAllHeroes": "",
-    "TraitName": "Fanfare"
+    "TraitName": "Fanfare",
+    "TryActivateOnEveryEvent": false
 }

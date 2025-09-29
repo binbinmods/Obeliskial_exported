@@ -6,6 +6,7 @@
     "RequirementName": "Deliver the egg to Bash",
     "RequirementTrack": true,
     "TrackSprite": "",
+    "TrackCard": "",
     "ItemTrack": false,
     "RequirementZoneFinishTrack": "None"
 }

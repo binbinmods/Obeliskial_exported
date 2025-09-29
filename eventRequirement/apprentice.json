@@ -6,6 +6,7 @@
     "RequirementName": "Looking for the master",
     "RequirementTrack": true,
     "TrackSprite": "",
+    "TrackCard": "",
     "ItemTrack": false,
     "RequirementZoneFinishTrack": "Aquarfall"
 }

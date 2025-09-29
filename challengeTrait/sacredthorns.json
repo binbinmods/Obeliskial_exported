@@ -2,6 +2,8 @@
     "Icon": "thorns",
     "ID": "sacredthorns",
     "IsMadnessTrait": false,
+    "IsSingularityTrait": false,
     "Name": "Sacred Thorns",
-    "Order": 0
+    "Order": 0,
+    "OrderSingularity": 0
 }

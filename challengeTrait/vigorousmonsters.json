@@ -2,6 +2,8 @@
     "Icon": "vitality",
     "ID": "vigorousmonsters",
     "IsMadnessTrait": true,
+    "IsSingularityTrait": true,
     "Name": "Vigorous Monsters",
-    "Order": 7
+    "Order": 7,
+    "OrderSingularity": 9
 }

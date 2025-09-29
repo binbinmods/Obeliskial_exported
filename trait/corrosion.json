@@ -1,5 +1,6 @@
 {
     "Activation": "EndTurn",
+    "ActivateOnRuneTypeAdded": false,
     "AuraCurseBonus1": "rust",
     "AuraCurseBonus2": "",
     "AuraCurseBonus3": "",
@@ -23,12 +24,13 @@
     "DamageBonusPercentValue": 0.0,
     "DamageBonusPercentValue2": 0.0,
     "DamageBonusPercentValue3": 0.0,
-    "Description": "",
+    "Description": "Rust +1. At the end of your turn, apply 1 Poison to all monsters for each Wet charge on them and apply 1 Vulnerable for each Rust charge on them.",
     "HealFlatBonus": 0,
     "HealPercentBonus": 0.0,
     "HealReceivedFlatBonus": 0,
     "HealReceivedPercentBonus": 0.0,
     "ID": "corrosion",
+    "MaxBleedDamagePerTurn": -1,
     "ResistModified1": "None",
     "ResistModified2": "None",
     "ResistModified3": "None",
@@ -39,5 +41,6 @@
     "TimesPerTurn": 0,
     "TraitCard": "",
     "TraitCardForAllHeroes": "",
-    "TraitName": "Corrosion"
+    "TraitName": "Corrosion",
+    "TryActivateOnEveryEvent": false
 }

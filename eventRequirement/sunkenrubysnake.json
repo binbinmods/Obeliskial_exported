@@ -1,0 +1,12 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "This curious young snake is following you, but only because it wants to!",
+    "ItemSprite": "eventSnakeruby",
+    "RequirementID": "sunkenrubysnake",
+    "RequirementName": "Young ruby snake",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "TrackCard": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

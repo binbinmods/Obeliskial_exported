@@ -12,13 +12,22 @@
     "NodeCombatTier": "T0",
     "NodeEvent": [
         "e_velka7_a",
-        "e_velka7_b"
+        "e_velka7_b",
+        "e_velka7_d1",
+        "e_velka7_d2"
     ],
     "NodeEventPercent": [
         60,
-        40
+        40,
+        100,
+        100
     ],
-    "NodeEventPriority": [],
+    "NodeEventPriority": [
+        1,
+        1,
+        0,
+        0
+    ],
     "NodeEventTier": "T0",
     "NodeGround": "None",
     "NodeId": "velka_7",

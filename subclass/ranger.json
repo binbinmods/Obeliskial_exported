@@ -67,5 +67,22 @@
     "Trait4A": "marksmanship",
     "Trait4B": "markfordeath",
     "AutoUnlock": true,
-    "SourceCharacterName": "Andrin"
+    "SourceCharacterName": "Andrin",
+    "CardsSingularity": [
+        "experttrackerstart",
+        "slice",
+        "aimedshot",
+        "deflect",
+        "rupture",
+        "adrenaline",
+        "huntersmark",
+        "chantofinitiative",
+        "feint",
+        "doublestrike",
+        "rapidfire",
+        "trace",
+        "exposearmor",
+        "blur",
+        "detection"
+    ]
 }

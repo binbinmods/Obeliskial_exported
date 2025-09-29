@@ -1,0 +1,16 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "Reginald_Skin_SunkenTemple",
+    "SkinID": "reginaldSkinSunkenTemple",
+    "SkinName": "sunken",
+    "SkinOrder": 90,
+    "SkinSubclass": "cleric",
+    "SkinTextId": "",
+    "Sku": "3473720",
+    "SpritePortrait": "reginaldsunkenportrait",
+    "SpritePortraitGrande": "reginaldsunkenportraitGrande",
+    "SpriteSilueta": "reginaldsunkensilueta",
+    "SpriteSiluetaGrande": "reginaldsunkensiluetaGrande",
+    "SteamStat": ""
+}

@@ -2,6 +2,8 @@
     "Icon": "dark",
     "ID": "darkestnight",
     "IsMadnessTrait": false,
+    "IsSingularityTrait": false,
     "Name": "Darkest Night",
-    "Order": 0
+    "Order": 0,
+    "OrderSingularity": 0
 }

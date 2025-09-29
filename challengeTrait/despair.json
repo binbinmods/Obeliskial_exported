@@ -2,6 +2,8 @@
     "Icon": "bossIcon",
     "ID": "despair",
     "IsMadnessTrait": false,
+    "IsSingularityTrait": true,
     "Name": "Despair",
-    "Order": 0
+    "Order": 0,
+    "OrderSingularity": 10
 }

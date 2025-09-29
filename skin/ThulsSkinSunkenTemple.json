@@ -1,0 +1,16 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "Thuls_SunkenTemple",
+    "SkinID": "ThulsSkinSunkenTemple",
+    "SkinName": "sunken",
+    "SkinOrder": 90,
+    "SkinSubclass": "assassin",
+    "SkinTextId": "",
+    "Sku": "3473720",
+    "SpritePortrait": "thulssunkenportrait",
+    "SpritePortraitGrande": "thulssunkenportraitGrande",
+    "SpriteSilueta": "thulssunkensilueta",
+    "SpriteSiluetaGrande": "thulssunkensiluetaGrande",
+    "SteamStat": ""
+}

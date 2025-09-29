@@ -6,6 +6,7 @@
     "RequirementName": "Abyssal Pearl",
     "RequirementTrack": false,
     "TrackSprite": "",
+    "TrackCard": "",
     "ItemTrack": true,
     "RequirementZoneFinishTrack": "None"
 }

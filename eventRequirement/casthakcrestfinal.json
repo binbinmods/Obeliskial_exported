@@ -1,0 +1,12 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "To understand your future, learn from your past.",
+    "ItemSprite": "eventEmblem",
+    "RequirementID": "casthakcrestfinal",
+    "RequirementName": "Mysterious emblem",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "TrackCard": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

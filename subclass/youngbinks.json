@@ -67,5 +67,6 @@
     "Trait4A": "",
     "Trait4B": "",
     "AutoUnlock": false,
-    "SourceCharacterName": "Binks"
+    "SourceCharacterName": "Binks",
+    "CardsSingularity": []
 }

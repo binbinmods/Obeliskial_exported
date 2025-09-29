@@ -67,5 +67,22 @@
     "Trait4A": "reverberation",
     "Trait4B": "domeoflight",
     "AutoUnlock": false,
-    "SourceCharacterName": "Ottis"
+    "SourceCharacterName": "Ottis",
+    "CardsSingularity": [
+        "atonementstart",
+        "heal",
+        "barrier",
+        "sacredbolt",
+        "shieldofwarding",
+        "sunbeam",
+        "infusecourage",
+        "anthemofhope",
+        "dispelmagic",
+        "holyripple",
+        "holynova",
+        "shiningforce",
+        "innerfire",
+        "prayerofprotection",
+        "flash"
+    ]
 }

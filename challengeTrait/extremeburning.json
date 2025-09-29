@@ -2,6 +2,8 @@
     "Icon": "burn",
     "ID": "extremeburning",
     "IsMadnessTrait": false,
+    "IsSingularityTrait": false,
     "Name": "Extreme Burning",
-    "Order": 0
+    "Order": 0,
+    "OrderSingularity": 0
 }

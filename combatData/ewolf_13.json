@@ -16,6 +16,9 @@
         "dryad_h"
     ],
     "NPCRemoveInMadness0Index": -1,
+    "NPCToSummonOnNpcKilled": "",
+    "RandomizeNpcPosition": false,
+    "StepSound": "",
     "ThermometerTierData": "",
     "IsRift": false
 }

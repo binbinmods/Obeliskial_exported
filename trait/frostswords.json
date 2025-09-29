@@ -1,5 +1,6 @@
 {
     "Activation": "PreBeginCombat",
+    "ActivateOnRuneTypeAdded": false,
     "AuraCurseBonus1": "",
     "AuraCurseBonus2": "",
     "AuraCurseBonus3": "",
@@ -23,12 +24,13 @@
     "DamageBonusPercentValue": 0.0,
     "DamageBonusPercentValue2": 0.0,
     "DamageBonusPercentValue3": 0.0,
-    "Description": "Reduce the cost requirement of Elditch to 1 or more Energy, but Spellsword increases all damage done by 1 per charge instead. When you reach 5 Spellswords, put a \"Frost Discharge\" card into your hand.",
+    "Description": "Reduce the cost requirement of Eldritch to 1 or more Energy, but Spellsword increases all damage done by 1 per charge instead. When you reach 5 Spellswords, put a \"Frost Discharge\" card into your hand.",
     "HealFlatBonus": 0,
     "HealPercentBonus": 0.0,
     "HealReceivedFlatBonus": 0,
     "HealReceivedPercentBonus": 0.0,
     "ID": "frostswords",
+    "MaxBleedDamagePerTurn": -1,
     "ResistModified1": "None",
     "ResistModified2": "None",
     "ResistModified3": "None",
@@ -39,5 +41,6 @@
     "TimesPerTurn": 0,
     "TraitCard": "",
     "TraitCardForAllHeroes": "",
-    "TraitName": "Frost Swords"
+    "TraitName": "Frost Swords",
+    "TryActivateOnEveryEvent": false
 }

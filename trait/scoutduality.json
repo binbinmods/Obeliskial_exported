@@ -1,5 +1,6 @@
 {
     "Activation": "FinishCast",
+    "ActivateOnRuneTypeAdded": false,
     "AuraCurseBonus1": "",
     "AuraCurseBonus2": "",
     "AuraCurseBonus3": "",
@@ -23,12 +24,13 @@
     "DamageBonusPercentValue": 0.0,
     "DamageBonusPercentValue2": 0.0,
     "DamageBonusPercentValue3": 0.0,
-    "Description": "",
+    "Description": "When you play a Scout card, reduce the cost of the highest cost Mage card in you hand by 1 until discarded. When you play a Mage card, reduce the cost of the highest cost Scout card in you hand by 1 until discarded. (3 times/turn)",
     "HealFlatBonus": 0,
     "HealPercentBonus": 0.0,
     "HealReceivedFlatBonus": 0,
     "HealReceivedPercentBonus": 0.0,
     "ID": "scoutduality",
+    "MaxBleedDamagePerTurn": -1,
     "ResistModified1": "None",
     "ResistModified2": "None",
     "ResistModified3": "None",
@@ -39,5 +41,6 @@
     "TimesPerTurn": 3,
     "TraitCard": "",
     "TraitCardForAllHeroes": "",
-    "TraitName": "Scout Duality"
+    "TraitName": "Scout Duality",
+    "TryActivateOnEveryEvent": false
 }

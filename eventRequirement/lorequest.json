@@ -6,6 +6,7 @@
     "RequirementName": "Ancient knowledge",
     "RequirementTrack": true,
     "TrackSprite": "quest-loremaster",
+    "TrackCard": "",
     "ItemTrack": false,
     "RequirementZoneFinishTrack": "VoidLow"
 }

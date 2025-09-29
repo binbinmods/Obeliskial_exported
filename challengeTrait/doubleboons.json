@@ -2,6 +2,8 @@
     "Icon": "bless",
     "ID": "doubleboons",
     "IsMadnessTrait": false,
+    "IsSingularityTrait": false,
     "Name": "Double Boons",
-    "Order": 0
+    "Order": 0,
+    "OrderSingularity": 0
 }

@@ -1,6 +1,6 @@
 {
     "AICards": [
-        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"poisonousbitea\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 2,\n    \"ValueCastIf\": 0.0\n}"
+        "{\n    \"AddCardRound\": 0,\n    \"AuraCurseCastIf\": \"\",\n    \"Card\": \"poisonousbitea\",\n    \"OnlyCastIf\": \"Always\",\n    \"PercentToCast\": 0.0,\n    \"Priority\": 0,\n    \"StartsAtObeliskMadnessLevel\": 0,\n    \"StartsAtSingularityMadnessLevel\": 0,\n    \"SpecialSecondTargetID\": \"\",\n    \"SecondOnlyCastIf\": \"\",\n    \"SecondValueCastIf\": 0.0,\n    \"TargetCast\": \"Random\",\n    \"UnitsInDeck\": 2,\n    \"ValueCastIf\": 0.0\n}"
     ],
     "AuraCurseImmune": [
         "poison"
@@ -18,10 +18,12 @@
     "FluffOffsetX": -0.10000000149011612,
     "FluffOffsetY": 2.0999999046325685,
     "GameObjectAnimated": "parasite",
+    "GameObjectAnimatedAlternate": "",
     "GoldReward": 10,
     "HellModeMob": "",
     "HitSound": "",
     "HP": 17,
+    "OnlyKillBossWhenHpZero": false,
     "ID": "parasite_a",
     "IsBoss": false,
     "IsNamed": false,
@@ -43,6 +45,8 @@
     "Sprite": "",
     "SpritePortrait": "parasiteSpeedBig",
     "SpriteSpeed": "parasiteSpeed",
+    "SpriteSpeedAlternate": "",
+    "SpritePortraitAlternate": "",
     "TierMob": "T0",
     "TierReward": "2",
     "UpgradedMob": "",

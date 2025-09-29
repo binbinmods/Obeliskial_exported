@@ -6,6 +6,7 @@
     "RequirementName": "Huge Ruby",
     "RequirementTrack": false,
     "TrackSprite": "",
+    "TrackCard": "",
     "ItemTrack": true,
     "RequirementZoneFinishTrack": "None"
 }

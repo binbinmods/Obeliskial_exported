@@ -6,6 +6,7 @@
     "RequirementName": "The chieftain's request",
     "RequirementTrack": true,
     "TrackSprite": "",
+    "TrackCard": "",
     "ItemTrack": false,
     "RequirementZoneFinishTrack": "Velkarath"
 }

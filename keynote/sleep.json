@@ -1,0 +1,6 @@
+{
+    "Description": "<sla>Sleep</sla> – Skip the next turn",
+    "DescriptionExtended": "<sla>Sleep</sla> – Skip the next turn, then remove <y>1 stack</y>. If <y>HP</y> is <y>50%</y> or less when applied, gain <y>2 stacks</y> instead. While active, incoming negative effects are doubled. <y>Charges do not stack</y>.",
+    "ID": "sleep",
+    "KeynoteName": "Sleep"
+}

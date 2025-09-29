@@ -67,5 +67,22 @@
     "Trait4A": "quantumreactor",
     "Trait4B": "energizer",
     "AutoUnlock": false,
-    "SourceCharacterName": "Wilbur"
+    "SourceCharacterName": "Wilbur",
+    "CardsSingularity": [
+        "twinscrollsstart",
+        "electricdischarge",
+        "waterjet",
+        "zap",
+        "mirrorimages",
+        "shiftingscroll",
+        "librarian",
+        "bookworm",
+        "rain",
+        "thunderbolt",
+        "electricitymanual",
+        "scrollofspeed",
+        "chargebattery",
+        "manashield",
+        "shocknova"
+    ]
 }

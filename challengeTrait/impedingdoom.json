@@ -2,6 +2,8 @@
     "Icon": "doom",
     "ID": "impedingdoom",
     "IsMadnessTrait": true,
+    "IsSingularityTrait": true,
     "Name": "Impeding Doom",
-    "Order": 3
+    "Order": 3,
+    "OrderSingularity": 4
 }

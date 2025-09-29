@@ -6,6 +6,7 @@
     "SkinName": "What if",
     "SkinOrder": 80,
     "SkinSubclass": "mercenary",
+    "SkinTextId": "magnuswhatiftext",
     "Sku": "",
     "SpritePortrait": "magnuswhatifportrait",
     "SpritePortraitGrande": "magnuswhatifportraitGrande",

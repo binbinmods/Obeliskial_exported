@@ -2,6 +2,8 @@
     "Icon": "fury",
     "ID": "containedfury",
     "IsMadnessTrait": false,
+    "IsSingularityTrait": false,
     "Name": "Contained Fury",
-    "Order": 0
+    "Order": 0,
+    "OrderSingularity": 0
 }

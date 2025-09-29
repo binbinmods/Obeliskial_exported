@@ -6,6 +6,7 @@
     "RequirementName": "Finding Tsnemo",
     "RequirementTrack": true,
     "TrackSprite": "quest-prophet",
+    "TrackCard": "",
     "ItemTrack": false,
     "RequirementZoneFinishTrack": "VoidLow"
 }

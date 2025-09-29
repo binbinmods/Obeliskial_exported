@@ -6,6 +6,7 @@
     "RequirementName": "Whispers in the shadow",
     "RequirementTrack": true,
     "TrackSprite": "quest-assassin",
+    "TrackCard": "",
     "ItemTrack": false,
     "RequirementZoneFinishTrack": "Aquarfall"
 }

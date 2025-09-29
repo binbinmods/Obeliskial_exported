@@ -6,6 +6,7 @@
     "RequirementName": "The baker's son",
     "RequirementTrack": true,
     "TrackSprite": "",
+    "TrackCard": "",
     "ItemTrack": false,
     "RequirementZoneFinishTrack": "Senenthia"
 }

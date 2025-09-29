@@ -68,5 +68,6 @@
     "Trait4A": "",
     "Trait4B": "",
     "AutoUnlock": false,
-    "SourceCharacterName": "Ottis"
+    "SourceCharacterName": "Ottis",
+    "CardsSingularity": []
 }

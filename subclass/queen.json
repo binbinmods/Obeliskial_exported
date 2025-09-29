@@ -67,5 +67,22 @@
     "Trait4A": "timeparadox",
     "Trait4B": "unlimitedblades",
     "AutoUnlock": true,
-    "SourceCharacterName": "Amelia"
+    "SourceCharacterName": "Amelia",
+    "CardsSingularity": [
+        "eldritchdischargestart",
+        "icicle",
+        "nightmare",
+        "icelance",
+        "frostnova",
+        "icebarrier",
+        "rayoffrost",
+        "icyveins",
+        "frostbolt",
+        "mirrorimages",
+        "shatter",
+        "geyser",
+        "transmision",
+        "scrollofdefense",
+        "manashield"
+    ]
 }

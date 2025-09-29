@@ -1,5 +1,6 @@
 {
     "Activation": "PreBeginCombat",
+    "ActivateOnRuneTypeAdded": false,
     "AuraCurseBonus1": "",
     "AuraCurseBonus2": "",
     "AuraCurseBonus3": "",
@@ -23,12 +24,13 @@
     "DamageBonusPercentValue": 0.0,
     "DamageBonusPercentValue2": 0.0,
     "DamageBonusPercentValue3": 0.0,
-    "Description": "Change the \"Spell\" card type requirement of Eldritch to any card type. Once per combat, when you reach 5 Spellsword, shuftle all the mage cards in your vanish pile into your deck with cost reduced by 3 and gain 1 inspire.",
+    "Description": "Change the \"Spell\" card type requirement of Eldritch to any card type. Once per combat, when you reach 5 Spellsword, shuffle all the mage cards in your vanish pile into your deck with cost reduced by 3 and gain 1 inspire.",
     "HealFlatBonus": 0,
     "HealPercentBonus": 0.0,
     "HealReceivedFlatBonus": 0,
     "HealReceivedPercentBonus": 0.0,
     "ID": "timeloop",
+    "MaxBleedDamagePerTurn": -1,
     "ResistModified1": "None",
     "ResistModified2": "None",
     "ResistModified3": "None",
@@ -39,5 +41,6 @@
     "TimesPerTurn": 0,
     "TraitCard": "",
     "TraitCardForAllHeroes": "",
-    "TraitName": "Time Loop"
+    "TraitName": "Time Loop",
+    "TryActivateOnEveryEvent": false
 }

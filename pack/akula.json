@@ -1,0 +1,15 @@
+{
+    "Card0": "sharksharkbite",
+    "Card1": "sharkravage",
+    "Card2": "maim",
+    "Card3": "flankingstrike",
+    "Card4": "cleave",
+    "Card5": "",
+    "CardSpecial0": "",
+    "CardSpecial1": "",
+    "PackClass": "Warrior",
+    "PackID": "akula",
+    "PackName": "Akula",
+    "PerkList": [],
+    "RequiredClass": "shark"
+}

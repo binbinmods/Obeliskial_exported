@@ -1,4 +1,5 @@
 {
+    "AllowDropOnlyItems": false,
     "DefaultPercentEpic": 0.0,
     "DefaultPercentMythic": 0.0,
     "DefaultPercentRare": 0.0,
@@ -6,14 +7,14 @@
     "GoldQuantity": 0,
     "ID": "obeliskash",
     "LootItemTable": [
-        "{\n    \"LootCard\": \"mozzy\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"Pet\"\n}",
-        "{\n    \"LootCard\": \"slimy\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"Pet\"\n}",
-        "{\n    \"LootCard\": \"flamy\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"Pet\"\n}",
-        "{\n    \"LootCard\": \"betty\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"Pet\"\n}",
-        "{\n    \"LootCard\": \"oculy\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"Pet\"\n}",
-        "{\n    \"LootCard\": \"sharpy\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"Pet\"\n}",
-        "{\n    \"LootCard\": \"liante\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"Pet\"\n}",
-        "{\n    \"LootCard\": \"stormy\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"Pet\"\n}"
+        "{\n    \"LootCard\": \"mozzy\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"Pet\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"slimy\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"Pet\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"flamy\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"Pet\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"betty\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"Pet\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"oculy\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"Pet\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"sharpy\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"Pet\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"liante\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"Pet\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"stormy\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"Pet\",\n    \"LootMisc\": \"\"\n}"
     ],
     "NumItems": 8,
     "ShadyModel": "",

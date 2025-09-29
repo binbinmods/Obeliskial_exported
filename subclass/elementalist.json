@@ -67,5 +67,22 @@
     "Trait4A": "glasscannon",
     "Trait4B": "elementalweaver",
     "AutoUnlock": true,
-    "SourceCharacterName": "Evelyn"
+    "SourceCharacterName": "Evelyn",
+    "CardsSingularity": [
+        "coldsparkstart",
+        "frostbolt",
+        "fireblast",
+        "chargebattery",
+        "transmision",
+        "elementalward",
+        "managem",
+        "flare",
+        "icicle",
+        "zap",
+        "manashield",
+        "prismaticfield",
+        "geyser",
+        "curseofelements",
+        "frostnova"
+    ]
 }

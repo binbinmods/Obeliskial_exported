@@ -1,0 +1,24 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Senenthia_Dia_Nightmare",
+    "CombatEffect": [],
+    "CombatID": "cdream_10",
+    "CombatMusic": "2_Adventure - Alexander Nakarada",
+    "CombatTier": "T0",
+    "Description": "3 wildboars",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "nightmareboar",
+        "nightmareboar",
+        "sleepshearer",
+        "sleepshearer"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "NPCToSummonOnNpcKilled": "",
+    "RandomizeNpcPosition": false,
+    "StepSound": "",
+    "ThermometerTierData": "T0",
+    "IsRift": false
+}

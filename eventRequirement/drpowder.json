@@ -1,0 +1,12 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "A pouch of magic powder given to you by Dr. Jekyll to use in the castle spire.",
+    "ItemSprite": "eventMagicPowder",
+    "RequirementID": "drpowder",
+    "RequirementName": "Magic Powder",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "TrackCard": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "CastleSpire"
+}

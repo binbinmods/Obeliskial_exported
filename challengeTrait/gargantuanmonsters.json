@@ -2,6 +2,8 @@
     "Icon": "",
     "ID": "gargantuanmonsters",
     "IsMadnessTrait": false,
+    "IsSingularityTrait": false,
     "Name": "Gargantuan Monsters",
-    "Order": 0
+    "Order": 0,
+    "OrderSingularity": 0
 }

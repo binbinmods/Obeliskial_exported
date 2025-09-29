@@ -2,6 +2,8 @@
     "Icon": "reinforce",
     "ID": "reinforcedmonsters",
     "IsMadnessTrait": false,
+    "IsSingularityTrait": false,
     "Name": "Reinforced Monsters",
-    "Order": 0
+    "Order": 0,
+    "OrderSingularity": 0
 }

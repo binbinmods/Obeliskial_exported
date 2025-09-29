@@ -2,6 +2,8 @@
     "Icon": "vanish",
     "ID": "exhaustion",
     "IsMadnessTrait": false,
+    "IsSingularityTrait": true,
     "Name": "Exhaustion",
-    "Order": 0
+    "Order": 0,
+    "OrderSingularity": 3
 }

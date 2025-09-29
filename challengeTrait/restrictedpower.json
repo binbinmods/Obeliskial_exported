@@ -2,6 +2,8 @@
     "Icon": "bless",
     "ID": "restrictedpower",
     "IsMadnessTrait": false,
+    "IsSingularityTrait": true,
     "Name": "Restricted Power",
-    "Order": 0
+    "Order": 0,
+    "OrderSingularity": 8
 }

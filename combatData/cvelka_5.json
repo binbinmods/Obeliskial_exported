@@ -16,6 +16,9 @@
         "bombardier"
     ],
     "NPCRemoveInMadness0Index": -1,
+    "NPCToSummonOnNpcKilled": "",
+    "RandomizeNpcPosition": false,
+    "StepSound": "",
     "ThermometerTierData": "T2",
     "IsRift": false
 }

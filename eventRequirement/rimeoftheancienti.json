@@ -6,6 +6,7 @@
     "RequirementName": "Rime of the Ancient Mariner I",
     "RequirementTrack": true,
     "TrackSprite": "",
+    "TrackCard": "",
     "ItemTrack": false,
     "RequirementZoneFinishTrack": "Aquarfall"
 }

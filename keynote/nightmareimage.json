@@ -1,0 +1,6 @@
+{
+    "Description": "Creates a nightmare image",
+    "DescriptionExtended": "Creates a nightmare image. Illusions are exact copies of real units. They mimic stats and abilities, but can be revealed by some skills, and take extra damage from all sources.",
+    "ID": "nightmareimage",
+    "KeynoteName": "Nightmare Image"
+}

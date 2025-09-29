@@ -1,0 +1,12 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "You still looking for answers.",
+    "ItemSprite": "eventEmblem",
+    "RequirementID": "casthakcrestcont",
+    "RequirementName": "Magic crest",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "TrackCard": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

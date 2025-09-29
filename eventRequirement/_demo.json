@@ -6,6 +6,7 @@
     "RequirementName": "Demo",
     "RequirementTrack": false,
     "TrackSprite": "",
+    "TrackCard": "",
     "ItemTrack": false,
     "RequirementZoneFinishTrack": "None"
 }

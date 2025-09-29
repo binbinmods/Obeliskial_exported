@@ -1,0 +1,39 @@
+{
+    "CombatPercent": 0,
+    "Description": "evento boss",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_sunken27_a",
+        "e_sunken27_b",
+        "e_sunken27_c"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [
+        0,
+        1,
+        2
+    ],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "sunken_27",
+    "NodeName": "Arena",
+    "NodeRequirement": "sunkendown",
+    "NodesConnected": [
+        "sunken_28"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Sunken",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Arena"
+}

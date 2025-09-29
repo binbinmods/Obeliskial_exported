@@ -2,6 +2,8 @@
     "Icon": "experience",
     "ID": "smartheroes",
     "IsMadnessTrait": false,
+    "IsSingularityTrait": false,
     "Name": "Smart Heroes",
-    "Order": 0
+    "Order": 0,
+    "OrderSingularity": 0
 }

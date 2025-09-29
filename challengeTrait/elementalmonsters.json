@@ -2,6 +2,8 @@
     "Icon": "insulate",
     "ID": "elementalmonsters",
     "IsMadnessTrait": false,
+    "IsSingularityTrait": false,
     "Name": "Elemental Monsters",
-    "Order": 0
+    "Order": 0,
+    "OrderSingularity": 0
 }

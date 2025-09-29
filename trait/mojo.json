@@ -1,5 +1,6 @@
 {
     "Activation": "FinishCast",
+    "ActivateOnRuneTypeAdded": false,
     "AuraCurseBonus1": "regeneration",
     "AuraCurseBonus2": "vitality",
     "AuraCurseBonus3": "",
@@ -23,12 +24,13 @@
     "DamageBonusPercentValue": 0.0,
     "DamageBonusPercentValue2": 0.0,
     "DamageBonusPercentValue3": 0.0,
-    "Description": "Regeneration +1, Vitality +1.<br>When you play a \"Healing Spell\" card, Dispel 1 to all heroes.\t\t",
+    "Description": "Regeneration +1, Vitality +1.<br>When you play a \"Healing Spell\" card, Dispel 1 to all heroes.",
     "HealFlatBonus": 0,
     "HealPercentBonus": 0.0,
     "HealReceivedFlatBonus": 0,
     "HealReceivedPercentBonus": 0.0,
     "ID": "mojo",
+    "MaxBleedDamagePerTurn": -1,
     "ResistModified1": "None",
     "ResistModified2": "None",
     "ResistModified3": "None",
@@ -39,5 +41,6 @@
     "TimesPerTurn": 0,
     "TraitCard": "",
     "TraitCardForAllHeroes": "",
-    "TraitName": "Mojo"
+    "TraitName": "Mojo",
+    "TryActivateOnEveryEvent": false
 }

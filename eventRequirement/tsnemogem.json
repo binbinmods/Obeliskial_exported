@@ -6,6 +6,7 @@
     "RequirementName": "Purple Gem",
     "RequirementTrack": false,
     "TrackSprite": "",
+    "TrackCard": "",
     "ItemTrack": true,
     "RequirementZoneFinishTrack": "None"
 }

@@ -2,6 +2,8 @@
     "Icon": "slow",
     "ID": "slowheroes",
     "IsMadnessTrait": false,
+    "IsSingularityTrait": false,
     "Name": "Slow Heroes",
-    "Order": 0
+    "Order": 0,
+    "OrderSingularity": 0
 }

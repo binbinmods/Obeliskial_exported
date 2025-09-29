@@ -2,6 +2,8 @@
     "Icon": "poison",
     "ID": "lethalpoison",
     "IsMadnessTrait": false,
+    "IsSingularityTrait": false,
     "Name": "Lethal Poison",
-    "Order": 0
+    "Order": 0,
+    "OrderSingularity": 0
 }

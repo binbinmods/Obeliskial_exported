@@ -67,5 +67,22 @@
     "Trait4A": "queenofthorns",
     "Trait4B": "tireless",
     "AutoUnlock": false,
-    "SourceCharacterName": "Bree"
+    "SourceCharacterName": "Bree",
+    "CardsSingularity": [
+        "standardbearerstart",
+        "pommel",
+        "intercept",
+        "spikedshield",
+        "invigoratingblow",
+        "intimidate",
+        "battleshout",
+        "barbedwire",
+        "charge",
+        "groundslam",
+        "headbutt",
+        "leapslam",
+        "thorneaterwarr",
+        "defend",
+        "helpinghand"
+    ]
 }

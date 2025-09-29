@@ -67,5 +67,22 @@
     "Trait4A": "endlessfury",
     "Trait4B": "tireless",
     "AutoUnlock": false,
-    "SourceCharacterName": "Grukli"
+    "SourceCharacterName": "Grukli",
+    "CardsSingularity": [
+        "vigorousfurystart",
+        "precisestrike",
+        "bloodforblood",
+        "intercept",
+        "sharpen",
+        "recklesscharge",
+        "bloodrage",
+        "rend",
+        "transfusion",
+        "warpaint",
+        "flankingstrike",
+        "sweepingstrike",
+        "bloodrain",
+        "faststrike",
+        "burningblood"
+    ]
 }

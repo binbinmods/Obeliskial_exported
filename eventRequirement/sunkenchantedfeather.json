@@ -1,0 +1,12 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "An enchanted feather the beggar gave you in the Sunken Temple.",
+    "ItemSprite": "eventFeatherEnchanted",
+    "RequirementID": "sunkenchantedfeather",
+    "RequirementName": "Enchanted feather",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "TrackCard": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

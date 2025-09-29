@@ -1,0 +1,16 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 32,
+    "SkinGO": "TulahSkinPro",
+    "SkinID": "priestessPro",
+    "SkinName": "Weaver",
+    "SkinOrder": 2,
+    "SkinSubclass": "priestess",
+    "SkinTextId": "",
+    "Sku": "",
+    "SpritePortrait": "thulaportraitPro",
+    "SpritePortraitGrande": "thulaportraitGrandePro",
+    "SpriteSilueta": "thulasiluetaPro",
+    "SpriteSiluetaGrande": "thulasiluetaGrandePro",
+    "SteamStat": ""
+}

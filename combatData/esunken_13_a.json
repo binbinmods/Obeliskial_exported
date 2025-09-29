@@ -1,0 +1,24 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Sunken_Firstfloor",
+    "CombatEffect": [],
+    "CombatID": "esunken_13_a",
+    "CombatMusic": "The Wizard - 320bit",
+    "CombatTier": "T3",
+    "Description": "combat great lift normal",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "spearman",
+        "mosquito",
+        "eagleshaman",
+        "eagleshaman"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "NPCToSummonOnNpcKilled": "",
+    "RandomizeNpcPosition": false,
+    "StepSound": "",
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

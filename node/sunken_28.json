@@ -1,0 +1,39 @@
+{
+    "CombatPercent": 0,
+    "Description": "Salida",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_sunken28_b",
+        "e_sunken28_a",
+        "e_sunken28_c"
+    ],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [
+        0,
+        2,
+        1
+    ],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "sunken_28",
+    "NodeName": "Strange Rift",
+    "NodeRequirement": "sunkenexit",
+    "NodesConnected": [
+        "sunken_28"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Sunken",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Strange Rift"
+}

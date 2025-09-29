@@ -67,5 +67,22 @@
     "Trait4A": "greasedgears",
     "Trait4B": "exoskeleton",
     "AutoUnlock": true,
-    "SourceCharacterName": "Nenukil"
+    "SourceCharacterName": "Nenukil",
+    "CardsSingularity": [
+        "toolboxstart",
+        "hitandrun",
+        "gunshotscout",
+        "stoneskin",
+        "caltrops",
+        "burningshot",
+        "sprint",
+        "deflect",
+        "feint",
+        "slice",
+        "bladeflurry",
+        "multishot",
+        "setup",
+        "shrapnelshot",
+        "exposearmor"
+    ]
 }

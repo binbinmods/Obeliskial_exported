@@ -2,6 +2,8 @@
     "Icon": "boss",
     "ID": "morechampions",
     "IsMadnessTrait": true,
+    "IsSingularityTrait": false,
     "Name": "More Champions",
-    "Order": 6
+    "Order": 6,
+    "OrderSingularity": 0
 }

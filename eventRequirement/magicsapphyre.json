@@ -6,6 +6,7 @@
     "RequirementName": "Magic Sapphire",
     "RequirementTrack": false,
     "TrackSprite": "",
+    "TrackCard": "",
     "ItemTrack": true,
     "RequirementZoneFinishTrack": "None"
 }

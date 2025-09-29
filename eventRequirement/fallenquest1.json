@@ -6,6 +6,7 @@
     "RequirementName": "Searching for the source",
     "RequirementTrack": true,
     "TrackSprite": "quest-fallen",
+    "TrackCard": "",
     "ItemTrack": false,
     "RequirementZoneFinishTrack": "Ulminin"
 }

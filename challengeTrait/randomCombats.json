@@ -2,6 +2,8 @@
     "Icon": "dice",
     "ID": "randomCombats",
     "IsMadnessTrait": false,
+    "IsSingularityTrait": true,
     "Name": "Random Combats",
-    "Order": 0
+    "Order": 0,
+    "OrderSingularity": 6
 }

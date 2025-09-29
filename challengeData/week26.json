@@ -1,0 +1,30 @@
+{
+    "Boss1": "ursur_o",
+    "Boss2": "ratone_o",
+    "BossCombat": "challenge_13fae",
+    "CorruptionList": [
+        "threedragons",
+        "icypuddle",
+        "firecrackers",
+        "mysticnight",
+        "threedragons",
+        "lanternfestival"
+    ],
+    "Hero1": "mercenary",
+    "Hero2": "fallen",
+    "Hero3": "queen",
+    "Hero4": "cleric",
+    "ID": "week26",
+    "IDSteam": "challengeLunar",
+    "Loot": "weeklylunar",
+    "Seed": "LunarFest2025",
+    "Traits": [
+        "intensecold",
+        "prosperity",
+        "vigorousmonsters",
+        "morechampions",
+        "doubleinjuries",
+        "spiritualmonsters"
+    ],
+    "Week": 26
+}

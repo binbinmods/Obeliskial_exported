@@ -67,5 +67,22 @@
     "Trait4A": "unrelentingresentment",
     "Trait4B": "unholyblight",
     "AutoUnlock": false,
-    "SourceCharacterName": "Navalea"
+    "SourceCharacterName": "Navalea",
+    "CardsSingularity": [
+        "vengeancestart",
+        "darkblow",
+        "punch",
+        "curseoffragility",
+        "lifetap",
+        "manashield",
+        "curseoftorment",
+        "icebarrier",
+        "warpaint",
+        "darkritual",
+        "pommel",
+        "darkpact",
+        "heavystrike",
+        "necroticburst",
+        "intimidate"
+    ]
 }

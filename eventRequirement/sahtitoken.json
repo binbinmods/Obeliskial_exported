@@ -6,6 +6,7 @@
     "RequirementName": "Sahti Token",
     "RequirementTrack": false,
     "TrackSprite": "",
+    "TrackCard": "",
     "ItemTrack": true,
     "RequirementZoneFinishTrack": "None"
 }

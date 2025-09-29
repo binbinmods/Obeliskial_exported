@@ -2,6 +2,8 @@
     "Icon": "fast",
     "ID": "fastheroes",
     "IsMadnessTrait": false,
+    "IsSingularityTrait": false,
     "Name": "Fast Heroes",
-    "Order": 0
+    "Order": 0,
+    "OrderSingularity": 0
 }

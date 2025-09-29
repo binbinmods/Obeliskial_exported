@@ -2,6 +2,8 @@
     "Icon": "dice",
     "ID": "lucky",
     "IsMadnessTrait": false,
+    "IsSingularityTrait": false,
     "Name": "Lucky",
-    "Order": 0
+    "Order": 0,
+    "OrderSingularity": 0
 }

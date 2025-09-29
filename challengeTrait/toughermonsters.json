@@ -2,6 +2,8 @@
     "Icon": "taunt",
     "ID": "toughermonsters",
     "IsMadnessTrait": true,
+    "IsSingularityTrait": true,
     "Name": "Tougher Monsters",
-    "Order": 9
+    "Order": 9,
+    "OrderSingularity": 1
 }

@@ -6,6 +6,7 @@
     "RequirementName": "Large Emerald",
     "RequirementTrack": false,
     "TrackSprite": "",
+    "TrackCard": "",
     "ItemTrack": true,
     "RequirementZoneFinishTrack": "None"
 }

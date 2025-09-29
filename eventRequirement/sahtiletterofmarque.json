@@ -6,6 +6,7 @@
     "RequirementName": "Letter of marque",
     "RequirementTrack": false,
     "TrackSprite": "",
+    "TrackCard": "",
     "ItemTrack": true,
     "RequirementZoneFinishTrack": "None"
 }

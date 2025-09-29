@@ -6,10 +6,13 @@
     "CardbackOrder": 60,
     "CardbackSprite": "CartaHalloweenDLC",
     "CardbackSubclass": "",
+    "CardbackTextId": "",
     "Locked": true,
     "ObeliskLevel": 0,
+    "PdxAccountRequired": false,
     "RankLevel": 0,
     "ShowIfLocked": true,
+    "SingularityLevel": 0,
     "Sku": "2168960",
     "SteamStat": ""
 }

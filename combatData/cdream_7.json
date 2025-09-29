@@ -1,0 +1,24 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Senenthia_BosqueEntrada_Nightmare",
+    "CombatEffect": [],
+    "CombatID": "cdream_7",
+    "CombatMusic": "2_Adventure - Alexander Nakarada",
+    "CombatTier": "T2",
+    "Description": "1 sheep 2 negras 1 farmer",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "mindtwistedsheep",
+        "mindtwistedsheep",
+        "sleepshearer",
+        "sleepshearer"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "NPCToSummonOnNpcKilled": "",
+    "RandomizeNpcPosition": false,
+    "StepSound": "",
+    "ThermometerTierData": "T1",
+    "IsRift": false
+}

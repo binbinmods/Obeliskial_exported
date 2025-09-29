@@ -2,6 +2,8 @@
     "Icon": "nodeShop",
     "ID": "wealthyheroes",
     "IsMadnessTrait": false,
+    "IsSingularityTrait": false,
     "Name": "Wealthy Heroes",
-    "Order": 0
+    "Order": 0,
+    "OrderSingularity": 0
 }

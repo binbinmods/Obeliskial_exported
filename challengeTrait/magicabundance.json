@@ -2,6 +2,8 @@
     "Icon": "dust",
     "ID": "magicabundance",
     "IsMadnessTrait": false,
+    "IsSingularityTrait": false,
     "Name": "Magic Abundance",
-    "Order": 0
+    "Order": 0,
+    "OrderSingularity": 0
 }

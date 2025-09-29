@@ -6,6 +6,7 @@
     "RequirementName": "Service Robot",
     "RequirementTrack": false,
     "TrackSprite": "",
+    "TrackCard": "balanced",
     "ItemTrack": true,
     "RequirementZoneFinishTrack": "None"
 }
