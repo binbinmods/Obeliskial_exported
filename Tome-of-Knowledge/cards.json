@@ -96,6 +96,9 @@
     "abstraction (monster)": {
       "IDs": ["abstraction","abstractiona","abstractionb"]
     },
+    "abyssal dive (monster)": {
+      "IDs": ["abyssaldivemnp","abyssaldivemnpa","abyssaldivemnpb"]
+    },
     "abyssal revenge (monster)": {
       "IDs": ["abyssalrevenge","abyssalrevengea","abyssalrevengeb"]
     },
@@ -129,6 +132,9 @@
     "acrobatic strike (monster)": {
       "IDs": ["acrobaticstrikem","acrobaticstrikema","acrobaticstrikemb"]
     },
+    "active cleansing (monster)": {
+      "IDs": ["activecleansingmnp","activecleansingmnpa","activecleansingmnpb"]
+    },
     "addcard": {
       "IDs": ["addcard"]
     },
@@ -141,11 +147,17 @@
     "adventure awaits (special)": {
       "IDs": ["adventureawaits"]
     },
+    "aegis (item)": {
+      "IDs": ["aegis","aegisrare"]
+    },
     "aftershock (monster)": {
       "IDs": ["aftershock","aftershocka","aftershockb"]
     },
     "agate amulet (item)": {
       "IDs": ["agateamulet","agateamuletrare"]
+    },
+    "aggravate (monster)": {
+      "IDs": ["aggravatemnp","aggravatemnpa","aggravatemnpb"]
     },
     "aimed shot": {
       "IDs": ["aimedshot","aimedshota","aimedshotb","aimedshotrare"]
@@ -177,6 +189,9 @@
     "ambush": {
       "IDs": ["ambush","ambusha","ambushb","ambushrare"]
     },
+    "ambush (monster)": {
+      "IDs": ["ambushmnp","ambushmnpa","ambushmnpb"]
+    },
     "amethyst ring (item)": {
       "IDs": ["amethystring","amethystringrare"]
     },
@@ -185,6 +200,9 @@
     },
     "amplify": {
       "IDs": ["amplify","amplifya","amplifyb","amplifyrare"]
+    },
+    "amplify (monster)": {
+      "IDs": ["amplifymnp","amplifymnpa","amplifymnpb","amplifyv2mnp","amplifyv2mnpa","amplifyv2mnpb"]
     },
     "amplifying field (monster)": {
       "IDs": ["amplifyingfield","amplifyingfielda","amplifyingfieldb"]
@@ -206,6 +224,9 @@
     },
     "ancient shell": {
       "IDs": ["ancientshell","ancientshella","ancientshellb"]
+    },
+    "anemic chill": {
+      "IDs": ["anemicchillnp","anemicchillnpa","anemicchillnpb","anemicchillnprare"]
     },
     "anger (monster)": {
       "IDs": ["anger","angera","angerb"]
@@ -249,6 +270,12 @@
     "arcane conduit": {
       "IDs": ["arcaneconduit","arcaneconduita","arcaneconduitb"]
     },
+    "arcane conduit (monster)": {
+      "IDs": ["arcaneconduitmnp","arcaneconduitmnpa","arcaneconduitmnpb"]
+    },
+    "arcane drain": {
+      "IDs": ["arcanedrainnp","arcanedrainnpa","arcanedrainnpb","arcanedrainnprare"]
+    },
     "arcane reflux": {
       "IDs": ["arcanereflux","arcanerefluxa","arcanerefluxb"]
     },
@@ -280,6 +307,12 @@
       "IDs": ["ashstorm","ashstorma","ashstormb","ashstormplus","ashstormplusa","ashstormplusb"],
       "RelatedIDs": ["ash","asha","ashb"]
     },
+    "ashen madness (monster)": {
+      "IDs": ["ashenmadnessmnp","ashenmadnessmnpa","ashenmadnessmnpb"]
+    },
+    "ashes to embers (monster)": {
+      "IDs": ["ashestoembersmnp","ashestoembersmnpa","ashestoembersmnpb"]
+    },
     "ashy sky (corruptor)": {
       "IDs": ["ashysky","ashyskya","ashyskyb","ashyskyrare"],
       "RelatedIDs": ["ashstormcorruption","ashstormcorruptiona","ashstormcorruptionb","ashstormcorruptionrare"]
@@ -303,6 +336,9 @@
     },
     "atonement": {
       "IDs": ["atonementstart","atonementstarta","atonementstartb"]
+    },
+    "attack cards (special)": {
+      "IDs": ["attackcarddiscover"]
     },
     "avoidance collar (item)": {
       "IDs": ["avoidancecollar","avoidancecollarrare"]
@@ -370,6 +406,9 @@
     "baptism (monster)": {
       "IDs": ["baptismm","baptismma","baptismmb"]
     },
+    "barbed feathers (monster)": {
+      "IDs": ["barbedfeathersmnp","barbedfeathersmnpa","barbedfeathersmnpb"]
+    },
     "barbed wire": {
       "IDs": ["barbedwire","barbedwirea","barbedwireb","barbedwirerare"]
     },
@@ -397,8 +436,24 @@
     "basthet's grace": {
       "IDs": ["basthetsgrace","basthetsgracea","basthetsgraceb"]
     },
+    "bastion flow": {
+      "IDs": ["bastionflownp","bastionflownpa","bastionflownpb","bastionflownprare"]
+    },
     "bastion (item)": {
       "IDs": ["bastion","bastionrare"]
+    },
+    "bat bite (monster)": {
+      "IDs": ["batbitemnp","batbitemnpa","batbitemnpb"]
+    },
+    "bat blight (monster)": {
+      "IDs": ["batblightmnp","batblightmnpa","batblightmnpb"]
+    },
+    "bat burn (monster)": {
+      "IDs": ["batburnmnp","batburnmnpa","batburnmnpb"]
+    },
+    "batsy (item)": {
+      "IDs": ["batsy","batsyrare"],
+      "RelatedIDs": ["echolocationnp","echolocationnprare"]
     },
     "battle axe (item)": {
       "IDs": ["battleaxe","battleaxerare"]
@@ -427,6 +482,9 @@
     },
     "benediction": {
       "IDs": ["benediction","benedictiona","benedictionb","benedictionrare"]
+    },
+    "benediction (monster)": {
+      "IDs": ["benedictionmnp","benedictionmnpa","benedictionmnpb"]
     },
     "berserk potion (item)": {
       "IDs": ["berserkpotion","berserkpotionrare"]
@@ -496,8 +554,14 @@
     "blade dance": {
       "IDs": ["bladedance","bladedancea","bladedanceb","bladedancerare"]
     },
+    "blade dance (monster)": {
+      "IDs": ["bladedancemnp","bladedancemnpa","bladedancemnpb"]
+    },
     "blade flurry": {
       "IDs": ["bladeflurry","bladeflurrya","bladeflurryb","bladeflurryrare"]
+    },
+    "blade flurry (monster)": {
+      "IDs": ["bladeflurrymnp","bladeflurrymnpa","bladeflurrymnpb","bladeflurryv2mnp","bladeflurryv2mnpa","bladeflurryv2mnpb"]
     },
     "blade rush (monster)": {
       "IDs": ["bladerush","bladerusha","bladerushb"]
@@ -511,6 +575,9 @@
     "blazing nova (monster)": {
       "IDs": ["blazingnova","blazingnovaa","blazingnovab"]
     },
+    "blazing shriek (monster)": {
+      "IDs": ["blazingshriekmnp","blazingshriekmnpa","blazingshriekmnpb"]
+    },
     "blazing slash (monster)": {
       "IDs": ["blazingslash","blazingslasha","blazingslashb"]
     },
@@ -522,6 +589,9 @@
     },
     "bleed": {
       "IDs": ["bleed"]
+    },
+    "bleeding blight": {
+      "IDs": ["bleedingblightnp","bleedingblightnpa","bleedingblightnpb"]
     },
     "bless": {
       "IDs": ["bless"]
@@ -538,9 +608,22 @@
     "block": {
       "IDs": ["block"]
     },
+    "blood alchemy": {
+      "IDs": ["bloodalchemynp","bloodalchemynpa","bloodalchemynpb","bloodalchemynprare"]
+    },
+    "blood amulet (item)": {
+      "IDs": ["bloodamulet","bloodamuleta","bloodamuletb","bloodamuletrare"],
+      "RelatedIDs": ["exsanguinatenp","exsanguinatenpa","exsanguinatenpb","exsanguinatenprare"]
+    },
+    "blood bargain": {
+      "IDs": ["bloodbargainnp","bloodbargainnpa","bloodbargainnpb"]
+    },
     "blood blob (item)": {
       "IDs": ["bloodblobpet","bloodblobpetrare"],
       "RelatedIDs": ["bloodsplashpet","bloodsplashpetrare"]
+    },
+    "blood feast (monster)": {
+      "IDs": ["bloodfeastmnp","bloodfeastmnpa","bloodfeastmnpb"]
     },
     "blood feathers (monster)": {
       "IDs": ["bloodyfeathers","bloodyfeathersa","bloodyfeathersb"]
@@ -573,11 +656,23 @@
     "blood rain (monster)": {
       "IDs": ["bloodrainm","bloodrainma","bloodrainmb"]
     },
+    "blood tornado (monster)": {
+      "IDs": ["bloodtornadomnp","bloodtornadomnpa","bloodtornadomnpb"]
+    },
     "bloodbath": {
       "IDs": ["bloodbath","bloodbatha","bloodbathb","bloodbathrare"]
     },
     "bloodguard (item)": {
       "IDs": ["blooddguard","blooddguardrare"]
+    },
+    "bloodguardian (monster)": {
+      "IDs": ["bloodguardianmnp"]
+    },
+    "bloodletter's fang (item)": {
+      "IDs": ["bloodlettersfang","bloodlettersfangrare"]
+    },
+    "bloodlust unleashed (monster)": {
+      "IDs": ["bloodlustunleashedmnp","bloodlustunleashedmnpa","bloodlustunleashedmnpb"]
     },
     "bloodrage": {
       "IDs": ["bloodrage","bloodragea","bloodrageb","bloodragerare"]
@@ -590,6 +685,12 @@
     },
     "bloodsucker (monster)": {
       "IDs": ["bloodsucker","bloodsuckera","bloodsuckerb"]
+    },
+    "bloodthirsty (monster)": {
+      "IDs": ["bloodthirstymnp","bloodthirstymnpa","bloodthirstymnpb"]
+    },
+    "bloodthirsty": {
+      "IDs": ["bloodthirstynp","bloodthirstynpa","bloodthirstynpb","bloodthirstynprare"]
     },
     "bloody cleave (monster)": {
       "IDs": ["bloodycleave","bloodycleavea","bloodycleaveb"]
@@ -713,6 +814,9 @@
       "IDs": ["broodmother","broodmothera","broodmotherb","broodmotherplus","broodmotherplusa","broodmotherplusb"],
       "RelatedIDs": ["hatch","hatcha","hatchb","hatchplus","hatchplusa","hatchplusb"]
     },
+    "broody moody (monster)": {
+      "IDs": ["broodymoodymnp","broodymoodymnpa","broodymoodymnpb"]
+    },
     "bucket (item)": {
       "IDs": ["bucket","bucketrare"]
     },
@@ -800,6 +904,9 @@
     "captain's howl (special)": {
       "IDs": ["captainshowl"]
     },
+    "captain's howl (monster)": {
+      "IDs": ["captainshowlmnp","captainshowlmnpa","captainshowlmnpb"]
+    },
     "captain's howl": {
       "IDs": ["captainshowlstart","captainshowlstarta","captainshowlstartb"]
     },
@@ -813,14 +920,32 @@
     "captivating voice": {
       "IDs": ["captivatingvoice","captivatingvoicea","captivatingvoiceb","captivatingvoicerare"]
     },
+    "card gainer healer": {
+      "IDs": ["cardgainerhealer"]
+    },
+    "card gainer mage": {
+      "IDs": ["cardgainermage"]
+    },
+    "card gainer scout": {
+      "IDs": ["cardgainerscout"]
+    },
+    "card gainer warrior": {
+      "IDs": ["cardgainerwarrior"]
+    },
     "carnage": {
       "IDs": ["carnage","carnagea","carnageb","carnagerare"]
+    },
+    "carnage (monster)": {
+      "IDs": ["carnagemnp","carnagemnpa","carnagemnpb"]
     },
     "carrioneater (monster)": {
       "IDs": ["carrioneater","carrioneatera","carrioneaterb"]
     },
     "castling (monster)": {
       "IDs": ["castling","castlinga","castlingb"]
+    },
+    "cataclysm": {
+      "IDs": ["cataclysmnp","cataclysmnpa","cataclysmnpb"]
     },
     "catapult (monster)": {
       "IDs": ["catapult","catapulta","catapultb"]
@@ -843,6 +968,9 @@
     "celestial brilliance (monster)": {
       "IDs": ["celestialbrillancem","celestialbrillancema","celestialbrillancemb"]
     },
+    "celestial claws (monster)": {
+      "IDs": ["celestialclawsmnp","celestialclawsmnpa","celestialclawsmnpb"]
+    },
     "celestial toll (monster)": {
       "IDs": ["celestialtoll","celestialtolla","celestialtollb"],
       "RelatedIDs": ["divinechime","divinechimea","divinechimeb"]
@@ -860,7 +988,7 @@
       "IDs": ["chainlightning","chainlightninga","chainlightningb","chainlightningrare"]
     },
     "chain lightning (monster)": {
-      "IDs": ["chainlightningeasy","chainlightningm","chainlightningma","chainlightningmb","chainlightningmg"]
+      "IDs": ["chainlightningeasy","chainlightningm","chainlightningma","chainlightningmb","chainlightningmg","chainlightningmnp"]
     },
     "chainsaw": {
       "IDs": ["chainsaw"]
@@ -873,6 +1001,9 @@
     },
     "challenging shout": {
       "IDs": ["challengingshout","challengingshouta","challengingshoutb","challengingshoutrare"]
+    },
+    "challenging shout (monster)": {
+      "IDs": ["challengingshoutmnp","challengingshoutmnpa","challengingshoutmnpb"]
     },
     "champy (item)": {
       "IDs": ["champy","champyrare"],
@@ -890,6 +1021,9 @@
     "chant of initiative": {
       "IDs": ["chantofinitiative","chantofinitiativea","chantofinitiativeb","chantofinitiativerare"]
     },
+    "chant of renewal (monster)": {
+      "IDs": ["chantofrenewalmnp","chantofrenewalmnpa","chantofrenewalmnpb"]
+    },
     "chaos blob (item)": {
       "IDs": ["chaosblobpet","chaosblobpetrare"],
       "RelatedIDs": ["chaossplashpet","chaossplashpetrare"]
@@ -897,6 +1031,9 @@
     "chaos puddle (corruptor)": {
       "IDs": ["chaospuddle","chaospuddlea","chaospuddleb"],
       "RelatedIDs": ["chaosblob"]
+    },
+    "chaos (monster)": {
+      "IDs": ["chaosmnp","chaosmnpa","chaosmnpb"]
     },
     "chaotic spear (item)": {
       "IDs": ["chaoticspear","chaoticspearrare"]
@@ -910,14 +1047,26 @@
     "charged claws (monster)": {
       "IDs": ["chargedclaws","chargedclawsa","chargedclawsb"]
     },
+    "charged elixir (monster)": {
+      "IDs": ["chargedelixirmnp","chargedelixirmnpa","chargedelixirmnpb"]
+    },
     "charged lunge": {
       "IDs": ["chargedlunge","chargedlungea","chargedlungeb","chargedlungerare"]
     },
     "charged trident (item)": {
       "IDs": ["chargedtrident","chargedtridentrare"]
     },
+    "charm attack (monster)": {
+      "IDs": ["charmattackmnp","charmattackmnpa","charmattackmnpb"]
+    },
+    "charmed (monster)": {
+      "IDs": ["charmedmnp","charmedmnpa","charmedmnpb"]
+    },
     "cheese (item)": {
       "IDs": ["cheese","cheeserare"]
+    },
+    "chemical x (monster)": {
+      "IDs": ["chemicalxmnp","chemicalxmnpa","chemicalxmnpb"]
     },
     "child of the storm": {
       "IDs": ["childofthestorm","childofthestorma","childofthestormb"]
@@ -927,6 +1076,9 @@
     },
     "chilling gaze": {
       "IDs": ["chillinggaze","chillinggazea","chillinggazeb"]
+    },
+    "chomp chomp (monster)": {
+      "IDs": ["chompchompmnp","chompchompmnpa","chompchompmnpb"]
     },
     "chompy (item)": {
       "IDs": ["chompy","chompyrare"],
@@ -979,6 +1131,9 @@
     },
     "cloak of evasion (item)": {
       "IDs": ["cloackofevasion","cloackofevasionrare"]
+    },
+    "cloak of feathers (monster)": {
+      "IDs": ["cloakoffeathersmnp","cloakoffeathersmnpa","cloakoffeathersmnpb"]
     },
     "cloak of speed (item)": {
       "IDs": ["cloackofspeed","cloackofspeedrare"]
@@ -1053,6 +1208,9 @@
     "combustion": {
       "IDs": ["combustion","combustiona","combustionb","combustionrare"]
     },
+    "combustion (monster)": {
+      "IDs": ["combustionmnp","combustionmnpa","combustionmnpb"]
+    },
     "command and conquer": {
       "IDs": ["commandandconquer","commandandconquera","commandandconquerb"]
     },
@@ -1061,6 +1219,9 @@
     },
     "compassion": {
       "IDs": ["compassion","compassiona","compassionb","compassionrare"]
+    },
+    "compromise (monster)": {
+      "IDs": ["compromisemnp","compromisemnpa","compromisemnpb"]
     },
     "concussive shot (monster)": {
       "IDs": ["concussiveshot","concussiveshota"]
@@ -1086,17 +1247,26 @@
     "continuum blade (item)": {
       "IDs": ["continuumblade","continuumbladerare"]
     },
+    "conviction": {
+      "IDs": ["convictionnp","convictionnpa","convictionnpb","convictionnprare"]
+    },
     "cooling servos (item)": {
       "IDs": ["coolingservos","coolingservosrare"]
     },
     "coral smash (monster)": {
       "IDs": ["coralsmash","coralsmasha","coralsmashb"]
     },
+    "cornstorm burst (monster)": {
+      "IDs": ["cornstormburst","cornstormbursta","cornstormburstb"]
+    },
     "corrosive touch (monster)": {
       "IDs": ["corrosivetouch","corrosivetoucha","corrosivetouchb","corrosivetoucheasy"]
     },
     "corrupt harpoons (monster)": {
       "IDs": ["corruptharpoon","corruptharpoona","corruptharpoonb","corruptharpoonm","corruptharpoonma","corruptharpoonmb"]
+    },
+    "corrupted benediction (monster)": {
+      "IDs": ["corruptedbenedictionmnp"]
     },
     "corrupted blade": {
       "IDs": ["corruptedblade","corruptedbladea","corruptedbladeb","corruptedbladerare"]
@@ -1107,6 +1277,9 @@
     "corrupted plate (item)": {
       "IDs": ["corruptedplate","corruptedplatea","corruptedplateb","corruptedplaterare"]
     },
+    "corrupting parasite (monster)": {
+      "IDs": ["corruptingparasitemnp","corruptingparasitemnpa","corruptingparasitemnpb"]
+    },
     "corruption (monster)": {
       "IDs": ["corruption","corruptiona","corruptionb"]
     },
@@ -1115,6 +1288,12 @@
     },
     "counterspell (monster)": {
       "IDs": ["counterspell","counterspella","counterspellb"]
+    },
+    "count's amulet (item)": {
+      "IDs": ["countsamulet","countsamuletrare"]
+    },
+    "count's cloak (item)": {
+      "IDs": ["countscloak","countscloakrare"]
     },
     "courage": {
       "IDs": ["courage"]
@@ -1210,6 +1389,9 @@
     "curse of agony": {
       "IDs": ["curseofagony","curseofagonya","curseofagonyb","curseofagonyrare"]
     },
+    "curse of blood": {
+      "IDs": ["curseofbloodnp","curseofbloodnpa","curseofbloodnpb","curseofbloodnprare"]
+    },
     "curse of decay": {
       "IDs": ["curseofdecay","curseofdecaya","curseofdecayb","curseofdecayrare"]
     },
@@ -1292,6 +1474,9 @@
     "damping field (monster)": {
       "IDs": ["dampingfield","dampingfielda","dampingfieldb"]
     },
+    "dangerous leap (monster)": {
+      "IDs": ["dangerousleapmnp","dangerousleapmnpa","dangerousleapmnpb"]
+    },
     "dark blight (monster)": {
       "IDs": ["darkblight","darkblighta","darkblightb"]
     },
@@ -1364,11 +1549,17 @@
     "dark shot (monster)": {
       "IDs": ["darkshot","darkshota","darkshotb"]
     },
+    "dark succor": {
+      "IDs": ["darksuccornp","darksuccornpa","darksuccornpb"]
+    },
     "dark tide": {
       "IDs": ["darktide","darktidea","darktideb"]
     },
     "dark torment (monster)": {
       "IDs": ["darktorment"]
+    },
+    "dark torture (monster)": {
+      "IDs": ["darktorturemnp","darktorturemnpa","darktorturemnpb"]
     },
     "dark": {
       "IDs": ["dark"]
@@ -1390,7 +1581,7 @@
       "RelatedIDs": ["poisondart","poisondartrare"]
     },
     "dash (monster)": {
-      "IDs": ["dash","dasha","dashb"]
+      "IDs": ["dash","dasha","dashb","dashmnp","dashmnpa","dashmnpb"]
     },
     "dauntless (monster)": {
       "IDs": ["dauntless","dauntlessa","dauntlessb"]
@@ -1419,6 +1610,9 @@
     "death grip (corruptor)": {
       "IDs": ["deathgrip","deathgripa","deathgripb"]
     },
+    "death's caress": {
+      "IDs": ["deathscaressnp","deathscaressnpa","deathscaressnpb"]
+    },
     "death's door": {
       "IDs": ["deathsdoor","deathsdoora","deathsdoorb"]
     },
@@ -1433,6 +1627,9 @@
     },
     "decay": {
       "IDs": ["decay"]
+    },
+    "deck of judgement (special)": {
+      "IDs": ["deckofjudgement"]
     },
     "deep darkness": {
       "IDs": ["deepdarkness","deepdarknessa","deepdarknessb","deepdarknessrare"]
@@ -1450,8 +1647,14 @@
     "defective summon (monster)": {
       "IDs": ["defectivesummon"]
     },
+    "defence cards (special)": {
+      "IDs": ["defensecarddiscover"]
+    },
     "defend": {
       "IDs": ["defend","defenda","defendb","defendrare"]
+    },
+    "defensive aura": {
+      "IDs": ["defensiveauranp","defensiveauranpa","defensiveauranpb","defensiveauranprare"]
     },
     "defensive strategy": {
       "IDs": ["defensivestrategy","defensivestrategya","defensivestrategyb"]
@@ -1459,8 +1662,14 @@
     "defiled legacy": {
       "IDs": ["defiledlegacy","defiledlegacya","defiledlegacyb"]
     },
+    "defilement (monster)": {
+      "IDs": ["defilementmnp","defilementmnpa","defilementmnpb"]
+    },
     "deflect": {
       "IDs": ["deflect","deflecta","deflectb","deflectrare"]
+    },
+    "deformed item (item)": {
+      "IDs": ["deformeditem"]
     },
     "defrost archer (monster)": {
       "IDs": ["defrostarcher","defrostarchera","defrostarcherb","defrostarcherm"]
@@ -1481,12 +1690,18 @@
     "demand obedience (monster)": {
       "IDs": ["demandobedience","demandobediencea","demandobedienceb"]
     },
+    "demanding caution (monster)": {
+      "IDs": ["demandingcautionmnp","demandingcautionmnpa","demandingcautionmnpb"]
+    },
     "dementia (monster)": {
       "IDs": ["dementia","dementiaa","dementiab","dementiam","dementiama","dementiamb"],
       "RelatedIDs": ["amnesiaa","amnesiab"]
     },
     "demolishing blow": {
       "IDs": ["demolishingblow","demolishingblowa","demolishingblowb","demolishingblowrare"]
+    },
+    "demolishing blow (monster)": {
+      "IDs": ["demolishingblowmnp"]
     },
     "demonic flame (monster)": {
       "IDs": ["demonicflame","demonicflamea","demonicflameb"]
@@ -1511,6 +1726,9 @@
     },
     "desperate prayer": {
       "IDs": ["desperateplayer","desperateplayera","desperateplayerb","desperateplayerrare"]
+    },
+    "desperate prayer (monster)": {
+      "IDs": ["desperateprayermnp","desperateprayermnpa","desperateprayermnpb"]
     },
     "dessert (item)": {
       "IDs": ["dessert","dessertrare"],
@@ -1564,6 +1782,9 @@
     "dirty bandages (item)": {
       "IDs": ["dirtybandages","dirtybandagesrare"]
     },
+    "disable (monster)": {
+      "IDs": ["disablemnp"]
+    },
     "disarm": {
       "IDs": ["disarm"]
     },
@@ -1601,6 +1822,9 @@
     "divination orb (item)": {
       "IDs": ["divinationorb","divinationorbrare"]
     },
+    "divine execution (monster)": {
+      "IDs": ["divineexecutionmnp","divineexecutionmnpa","divineexecutionmnpb"]
+    },
     "divine grace (special)": {
       "IDs": ["divinegrace"]
     },
@@ -1632,6 +1856,9 @@
     },
     "divine power": {
       "IDs": ["divinepower","divinepowera","divinepowerb","divinepowerrare"]
+    },
+    "divine power (monster)": {
+      "IDs": ["divinepowermnp","divinepowermnpa","divinepowermnpb"]
     },
     "divine protection (monster)": {
       "IDs": ["divineprotection","divineprotectiona","divineprotectionb"]
@@ -1704,6 +1931,9 @@
     "drain life": {
       "IDs": ["drainlife","drainlifea","drainlifeb","drainliferare"]
     },
+    "drain life (monster)": {
+      "IDs": ["drainlifemnp","drainlifemnpa","drainlifemnpb"]
+    },
     "draw from deck": {
       "IDs": ["drawfromdeck"]
     },
@@ -1719,11 +1949,26 @@
     "dreadful wave (monster)": {
       "IDs": ["dreadfulwave","dreadfulwavea","dreadfulwaveb"]
     },
+    "dream bite (monster)": {
+      "IDs": ["dreambite","dreambitea","dreambiteb"]
+    },
+    "dream claw (monster)": {
+      "IDs": ["dreamclaw","dreamclawa"]
+    },
+    "dream prison (monster)": {
+      "IDs": ["dreamprison"]
+    },
     "dream sphere (item)": {
       "IDs": ["dreamsphere","dreamsphererare"]
     },
     "dreamcatcher (item)": {
       "IDs": ["dreamcatcher","dreamcatcherrare"]
+    },
+    "dreamcut (monster)": {
+      "IDs": ["dreamcut","dreamcuta","dreamcutb"]
+    },
+    "dream-tusk barrage (monster)": {
+      "IDs": ["dreamtuskbarrage","dreamtuskbarragea","dreamtuskbarrageb"]
     },
     "drill (monster)": {
       "IDs": ["drill","drilla","drillb"]
@@ -1765,6 +2010,9 @@
     "dusk punishment (monster)": {
       "IDs": ["duskpunishment","duskpunishmenta","duskpunishmentb"]
     },
+    "duskforged armor (item)": {
+      "IDs": ["duskforgedarmor","duskforgedarmora","duskforgedarmorb","duskforgedarmorrare"]
+    },
     "dust devil (monster)": {
       "IDs": ["dustdevil","dustdevila","dustdevilb"]
     },
@@ -1783,6 +2031,9 @@
     "ear destroyer (monster)": {
       "IDs": ["eardestroyer","eardestroyera"]
     },
+    "ear shredder (monster)": {
+      "IDs": ["earshredder","earshreddera","earshredderb"]
+    },
     "earth guard (monster)": {
       "IDs": ["earthguard","earthguarda","earthguardb"]
     },
@@ -1794,6 +2045,18 @@
     },
     "eavesdrop (special)": {
       "IDs": ["eavesdrop"]
+    },
+    "echoes of madness (monster)": {
+      "IDs": ["echoesofmadnessmnp","echoesofmadnessmnpa","echoesofmadnessmnpb"]
+    },
+    "echoing tantrum (monster)": {
+      "IDs": ["echoingtantrum","echoingtantruma","echoingtantrumb"]
+    },
+    "eclipse ritual (monster)": {
+      "IDs": ["eclipseritualmnp","eclipseritualmnpa","eclipseritualmnpb"]
+    },
+    "eclipsing wings (monster)": {
+      "IDs": ["eclipsingwingsmnp","eclipsingwingsmnpa","eclipsingwingsmnpb"]
     },
     "edge of fury (item)": {
       "IDs": ["edgeoffury","edgeoffuryrare"]
@@ -1829,6 +2092,9 @@
     "electric discharge": {
       "IDs": ["electricdischarge","electricdischargea","electricdischargeb","electricdischargerare"]
     },
+    "electric discharge (monster)": {
+      "IDs": ["electricdischargemnp","electricdischargemnpa","electricdischargemnpb"]
+    },
     "electric nova (monster)": {
       "IDs": ["electricnova","electricnovaa","electricnovab"]
     },
@@ -1861,11 +2127,17 @@
     "elemental bolt": {
       "IDs": ["elementalbolt","elementalbolta","elementalboltb","elementalboltrare"]
     },
+    "elemental bolt (monster)": {
+      "IDs": ["elementalboltmnp","elementalboltmnpa","elementalboltmnpb"]
+    },
     "elemental proliferation": {
       "IDs": ["elementalproliferation","elementalproliferationa","elementalproliferationb"]
     },
     "elemental ward": {
       "IDs": ["elementalward","elementalwarda","elementalwardb","elementalwardrare"]
+    },
+    "elemental ward (monster)": {
+      "IDs": ["elementalwardmnp","elementalwardmnpa","elementalwardmnpb"]
     },
     "elemental wave (monster)": {
       "IDs": ["elementalnova","elementalnovaa","elementalnovab"]
@@ -1946,11 +2218,17 @@
     "enervate": {
       "IDs": ["enervate","enervatea","enervateb","enervaterare"]
     },
+    "enervate (monster)": {
+      "IDs": ["enervatemnp","enervatemnpa","enervatemnpb"]
+    },
     "enfeeble (monster)": {
       "IDs": ["enfeeble","enfeeblea","enfeebleb"]
     },
     "engraved (item)": {
       "IDs": ["engraved"]
+    },
+    "enhancement injection (monster)": {
+      "IDs": ["enhancementinjectionmnp","enhancementinjectionmnpa","enhancementinjectionmnpb"]
     },
     "enlightened": {
       "IDs": ["enlightened","enlighteneda","enlightenedb"]
@@ -1985,6 +2263,12 @@
     "eternal recall (monster)": {
       "IDs": ["eternalrecall","eternalrecalla","eternalrecallb"]
     },
+    "eternal vigor (monster)": {
+      "IDs": ["eternalvigormnp","eternalvigormnpa","eternalvigormnpb"]
+    },
+    "ethereal cloak (monster)": {
+      "IDs": ["etherealcloakmnp","etherealcloakmnpa","etherealcloakmnpb"]
+    },
     "ethereal weapons": {
       "IDs": ["etherealweapons","etherealweaponsa","etherealweaponsb"],
       "RelatedIDs": ["etherealknives","etherealknivesa","etherealknivesb"]
@@ -2007,6 +2291,9 @@
     "eviscerate": {
       "IDs": ["eviscerate","evisceratea","eviscerateb","evisceraterare"]
     },
+    "eviscerate (monster)": {
+      "IDs": ["evisceratemnp","evisceratemnpa","evisceratemnpb"]
+    },
     "evocation": {
       "IDs": ["evocation","evocationa","evocationb","evocationrare"]
     },
@@ -2021,6 +2308,9 @@
     },
     "expected prophecy": {
       "IDs": ["expectedprophecy","expectedprophecya","expectedprophecyb","expectedprophecyrare"]
+    },
+    "experimentation (monster)": {
+      "IDs": ["experimentationmnp","experimentationmnpa","experimentationmnpb"]
     },
     "expert tracker (special)": {
       "IDs": ["experttracker"]
@@ -2071,6 +2361,9 @@
     "fan of knives": {
       "IDs": ["fanofknives","fanofknivesa","fanofknivesb","fanofknivesrare"]
     },
+    "fan of knives (monster)": {
+      "IDs": ["fanofknivesmnp","fanofknivesmnpa","fanofknivesmnpb"]
+    },
     "fan the flames (monster)": {
       "IDs": ["fantheflames","fantheflamesa","fantheflamesb","fantheflamesm"]
     },
@@ -2107,6 +2400,9 @@
     "feathered armor (monster)": {
       "IDs": ["featheredarmor","featheredarmora","featheredarmorb"]
     },
+    "feathered bastion (monster)": {
+      "IDs": ["featheredbastionmnp","featheredbastionmnpa","featheredbastionmnpb"]
+    },
     "feed the rich": {
       "IDs": ["feedtherich","feedthericha","feedtherichb"],
       "RelatedIDs": ["gorge","gorgea","gorgeb"]
@@ -2117,6 +2413,9 @@
     "fenny (item)": {
       "IDs": ["fenny","fennyrare"],
       "RelatedIDs": ["anklebiteitem","anklebiteitemrare"]
+    },
+    "feral suppression (monster)": {
+      "IDs": ["feralsuppressionmnp","feralsuppressionmnpa","feralsuppressionmnpb"]
     },
     "fervency (monster)": {
       "IDs": ["fervency","fervencya","fervencyb","fervencyally"]
@@ -2306,8 +2605,14 @@
     "focus heal": {
       "IDs": ["focusheal","focusheala","focushealb"]
     },
+    "focus heal (monster)": {
+      "IDs": ["focushealmnp","focushealmnpa","focushealmnpb"]
+    },
     "follow-up": {
       "IDs": ["followup","followupa","followupb"]
+    },
+    "forbidden feast": {
+      "IDs": ["forbiddenfeastnp","forbiddenfeastnpa","forbiddenfeastnpb"]
     },
     "forbidden power (monster)": {
       "IDs": ["forbiddenpower","forbiddenpowera","forbiddenpowerb"]
@@ -2343,6 +2648,9 @@
     "four leaf clover (item)": {
       "IDs": ["fourleafclover","fourleafcloverrare"]
     },
+    "fractal gaze (monster)": {
+      "IDs": ["fractalgazemnp","fractalgazemnpa","fractalgazemnpb"]
+    },
     "free lover (item)": {
       "IDs": ["freelover","freeloverrare"]
     },
@@ -2374,6 +2682,12 @@
     },
     "frightened": {
       "IDs": ["frightened","frighteneda","frightenedb"]
+    },
+    "frightening roar (monster)": {
+      "IDs": ["frighteningroarmnp","frighteningroarmnpa","frighteningroarmnpb"]
+    },
+    "frontline ascension (monster)": {
+      "IDs": ["frontlineascensionmnp","frontlineascensionmnpa","frontlineascensionmnpb"]
     },
     "frost axe (item)": {
       "IDs": ["frostaxe","frostaxerare"]
@@ -2410,6 +2724,9 @@
     },
     "frostbolt (monster)": {
       "IDs": ["frostboltm","frostboltma","frostboltmb"]
+    },
+    "frostburned souls (monster)": {
+      "IDs": ["frostburnedsoulsmnp"]
     },
     "frostfire ring (item)": {
       "IDs": ["frostfirering","frostfireringrare"]
@@ -2453,6 +2770,9 @@
     "fungus surge (monster)": {
       "IDs": ["fungussurge","fungussurgea","fungussurgeb"],
       "RelatedIDs": ["magicmushroom","magicmushrooma","magicmushroomb"]
+    },
+    "furious screech (monster)": {
+      "IDs": ["furiousscreechmnp","furiousscreechmnpa","furiousscreechmnpb"]
     },
     "furious slash": {
       "IDs": ["furiousslash","furiousslasha","furiousslashb","furiousslashrare"]
@@ -2590,6 +2910,9 @@
     "grinding wheel": {
       "IDs": ["grindingwheel","grindingwheela","grindingwheelb","grindingwheelrare"]
     },
+    "grinding wheel (monster)": {
+      "IDs": ["grindingwheelmnp","grindingwheelmnpa","grindingwheelmnpb"]
+    },
     "ground slam": {
       "IDs": ["groundslam","groundslama","groundslamb","groundslamrare"]
     },
@@ -2607,6 +2930,9 @@
     },
     "guard": {
       "IDs": ["guard","guarda","guardb","guardrare"]
+    },
+    "guard (monster)": {
+      "IDs": ["guardmnp","guardmnpa","guardmnpb"]
     },
     "guardian angel": {
       "IDs": ["guardianangel","guardianangela","guardianangelb","guardianangelrare"]
@@ -2635,6 +2961,9 @@
     "handbook (item)": {
       "IDs": ["handbook","handbookrare"]
     },
+    "harbinger of death (item)": {
+      "IDs": ["harbingerofdeath","harbingerofdeathrare"]
+    },
     "hard shell (monster)": {
       "IDs": ["hardshell","hardshella","hardshellb"]
     },
@@ -2649,6 +2978,9 @@
     },
     "haste": {
       "IDs": ["haste"]
+    },
+    "haunting curse (monster)": {
+      "IDs": ["hauntingcursemnp","hauntingcursemnpa","hauntingcursemnpb"]
     },
     "haunting song (monster)": {
       "IDs": ["hauntingsong","hauntingsonga","hauntingsongb"]
@@ -2665,11 +2997,17 @@
     "heal curses": {
       "IDs": ["healcurses"]
     },
+    "heal (monster)": {
+      "IDs": ["healmnp","healmnpa","healmnpb"]
+    },
     "healing book (item)": {
       "IDs": ["healingbook","healingbookrare"]
     },
     "healing flasks": {
       "IDs": ["healingflasks","healingflasksa","healingflasksb"]
+    },
+    "healing potion (monster)": {
+      "IDs": ["healingpotionmnp","healingpotionmnpa","healingpotionmnpb"]
     },
     "healing rain": {
       "IDs": ["healingrain","healingraina","healingrainb","healingrainrare"]
@@ -2682,6 +3020,9 @@
     },
     "healing serenade (monster)": {
       "IDs": ["healingserenadem","healingserenadema","healingserenademb"]
+    },
+    "healing tonic (monster)": {
+      "IDs": ["healingtonicmnp","healingtonicmnpa","healingtonicmnpb"]
     },
     "healing totem (monster)": {
       "IDs": ["healingtotem","healingtotema","healingtotemb","healingtotemm","healingtotemma"]
@@ -2713,6 +3054,9 @@
     },
     "heat laser": {
       "IDs": ["heatlaserstart","heatlaserstarta","heatlaserstartb"]
+    },
+    "heat retention (monster)": {
+      "IDs": ["heatretentionmnp","heatretentionmnpa","heatretentionmnpb"]
     },
     "heat surge": {
       "IDs": ["heatsurge","heatsurgea","heatsurgeb"]
@@ -2794,6 +3138,9 @@
     "helping hand": {
       "IDs": ["helpinghand","helpinghanda","helpinghandb","helpinghandrare"]
     },
+    "hemocraft renewal (monster)": {
+      "IDs": ["hemocraftrenewalmnp"]
+    },
     "herald of dawn (monster)": {
       "IDs": ["heraldofdawn","heraldofdawna","heraldofdawnb"]
     },
@@ -2815,6 +3162,9 @@
     "hexproof (corruptor)": {
       "IDs": ["hexproof","hexproofa","hexproofb","hexproofrare"]
     },
+    "hexstorm (monster)": {
+      "IDs": ["hexstormmnp","hexstormmnpa","hexstormmnpb"]
+    },
     "hidden hand": {
       "IDs": ["hiddenhand","hiddenhanda","hiddenhandb"]
     },
@@ -2826,6 +3176,9 @@
     },
     "high chancellor staff (item)": {
       "IDs": ["hightchancellorstaff","hightchancellorstaffa","hightchancellorstaffb","hightchancellorstaffrare"]
+    },
+    "high damage": {
+      "IDs": ["highdamagecard"]
     },
     "high tide (monster)": {
       "IDs": ["hightide","hightidea","hightideb"]
@@ -2917,6 +3270,9 @@
     "holy water": {
       "IDs": ["holywater","holywatera","holywaterb","holywaterrare"]
     },
+    "honed instinct (monster)": {
+      "IDs": ["honedinstinctmnp","honedinstinctmnpa","honedinstinctmnpb"]
+    },
     "honorable": {
       "IDs": ["honorable","honorablea","honorableb"]
     },
@@ -2933,8 +3289,17 @@
     "howl (monster)": {
       "IDs": ["howlwolf","howlwolfa","howlwolfb"]
     },
+    "hunter's charm (item)": {
+      "IDs": ["hunterscharm","hunterscharmrare"]
+    },
     "hunter's mark": {
       "IDs": ["huntersmark","huntersmarka","huntersmarkb","huntersmarkrare"]
+    },
+    "hunter's whip (item)": {
+      "IDs": ["hunterswhip","hunterswhiprare"]
+    },
+    "hunting glint (monster)": {
+      "IDs": ["huntingglintmnp","huntingglintmnpa","huntingglintmnpb"]
     },
     "hunting ring (item)": {
       "IDs": ["huntingring","huntingringrare"]
@@ -3049,11 +3414,17 @@
     "ignite": {
       "IDs": ["ignite","ignitea","igniteb","igniterare"]
     },
+    "imbued shield": {
+      "IDs": ["imbuedshieldnp","imbuedshieldnpa","imbuedshieldnpb","imbuedshieldnprare"]
+    },
     "immolate": {
       "IDs": ["immolate","immolatea","immolateb","immolaterare"]
     },
     "immortal (monster)": {
       "IDs": ["immortal"]
+    },
+    "immunity spell (monster)": {
+      "IDs": ["immunityspellmnp","immunityspellmnpa","immunityspellmnpb"]
     },
     "imp statuette (item)": {
       "IDs": ["impstatuette","impstatuetterare"],
@@ -3067,6 +3438,9 @@
     },
     "impaling root (monster)": {
       "IDs": ["impalingroot","impalingroota","impalingrootb","impalingrootm","impalingrootma","impalingrootmb"]
+    },
+    "impenetrable (monster)": {
+      "IDs": ["impenetrablemnp"]
     },
     "impious burst (monster)": {
       "IDs": ["impiousburst","impiousbursta","impiousburstb"]
@@ -3083,6 +3457,9 @@
     "indomitable (monster)": {
       "IDs": ["indomitable","indomitablea","indomitableb"]
     },
+    "inevitable doom (monster)": {
+      "IDs": ["inevitabledoommnp","inevitabledoommnpa","inevitabledoommnpb"]
+    },
     "inferno (monster)": {
       "IDs": ["inferno","infernoa","infernob","infernom"]
     },
@@ -3098,6 +3475,9 @@
     },
     "infuse courage": {
       "IDs": ["infusecourage","infusecouragea","infusecourageb","infusecouragerare"]
+    },
+    "infused gem (item)": {
+      "IDs": ["infusedgem","infusedgemrare"]
     },
     "ink rain (monster)": {
       "IDs": ["inkrain","inkraina","inkrainb"]
@@ -3126,6 +3506,9 @@
     },
     "instability (monster)": {
       "IDs": ["instability","instabilitya","instabilityb"]
+    },
+    "insulate armor (monster)": {
+      "IDs": ["insulatearmormnp","insulatearmormnpa","insulatearmormnpb"]
     },
     "insulate": {
       "IDs": ["insulate"]
@@ -3185,8 +3568,14 @@
     "joy (monster)": {
       "IDs": ["joy","joya","joyb"]
     },
+    "judication": {
+      "IDs": ["judicationnp","judicationnpa","judicationnpb","judicationnprare"]
+    },
     "justicar ring (item)": {
       "IDs": ["justicarring","justicarringrare"]
+    },
+    "kick dust (monster)": {
+      "IDs": ["kickdustmnp","kickdustmnpa","kickdustmnpb"]
     },
     "kill pet (monster)": {
       "IDs": ["killpet"],
@@ -3258,6 +3647,9 @@
     },
     "last stand": {
       "IDs": ["laststand","laststanda","laststandb","laststandrare"]
+    },
+    "last straw (monster)": {
+      "IDs": ["laststrawmnp","laststrawmnpa","laststrawmnpb"]
     },
     "lava blob (item)": {
       "IDs": ["lavablobpet","lavablobpetrare"],
@@ -3339,14 +3731,23 @@
     "lich's touch (monster)": {
       "IDs": ["lichstouch","lichstoucha","lichstouchb"]
     },
+    "life drain (monster)": {
+      "IDs": ["lifedrainmnp","lifedrainmnpa","lifedrainmnpb"]
+    },
     "life essence (item)": {
       "IDs": ["lifeessence","lifeessencerare"]
+    },
+    "life surge": {
+      "IDs": ["lifesurgenp","lifesurgenpa","lifesurgenpb"]
     },
     "life tap": {
       "IDs": ["lifetap","lifetapa","lifetapb","lifetaprare"]
     },
     "life totem (monster)": {
       "IDs": ["lifetotem","lifetotema","lifetotemb"]
+    },
+    "lifebinder's ashes (item)": {
+      "IDs": ["lifebindersashes","lifebindersashesrare"]
     },
     "lifebloom (monster)": {
       "IDs": ["lifebloom","lifeblooma","lifebloomb","lifebloomplus","lifebloomplusa","lifebloomplusb"]
@@ -3390,8 +3791,14 @@
     "living flame": {
       "IDs": ["livingflame","livingflamea","livingflameb","livingflamerare"]
     },
+    "living flame (monster)": {
+      "IDs": ["livingflamemnp","livingflamemnpa","livingflamemnpb"]
+    },
     "living forest (corruptor)": {
       "IDs": ["livingforest","livingforesta","livingforestb","livingforestrare"]
+    },
+    "lobotomy (monster)": {
+      "IDs": ["lobotomymnp","lobotomymnpa","lobotomymnpb"]
     },
     "lockpicks (item)": {
       "IDs": ["lockpicks","lockpicksrare"]
@@ -3408,6 +3815,9 @@
     "look and discard": {
       "IDs": ["lookanddiscard"]
     },
+    "lose a tooth (monster)": {
+      "IDs": ["loseatoothmnp","loseatoothmnpa","loseatoothmnpb"]
+    },
     "lost mail (item)": {
       "IDs": ["lostmail","lostmailrare"],
       "RelatedIDs": ["uselessletter"]
@@ -3417,6 +3827,12 @@
     },
     "low self-esteem": {
       "IDs": ["lowselfesteem","lowselfesteema","lowselfesteemb"]
+    },
+    "lucid outburst (monster)": {
+      "IDs": ["lucidoutburst","lucidoutbursta","lucidoutburstb"]
+    },
+    "lucid shear (monster)": {
+      "IDs": ["lucidshear","lucidsheara","lucidshearb"]
     },
     "lucky paw (item)": {
       "IDs": ["luckypaw","luckypawrare"]
@@ -3435,6 +3851,14 @@
     },
     "lunar grace (monster)": {
       "IDs": ["lunargrace","lunargracea","lunargraceb"]
+    },
+    "luring ritual (monster)": {
+      "IDs": ["luringritualmnp","luringritualmnpa","luringritualmnpb"],
+      "RelatedIDs": ["temptationnp"]
+    },
+    "lychee (item)": {
+      "IDs": ["lychee","lycheerare"],
+      "RelatedIDs": ["latchonnp","latchonnprare"]
     },
     "machine oil (item)": {
       "IDs": ["machineoil","machineoilrare"]
@@ -3503,6 +3927,9 @@
     "maneuver (monster)": {
       "IDs": ["maneuverh"]
     },
+    "manipulate (monster)": {
+      "IDs": ["manipulatemnp","manipulatemnpa","manipulatemnpb"]
+    },
     "mark target (monster)": {
       "IDs": ["marktarget","marktargeta","marktargetb"]
     },
@@ -3530,11 +3957,17 @@
     "mass dispel": {
       "IDs": ["massdispel","massdispela","massdispelb","massdispelrare"]
     },
+    "mass dispel (monster)": {
+      "IDs": ["massdispelmnp","massdispelmnpa","massdispelmnpb"]
+    },
     "mass hysteria (monster)": {
       "IDs": ["masshysteria","masshysteriaa","masshysteriab"]
     },
     "mass invisibility": {
       "IDs": ["massinvisibility","massinvisibilitya","massinvisibilityb","massinvisibilityrare"]
+    },
+    "master reweaver (monster)": {
+      "IDs": ["masterreweaver","masterreweavera","masterreweaverb"]
     },
     "matey (item)": {
       "IDs": ["matey","mateyrare"],
@@ -3605,6 +4038,10 @@
     "mesmeric mirage": {
       "IDs": ["mesmericmirage","mesmericmiragea","mesmericmirageb","mesmericmiragerare"]
     },
+    "metal blob (monster)": {
+      "IDs": ["metalblobnp"],
+      "RelatedIDs": ["metalsplash"]
+    },
     "metal blob (item)": {
       "IDs": ["metalblobpet","metalblobpetrare"],
       "RelatedIDs": ["metalsplashpet","metalsplashpetrare"]
@@ -3631,6 +4068,13 @@
     "meteorite (monster)": {
       "IDs": ["meteoritem","meteoritema","meteoritemb"]
     },
+    "midnight gloves (item)": {
+      "IDs": ["midnightgloves","midnightglovesrare"],
+      "RelatedIDs": ["annihilationnp","annihilationnprare"]
+    },
+    "mighty stomp (monster)": {
+      "IDs": ["mightystompmnp","mightystompmnpa","mightystompmnpb"]
+    },
     "mild broth (item)": {
       "IDs": ["mildbroth","mildbrothrare"]
     },
@@ -3647,6 +4091,15 @@
     "mind book (item)": {
       "IDs": ["mindbook","mindbookrare"]
     },
+    "mind numbing (monster)": {
+      "IDs": ["mindnumbingmnp","mindnumbingmnpa","mindnumbingmnpb"]
+    },
+    "mind shatter (monster)": {
+      "IDs": ["mindshattermnp","mindshattermnpa","mindshattermnpb"]
+    },
+    "mind spike (monster)": {
+      "IDs": ["mindspike","mindspikea","mindspikeb"]
+    },
     "mind trick (monster)": {
       "IDs": ["mindtrick","mindtricka","mindtrickb"]
     },
@@ -3658,6 +4111,9 @@
     },
     "mind visions (monster)": {
       "IDs": ["mindvisionsm","mindvisionsma","mindvisionsmb"]
+    },
+    "mindpiercer (monster)": {
+      "IDs": ["mindpiercermnp","mindpiercermnpa","mindpiercermnpb"]
     },
     "minotaur horn (item)": {
       "IDs": ["minotaurhorn","minotaurhornrare"]
@@ -3674,6 +4130,9 @@
     },
     "missile barrage (monster)": {
       "IDs": ["missilebarrage","missilebarragea","missilebarrageb","missilebarragem","missilebarragema","missilebarragemb"]
+    },
+    "mistveil (monster)": {
+      "IDs": ["mistveilmnp","mistveilmnpa","mistveilmnpb"]
     },
     "mitigate": {
       "IDs": ["mitigate"]
@@ -3767,8 +4226,38 @@
     "neverfrost (item)": {
       "IDs": ["neverfrost","neverfrostrare"]
     },
+    "newfound power (monster)": {
+      "IDs": ["newfoundpowermnp","newfoundpowermnpa","newfoundpowermnpb"]
+    },
     "night terror": {
       "IDs": ["nightterror","nightterrora","nightterrorb"]
+    },
+    "nightmare coils (monster)": {
+      "IDs": ["nightmarecoilsmnp","nightmarecoilsmnpa","nightmarecoilsmnpb"]
+    },
+    "nightmare echo template a (monster)": {
+      "IDs": ["nightmareechotemplatedcarda"]
+    },
+    "nightmare echo template b (monster)": {
+      "IDs": ["nightmareechotemplatedcardb"]
+    },
+    "nightmare echo template (monster)": {
+      "IDs": ["nightmareechotemplatedcard"]
+    },
+    "nightmare echo (monster)": {
+      "IDs": ["nightmareecho","nightmareechoa","nightmareechob"]
+    },
+    "nightmare hide (monster)": {
+      "IDs": ["nightmarehide","nightmarehidea","nightmarehideb"]
+    },
+    "nightmare image (monster)": {
+      "IDs": ["nightmareimage"]
+    },
+    "nightmare requiem (monster)": {
+      "IDs": ["nightmarerequiemmnp","nightmarerequiemmnpa","nightmarerequiemmnpb"]
+    },
+    "nightmare sweep (monster)": {
+      "IDs": ["nightmaresweep","nightmaresweepa","nightmaresweepb"]
     },
     "nightmare": {
       "IDs": ["nightmare","nightmarea","nightmareb","nightmarerare"]
@@ -3781,6 +4270,9 @@
     },
     "noble shield (item)": {
       "IDs": ["nobleshield","nobleshieldrare"]
+    },
+    "nocturnal assault (monster)": {
+      "IDs": ["nocturnalassaultmnp","nocturnalassaultmnpa","nocturnalassaultmnpb"]
     },
     "noxious eruption": {
       "IDs": ["noxiouseruption","noxiouseruptiona","noxiouseruptionb","noxiouseruptionrare"]
@@ -3799,8 +4291,17 @@
     "numbing strike (monster)": {
       "IDs": ["numbingstrike","numbingstrikea","numbingstrikeb"]
     },
+    "obelisk scroll (item)": {
+      "IDs": ["obeliskscroll","obeliskscrollrare"]
+    },
     "obfuscate (monster)": {
       "IDs": ["obfuscate","obfuscatea","obfuscateb"]
+    },
+    "oblivion pulse (monster)": {
+      "IDs": ["oblivionpulsemnp","oblivionpulsemnpa","oblivionpulsemnpb"]
+    },
+    "oblivion (monster)": {
+      "IDs": ["oblivionmnp"]
     },
     "obscure barrier (monster)": {
       "IDs": ["obscurebarrier","obscurebarriera","obscurebarrierb"]
@@ -3810,6 +4311,9 @@
     },
     "obsidian dagger (item)": {
       "IDs": ["obsidiandagger","obsidiandaggerrare"]
+    },
+    "obsidian imprint": {
+      "IDs": ["obsidianimprintnp","obsidianimprintnpa","obsidianimprintnpb"]
     },
     "obsidian ring (item)": {
       "IDs": ["obsidianring","obsidianringrare"]
@@ -3912,6 +4416,9 @@
     "pain suppression": {
       "IDs": ["painsupresion","painsupresiona","painsupresionb","painsupresionrare"]
     },
+    "painful thorns (monster)": {
+      "IDs": ["painfulthornsmnp","painfulthornsmnpa","painfulthornsmnpb","painfulthornsmnprare"]
+    },
     "paladin gauntlets (item)": {
       "IDs": ["paladingauntlets","paladingauntletsrare"]
     },
@@ -3921,12 +4428,18 @@
     "panacea": {
       "IDs": ["panacea","panaceaa","panaceab","panacearare"]
     },
+    "panacea (monster)": {
+      "IDs": ["panaceamnp","panaceamnpa","panaceamnpb"]
+    },
     "pancakes (item)": {
       "IDs": ["pancakes","pancakesrare"],
       "RelatedIDs": ["pancakescard","pancakescardrare"]
     },
     "pandemonium": {
       "IDs": ["pandemonium","pandemoniuma","pandemoniumb","pandemoniumrare"]
+    },
+    "pandemonium (monster)": {
+      "IDs": ["pandemoniummnp","pandemoniummnpa","pandemoniummnpb"]
     },
     "pandora's box (item)": {
       "IDs": ["pandorasbox","pandorasboxrare"],
@@ -3954,7 +4467,7 @@
       "IDs": ["patience","patiencea","patienceb"]
     },
     "payback (monster)": {
-      "IDs": ["statustransfer","statustransfera","statustransferb"]
+      "IDs": ["paybackmnp","statustransfer","statustransfera","statustransferb"]
     },
     "pearl belt (item)": {
       "IDs": ["pearlbelt","pearlbeltrare"]
@@ -3993,6 +4506,9 @@
     "petrify (monster)": {
       "IDs": ["petrify","petrifya","petrifyb"]
     },
+    "phantasmal charge (monster)": {
+      "IDs": ["phantasmalcharge","phantasmalchargea","phantasmalchargeb"]
+    },
     "phantom cannons (monster)": {
       "IDs": ["phantomcannons","phantomcannonsa","phantomcannonsb"]
     },
@@ -4001,6 +4517,9 @@
     },
     "phantom slash (monster)": {
       "IDs": ["phantomslash","phantomslasha","phantomslashb"]
+    },
+    "phantom's wrath (monster)": {
+      "IDs": ["phantomswrathmnp","phantomswrathmnpa","phantomswrathmnpb"]
     },
     "phoenix": {
       "IDs": ["phoenix","phoenixa","phoenixb"]
@@ -4153,11 +4672,17 @@
     "prayer of protection": {
       "IDs": ["prayerofprotection","prayerofprotectiona","prayerofprotectionb","prayerofprotectionrare"]
     },
+    "precaution": {
+      "IDs": ["precautionnp","precautionnpa","precautionnpb","precautionnprare"]
+    },
     "precise strike": {
       "IDs": ["precisestrike","precisestrikea","precisestrikeb","precisestrikerare"]
     },
     "predator (monster)": {
       "IDs": ["predator","predatora","predatorb"]
+    },
+    "predator's claim (monster)": {
+      "IDs": ["predatorsclaimmnp","predatorsclaimmnpa","predatorsclaimmnpb"]
     },
     "premature hatching": {
       "IDs": ["prematurehatching","prematurehatchinga","prematurehatchingb"],
@@ -4199,6 +4724,12 @@
     "proximity mines": {
       "IDs": ["proximitymines","proximityminesa","proximityminesb"]
     },
+    "psychic drain (monster)": {
+      "IDs": ["psychicdrainmnp","psychicdrainmnpa","psychicdrainmnpb"]
+    },
+    "psychic drain": {
+      "IDs": ["psychicdrainnp","psychicdrainnpa","psychicdrainnpb","psychicdrainnprare"]
+    },
     "psychic scream (monster)": {
       "IDs": ["psychicscream","psychicscreama","psychicscreamb","psychicscreamm","psychicscreamp","psychicscreampa","psychicscreampb","psychicscreams","psychicscreamsa"]
     },
@@ -4214,8 +4745,14 @@
     "pulverize": {
       "IDs": ["pulverize","pulverizea","pulverizeb","pulverizerare"]
     },
+    "pulverizing peck (monster)": {
+      "IDs": ["pulverizingpeckmnp","pulverizingpeckmnpa","pulverizingpeckmnpb"]
+    },
     "pummel": {
       "IDs": ["pummel","pummela","pummelb","pummelrare"]
+    },
+    "pummel (monster)": {
+      "IDs": ["pummelmnp","pummelmnpa","pummelmnpb"]
     },
     "punch": {
       "IDs": ["punch","puncha","punchb","punchrare"]
@@ -4224,8 +4761,11 @@
       "IDs": ["puncture","puncturea","punctureb","puncturerare"]
     },
     "puncture (monster)": {
-      "IDs": ["puncturem","puncturema","puncturemb"],
+      "IDs": ["puncturem","puncturema","puncturemb","puncturemnp","puncturemnpa","puncturemnpb"],
       "RelatedIDs": ["openwound","openwounda","openwoundb"]
+    },
+    "puppeteer (monster)": {
+      "IDs": ["puppeteermnp"]
     },
     "purge the weak (monster)": {
       "IDs": ["purgetheweak","purgetheweaka","purgetheweakb"]
@@ -4264,6 +4804,9 @@
     "pyromancer robe (item)": {
       "IDs": ["pyromancerrobe","pyromancerroberare"]
     },
+    "quench thirst (monster)": {
+      "IDs": ["quenchthirstmnp","quenchthirstmnpa","quenchthirstmnpb"]
+    },
     "quick concoction (special)": {
       "IDs": ["quickconcoction"]
     },
@@ -4291,6 +4834,9 @@
     "radiant burst (monster)": {
       "IDs": ["radiantburst","radiantbursta","radiantburstb"]
     },
+    "radiant plumage (monster)": {
+      "IDs": ["radiantplumagemnp","radiantplumagemnpa","radiantplumagemnpb"]
+    },
     "radioactivity (monster)": {
       "IDs": ["radioactivity","radioactivitya","radioactivityb"]
     },
@@ -4313,7 +4859,7 @@
       "IDs": ["rain","raina","rainb","rainrare"]
     },
     "rain (monster)": {
-      "IDs": ["rainm","rainma","rainmb"]
+      "IDs": ["rainm","rainma","rainmb","rainmnp"]
     },
     "raincoat (item)": {
       "IDs": ["raincoat","raincoatrare"]
@@ -4345,6 +4891,9 @@
     "rapid multiplication (monster)": {
       "IDs": ["rapidmultiplication","rapidmultiplicationa","rapidmultiplicationb","rapidmultiplicationm"]
     },
+    "rapid punches (monster)": {
+      "IDs": ["rapidpunchesmnp","rapidpunchesmnpa","rapidpunchesmnpb"]
+    },
     "rapid shoots": {
       "IDs": ["rapidshoots","rapidfirea","rapidfireb","rapidfirerare"]
     },
@@ -4354,6 +4903,18 @@
     "raven staff (item)": {
       "IDs": ["ravenstaff","ravenstaffrare"]
     },
+    "ravenrage (monster)": {
+      "IDs": ["ravenragemnp","ravenragemnpa","ravenragemnpb"]
+    },
+    "raven's mercy (monster)": {
+      "IDs": ["ravensmercymnp","ravensmercymnpa","ravensmercymnpb"]
+    },
+    "raven's oath (monster)": {
+      "IDs": ["ravensoathmnp","ravensoathmnpa","ravensoathmnpb"]
+    },
+    "raven's pact (monster)": {
+      "IDs": ["ravenspactmnp","ravenspactmnpa","ravenspactmnpb"]
+    },
     "ray of frost": {
       "IDs": ["rayoffrost","rayoffrosta","rayoffrostb","rayoffrostrare"]
     },
@@ -4362,6 +4923,9 @@
     },
     "ray of hope": {
       "IDs": ["rayofhope","rayofhopea","rayofhopeb","rayofhoperare"]
+    },
+    "razor plumage (monster)": {
+      "IDs": ["razorplumagemnp","razorplumagemnpa","razorplumagemnpb"]
     },
     "razor (item)": {
       "IDs": ["razor","razorrare"]
@@ -4380,6 +4944,9 @@
     },
     "reckless charge": {
       "IDs": ["recklesscharge","recklesschargea","recklesschargeb","recklesschargerare"]
+    },
+    "reconstruct (monster)": {
+      "IDs": ["reconstructmnp","reconstructmnpa","reconstructmnpb"]
     },
     "recurring nightmare": {
       "IDs": ["recurringnightmare","recurringnightmarea","recurringnightmareb","recurringnightmarerare"]
@@ -4465,6 +5032,9 @@
     },
     "replenishment": {
       "IDs": ["replenishment","replenishmenta","replenishmentb","replenishmentrare"]
+    },
+    "requiem of sanity (monster)": {
+      "IDs": ["requiemofsanitymnp","requiemofsanitymnpa","requiemofsanitymnpb"]
     },
     "resurrection (corruptor)": {
       "IDs": ["resurrection","resurrectiona","resurrectionb","resurrectionrare"]
@@ -4575,6 +5145,9 @@
     },
     "ruminant bite (monster)": {
       "IDs": ["ruminantbite","ruminantbitea","ruminantbiteb"]
+    },
+    "rune catalyst": {
+      "IDs": ["runecatalystnp","runecatalystnpa","runecatalystnpb"]
     },
     "runic dice (item)": {
       "IDs": ["runicdice","runicdicerare"]
@@ -4712,6 +5285,18 @@
     "sand tornado (monster)": {
       "IDs": ["sandtornado","sandtornadoa","sandtornadob"]
     },
+    "sanguine legion (monster)": {
+      "IDs": ["sanguinelegionmnp","sanguinelegionmnpa"]
+    },
+    "sanguine rush (monster)": {
+      "IDs": ["sanguinerushmnp","sanguinerushmnpa","sanguinerushmnpb"]
+    },
+    "sanguine rush": {
+      "IDs": ["sanguinerushnp","sanguinerushnpa","sanguinerushnpb","sanguinerushnprare"]
+    },
+    "sanguine ward (monster)": {
+      "IDs": ["sanguinewardmnp","sanguinewardmnpa","sanguinewardmnpb"]
+    },
     "sapphire amulet (item)": {
       "IDs": ["sapphireamulet","sapphireamuletrare"]
     },
@@ -4767,6 +5352,9 @@
     "scorching ray": {
       "IDs": ["scorchingray","scorchingraya","scorchingrayb","scorchingrayrare"]
     },
+    "scorching shadows": {
+      "IDs": ["scorchingshadowsnp","scorchingshadowsnpa","scorchingshadowsnpb","scorchingshadowsnprare"]
+    },
     "scourge barrier (monster)": {
       "IDs": ["scourgebarrier","scourgebarriera","scourgebarrierb"]
     },
@@ -4794,6 +5382,9 @@
     },
     "scroll of speed": {
       "IDs": ["scrollofspeed","scrollofspeeda","scrollofspeedb","scrollofspeedrare"]
+    },
+    "scroll of speed (monster)": {
+      "IDs": ["scrollofspeedmnp","scrollofspeedmnpa","scrollofspeedmnpb"]
     },
     "scry": {
       "IDs": ["scry","scrya","scryb","scryrare"]
@@ -4832,6 +5423,10 @@
     "see through (special)": {
       "IDs": ["seethrough"]
     },
+    "seed of madness (monster)": {
+      "IDs": ["seedofmadnessmnp","seedofmadnessmnpa","seedofmadnessmnpb"],
+      "RelatedIDs": ["cursecatalystnp"]
+    },
     "self suction (monster)": {
       "IDs": ["selfsuction","selfsuctiona","selfsuctionb"]
     },
@@ -4840,6 +5435,9 @@
     },
     "serrated weapons": {
       "IDs": ["serratedweapons","serratedweaponsa","serratedweaponsb"]
+    },
+    "serrated weapons (monster)": {
+      "IDs": ["serratedweaponsmnp","serratedweaponsmnpa","serratedweaponsmnpb"]
     },
     "set target (monster)": {
       "IDs": ["settarget","settargeta","settargetb"]
@@ -4866,6 +5464,9 @@
     "shackles of war (item)": {
       "IDs": ["shacklesofwar","shacklesofwarrare"]
     },
+    "shadow aegis (monster)": {
+      "IDs": ["shadowaegismnp","shadowaegismnpa","shadowaegismnpb"]
+    },
     "shadow awakening (monster)": {
       "IDs": ["shadowawakening","shadowawakeninga","shadowawakeningb","shadowawakeningm","shadowawakeningma","shadowawakeningmb"]
     },
@@ -4877,6 +5478,9 @@
     },
     "shadow binding (monster)": {
       "IDs": ["shadowbindingm","shadowbindingma","shadowbindingmb"]
+    },
+    "shadow blade": {
+      "IDs": ["shadowbladenp","shadowbladenpa","shadowbladenpb","shadowbladenprare"]
     },
     "shadow bolt": {
       "IDs": ["shadowbolt","shadowbolta","shadowboltb","shadowboltrare"]
@@ -4917,8 +5521,14 @@
     "shadow rune (item)": {
       "IDs": ["shadowrune","shadowrunerare"]
     },
+    "shadow shear (monster)": {
+      "IDs": ["shadowshearmnp","shadowshearmnpa","shadowshearmnpb"]
+    },
     "shadow slash (monster)": {
       "IDs": ["shadowslash","shadowslasha","shadowslashb","shadowslashm","shadowslashma","shadowslashmb"]
+    },
+    "shadow talons (monster)": {
+      "IDs": ["shadowtalonsmnp","shadowtalonsmnpa","shadowtalonsmnpb"]
     },
     "shadow wolf (monster)": {
       "IDs": ["shadowwolf","shadowwolfa"]
@@ -4958,6 +5568,9 @@
     },
     "sharpen (special)": {
       "IDs": ["sharpenspecial"]
+    },
+    "sharpened sai": {
+      "IDs": ["sharpenedsainp","sharpenedsainpa","sharpenedsainpb","sharpenedsainprare"]
     },
     "sharpening cuts (monster)": {
       "IDs": ["sharpeningcuts","sharpeningcutsa","sharpeningcutsb"]
@@ -5004,6 +5617,9 @@
     },
     "shield jammer (monster)": {
       "IDs": ["shieldjammer","shieldjammera","shieldjammerb"]
+    },
+    "shield maxing (monster)": {
+      "IDs": ["shieldmaxingmnp","shieldmaxingmnpa","shieldmaxingmnpb"]
     },
     "shield of thorns (item)": {
       "IDs": ["shieldofthorns","shieldofthornsrare"]
@@ -5091,6 +5707,9 @@
     "silver chalice (item)": {
       "IDs": ["silverchalice","silverchalicerare"]
     },
+    "silver lining (monster)": {
+      "IDs": ["silverliningmnp"]
+    },
     "silver ring (item)": {
       "IDs": ["silverring","silverringrare"]
     },
@@ -5100,11 +5719,20 @@
     "singing sword (item)": {
       "IDs": ["singingsword","singingswordrare"]
     },
+    "sinister beam (monster)": {
+      "IDs": ["sinisterbeammnp","sinisterbeammnpa","sinisterbeammnpb"]
+    },
     "siphon life": {
       "IDs": ["siphonlife","siphonlifea","siphonlifeb","siphonliferare"]
     },
+    "siphon life (monster)": {
+      "IDs": ["siphonlifemnp","siphonlifemnpa","siphonlifemnpb"]
+    },
     "skewering (monster)": {
       "IDs": ["skewering","skeweringa","skeweringb"]
+    },
+    "skill cards (special)": {
+      "IDs": ["skillcarddiscover"]
     },
     "skullsplitter": {
       "IDs": ["skullsplitter","skullsplittera","skullsplitterb","skullsplitterrare"]
@@ -5119,7 +5747,7 @@
       "IDs": ["slice","slicea","sliceb","slicerare"]
     },
     "slice (monster)": {
-      "IDs": ["slicem","slicema","slicemb"]
+      "IDs": ["slicem","slicema","slicemb","slicemnp","slicemnpa","slicemnpb"]
     },
     "slimy (item)": {
       "IDs": ["slimy","slimyrare"],
@@ -5135,11 +5763,17 @@
     "slow": {
       "IDs": ["slow"]
     },
+    "smack down (monster)": {
+      "IDs": ["smackdownmnp","smackdownmnpa","smackdownmnpb"]
+    },
     "small chest (item)": {
       "IDs": ["smallchest","smallchestrare"]
     },
     "small pouch (item)": {
       "IDs": ["smallpouch","smallpouchrare"]
+    },
+    "small weapons (special)": {
+      "IDs": ["smallweapondiscover"]
     },
     "smell blood (monster)": {
       "IDs": ["smellblood","smellblooda","smellbloodb","smellbloodplus"]
@@ -5187,6 +5821,9 @@
     "song of celerity": {
       "IDs": ["songofcelerity","songofceleritya","songofcelerityb","songofcelerityrare"]
     },
+    "song of celerity (monster)": {
+      "IDs": ["songofceleritymnp","songofceleritymnpa","songofceleritymnpb"]
+    },
     "song of quickness": {
       "IDs": ["songofquickness","songofquicknessa","songofquicknessb","songofquicknessrare"]
     },
@@ -5196,11 +5833,23 @@
     "soothing waters (monster)": {
       "IDs": ["soothingwaters","soothingwatersa","soothingwatersb"]
     },
+    "soul creep (monster)": {
+      "IDs": ["soulcreepmnp","soulcreepmnpa","soulcreepmnpb"]
+    },
     "soul harvest": {
       "IDs": ["soulharvest","soulharvesta","soulharvestb"]
     },
     "soul lantern (item)": {
       "IDs": ["soullantern","soullanterna","soullanternb","soullanternrare"]
+    },
+    "soul reaver (item)": {
+      "IDs": ["soulreaver","soulreaverrare"]
+    },
+    "soul shroud (monster)": {
+      "IDs": ["soulshroudmnp","soulshroudmnpa","soulshroudmnpb"]
+    },
+    "soulseer's curse (monster)": {
+      "IDs": ["soulseerscursemnp","soulseerscursemnpa","soulseerscursemnpb"]
     },
     "sour (special)": {
       "IDs": ["sour"]
@@ -5221,14 +5870,23 @@
     "spectral missiles": {
       "IDs": ["spectralmissiles","spectralmissilesa","spectralmissilesb","spectralmissilesrare"]
     },
+    "spectral missiles (monster)": {
+      "IDs": ["spectralmissilesmnp","spectralmissilesmnpa","spectralmissilesmnpb"]
+    },
     "spectral scales (monster)": {
       "IDs": ["spectralscales","spectralscalesa","spectralscalesb"]
+    },
+    "spectral swarm (monster)": {
+      "IDs": ["spectralswarmmnp","spectralswarmmnpa","spectralswarmmnpb"]
     },
     "speedyours": {
       "IDs": ["speedyours"]
     },
     "spell echo": {
       "IDs": ["spellecho","spellechoa","spellechob"]
+    },
+    "spells (special)": {
+      "IDs": ["spelldiscover"]
     },
     "spellsword": {
       "IDs": ["spellsword"]
@@ -5272,8 +5930,15 @@
     "spiked (item)": {
       "IDs": ["spiked"]
     },
+    "spiky gauntlets (item)": {
+      "IDs": ["spikygauntlets","spikygauntletsrare"]
+    },
     "spooky night (corruptor)": {
       "IDs": ["spookynight","spookynighta","spookynightb"]
+    },
+    "spooky (item)": {
+      "IDs": ["spooky","spookyrare"],
+      "RelatedIDs": ["hauntnp","hauntnprare"]
     },
     "spread corruption (monster)": {
       "IDs": ["spreadcorruption","spreadcorruptiona","spreadcorruptionb"]
@@ -5354,6 +6019,9 @@
     "steelskin": {
       "IDs": ["steelskin","steelskina","steelskinb","steelskinrare"]
     },
+    "stifle (monster)": {
+      "IDs": ["stiflemnp"]
+    },
     "stimulant pills (item)": {
       "IDs": ["stimulantpills","stimulantpillsrare"]
     },
@@ -5427,6 +6095,9 @@
     "straw hat (item)": {
       "IDs": ["strawhat","strawhatrare"]
     },
+    "strengthen armor (monster)": {
+      "IDs": ["strengthenarmormnp","strengthenarmormnpa","strengthenarmormnpb"]
+    },
     "stress": {
       "IDs": ["stress"]
     },
@@ -5486,8 +6157,17 @@
     "sunder armor (monster)": {
       "IDs": ["sunderarmorm","sunderarmorma","sunderarmormb"]
     },
+    "sunder wing (monster)": {
+      "IDs": ["sunderwingmnp","sunderwingmnpa","sunderwingmnpb"]
+    },
     "superconductor": {
       "IDs": ["superconductor","superconductora","superconductorb","superconductorrare"]
+    },
+    "superhuman punch (monster)": {
+      "IDs": ["superhumanpunchmnp","superhumanpunchmnpa","superhumanpunchmnpb"]
+    },
+    "superhuman strength (monster)": {
+      "IDs": ["superhumanstrengthmnp"]
     },
     "support drone (monster)": {
       "IDs": ["supportdrone","supportdronea","supportdroneb"]
@@ -5557,8 +6237,23 @@
     "tantrum (monster)": {
       "IDs": ["tantrum","tantruma","tantrumb"]
     },
+    "target focus (monster)": {
+      "IDs": ["targetfocusmnp","targetfocusmnpa","targetfocusmnpb"]
+    },
     "target shooting": {
       "IDs": ["targetshooting","targetshootinga","targetshootingb"]
+    },
+    "target vitals (monster)": {
+      "IDs": ["targetvitalsmnp","targetvitalsmnpa","targetvitalsmnpb"]
+    },
+    "targeted hunger (monster)": {
+      "IDs": ["targetedhungermnp","targetedhungermnpa","targetedhungermnpb"]
+    },
+    "taste of blood (monster)": {
+      "IDs": ["tasteofbloodmnp","tasteofbloodmnpa","tasteofbloodmnpb"]
+    },
+    "taste of blood": {
+      "IDs": ["tasteofbloodnp","tasteofbloodnpa","tasteofbloodnpb","tasteofbloodnprare"]
     },
     "taunt": {
       "IDs": ["taunt"]
@@ -5584,6 +6279,9 @@
     },
     "temporal chains": {
       "IDs": ["temporalchains","temporalchainsa","temporalchainsb","temporalchainsrare"]
+    },
+    "temporal chains (monster)": {
+      "IDs": ["temporalchainsmnp","temporalchainsmnpa","temporalchainsmnpb"]
     },
     "terror ring (item)": {
       "IDs": ["terrorring","terrorringrare"]
@@ -5810,11 +6508,17 @@
     "tranquility (monster)": {
       "IDs": ["tranquility","tranquilitya","tranquilityb","tranquilityplus","tranquilityplusa","tranquilityplusb"]
     },
+    "transcend (monster)": {
+      "IDs": ["transcendmnp","transcendmnpa","transcendmnpb"]
+    },
     "transcendence (monster)": {
       "IDs": ["transcendence","transcendencea","transcendenceb"]
     },
     "transcribe": {
       "IDs": ["transcribe","transcribea","transcribeb"]
+    },
+    "transfer pain (monster)": {
+      "IDs": ["transferpain","transferpaina","transferpainb"]
     },
     "transfusion": {
       "IDs": ["transfusion","transfusiona","transfusionb","transfusionrare"]
@@ -5878,8 +6582,17 @@
     "ultra regeneration (monster)": {
       "IDs": ["ultraregeneration","ultraregenerationa","ultraregenerationb"]
     },
+    "umbral descent (monster)": {
+      "IDs": ["umbraldescentmnp","umbraldescentmnpa","umbraldescentmnpb"]
+    },
+    "umbral veil (monster)": {
+      "IDs": ["umbralveilmnp"]
+    },
     "undeath ichor (item)": {
       "IDs": ["undeathichor","undeathichorrare"]
+    },
+    "undying embrace (monster)": {
+      "IDs": ["undyingembracemnp","undyingembracemnpa","undyingembracemnpb"]
     },
     "undying will": {
       "IDs": ["undyingwill","undyingwilla","undyingwillb"]
@@ -5926,11 +6639,17 @@
     "upwind (corruptor)": {
       "IDs": ["upwind","upwinda","upwindb","upwindrare"]
     },
+    "useless item (item)": {
+      "IDs": ["uselessitem"]
+    },
     "vaccine": {
       "IDs": ["vaccine","vaccinea","vaccineb"]
     },
     "valiant defender": {
       "IDs": ["valiantdefender","valiantdefendera","valiantdefenderb"]
+    },
+    "vampiric frenzy": {
+      "IDs": ["vampiricfrenzynp","vampiricfrenzynpa","vampiricfrenzynpb"]
     },
     "vampiric touch": {
       "IDs": ["vampirictouch","vampirictoucha","vampirictouchb","vampirictouchrare"]
@@ -5941,11 +6660,23 @@
     "vanish": {
       "IDs": ["vanish","vanisha","vanishb","vanishrare"]
     },
+    "vanish (monster)": {
+      "IDs": ["vanishmnp","vanishmnpa","vanishmnpb"]
+    },
+    "veiled bonds (item)": {
+      "IDs": ["veiledbonds","veiledbondsrare"]
+    },
+    "veloguard (monster)": {
+      "IDs": ["veloguardmnp","veloguardmnpa","veloguardmnpb"]
+    },
     "vengeance (special)": {
       "IDs": ["vengeance"]
     },
     "vengeance": {
       "IDs": ["vengeancestart","vengeancestarta","vengeancestartb"]
+    },
+    "vengeful screech (monster)": {
+      "IDs": ["vengefulscreechmnp","vengefulscreechmnpa","vengefulscreechmnpb"]
     },
     "venom amulet (item)": {
       "IDs": ["venomamulet","venomamuletrare"]
@@ -6034,6 +6765,9 @@
     "void crush": {
       "IDs": ["voidcrush","voidcrusha","voidcrushb","voidcrushrare"]
     },
+    "void gaze (monster)": {
+      "IDs": ["voidgazemnp","voidgazemnpa","voidgazemnpb"]
+    },
     "void memory": {
       "IDs": ["voidmemory","voidmemorya","voidmemoryb"]
     },
@@ -6051,6 +6785,15 @@
     },
     "voodoo doll (item)": {
       "IDs": ["voodoodoll","voodoodollrare"]
+    },
+    "vow of embers (monster)": {
+      "IDs": ["vowofembersmnp"]
+    },
+    "vow of madness (monster)": {
+      "IDs": ["vowofmadnessmnp"]
+    },
+    "vow of ruin (monster)": {
+      "IDs": ["vowofruinmnp"]
     },
     "vulnerable": {
       "IDs": ["vulnerable"]
@@ -6075,6 +6818,9 @@
     },
     "warrior memory (monster)": {
       "IDs": ["warriormemory","warriormemorya","warriormemoryb"]
+    },
+    "warseal": {
+      "IDs": ["warsealnp","warsealnpa","warsealnpb","warsealnprare"]
     },
     "water blob (item)": {
       "IDs": ["waterblobpet","waterblobpetrare"],
@@ -6158,7 +6904,7 @@
       "IDs": ["forstbite","wildhunta","wildhuntb","wildhunt"]
     },
     "wild hunt (monster)": {
-      "IDs": ["wildhuntm"]
+      "IDs": ["wildhuntm","wildhuntmnp","wildhuntmnpa","wildhuntmnpb"]
     },
     "wild roar (monster)": {
       "IDs": ["wildroar","wildroara","wildroarb","wildroarm"]
@@ -6173,8 +6919,14 @@
       "IDs": ["windsofamnesia","windsofamnesiaa","windsofamnesiab","windsofamnesiarare"],
       "RelatedIDs": ["tabularasacorruption"]
     },
+    "winds of removal (monster)": {
+      "IDs": ["windsofremovalmnp","windsofremovalmnpa","windsofremovalmnpb"]
+    },
     "wine bottle (item)": {
       "IDs": ["winebottle","winebottlerare"]
+    },
+    "wingblade (item)": {
+      "IDs": ["wingblade","wingbladerare"]
     },
     "winged helmet (item)": {
       "IDs": ["wingedhelmet","wingedhelmeta","wingedhelmetb","wingedhelmetrare"]
@@ -6200,11 +6952,17 @@
     "winter's night tale": {
       "IDs": ["wintersnighttale","wintersnighttalea","wintersnighttaleb","wintersnighttalerare"]
     },
+    "witch's curse (monster)": {
+      "IDs": ["witchscursemnp","witchscursemnpa","witchscursemnpb"]
+    },
     "wither (monster)": {
       "IDs": ["wither","withera","witherb"]
     },
     "wolf guard": {
       "IDs": ["wolfguard","wolfguarda","wolfguardb"]
+    },
+    "wolf guard (monster)": {
+      "IDs": ["wolfguardmnp","wolfguardmnpa","wolfguardmnpb"]
     },
     "wolfskin cloak (item)": {
       "IDs": ["wolfskincloack","wolfskincloackrare"],
@@ -6308,6 +7066,7 @@
     "aaa",
     "Absorption",
     "Abstraction (Monster)",
+    "Abyssal Dive (Monster)",
     "Abyssal Revenge (Monster)",
     "Abyssal Sonata (Monster)",
     "Abyssal Sonata (Special)",
@@ -6319,12 +7078,15 @@
     "Acolyte Tunic (Item)",
     "Acrobatic Strike",
     "Acrobatic Strike (Monster)",
+    "Active Cleansing (Monster)",
     "AddCard",
     "Adrenaline",
     "Advanced Handbook (Item)",
     "Adventure Awaits (Special)",
+    "Aegis (Item)",
     "Aftershock (Monster)",
     "Agate Amulet (Item)",
+    "Aggravate (Monster)",
     "Aimed Shot",
     "Aimed Shot (Monster)",
     "Alarm Bell (Item)",
@@ -6335,9 +7097,11 @@
     "Amber Amulet (Item)",
     "Ambidextrous",
     "Ambush",
+    "Ambush (Monster)",
     "Amethyst Ring (Item)",
     "Ammunition",
     "Amplify",
+    "Amplify (Monster)",
     "Amplifying Field (Monster)",
     "Amulet of Protection (Item)",
     "Amulet of Speed (Item)",
@@ -6345,6 +7109,7 @@
     "Anathema (Monster)",
     "Ancient Orb (Monster)",
     "Ancient Shell",
+    "Anemic Chill",
     "Anger (Monster)",
     "Ankh of Life (Item)",
     "Ankle Bite (Monster)",
@@ -6359,6 +7124,8 @@
     "Apotheosis (Monster)",
     "Aquamarine Bracelet (Item)",
     "Arcane Conduit",
+    "Arcane Conduit (Monster)",
+    "Arcane Drain",
     "Arcane Reflux",
     "Architect's Ring (Item)",
     "Architect's Soul (Monster)",
@@ -6369,6 +7136,8 @@
     "Armored Steel (Monster)",
     "Arsenal",
     "Ash Storm (Monster)",
+    "Ashen Madness (Monster)",
+    "Ashes to Embers (Monster)",
     "Ashy Sky (Corruptor)",
     "Asmody (Item)",
     "Assassin Tools (Item)",
@@ -6376,6 +7145,7 @@
     "Astral Wolf (Monster)",
     "Atonement (Special)",
     "Atonement",
+    "Attack Cards (Special)",
     "Avoidance Collar (Item)",
     "Awful Tantrum (Monster)",
     "Axe Sweep (Monster)",
@@ -6398,6 +7168,7 @@
     "Banish",
     "Baptism",
     "Baptism (Monster)",
+    "Barbed Feathers (Monster)",
     "Barbed Wire",
     "Barbed Wire (Monster)",
     "Barber Cuts (Monster)",
@@ -6407,7 +7178,12 @@
     "Barricade (Monster)",
     "Barrier (Monster)",
     "Basthet's Grace",
+    "Bastion Flow",
     "Bastion (Item)",
+    "Bat Bite (Monster)",
+    "Bat Blight (Monster)",
+    "Bat Burn (Monster)",
+    "Batsy (Item)",
     "Battle Axe (Item)",
     "Battle Plan",
     "Battle Shout",
@@ -6417,6 +7193,7 @@
     "Belphyor's Brand (Monster)",
     "Belphyor's Pipe (Item)",
     "Benediction",
+    "Benediction (Monster)",
     "Berserk Potion (Item)",
     "Berserker Armor (Monster)",
     "Berserker Claw (Item)",
@@ -6439,21 +7216,29 @@
     "Black Talons",
     "Blackguard (Item)",
     "Blade Dance",
+    "Blade Dance (Monster)",
     "Blade Flurry",
+    "Blade Flurry (Monster)",
     "Blade Rush (Monster)",
     "Blade Storm",
     "Blasphemy (Monster)",
     "Blazing Nova (Monster)",
+    "Blazing Shriek (Monster)",
     "Blazing Slash (Monster)",
     "Blazing Strike (Monster)",
     "Bleed Out",
     "Bleed",
+    "Bleeding Blight",
     "Bless",
     "Blessed Steel (Monster)",
     "Blizzard",
     "Blizzard (Monster)",
     "Block",
+    "Blood Alchemy",
+    "Blood Amulet (Item)",
+    "Blood Bargain",
     "Blood Blob (Item)",
+    "Blood Feast (Monster)",
     "Blood Feathers (Monster)",
     "Blood Feeding",
     "Blood For Blood",
@@ -6464,12 +7249,18 @@
     "Blood Puddle (Corruptor)",
     "Blood Rain",
     "Blood Rain (Monster)",
+    "Blood Tornado (Monster)",
     "Bloodbath",
     "Bloodguard (Item)",
+    "Bloodguardian (Monster)",
+    "Bloodletter's Fang (Item)",
+    "Bloodlust Unleashed (Monster)",
     "Bloodrage",
     "Bloodseeker (Item)",
     "Bloodstone (Item)",
     "Bloodsucker (Monster)",
+    "Bloodthirsty (Monster)",
+    "Bloodthirsty",
     "Bloody Cleave (Monster)",
     "Bloody Retaliation (Monster)",
     "Blossom (Monster)",
@@ -6508,6 +7299,7 @@
     "Broken Item (Item)",
     "Bronze Gear (Item)",
     "Broodmother (Monster)",
+    "Broody Moody (Monster)",
     "Bucket (Item)",
     "Buffer",
     "Bulk Heal",
@@ -6536,13 +7328,20 @@
     "Camouflage (Monster)",
     "Cannon Shot (Monster)",
     "Captain's Howl (Special)",
+    "Captain's Howl (Monster)",
     "Captain's Howl",
     "Captain's pet (Monster)",
     "Captain's Presence (Monster)",
     "Captivating Voice",
+    "Card Gainer Healer",
+    "Card Gainer Mage",
+    "Card Gainer Scout",
+    "Card Gainer Warrior",
     "Carnage",
+    "Carnage (Monster)",
     "Carrioneater (Monster)",
     "Castling (Monster)",
+    "Cataclysm",
     "Catapult (Monster)",
     "Catharsis",
     "Cauldron (Item)",
@@ -6550,6 +7349,7 @@
     "Cauterize",
     "Celestial Brilliance",
     "Celestial Brilliance (Monster)",
+    "Celestial Claws (Monster)",
     "Celestial Toll (Monster)",
     "Celestial Wrath (Monster)",
     "Chain Heal",
@@ -6560,23 +7360,31 @@
     "Chalice of Kings (Item)",
     "Chalice of Queens (Item)",
     "Challenging Shout",
+    "Challenging Shout (Monster)",
     "Champy (Item)",
     "Change Course (Monster)",
     "Change Weapon",
     "Chant of Accuracy",
     "Chant of Initiative",
+    "Chant of Renewal (Monster)",
     "Chaos Blob (Item)",
     "Chaos Puddle (Corruptor)",
+    "Chaos (Monster)",
     "Chaotic Spear (Item)",
     "Chaotic Wind (Corruptor)",
     "Charge",
     "Charged Claws (Monster)",
+    "Charged Elixir (Monster)",
     "Charged Lunge",
     "Charged Trident (Item)",
+    "Charm Attack (Monster)",
+    "Charmed (Monster)",
     "Cheese (Item)",
+    "Chemical X (Monster)",
     "Child of the Storm",
     "Chill",
     "Chilling Gaze",
+    "Chomp Chomp (Monster)",
     "Chompy (Item)",
     "Chop (Monster)",
     "Christmas Tree (Corruptor)",
@@ -6593,6 +7401,7 @@
     "Clergy Amulet (Item)",
     "Clever",
     "Cloak of Evasion (Item)",
+    "Cloak of Feathers (Monster)",
     "Cloak of Speed (Item)",
     "Clobber (Monster)",
     "Cloudsong (Item)",
@@ -6617,9 +7426,11 @@
     "Colossal Blow",
     "Combat Bandages (Item)",
     "Combustion",
+    "Combustion (Monster)",
     "Command and Conquer",
     "Compass (Item)",
     "Compassion",
+    "Compromise (Monster)",
     "Concussive Shot (Monster)",
     "Concussive Shot",
     "Condemnation",
@@ -6628,16 +7439,22 @@
     "Consume (Monster)",
     "Contaminate (Monster)",
     "Continuum Blade (Item)",
+    "Conviction",
     "Cooling Servos (Item)",
     "Coral Smash (Monster)",
+    "Cornstorm Burst (Monster)",
     "Corrosive Touch (Monster)",
     "Corrupt Harpoons (Monster)",
+    "Corrupted Benediction (Monster)",
     "Corrupted Blade",
     "Corrupted Knife (Monster)",
     "Corrupted Plate (Item)",
+    "Corrupting Parasite (Monster)",
     "Corruption (Monster)",
     "Corsair Hat (Item)",
     "Counterspell (Monster)",
+    "Count's Amulet (Item)",
+    "Count's Cloak (Item)",
     "Courage",
     "Crab Bait (Monster)",
     "Crack",
@@ -6667,6 +7484,7 @@
     "Cupcake (Item)",
     "Curative Therapy",
     "Curse of Agony",
+    "Curse of Blood",
     "Curse of Decay",
     "Curse of Elements",
     "Curse of Elements (Monster)",
@@ -6694,6 +7512,7 @@
     "Daley (Item)",
     "Dampen Magic (Monster)",
     "Damping Field (Monster)",
+    "Dangerous Leap (Monster)",
     "Dark Blight (Monster)",
     "Dark Blob (Item)",
     "Dark Blow",
@@ -6717,8 +7536,10 @@
     "Dark Rancor (Monster)",
     "Dark Ritual",
     "Dark Shot (Monster)",
+    "Dark Succor",
     "Dark Tide",
     "Dark Torment (Monster)",
+    "Dark Torture (Monster)",
     "Dark",
     "Darkflame Ring (Item)",
     "Darkness Falls",
@@ -6735,28 +7556,36 @@
     "Death Coil",
     "Death Duel",
     "Death Grip (Corruptor)",
+    "Death's Caress",
     "Death's Door",
     "Death's Embrace",
     "Death's Reach",
     "Debilitate",
     "Decay",
+    "Deck Of Judgement (Special)",
     "Deep Darkness",
     "Deep Darkness (Monster)",
     "Deep Puff (Monster)",
     "Deep Roots (Monster)",
     "Defective Summon (Monster)",
+    "Defence Cards (Special)",
     "Defend",
+    "Defensive Aura",
     "Defensive Strategy",
     "Defiled Legacy",
+    "Defilement (Monster)",
     "Deflect",
+    "Deformed Item (Item)",
     "Defrost Archer (Monster)",
     "Defrost Swordman (Monster)",
     "Deja Vu",
     "Delay Response",
     "Delicious Scent (Monster)",
     "Demand Obedience (Monster)",
+    "Demanding Caution (Monster)",
     "Dementia (Monster)",
     "Demolishing Blow",
+    "Demolishing Blow (Monster)",
     "Demonic Flame (Monster)",
     "Demonic Tutor",
     "Demoralizing Shout",
@@ -6765,6 +7594,7 @@
     "Desert Whirlwind (Monster)",
     "Despair (Monster)",
     "Desperate Prayer",
+    "Desperate Prayer (Monster)",
     "Dessert (Item)",
     "Destiny (Item)",
     "Destroyer Gauntlets (Item)",
@@ -6782,6 +7612,7 @@
     "Dimensional Shift (Monster)",
     "Dinner is Ready! (Monster)",
     "Dirty Bandages (Item)",
+    "Disable (Monster)",
     "Disarm",
     "Discard",
     "DiscardSelect",
@@ -6794,6 +7625,7 @@
     "Dispel Magic",
     "Disruptive Ray (Monster)",
     "Divination Orb (Item)",
+    "Divine Execution (Monster)",
     "Divine Grace (Special)",
     "Divine Grace",
     "Divine Guidance",
@@ -6804,6 +7636,7 @@
     "Divine Ordeal (Monster)",
     "Divine Pardon (Monster)",
     "Divine Power",
+    "Divine Power (Monster)",
     "Divine Protection (Monster)",
     "Divine Punishment (Monster)",
     "Divine Retribution",
@@ -6827,13 +7660,19 @@
     "Dragon Roar (Monster)",
     "Dragon Scales (Monster)",
     "Drain Life",
+    "Drain Life (Monster)",
     "Draw From Deck",
     "Draw From Game",
     "Draw",
     "Dread Slash (Monster)",
     "Dreadful Wave (Monster)",
+    "Dream Bite (Monster)",
+    "Dream Claw (Monster)",
+    "Dream Prison (Monster)",
     "Dream Sphere (Item)",
     "Dreamcatcher (Item)",
+    "Dreamcut (Monster)",
+    "Dream-Tusk Barrage (Monster)",
     "Drill (Monster)",
     "Drink Up! (Monster)",
     "Drowned",
@@ -6847,16 +7686,22 @@
     "Duplicate",
     "Durandal (Item)",
     "Dusk Punishment (Monster)",
+    "Duskforged Armor (Item)",
     "Dust Devil (Monster)",
     "Dwarf Fortress (Monster)",
     "Dwarven Helmet (Item)",
     "Dwarven Warcry (Monster)",
     "Dynamite (Item)",
     "Ear Destroyer (Monster)",
+    "Ear Shredder (Monster)",
     "Earth Guard (Monster)",
     "Earthquake (Monster)",
     "Earthwave (Monster)",
     "Eavesdrop (Special)",
+    "Echoes of Madness (Monster)",
+    "Echoing Tantrum (Monster)",
+    "Eclipse Ritual (Monster)",
+    "Eclipsing Wings (Monster)",
     "Edge of Fury (Item)",
     "Eerie Ring (Item)",
     "Eldritch Cloak (Item)",
@@ -6868,6 +7713,7 @@
     "Eldritch Wand (Item)",
     "Electric Blob (Item)",
     "Electric Discharge",
+    "Electric Discharge (Monster)",
     "Electric Nova (Monster)",
     "Electric Puddle (Corruptor)",
     "Electric Saw",
@@ -6878,8 +7724,10 @@
     "Electrocution (Monster)",
     "Electroshock",
     "Elemental Bolt",
+    "Elemental Bolt (Monster)",
     "Elemental Proliferation",
     "Elemental Ward",
+    "Elemental Ward (Monster)",
     "Elemental Wave (Monster)",
     "Elemental Wave (Special)",
     "Elven Agility",
@@ -6906,8 +7754,10 @@
     "Energy Recharge",
     "Energy Shield (Item)",
     "Enervate",
+    "Enervate (Monster)",
     "Enfeeble (Monster)",
     "Engraved (Item)",
+    "Enhancement Injection (Monster)",
     "Enlightened",
     "Enrage",
     "Entangling Roots (Monster)",
@@ -6919,6 +7769,8 @@
     "Eternal Candle (Item)",
     "Eternal Lullaby",
     "Eternal Recall (Monster)",
+    "Eternal Vigor (Monster)",
+    "Ethereal Cloak (Monster)",
     "Ethereal Weapons",
     "Ethereal (Monster)",
     "Evanescence",
@@ -6926,11 +7778,13 @@
     "Evasion",
     "Evasive Maneuver (Monster)",
     "Eviscerate",
+    "Eviscerate (Monster)",
     "Evocation",
     "Excaliburn",
     "Exhaust",
     "Exotic Spices (Item)",
     "Expected Prophecy",
+    "Experimentation (Monster)",
     "Expert Tracker (Special)",
     "Expert Tracker",
     "Exploit Openings",
@@ -6947,6 +7801,7 @@
     "Family Jewels (Item)",
     "Fan of Icicles (Monster)",
     "Fan of Knives",
+    "Fan of knives (Monster)",
     "Fan the Flames (Monster)",
     "Fanaticism",
     "Far Shot",
@@ -6959,9 +7814,11 @@
     "Feather Barrage (Monster)",
     "Feather Earrings (Item)",
     "Feathered Armor (Monster)",
+    "Feathered Bastion (Monster)",
     "Feed The Rich",
     "Feint",
     "Fenny (Item)",
+    "Feral Suppression (Monster)",
     "Fervency (Monster)",
     "Fervent Protection (Monster)",
     "Fervent Ring (Item)",
@@ -7023,7 +7880,9 @@
     "Fly High (Monster)",
     "Fly Nest (Monster)",
     "Focus Heal",
+    "Focus Heal (Monster)",
     "Follow-up",
+    "Forbidden Feast",
     "Forbidden Power (Monster)",
     "Forest Allies (Corruptor)",
     "Forest Banner (Item)",
@@ -7035,6 +7894,7 @@
     "Foul Remedy (Monster)",
     "Fountain Pen (Item)",
     "Four Leaf Clover (Item)",
+    "Fractal Gaze (Monster)",
     "Free Lover (Item)",
     "Freezing Ink (Item)",
     "Freezing Slash (Monster)",
@@ -7045,6 +7905,8 @@
     "Fresh Meat! (Special)",
     "Friendly Tadpole",
     "Frightened",
+    "Frightening Roar (Monster)",
+    "Frontline Ascension (Monster)",
     "Frost Axe (Item)",
     "Frost Axes (Monster)",
     "Frost Breath (Monster)",
@@ -7057,6 +7919,7 @@
     "Frost Weapons",
     "Frostbolt",
     "Frostbolt (Monster)",
+    "Frostburned Souls (Monster)",
     "Frostfire Ring (Item)",
     "Frostguard (Item)",
     "Frozen Arrows (Item)",
@@ -7070,6 +7933,7 @@
     "Fungal Outbreak (Corruptor)",
     "Fungus Root (Monster)",
     "Fungus Surge (Monster)",
+    "Furious Screech (Monster)",
     "Furious Slash",
     "Furious Slash (Monster)",
     "Furious Ylmer (Monster)",
@@ -7115,12 +7979,14 @@
     "Greater Mana Potion (Item)",
     "Grimoire of Flames",
     "Grinding Wheel",
+    "Grinding Wheel (Monster)",
     "Ground Slam",
     "Ground Slam (Monster)",
     "Group Therapy (Monster)",
     "Grudge",
     "Grudge (Monster)",
     "Guard",
+    "Guard (Monster)",
     "Guardian Angel",
     "Gunshot (Monster)",
     "Gunshot",
@@ -7130,22 +7996,27 @@
     "Hammer of Justice (Monster)",
     "Hamstring",
     "Handbook (Item)",
+    "Harbinger of Death (Item)",
     "Hard Shell (Monster)",
     "Hardening (Monster)",
     "Harsh Cauterization (Monster)",
     "Harvest (Monster)",
     "Haste",
+    "Haunting Curse (Monster)",
     "Haunting Song (Monster)",
     "Hawkeye",
     "Headbutt",
     "Headbutt (Monster)",
     "Heal Curses",
+    "Heal (Monster)",
     "Healing Book (Item)",
     "Healing Flasks",
+    "Healing Potion (Monster)",
     "Healing Rain",
     "Healing Rain (Monster)",
     "Healing Serenade",
     "Healing Serenade (Monster)",
+    "Healing Tonic (Monster)",
     "Healing Totem (Monster)",
     "Healing Totem",
     "Health Potion (Item)",
@@ -7156,6 +8027,7 @@
     "Heat Laser (Special)",
     "Heat Laser (Monster)",
     "Heat Laser",
+    "Heat Retention (Monster)",
     "Heat Surge",
     "Heat Transfer (Monster)",
     "Heat Wave",
@@ -7182,6 +8054,7 @@
     "Helmet (Item)",
     "Help Me! (Monster)",
     "Helping Hand",
+    "Hemocraft Renewal (Monster)",
     "Herald of Dawn (Monster)",
     "Herald of Dusk (Monster)",
     "Herding (Monster)",
@@ -7189,10 +8062,12 @@
     "HeroDamage",
     "Herons's Courage",
     "Hexproof (Corruptor)",
+    "Hexstorm (Monster)",
     "Hidden Hand",
     "Hidden Weapon",
     "Hide and Seek (Monster)",
     "High Chancellor Staff (Item)",
+    "High Damage",
     "High Tide (Monster)",
     "Hit and Run",
     "Hit and Run (Monster)",
@@ -7222,12 +8097,16 @@
     "Holy Storm (Monster)",
     "Holy Symbol",
     "Holy Water",
+    "Honed Instinct (Monster)",
     "Honorable",
     "Horned Helmet (Item)",
     "Hound (Monster)",
     "Hourglass of Death (Item)",
     "Howl (Monster)",
+    "Hunter's Charm (Item)",
     "Hunter's Mark",
+    "Hunter's Whip (Item)",
+    "Hunting Glint (Monster)",
     "Hunting Ring (Item)",
     "Hurry Up (Monster)",
     "Hydra Bite (Monster)",
@@ -7263,22 +8142,27 @@
     "Ignidoh's Core (Item)",
     "Ignis Cloak (Item)",
     "Ignite",
+    "Imbued Shield",
     "Immolate",
     "Immortal (Monster)",
+    "Immunity Spell (Monster)",
     "Imp Statuette (Item)",
     "Impale",
     "Impale (Monster)",
     "Impaling Root (Monster)",
+    "Impenetrable (Monster)",
     "Impious Burst (Monster)",
     "Improved Fireball (Special)",
     "Improved Laser",
     "Improved Rapid Fire (Special)",
     "Indomitable (Monster)",
+    "Inevitable Doom (Monster)",
     "Inferno (Monster)",
     "Infestation",
     "Infuriate",
     "Infuriate (Monster)",
     "Infuse Courage",
+    "Infused Gem (Item)",
     "Ink Rain (Monster)",
     "Ink Shot (Monster)",
     "Inky (Item)",
@@ -7288,6 +8172,7 @@
     "Insane",
     "Inspire",
     "Instability (Monster)",
+    "Insulate Armor (Monster)",
     "Insulate",
     "Intimidate",
     "Intimidate (Monster)",
@@ -7307,7 +8192,9 @@
     "Jingle Bell (Item)",
     "Jolly Roger (Item)",
     "Joy (Monster)",
+    "Judication",
     "Justicar Ring (Item)",
+    "Kick Dust (Monster)",
     "Kill Pet (Monster)",
     "Kill",
     "Killer Bite (Monster)",
@@ -7331,6 +8218,7 @@
     "Last Requiem",
     "Last Reward",
     "Last Stand",
+    "Last Straw (Monster)",
     "Lava Blob (Item)",
     "Lava Bomb (Monster)",
     "Lava Bursts (Corruptor)",
@@ -7356,9 +8244,12 @@
     "Lianty (Item)",
     "Librarian",
     "Lich's Touch (Monster)",
+    "Life Drain (Monster)",
     "Life Essence (Item)",
+    "Life Surge",
     "Life Tap",
     "Life Totem (Monster)",
+    "Lifebinder's Ashes (Item)",
     "Lifebloom (Monster)",
     "Light Beam (Monster)",
     "Light Feet",
@@ -7373,21 +8264,28 @@
     "Lightweight (Item)",
     "Living Bomb (Monster)",
     "Living Flame",
+    "Living Flame (Monster)",
     "Living Forest (Corruptor)",
+    "Lobotomy (Monster)",
     "Lockpicks (Item)",
     "Lonely Blob (Corruptor)",
     "Long Bow (Item)",
     "Longevity Potion (Item)",
     "Look And Discard",
+    "Lose a Tooth (Monster)",
     "Lost Mail (Item)",
     "Love Enhancer",
     "Low Self-Esteem",
+    "Lucid Outburst (Monster)",
+    "Lucid Shear (Monster)",
     "Lucky Paw (Item)",
     "Luminescence (Monster)",
     "Luminous Barrier (Monster)",
     "Luminous Beam (Monster)",
     "Luna Ring (Item)",
     "Lunar Grace (Monster)",
+    "Luring Ritual (Monster)",
+    "Lychee (Item)",
     "Machine Oil (Item)",
     "Madness Ring (Item)",
     "Magic Devour (Monster)",
@@ -7410,6 +8308,7 @@
     "Mana Surge",
     "Maneuver",
     "Maneuver (Monster)",
+    "Manipulate (Monster)",
     "Mark Target (Monster)",
     "Mark the Prey (Monster)",
     "Mark",
@@ -7419,8 +8318,10 @@
     "Mass Counterspell (Monster)",
     "Mass Dilute (Monster)",
     "Mass Dispel",
+    "Mass Dispel (Monster)",
     "Mass Hysteria (Monster)",
     "Mass Invisibility",
+    "Master Reweaver (Monster)",
     "Matey (Item)",
     "Matriarch's Claw (Item)",
     "Meat Bag (Item)",
@@ -7442,6 +8343,7 @@
     "Merciful",
     "Merciless",
     "Mesmeric Mirage",
+    "Metal Blob (Monster)",
     "Metal Blob (Item)",
     "Metal Puddle (Corruptor)",
     "Metal Stomp (Monster)",
@@ -7450,20 +8352,27 @@
     "Meteor Shower (Monster)",
     "Meteorite",
     "Meteorite (Monster)",
+    "Midnight Gloves (Item)",
+    "Mighty Stomp (Monster)",
     "Mild Broth (Item)",
     "Mimy (Item)",
     "Mind Blast",
     "Mind Bolt (Monster)",
     "Mind Book (Item)",
+    "Mind Numbing (Monster)",
+    "Mind Shatter (Monster)",
+    "Mind Spike (Monster)",
     "Mind Trick (Monster)",
     "Mind Twist",
     "Mind Visions",
     "Mind Visions (Monster)",
+    "Mindpiercer (Monster)",
     "Minotaur Horn (Item)",
     "Mirror Images",
     "Mirror of Kassandra (Item)",
     "Misery (Monster)",
     "Missile Barrage (Monster)",
+    "Mistveil (Monster)",
     "Mitigate",
     "Mixed Salad (Item)",
     "Mjolnir (Item)",
@@ -7494,20 +8403,35 @@
     "Neurotoxin (Monster)",
     "Neverending Story",
     "Neverfrost (Item)",
+    "Newfound Power (Monster)",
     "Night Terror",
+    "Nightmare Coils (Monster)",
+    "Nightmare Echo Template A (Monster)",
+    "Nightmare Echo Template B (Monster)",
+    "Nightmare Echo Template (Monster)",
+    "Nightmare Echo (Monster)",
+    "Nightmare Hide (Monster)",
+    "Nightmare Image (Monster)",
+    "Nightmare Requiem (Monster)",
+    "Nightmare Sweep (Monster)",
     "Nightmare",
     "Nightveil (Item)",
     "Ninja Scroll (Item)",
     "Noble Shield (Item)",
+    "Nocturnal Assault (Monster)",
     "Noxious Eruption",
     "Noxious Injection (Monster)",
     "Noxious Parasites (Corruptor)",
     "Nullifier (Item)",
     "Numbing Strike (Monster)",
+    "Obelisk Scroll (Item)",
     "Obfuscate (Monster)",
+    "Oblivion Pulse (Monster)",
+    "Oblivion (Monster)",
     "Obscure Barrier (Monster)",
     "Obscure Strike (Monster)",
     "Obsidian Dagger (Item)",
+    "Obsidian Imprint",
     "Obsidian Ring (Item)",
     "Obsidian Staff (Item)",
     "Obsidian Tower (Monster)",
@@ -7541,11 +8465,14 @@
     "Pacifism (Corruptor)",
     "Pack Leader (Monster)",
     "Pain Suppression",
+    "Painful Thorns (Monster)",
     "Paladin Gauntlets (Item)",
     "Palisade (Monster)",
     "Panacea",
+    "Panacea (Monster)",
     "Pancakes (Item)",
     "Pandemonium",
+    "Pandemonium (Monster)",
     "Pandora's Box (Item)",
     "Panic Scream",
     "Paralyze",
@@ -7567,9 +8494,11 @@
     "Pestilence",
     "Pet Call (Monster)",
     "Petrify (Monster)",
+    "Phantasmal Charge (Monster)",
     "Phantom Cannons (Monster)",
     "Phantom Echoes (Monster)",
     "Phantom Slash (Monster)",
+    "Phantom's Wrath (Monster)",
     "Phoenix",
     "Piercing Howl",
     "Piercing Strike (Monster)",
@@ -7620,8 +8549,10 @@
     "Praise the Sun",
     "Prayer of Healing",
     "Prayer of Protection",
+    "Precaution",
     "Precise Strike",
     "Predator (Monster)",
+    "Predator's Claim (Monster)",
     "Premature Hatching",
     "Prescription",
     "Primal Necklace (Item)",
@@ -7635,15 +8566,20 @@
     "Protect (Special)",
     "Provoke",
     "Proximity Mines",
+    "Psychic Drain (Monster)",
+    "Psychic Drain",
     "Psychic Scream (Monster)",
     "Pufferfish (Monster)",
     "Pulsing Heal",
     "Pulsing Vigor (Monster)",
     "Pulverize",
+    "Pulverizing Peck (Monster)",
     "Pummel",
+    "Pummel (Monster)",
     "Punch",
     "Puncture",
     "Puncture (Monster)",
+    "Puppeteer (Monster)",
     "Purge the Weak (Monster)",
     "Purging Flame (Monster)",
     "Purging Ray",
@@ -7656,6 +8592,7 @@
     "Pyroblast",
     "Pyroblast (Monster)",
     "Pyromancer Robe (Item)",
+    "Quench Thirst (Monster)",
     "Quick Concoction (Special)",
     "Quick Concoction",
     "Quick Shot (Monster)",
@@ -7665,6 +8602,7 @@
     "Radiance (Monster)",
     "Radiant Assault",
     "Radiant Burst (Monster)",
+    "Radiant Plumage (Monster)",
     "Radioactivity (Monster)",
     "Ragged Doll (Item)",
     "Raging Blow (Monster)",
@@ -7683,18 +8621,25 @@
     "Rapid Fire",
     "Rapid Fire (Monster)",
     "Rapid Multiplication (Monster)",
+    "Rapid Punches (Monster)",
     "Rapid Shoots",
     "Rapture (Monster)",
     "Raven Staff (Item)",
+    "Ravenrage (Monster)",
+    "Raven's Mercy (Monster)",
+    "Raven's Oath (Monster)",
+    "Raven's Pact (Monster)",
     "Ray of Frost",
     "Ray of Frost (Monster)",
     "Ray of Hope",
+    "Razor Plumage (Monster)",
     "Razor (Item)",
     "Reactive Laser",
     "Reactive Laser (Monster)",
     "Reaping (Monster)",
     "Reassemble (Monster)",
     "Reckless Charge",
+    "Reconstruct (Monster)",
     "Recurring Nightmare",
     "Red Cape (Item)",
     "Red Feather (Item)",
@@ -7723,6 +8668,7 @@
     "Repentance (Monster)",
     "Repetition Training",
     "Replenishment",
+    "Requiem of Sanity (Monster)",
     "Resurrection (Corruptor)",
     "Retaliator (Item)",
     "Revealing Flask",
@@ -7758,6 +8704,7 @@
     "Rugged Wrapping (Monster)",
     "Ruin Bolt",
     "Ruminant Bite (Monster)",
+    "Rune Catalyst",
     "Runic Dice (Item)",
     "Runic Ring (Item)",
     "Rupture",
@@ -7803,6 +8750,10 @@
     "Sanctuary (Monster)",
     "Sand Storm (Monster)",
     "Sand Tornado (Monster)",
+    "Sanguine Legion (Monster)",
+    "Sanguine Rush (Monster)",
+    "Sanguine Rush",
+    "Sanguine Ward (Monster)",
     "Sapphire Amulet (Item)",
     "Sapphire Ring (Item)",
     "Sarcastic Sonnet",
@@ -7821,6 +8772,7 @@
     "Scorching Flame (Monster)",
     "Scorching Heat",
     "Scorching Ray",
+    "Scorching Shadows",
     "Scourge Barrier (Monster)",
     "Scourge Blast (Monster)",
     "Scourge",
@@ -7830,6 +8782,7 @@
     "Scroll of Intellect",
     "Scroll of Resurrection (Item)",
     "Scroll of Speed",
+    "Scroll of Speed (Monster)",
     "Scry",
     "Scryer Staff (Item)",
     "Sea Curse (Monster)",
@@ -7842,9 +8795,11 @@
     "Seashell Ring (Item)",
     "Second Wind",
     "See Through (Special)",
+    "Seed of Madness (Monster)",
     "Self Suction (Monster)",
     "Serenity Ring (Item)",
     "Serrated Weapons",
+    "Serrated Weapons (Monster)",
     "Set Target (Monster)",
     "Setup",
     "Sever Artery",
@@ -7853,10 +8808,12 @@
     "Sextant (Item)",
     "Shackle",
     "Shackles Of War (Item)",
+    "Shadow Aegis (Monster)",
     "Shadow Awakening (Monster)",
     "Shadow Barrage (Monster)",
     "Shadow Binding",
     "Shadow Binding (Monster)",
+    "Shadow Blade",
     "Shadow Bolt",
     "Shadow Bolt (Monster)",
     "Shadow Book (Item)",
@@ -7870,7 +8827,9 @@
     "Shadow Nova (Monster)",
     "Shadow Orb (Item)",
     "Shadow Rune (Item)",
+    "Shadow Shear (Monster)",
     "Shadow Slash (Monster)",
+    "Shadow Talons (Monster)",
     "Shadow Wolf (Monster)",
     "Shadowstep",
     "Shadowstep (Monster)",
@@ -7884,6 +8843,7 @@
     "Sharp",
     "Sharpen (Monster)",
     "Sharpen (Special)",
+    "Sharpened Sai",
     "Sharpening Cuts (Monster)",
     "Sharpening Knife",
     "Sharpy (Item)",
@@ -7899,6 +8859,7 @@
     "Shield Charge (Monster)",
     "Shield Generator (Monster)",
     "Shield Jammer (Monster)",
+    "Shield Maxing (Monster)",
     "Shield of Thorns (Item)",
     "Shield of Warding",
     "Shield Slam",
@@ -7927,11 +8888,15 @@
     "Silencing Aura (Monster)",
     "Silent Backlash (Monster)",
     "Silver Chalice (Item)",
+    "Silver Lining (Monster)",
     "Silver Ring (Item)",
     "Simple Hat (Item)",
     "Singing Sword (Item)",
+    "Sinister Beam (Monster)",
     "Siphon Life",
+    "Siphon Life (Monster)",
     "Skewering (Monster)",
+    "Skill Cards (Special)",
     "Skullsplitter",
     "Slave Rats (Monster)",
     "Slice and Dice! (Monster)",
@@ -7941,8 +8906,10 @@
     "Slingshot (Item)",
     "Slippers (Item)",
     "Slow",
+    "Smack Down (Monster)",
     "Small Chest (Item)",
     "Small Pouch (Item)",
+    "Small Weapons (Special)",
     "Smell Blood (Monster)",
     "Smoke Bomb",
     "Smoke Bomb (Monster)",
@@ -7958,20 +8925,28 @@
     "Solar Shield (Monster)",
     "Sonar (Monster)",
     "Song of Celerity",
+    "Song of Celerity (Monster)",
     "Song of Quickness",
     "Song of Quickness (Monster)",
     "Soothing Waters (Monster)",
+    "Soul Creep (Monster)",
     "Soul Harvest",
     "Soul Lantern (Item)",
+    "Soul Reaver (Item)",
+    "Soul Shroud (Monster)",
+    "Soulseer's Curse (Monster)",
     "Sour (Special)",
     "Spark of Life",
     "Spark",
     "Spear (Item)",
     "Spectral Cold",
     "Spectral Missiles",
+    "Spectral Missiles (Monster)",
     "Spectral Scales (Monster)",
+    "Spectral Swarm (Monster)",
     "SpeedYours",
     "Spell Echo",
+    "Spells (Special)",
     "Spellsword",
     "Spicy Dish (Item)",
     "Spider Hatching (Special)",
@@ -7985,7 +8960,9 @@
     "Spiked Shield (Monster)",
     "Spiked Shoulderpads (Item)",
     "Spiked (Item)",
+    "Spiky Gauntlets (Item)",
     "Spooky Night (Corruptor)",
+    "Spooky (Item)",
     "Spread Corruption (Monster)",
     "Sprint",
     "Sprout (Monster)",
@@ -8012,6 +8989,7 @@
     "Steel Forge",
     "Steel Rod (Item)",
     "Steelskin",
+    "Stifle (Monster)",
     "Stimulant Pills (Item)",
     "Stimulating Sting (Monster)",
     "Stinger Launcher (Monster)",
@@ -8035,6 +9013,7 @@
     "Stormy Feathers (Monster)",
     "Stormy (Item)",
     "Straw Hat (Item)",
+    "Strengthen Armor (Monster)",
     "Stress",
     "Stressful Fumes (Monster)",
     "Strong Magnet (Monster)",
@@ -8054,7 +9033,10 @@
     "Sunbeam (Monster)",
     "Sunder Armor",
     "Sunder Armor (Monster)",
+    "Sunder Wing (Monster)",
     "Superconductor",
+    "Superhuman Punch (Monster)",
+    "Superhuman Strength (Monster)",
     "Support Drone (Monster)",
     "Suppression Helmet (Item)",
     "Surprise Box (Item)",
@@ -8077,7 +9059,12 @@
     "Taking Aim (Monster)",
     "Taking Aim",
     "Tantrum (Monster)",
+    "Target Focus (Monster)",
     "Target Shooting",
+    "Target Vitals (Monster)",
+    "Targeted Hunger (Monster)",
+    "Taste of Blood (Monster)",
+    "Taste of Blood",
     "Taunt",
     "Taunting Roar (Monster)",
     "Tedious Poem",
@@ -8086,6 +9073,7 @@
     "Temple Lurker (Item)",
     "Temple Lurker (Special)",
     "Temporal Chains",
+    "Temporal Chains (Monster)",
     "Terror Ring (Item)",
     "Terrorize",
     "Terrorizing Howl (Monster)",
@@ -8157,8 +9145,10 @@
     "Toxic Volley (Monster)",
     "Trace",
     "Tranquility (Monster)",
+    "Transcend (Monster)",
     "Transcendence (Monster)",
     "Transcribe",
+    "Transfer Pain (Monster)",
     "Transfusion",
     "Transmission",
     "Trebuchet (Monster)",
@@ -8179,7 +9169,10 @@
     "Typhoon (Monster)",
     "Tyrant Necklace (Item)",
     "Ultra Regeneration (Monster)",
+    "Umbral Descent (Monster)",
+    "Umbral Veil (Monster)",
     "Undeath Ichor (Item)",
+    "Undying Embrace (Monster)",
     "Undying Will",
     "Unforgiving Nature",
     "Unforgiving Nature (Monster)",
@@ -8195,13 +9188,19 @@
     "Unwavering (Monster)",
     "Uproot",
     "Upwind (Corruptor)",
+    "Useless Item (Item)",
     "Vaccine",
     "Valiant Defender",
+    "Vampiric Frenzy",
     "Vampiric Touch",
     "Vampiric Tutor",
     "Vanish",
+    "Vanish (Monster)",
+    "Veiled Bonds (Item)",
+    "Veloguard (Monster)",
     "Vengeance (Special)",
     "Vengeance",
+    "Vengeful Screech (Monster)",
     "Venom Amulet (Item)",
     "Venom Fang (Item)",
     "Venom Flask (Item)",
@@ -8231,12 +9230,16 @@
     "Vitalizing Serenade",
     "Vitalizing Serenade (Monster)",
     "Void Crush",
+    "Void Gaze (Monster)",
     "Void Memory",
     "Volatile Core (Monster)",
     "Volatile Unsummoning (Monster)",
     "Volcanic Axe (Item)",
     "Volley",
     "Voodoo Doll (Item)",
+    "Vow of Embers (Monster)",
+    "Vow of Madness (Monster)",
+    "Vow of Ruin (Monster)",
     "Vulnerable",
     "War Banner (Item)",
     "War Drum (Item)",
@@ -8245,6 +9248,7 @@
     "Warpaint",
     "Warrior Code (Item)",
     "Warrior Memory (Monster)",
+    "Warseal",
     "Water Blob (Item)",
     "Water Gun (Monster)",
     "Water Jet",
@@ -8276,7 +9280,9 @@
     "Wild Roots (Monster)",
     "Wind Blessing (Monster)",
     "Winds of Amnesia (Corruptor)",
+    "Winds of Removal (Monster)",
     "Wine Bottle (Item)",
+    "Wingblade (Item)",
     "Winged Helmet (Item)",
     "Winged Wand (Item)",
     "Wings Of Heaven",
@@ -8285,8 +9291,10 @@
     "Winter Orb",
     "Winter Orb (Monster)",
     "Winter's Night Tale",
+    "Witch's Curse (Monster)",
     "Wither (Monster)",
     "Wolf Guard",
+    "Wolf Guard (Monster)",
     "Wolfskin Cloak (Item)",
     "Wolfy (Item)",
     "Wooden Crosier (Item)",
