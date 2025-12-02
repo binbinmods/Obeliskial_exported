@@ -1,0 +1,24 @@
+{
+    "CinematicData": "necropolisdraculafight",
+    "CombatBackground": "Dracula_Throne_Room",
+    "CombatEffect": [],
+    "CombatID": "ecastle_10b",
+    "CombatMusic": "Valhalla (Count Combat)",
+    "CombatTier": "T13",
+    "Description": "",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": true,
+    "NPCList": [
+        "bloodbat",
+        "firebat",
+        "count",
+        "shadowbat"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "NPCToSummonOnNpcKilled": "",
+    "RandomizeNpcPosition": false,
+    "StepSound": "",
+    "ThermometerTierData": "",
+    "IsRift": false
+}

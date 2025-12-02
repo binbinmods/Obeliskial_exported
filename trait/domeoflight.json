@@ -24,7 +24,7 @@
     "DamageBonusPercentValue": 0.0,
     "DamageBonusPercentValue2": 0.0,
     "DamageBonusPercentValue3": 0.0,
-    "Description": "When you play a \"Defense\" card, apply 9 Shield to all heroes. (2 times/turn)",
+    "Description": "When you play a \"Defense\" card, apply 6 Shield to all heroes.",
     "HealFlatBonus": 0,
     "HealPercentBonus": 0.0,
     "HealReceivedFlatBonus": 0,

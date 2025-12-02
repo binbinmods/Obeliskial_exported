@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "",
     "ReplyText": "I will sacrifice my armor to befriend it.",
-    "RequiredClass": "elementalist",
+    "RequiredClass": "cleric",
     "Requirement": "",
     "RequirementBlocked": "",
     "RequirementCard": [],

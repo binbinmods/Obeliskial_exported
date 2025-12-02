@@ -1,0 +1,18 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "cardbackJapanese",
+    "CardbackName": "cardbackJapanese",
+    "CardbackOrder": 162,
+    "CardbackSprite": "Cardback_Japanese",
+    "CardbackSubclass": "",
+    "CardbackTextId": "",
+    "Locked": true,
+    "ObeliskLevel": 0,
+    "PdxAccountRequired": false,
+    "RankLevel": 0,
+    "ShowIfLocked": true,
+    "SingularityLevel": 0,
+    "Sku": "4013420",
+    "SteamStat": ""
+}

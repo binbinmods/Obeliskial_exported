@@ -1,0 +1,17 @@
+{
+    "Column": 9,
+    "Cost": "PerkCostAdvanced",
+    "ID": "nodeperkInfuse0",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "",
+    "PerkRequired": "",
+    "PerksConnected": [
+        "nodeperkInfuse0a",
+        "nodeperkInfuse0b",
+        "nodeperkInfuse0c"
+    ],
+    "Row": 3,
+    "Sprite": "infuse",
+    "Type": 0
+}

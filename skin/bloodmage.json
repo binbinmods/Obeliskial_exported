@@ -1,0 +1,16 @@
+{
+    "BaseSkin": true,
+    "PerkLevel": 0,
+    "SkinGO": "BloodMageRegular",
+    "SkinID": "bloodmage",
+    "SkinName": "BloodMage",
+    "SkinOrder": 0,
+    "SkinSubclass": "bloodmage",
+    "SkinTextId": "",
+    "Sku": "",
+    "SpritePortrait": "BloodMagePortrait",
+    "SpritePortraitGrande": "BloodMagePortraitGrande",
+    "SpriteSilueta": "velasSilueta",
+    "SpriteSiluetaGrande": "velasSiluetaGrande",
+    "SteamStat": ""
+}

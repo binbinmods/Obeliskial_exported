@@ -1,0 +1,24 @@
+{
+    "CinematicData": "necropolissirenqueenfight",
+    "CombatBackground": "Siren_Queen_Throne_Room",
+    "CombatEffect": [],
+    "CombatID": "ecastle_10a",
+    "CombatMusic": "Halloween_Textures (Evil Heroes_Siren Queen Combat)",
+    "CombatTier": "T13",
+    "Description": "",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "e_magnus",
+        "e_evelyn",
+        "e_reginald",
+        "e_andrin"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "NPCToSummonOnNpcKilled": "",
+    "RandomizeNpcPosition": false,
+    "StepSound": "",
+    "ThermometerTierData": "",
+    "IsRift": false
+}

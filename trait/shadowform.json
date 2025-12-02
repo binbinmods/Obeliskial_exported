@@ -24,7 +24,7 @@
     "DamageBonusPercentValue": 30.0,
     "DamageBonusPercentValue2": 0.0,
     "DamageBonusPercentValue3": 0.0,
-    "Description": "All Damage done +30% and Dark +2.",
+    "Description": "All Damage done +30% and Dark +1.",
     "HealFlatBonus": 0,
     "HealPercentBonus": 0.0,
     "HealReceivedFlatBonus": 0,

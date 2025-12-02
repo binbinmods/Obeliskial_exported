@@ -24,7 +24,7 @@
     "DamageBonusPercentValue": 0.0,
     "DamageBonusPercentValue2": 0.0,
     "DamageBonusPercentValue3": 0.0,
-    "Description": "Gain +1% to All damage done for every 3 hp above 100 hp you have.",
+    "Description": "Gain +1% to All damage done for every 2 hp above 100 hp you have.",
     "HealFlatBonus": 0,
     "HealPercentBonus": 0.0,
     "HealReceivedFlatBonus": 0,

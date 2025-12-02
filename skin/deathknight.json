@@ -1,0 +1,16 @@
+{
+    "BaseSkin": true,
+    "PerkLevel": 0,
+    "SkinGO": "Death Knight - Remastered",
+    "SkinID": "deathknight",
+    "SkinName": "DeathKnight",
+    "SkinOrder": 0,
+    "SkinSubclass": "deathknight",
+    "SkinTextId": "",
+    "Sku": "",
+    "SpritePortrait": "DeathKnightPortrait",
+    "SpritePortraitGrande": "DeathKnightPortraitGrande",
+    "SpriteSilueta": "DeathKnightSilueta",
+    "SpriteSiluetaGrande": "DeathKnightSiluetaGrande",
+    "SteamStat": ""
+}

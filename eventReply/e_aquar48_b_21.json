@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "",
     "ReplyText": "My skills will impress you!",
-    "RequiredClass": "valkyrie",
+    "RequiredClass": "ranger",
     "Requirement": "",
     "RequirementBlocked": "",
     "RequirementCard": [],

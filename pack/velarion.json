@@ -1,0 +1,15 @@
+{
+    "Card0": "vampiricfrenzynp",
+    "Card1": "curseofbloodnp",
+    "Card2": "vampirictouch",
+    "Card3": "vitalize",
+    "Card4": "shadowflame",
+    "Card5": "",
+    "CardSpecial0": "",
+    "CardSpecial1": "",
+    "PackClass": "Healer",
+    "PackID": "velarion",
+    "PackName": "Velarion",
+    "PerkList": [],
+    "RequiredClass": "bloodmage"
+}

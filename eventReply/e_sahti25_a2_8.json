@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "",
     "ReplyText": "I can lift that door.",
-    "RequiredClass": "warden",
+    "RequiredClass": "paladin",
     "Requirement": "",
     "RequirementBlocked": "",
     "RequirementCard": [],

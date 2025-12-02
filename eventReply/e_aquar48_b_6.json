@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "",
     "ReplyText": "My skills will impress you!",
-    "RequiredClass": "cleric",
+    "RequiredClass": "bloodmage",
     "Requirement": "",
     "RequirementBlocked": "",
     "RequirementCard": [],

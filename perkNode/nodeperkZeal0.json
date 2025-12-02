@@ -1,0 +1,17 @@
+{
+    "Column": 2,
+    "Cost": "PerkCostAdvanced",
+    "ID": "nodeperkZeal0",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "",
+    "PerkRequired": "",
+    "PerksConnected": [
+        "nodeperkZeal0a",
+        "nodeperkZeal0b",
+        "nodeperkZeal0c"
+    ],
+    "Row": 6,
+    "Sprite": "zeal",
+    "Type": 3
+}

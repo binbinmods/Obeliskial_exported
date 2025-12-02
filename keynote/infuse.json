@@ -1,0 +1,6 @@
+{
+    "Description": "<w>Increases the effect</w> of Reinforce, Insulate, and Courage by <y>50%</y>. <br><w>Reinforce on target</w> increases <w>Physical damage</w> by <y>+1 per Infuse charge</y>. <br><w>Insulate on target</w> increases <w>Elemental damage</w> by <y>+1 per Infuse charge</y>. <br><w>Courage on target</w> increases <w>Mystical damage</w> by <y>+1 per Infuse charge</y>.",
+    "DescriptionExtended": "<w>Increases the effect</w> of Reinforce, Insulate, and Courage by <y>50%</y>. <br><w>Reinforce on target</w> increases <w>Physical damage</w> by <y>+1 per Infuse charge</y>. <br><w>Insulate on target</w> increases <w>Elemental damage</w> by <y>+1 per Infuse charge</y>. <br><w>Courage on target</w> increases <w>Mystical damage</w> by <y>+1 per Infuse charge</y>. <br>Maximum charges <y>10</y>. <br>Remove 1 charge at the <w>end of the turn</w>.",
+    "ID": "infuse",
+    "KeynoteName": "Infuse"
+}

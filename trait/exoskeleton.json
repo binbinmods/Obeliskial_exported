@@ -24,7 +24,7 @@
     "DamageBonusPercentValue": 0.0,
     "DamageBonusPercentValue2": 0.0,
     "DamageBonusPercentValue3": 0.0,
-    "Description": "When you play a \"Defense\" card that costs energy, refund 1 Energy and gain 1 Fortify. (2 times / turn)",
+    "Description": "When you play a \"Defense\" card that cost energy, Gain 1 Energy and 1 Fortify. (2 times / turn)\r",
     "HealFlatBonus": 0,
     "HealPercentBonus": 0.0,
     "HealReceivedFlatBonus": 0,

@@ -1,0 +1,18 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "cardbackChinese",
+    "CardbackName": "cardbackChinese",
+    "CardbackOrder": 161,
+    "CardbackSprite": "CardBack_Chinese",
+    "CardbackSubclass": "",
+    "CardbackTextId": "",
+    "Locked": true,
+    "ObeliskLevel": 0,
+    "PdxAccountRequired": false,
+    "RankLevel": 0,
+    "ShowIfLocked": true,
+    "SingularityLevel": 0,
+    "Sku": "4013420",
+    "SteamStat": ""
+}

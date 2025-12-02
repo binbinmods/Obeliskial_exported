@@ -1,0 +1,16 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "thulsSkinAsian",
+    "SkinID": "thulsSkinAsian",
+    "SkinName": "thulsAsianSkin",
+    "SkinOrder": 91,
+    "SkinSubclass": "assassin",
+    "SkinTextId": "",
+    "Sku": "4013420",
+    "SpritePortrait": "thulsportrait",
+    "SpritePortraitGrande": "thulsportraitbig",
+    "SpriteSilueta": "thuls",
+    "SpriteSiluetaGrande": "thulsbig",
+    "SteamStat": ""
+}

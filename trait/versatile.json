@@ -24,7 +24,7 @@
     "DamageBonusPercentValue": 0.0,
     "DamageBonusPercentValue2": 0.0,
     "DamageBonusPercentValue3": 0.0,
-    "Description": "When you play a \"Fire Spell\" card gain 2 Powerful, \"Cold Spell\" card gain 6 Block, \"Lightning Spell\" card Dispel 1.",
+    "Description": "When you play a \"Fire Spell\" card gain 2 Powerful, \"Cold Spell\" card gain 8 Block, \"Lightning Spell\" card Dispel 1.",
     "HealFlatBonus": 0,
     "HealPercentBonus": 0.0,
     "HealReceivedFlatBonus": 0,

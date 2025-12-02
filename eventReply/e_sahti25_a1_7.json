@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "",
     "ReplyText": "I will use my magic to solve this.",
-    "RequiredClass": "queen",
+    "RequiredClass": "pyromancer",
     "Requirement": "",
     "RequirementBlocked": "",
     "RequirementCard": [],

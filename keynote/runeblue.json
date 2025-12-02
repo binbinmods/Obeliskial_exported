@@ -1,0 +1,6 @@
+{
+    "Description": "<bl>Fortify</bl> <y>+1 per charge</y>. <br>In addition to this, upon reaching <y>2</y> charges, <w>blocking damage grants</w> <bl>10 Shield</bl>. <br>Upon reaching <y>3</y> charges, <w>blocking damage also grants</w> <bl>10 Shield</bl> to all allies.",
+    "DescriptionExtended": "<bl>Fortify</bl> <y>+1 per charge</y>. <br>In addition to this, upon reaching <y>2</y> charges, <w>blocking damage grants</w> <bl>10 Shield</bl>. <br>Upon reaching <y>3</y> charges, <w>blocking damage also grants</w> <bl>10 Shield</bl> to all allies. <br>Maximum charges <y>3</y>. Can't be purged unless specified.",
+    "ID": "runeblue",
+    "KeynoteName": "Rune Blue"
+}

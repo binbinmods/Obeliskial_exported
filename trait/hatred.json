@@ -24,7 +24,7 @@
     "DamageBonusPercentValue": 0.0,
     "DamageBonusPercentValue2": 0.0,
     "DamageBonusPercentValue3": 0.0,
-    "Description": "When you are under 50% of your Max HP, all damage done +30%. For every 1% of missing HP below 50%, gain an additional 4% to all damage done.",
+    "Description": "When you are under 50% of your Max. HP, all damage done +30%. Gain an additional +4% to all damage done, for every 1% of HP missing below 50%.",
     "HealFlatBonus": 0,
     "HealPercentBonus": 0.0,
     "HealReceivedFlatBonus": 0,

@@ -1,0 +1,6 @@
+{
+    "Description": "All resistances <r>-1% per charge</r>. Upon reaching <w>25 charges</w>, it explodes: Remove all charges, then apply <r>1 Bleed per charge</r> and heal all allies for <g>1 HP per charge</g>.",
+    "DescriptionExtended": "All resistances <r>-1% per charge</r>. <br>Upon reaching <w>25 charges</w>, it explodes: Remove all charges, then apply <r>1 Bleed per charge</r> and heal all allies for <g>1 HP per charge</g>. <br>Remove 1 charge at the <w>end of the turn</w>.",
+    "ID": "leech",
+    "KeynoteName": "Leech"
+}

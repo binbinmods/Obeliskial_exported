@@ -24,7 +24,7 @@
     "DamageBonusPercentValue": 0.0,
     "DamageBonusPercentValue2": 0.0,
     "DamageBonusPercentValue3": 0.0,
-    "Description": "Scourge on enemies can stack and spread 100% of the dark charges. Mage Duality can be activated 4 times per turn.",
+    "Description": "Scourge on enemies can stack and spread 100% of the dark charges.",
     "HealFlatBonus": 0,
     "HealPercentBonus": 0.0,
     "HealReceivedFlatBonus": 0,

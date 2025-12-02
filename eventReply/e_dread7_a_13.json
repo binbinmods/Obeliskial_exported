@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "",
     "ReplyText": "I will sacrifice my accessory to befriend it.",
-    "RequiredClass": "minstrel",
+    "RequiredClass": "loremaster",
     "Requirement": "",
     "RequirementBlocked": "",
     "RequirementCard": [],

@@ -24,7 +24,7 @@
     "DamageBonusPercentValue": 0.0,
     "DamageBonusPercentValue2": 0.0,
     "DamageBonusPercentValue3": 0.0,
-    "Description": "When you play a Healer card, reduce the cost of the highest cost Scout card in you hand by 1 until discarded. When you play a Scout card, reduce the cost of the highest cost Healer card in you hand by 1 until discarded. (3 times/turn)",
+    "Description": "",
     "HealFlatBonus": 0,
     "HealPercentBonus": 0.0,
     "HealReceivedFlatBonus": 0,

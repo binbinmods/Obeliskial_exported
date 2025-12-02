@@ -1,0 +1,22 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Forest_Day",
+    "CombatEffect": [],
+    "CombatID": "cwoods_7",
+    "CombatMusic": "Halloween_Theme_2 (General Combat)",
+    "CombatTier": "T10",
+    "Description": "",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "witch_a",
+        "witch_b"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "NPCToSummonOnNpcKilled": "",
+    "RandomizeNpcPosition": false,
+    "StepSound": "",
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

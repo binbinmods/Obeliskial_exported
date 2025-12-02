@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "flowerfield",
     "ReplyText": "I will learn the spell!",
-    "RequiredClass": "minstrel",
+    "RequiredClass": "loremaster",
     "Requirement": "",
     "RequirementBlocked": "",
     "RequirementCard": [],

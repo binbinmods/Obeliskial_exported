@@ -176,7 +176,7 @@
     "PetTemporalMoveToCenter": false,
     "PetTemporalMoveToBack": false,
     "PetTemporalFadeOutDelay": 0.0,
-    "Playable": false,
+    "Playable": true,
     "PullTarget": 0,
     "PushTarget": 0,
     "ReduceAuras": 0,

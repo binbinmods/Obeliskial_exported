@@ -1,0 +1,6 @@
+{
+    "Description": "<r>Heal done +1 per charge.</r> ",
+    "DescriptionExtended": "Heal done <y>+2 per charge</y>. <br>In addition to this, upon reaching <y>2</y> charges, <w>heal done grants</w> <bl>2 Vitality</bl>. <br>Upon reaching <y>3</y> charges, <w>heal done grants</w> <bl>2 Vitality</bl> to all allies</w>. <br>Maximum charges <y>3</y>. Can't be purged unless specified.",
+    "ID": "runegreen",
+    "KeynoteName": "Rune Green"
+}

@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "seethrough",
     "ReplyText": "I will learn the spell!",
-    "RequiredClass": "loremaster",
+    "RequiredClass": "engineer",
     "Requirement": "",
     "RequirementBlocked": "",
     "RequirementCard": [],

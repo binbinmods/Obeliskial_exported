@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "",
     "ReplyText": "I will drink it",
-    "RequiredClass": "valkyrie",
+    "RequiredClass": "ranger",
     "Requirement": "",
     "RequirementBlocked": "",
     "RequirementCard": [],

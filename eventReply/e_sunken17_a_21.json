@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "",
     "ReplyText": "I would like to participate in the experiment.",
-    "RequiredClass": "ranger",
+    "RequiredClass": "pyromancer",
     "Requirement": "",
     "RequirementBlocked": "",
     "RequirementCard": [],

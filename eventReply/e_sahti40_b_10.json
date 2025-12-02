@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "",
     "ReplyText": "I believe my armor is worthy of your talent!",
-    "RequiredClass": "loremaster",
+    "RequiredClass": "engineer",
     "Requirement": "",
     "RequirementBlocked": "",
     "RequirementCard": [],

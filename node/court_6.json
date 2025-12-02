@@ -1,0 +1,43 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [
+        "e_court6_a",
+        "e_court6_b",
+        "e_court6_c"
+    ],
+    "NodeEventPercent": [
+        0,
+        0,
+        0
+    ],
+    "NodeEventPriority": [
+        2,
+        0,
+        1
+    ],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "court_6",
+    "NodeName": "Laboratory",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "court_8"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "CastleCourtyard",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Laboratory"
+}

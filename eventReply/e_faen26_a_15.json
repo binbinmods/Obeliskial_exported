@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "carp",
     "ReplyText": "I am a professional fisherman, I even brought my own rod!",
-    "RequiredClass": "paladin",
+    "RequiredClass": "mercenary",
     "Requirement": "",
     "RequirementBlocked": "",
     "RequirementCard": [],

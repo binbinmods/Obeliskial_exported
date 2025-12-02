@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "",
     "ReplyText": "I will sacrifice my weapon to befriend it.",
-    "RequiredClass": "priest",
+    "RequiredClass": "paladin",
     "Requirement": "",
     "RequirementBlocked": "",
     "RequirementCard": [],

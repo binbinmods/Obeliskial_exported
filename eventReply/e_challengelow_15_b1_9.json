@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "removestains",
     "ReplyText": "I will learn the spell!",
-    "RequiredClass": "fallen",
+    "RequiredClass": "elementalist",
     "Requirement": "",
     "RequirementBlocked": "",
     "RequirementCard": [],

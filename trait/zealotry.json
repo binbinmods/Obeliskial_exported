@@ -24,7 +24,7 @@
     "DamageBonusPercentValue": 0.0,
     "DamageBonusPercentValue2": 0.0,
     "DamageBonusPercentValue3": 0.0,
-    "Description": "Zeal +2. Zeal on this hero increases all damage done by 1.5% per Burn charge, and  loses 2 charges at the end of the turn instead of all charges.",
+    "Description": "Zeal +2. Zeal on this hero increases all damage done per Burn charge by an additional 0.12% per Zeal charge. Also it only loses 1 charge at the end of the turn instead of all charges.",
     "HealFlatBonus": 0,
     "HealPercentBonus": 0.0,
     "HealReceivedFlatBonus": 0,

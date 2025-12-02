@@ -24,7 +24,7 @@
     "DamageBonusPercentValue": 0.0,
     "DamageBonusPercentValue2": 0.0,
     "DamageBonusPercentValue3": 0.0,
-    "Description": "Gain the \"Spell Singer\" trait. If you already had it, then it can be activated twice per turn and the base cost of the free spell given is increased by +2 with Stanza II and by +3 with Stanza III.",
+    "Description": "",
     "HealFlatBonus": 0,
     "HealPercentBonus": 0.0,
     "HealReceivedFlatBonus": 0,

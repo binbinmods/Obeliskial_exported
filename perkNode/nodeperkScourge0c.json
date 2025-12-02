@@ -1,0 +1,13 @@
+{
+    "Column": 5,
+    "Cost": "PerkCostAdvanced",
+    "ID": "nodeperkScourge0c",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "mainperkscourge0c",
+    "PerkRequired": "",
+    "PerksConnected": [],
+    "Row": 6,
+    "Sprite": "scourge",
+    "Type": 3
+}

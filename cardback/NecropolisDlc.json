@@ -1,0 +1,18 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "NecropolisDlc",
+    "CardbackName": "cardbackNecropolis",
+    "CardbackOrder": 70,
+    "CardbackSprite": "CardBackNecropolis",
+    "CardbackSubclass": "",
+    "CardbackTextId": "",
+    "Locked": true,
+    "ObeliskLevel": 0,
+    "PdxAccountRequired": false,
+    "RankLevel": 0,
+    "ShowIfLocked": true,
+    "SingularityLevel": 0,
+    "Sku": "3875470",
+    "SteamStat": ""
+}

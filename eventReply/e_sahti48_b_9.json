@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "",
     "ReplyText": "Before we continue, let me examinate this magic.",
-    "RequiredClass": "elementalist",
+    "RequiredClass": "bloodmage",
     "Requirement": "",
     "RequirementBlocked": "",
     "RequirementCard": [],

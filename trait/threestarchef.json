@@ -24,7 +24,7 @@
     "DamageBonusPercentValue": 0.0,
     "DamageBonusPercentValue2": 0.0,
     "DamageBonusPercentValue3": 0.0,
-    "Description": "The talent \"Butcher\" always guarantees \"Gourmet Meat\". In the talent \"Dinner Is Ready\", \"Spoiled meat\" is replaced by \"Gourmet meat\".",
+    "Description": "Replaces the random meat from the \"Butcher\" and \"Dinner is Ready\" talents with guaranteed \"Gourmet Meat\".",
     "HealFlatBonus": 0,
     "HealPercentBonus": 0.0,
     "HealReceivedFlatBonus": 0,

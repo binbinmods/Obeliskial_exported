@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "",
     "ReplyText": "I will show you what true devotion looks like!",
-    "RequiredClass": "valkyrie",
+    "RequiredClass": "ranger",
     "Requirement": "",
     "RequirementBlocked": "",
     "RequirementCard": [],

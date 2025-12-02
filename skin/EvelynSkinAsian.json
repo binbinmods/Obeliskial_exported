@@ -1,0 +1,16 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "evelynSkinAsian",
+    "SkinID": "EvelynSkinAsian",
+    "SkinName": "evelynAsianSkin",
+    "SkinOrder": 91,
+    "SkinSubclass": "elementalist",
+    "SkinTextId": "",
+    "Sku": "4013420",
+    "SpritePortrait": "evelinportrait",
+    "SpritePortraitGrande": "evelinportraitbig",
+    "SpriteSilueta": "evelin",
+    "SpriteSiluetaGrande": "evelinbig",
+    "SteamStat": ""
+}

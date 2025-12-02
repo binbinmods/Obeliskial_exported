@@ -1,0 +1,16 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 32,
+    "SkinGO": "Blood_Mage_Pro_Skin",
+    "SkinID": "bloodmagepro",
+    "SkinName": "Blood Alchemist",
+    "SkinOrder": 2,
+    "SkinSubclass": "bloodmage",
+    "SkinTextId": "",
+    "Sku": "",
+    "SpritePortrait": "BloodMage PRO 110x172",
+    "SpritePortraitGrande": "BloodMage PRO 140x219",
+    "SpriteSilueta": "BloodMage PRO 172x112",
+    "SpriteSiluetaGrande": "BloodMage PRO 512x512",
+    "SteamStat": ""
+}

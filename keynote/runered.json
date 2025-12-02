@@ -1,0 +1,6 @@
+{
+    "Description": "<r>Mark</r> <y>+1 per charge</y>. In addition to this, upon reaching 2 charges, <w>damaging an enemy applies Mark on them</w>. <br>Upon reaching <y>3</y> charges, <w>damaging an enemy also applies Mark on target sides</w>.",
+    "DescriptionExtended": "<r>Mark</r> <y>+1 per charge</y>. <br>In addition to this, upon reaching <y>2</y> charges, <w>damaging an enemy applies Mark on them</w>. <br>Upon reaching <y>3</y> charges, <w>damaging an enemy also applies Mark on target sides</w>.<br>Maximum charges <y>3</y>. Can't be purged unless specified.",
+    "ID": "runered",
+    "KeynoteName": "Rune Red"
+}

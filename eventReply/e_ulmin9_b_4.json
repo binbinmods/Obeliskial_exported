@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "",
     "ReplyText": "I may have a spell for this situation.",
-    "RequiredClass": "pyromancer",
+    "RequiredClass": "loremaster",
     "Requirement": "",
     "RequirementBlocked": "",
     "RequirementCard": [],

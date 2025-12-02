@@ -19,8 +19,7 @@
     "NodeName": "Tavern",
     "NodeRequirement": "",
     "NodesConnected": [
-        "sen_41",
-        "sen_2"
+        "sen_41"
     ],
     "NodesConnectedRequirement": [],
     "NodeZone": "Senenthia",

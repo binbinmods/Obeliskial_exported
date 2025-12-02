@@ -1,0 +1,32 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "castle_0",
+    "NodeName": "Foyer",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "castle_1",
+        "castle_2"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "CastleSpire",
+    "TravelDestination": true,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Foyer"
+}

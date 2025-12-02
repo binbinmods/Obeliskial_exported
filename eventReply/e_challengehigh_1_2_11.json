@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "",
     "ReplyText": "Leave it to me, I will treat your poison!",
-    "RequiredClass": "mercenary",
+    "RequiredClass": "fallen",
     "Requirement": "",
     "RequirementBlocked": "",
     "RequirementCard": [],

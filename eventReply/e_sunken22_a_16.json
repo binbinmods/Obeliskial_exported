@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "",
     "ReplyText": "I will offer my weapon to the Great Bird!",
-    "RequiredClass": "paladin",
+    "RequiredClass": "mercenary",
     "Requirement": "",
     "RequirementBlocked": "",
     "RequirementCard": [],

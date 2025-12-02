@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "",
     "ReplyText": "I want to eat the apple!",
-    "RequiredClass": "mercenary",
+    "RequiredClass": "fallen",
     "Requirement": "",
     "RequirementBlocked": "",
     "RequirementCard": [],

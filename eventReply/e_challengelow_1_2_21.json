@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "",
     "ReplyText": "Get behind me, I'll block them!",
-    "RequiredClass": "valkyrie",
+    "RequiredClass": "ranger",
     "Requirement": "",
     "RequirementBlocked": "",
     "RequirementCard": [],

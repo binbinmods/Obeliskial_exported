@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "",
     "ReplyText": "If offensive is what you want, I am the right one!",
-    "RequiredClass": "loremaster",
+    "RequiredClass": "engineer",
     "Requirement": "",
     "RequirementBlocked": "",
     "RequirementCard": [],

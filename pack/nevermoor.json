@@ -1,0 +1,15 @@
+{
+    "Card0": "runecatalystnp",
+    "Card1": "shadowbladenp",
+    "Card2": "renew",
+    "Card3": "bastionflownp",
+    "Card4": "warsealnp",
+    "Card5": "",
+    "CardSpecial0": "",
+    "CardSpecial1": "",
+    "PackClass": "Healer",
+    "PackID": "nevermoor",
+    "PackName": "Nevermoor",
+    "PerkList": [],
+    "RequiredClass": "deathknight"
+}

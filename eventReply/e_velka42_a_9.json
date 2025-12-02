@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "takecover",
     "ReplyText": "I will cover us!",
-    "RequiredClass": "mercenary",
+    "RequiredClass": "fallen",
     "Requirement": "",
     "RequirementBlocked": "",
     "RequirementCard": [],

@@ -1,0 +1,33 @@
+{
+    "CombatPercent": 100,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "cwoods_22"
+    ],
+    "NodeCombatTier": "T11",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "woods_22",
+    "NodeName": "Church",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "woods_17"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "WitchWoods",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Church"
+}

@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "",
     "ReplyText": "I volunteer to recharge it alone. (-28 max HP)",
-    "RequiredClass": "cleric",
+    "RequiredClass": "bloodmage",
     "Requirement": "",
     "RequirementBlocked": "",
     "RequirementCard": [],

@@ -24,7 +24,7 @@
     "DamageBonusPercentValue": 0.0,
     "DamageBonusPercentValue2": 0.0,
     "DamageBonusPercentValue3": 0.0,
-    "Description": "At the start of your turn, gain 1 Powerful. With Stanza II you gain 2 Powerful, and with Stanza III you gain 3 Powerful.",
+    "Description": "",
     "HealFlatBonus": 0,
     "HealPercentBonus": 0.0,
     "HealReceivedFlatBonus": 0,

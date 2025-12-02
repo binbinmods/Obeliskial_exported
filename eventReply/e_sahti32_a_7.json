@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "",
     "ReplyText": "Let me handle this!",
-    "RequiredClass": "warden",
+    "RequiredClass": "sentinel",
     "Requirement": "",
     "RequirementBlocked": "",
     "RequirementCard": [],

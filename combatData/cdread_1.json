@@ -12,10 +12,10 @@
     "EventRequirementData": "",
     "HealHeroes": false,
     "NPCList": [
-        "",
-        "",
-        "",
-        ""
+        "octopus",
+        "phantasm",
+        "stingray",
+        "phantasm"
     ],
     "NPCRemoveInMadness0Index": -1,
     "NPCToSummonOnNpcKilled": "",

@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "",
     "ReplyText": "I accept the deal. Take my jewelry, but I know you don't need my vitality for anything",
-    "RequiredClass": "archer",
+    "RequiredClass": "alchemist",
     "Requirement": "darkdeal",
     "RequirementBlocked": "",
     "RequirementCard": [],

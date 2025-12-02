@@ -1,0 +1,13 @@
+{
+    "Column": 2,
+    "Cost": "PerkCostAdvanced",
+    "ID": "nodeperkLeech0a",
+    "LockedInTown": false,
+    "NotStack": false,
+    "Perk": "mainperkleech0a",
+    "PerkRequired": "",
+    "PerksConnected": [],
+    "Row": 6,
+    "Sprite": "leech",
+    "Type": 1
+}

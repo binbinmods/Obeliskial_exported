@@ -1,0 +1,16 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "ottisSkinAsian",
+    "SkinID": "OttisSkinAsian",
+    "SkinName": "ottisAsianSkin",
+    "SkinOrder": 91,
+    "SkinSubclass": "priest",
+    "SkinTextId": "",
+    "Sku": "4013420",
+    "SpritePortrait": "ottisportrait",
+    "SpritePortraitGrande": "ottisportraitbig",
+    "SpriteSilueta": "ottis",
+    "SpriteSiluetaGrande": "ottisbig",
+    "SteamStat": ""
+}

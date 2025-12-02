@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "cubyrare",
     "ReplyText": "Train my pet!",
-    "RequiredClass": "ranger",
+    "RequiredClass": "archer",
     "Requirement": "",
     "RequirementBlocked": "",
     "RequirementCard": [],

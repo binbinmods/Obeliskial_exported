@@ -1,0 +1,33 @@
+{
+    "CombatPercent": 100,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "ccourt_7"
+    ],
+    "NodeCombatTier": "T11",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "court_7",
+    "NodeName": "Barracks",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "court_9"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "CastleCourtyard",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Barracks"
+}

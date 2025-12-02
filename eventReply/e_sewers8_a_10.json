@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "",
     "ReplyText": "I accept the deal. Take my jewelry and some of my vitality (-12 max HP)",
-    "RequiredClass": "engineer",
+    "RequiredClass": "deathknight",
     "Requirement": "",
     "RequirementBlocked": "darkdeal",
     "RequirementCard": [],

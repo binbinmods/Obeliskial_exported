@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "pufferfishrare",
     "ReplyText": "I am a professional fisherman, I even brought my own rod!",
-    "RequiredClass": "priest",
+    "RequiredClass": "elementalist",
     "Requirement": "",
     "RequirementBlocked": "",
     "RequirementCard": [],

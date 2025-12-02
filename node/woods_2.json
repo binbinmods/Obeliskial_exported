@@ -1,0 +1,33 @@
+{
+    "CombatPercent": 100,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "cwoods_2"
+    ],
+    "NodeCombatTier": "T10",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "woods_2",
+    "NodeName": "Forest Clearing",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "woods_4"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "WitchWoods",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Forest Clearing"
+}

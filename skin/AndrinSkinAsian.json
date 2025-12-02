@@ -1,0 +1,16 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "andrinSkinAsian",
+    "SkinID": "AndrinSkinAsian",
+    "SkinName": "andrinAsianSkin",
+    "SkinOrder": 91,
+    "SkinSubclass": "ranger",
+    "SkinTextId": "",
+    "Sku": "4013420",
+    "SpritePortrait": "andrinportrait",
+    "SpritePortraitGrande": "andrinportraitbig",
+    "SpriteSilueta": "andrin",
+    "SpriteSiluetaGrande": "andrinbig",
+    "SteamStat": ""
+}

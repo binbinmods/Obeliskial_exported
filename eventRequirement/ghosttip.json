@@ -1,0 +1,12 @@
+{
+    "AssignToPlayerAtBegin": false,
+    "Description": "courage armor",
+    "ItemSprite": "",
+    "RequirementID": "ghosttip",
+    "RequirementName": "",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "TrackCard": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "CastleCourtyard"
+}

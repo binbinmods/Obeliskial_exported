@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "",
     "ReplyText": "I will cleanse this tainted energy.",
-    "RequiredClass": "priest",
+    "RequiredClass": "cleric",
     "Requirement": "",
     "RequirementBlocked": "",
     "RequirementCard": [],

@@ -1,0 +1,25 @@
+{
+    "AllowDropOnlyItems": false,
+    "DefaultPercentEpic": 0.0,
+    "DefaultPercentMythic": 0.0,
+    "DefaultPercentRare": 0.0,
+    "DefaultPercentUncommon": 0.0,
+    "GoldQuantity": 100,
+    "ID": "franky",
+    "LootItemTable": [
+        "{\n    \"LootCard\": \"dimensionalcrystal\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"None\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"stimulantpills\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"None\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"midnightgloves\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"None\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"infusedgem\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Epic\",\n    \"LootType\": \"Armor\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"metalblobpet\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Common\",\n    \"LootType\": \"None\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"cauldron\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"thermalring\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\",\n    \"LootMisc\": \"\"\n}",
+        "{\n    \"LootCard\": \"venomamulet\",\n    \"LootPercent\": 100.0,\n    \"LootRarity\": \"Rare\",\n    \"LootType\": \"None\",\n    \"LootMisc\": \"\"\n}"
+    ],
+    "NumItems": 8,
+    "ShadyModel": "",
+    "ShadyScaleX": 1.0,
+    "ShadyScaleY": 1.0,
+    "ShadyOffsetX": 0.0,
+    "ShadyOffsetY": 0.0
+}

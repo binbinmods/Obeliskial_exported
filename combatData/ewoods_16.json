@@ -1,0 +1,23 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Franky_Lab",
+    "CombatEffect": [],
+    "CombatID": "ewoods_16",
+    "CombatMusic": "Wrath (Franky Combat)",
+    "CombatTier": "T12",
+    "Description": "",
+    "EventData": "e_woods16_a",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "",
+        "",
+        "franky"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "NPCToSummonOnNpcKilled": "",
+    "RandomizeNpcPosition": false,
+    "StepSound": "",
+    "ThermometerTierData": "T3",
+    "IsRift": false
+}

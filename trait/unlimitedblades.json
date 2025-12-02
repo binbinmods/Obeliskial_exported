@@ -24,7 +24,7 @@
     "DamageBonusPercentValue": 0.0,
     "DamageBonusPercentValue2": 0.0,
     "DamageBonusPercentValue3": 0.0,
-    "Description": "If you have less than 3 Spellsword charges at the start of the turn, gain up to 3 Spellsword charges. Spellsword maximum charges increased to 12.",
+    "Description": "If you have less than 2 Spellsword charges at the start of the round, gain up to 2 Spellsword charges. Spellsword don't have a 5 charges limit.",
     "HealFlatBonus": 0,
     "HealPercentBonus": 0.0,
     "HealReceivedFlatBonus": 0,

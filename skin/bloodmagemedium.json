@@ -1,0 +1,16 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 16,
+    "SkinGO": "BloodMageSkinMedium",
+    "SkinID": "bloodmagemedium",
+    "SkinName": "Blood Sorcerer",
+    "SkinOrder": 1,
+    "SkinSubclass": "bloodmage",
+    "SkinTextId": "",
+    "Sku": "",
+    "SpritePortrait": "Bloodmage Medium 110x172",
+    "SpritePortraitGrande": "Bloodmage Medium 140x219",
+    "SpriteSilueta": "Bloodmage Medium  172x112",
+    "SpriteSiluetaGrande": "Blood Mage MED 512x512",
+    "SteamStat": ""
+}

@@ -24,7 +24,7 @@
     "DamageBonusPercentValue": 30.0,
     "DamageBonusPercentValue2": 0.0,
     "DamageBonusPercentValue3": 0.0,
-    "Description": "Bleed +1, Chill +1. All Damage done +30%. Heal yourself for 30% of the damage done.",
+    "Description": "All Damage done +30%. Heal yourself for 30% of the damage done.",
     "HealFlatBonus": 0,
     "HealPercentBonus": 0.0,
     "HealReceivedFlatBonus": 0,

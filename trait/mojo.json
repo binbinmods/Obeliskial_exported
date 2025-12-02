@@ -24,7 +24,7 @@
     "DamageBonusPercentValue": 0.0,
     "DamageBonusPercentValue2": 0.0,
     "DamageBonusPercentValue3": 0.0,
-    "Description": "Regeneration +1, Vitality +1.<br>When you play a \"Healing Spell\" card, Dispel 1 to all heroes.",
+    "Description": "Regeneration +1, Vitality +1.<br>When you play a \"Healing Spell\" card, Dispel 1 to all heroes.\t\t",
     "HealFlatBonus": 0,
     "HealPercentBonus": 0.0,
     "HealReceivedFlatBonus": 0,

@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "",
     "ReplyText": "Here is your package",
-    "RequiredClass": "fallen",
+    "RequiredClass": "elementalist",
     "Requirement": "",
     "RequirementBlocked": "",
     "RequirementCard": [],

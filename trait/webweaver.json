@@ -24,7 +24,7 @@
     "DamageBonusPercentValue": 0.0,
     "DamageBonusPercentValue2": 0.0,
     "DamageBonusPercentValue3": 0.0,
-    "Description": "At the start of your first turn, apply 6 insane, 6 poison  and 1 shackle to all enemies. Shackle on enemies is removed at the end of the turn and reduce damage done by 30%. When shackle on enemies is removed, they suffer 2 Slow.",
+    "Description": "At the start of your first turn, apply 6 insane, 6 poison  and 1 shackle to all enemies. Shackle on enemies is removed at the end of the turn and reduce damage done by 30%. When shackle on enemies is removed, they suffer 2 Slow.\n\n\n",
     "HealFlatBonus": 0,
     "HealPercentBonus": 0.0,
     "HealReceivedFlatBonus": 0,

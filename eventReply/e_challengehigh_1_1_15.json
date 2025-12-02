@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "",
     "ReplyText": "Follow me! I will lead the way",
-    "RequiredClass": "priestess",
+    "RequiredClass": "paladin",
     "Requirement": "",
     "RequirementBlocked": "",
     "RequirementCard": [],

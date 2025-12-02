@@ -1,0 +1,16 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 16,
+    "SkinGO": "Hero - Death Knight_MediumSkin",
+    "SkinID": "deathknightMedium",
+    "SkinName": "Grim Reaper",
+    "SkinOrder": 1,
+    "SkinSubclass": "deathknight",
+    "SkinTextId": "",
+    "Sku": "",
+    "SpritePortrait": "Deathknight Medium 110x172",
+    "SpritePortraitGrande": "Deathknight Medium 140x219",
+    "SpriteSilueta": "Death Knight Medium 172x112",
+    "SpriteSiluetaGrande": "Death Knight MED 512x512",
+    "SteamStat": ""
+}

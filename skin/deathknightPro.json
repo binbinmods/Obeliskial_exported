@@ -1,0 +1,16 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 32,
+    "SkinGO": "Death_Knight_Pro_Skin",
+    "SkinID": "deathknightPro",
+    "SkinName": "Masquerader",
+    "SkinOrder": 2,
+    "SkinSubclass": "deathknight",
+    "SkinTextId": "",
+    "Sku": "",
+    "SpritePortrait": "DeathKnight PRO 110x172",
+    "SpritePortraitGrande": "DeathKnight PRO 140x219",
+    "SpriteSilueta": "DeathKnight PRO 172x112",
+    "SpriteSiluetaGrande": "DeathKnight PRO 512x512",
+    "SteamStat": ""
+}

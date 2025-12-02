@@ -1,0 +1,20 @@
+{
+    "Card0": "lifetap",
+    "Card1": "curseofbloodnp",
+    "Card2": "vampirictouch",
+    "Card3": "vitalize",
+    "Card4": "shadowflame",
+    "Card5": "",
+    "CardSpecial0": "curseofbloodnp",
+    "CardSpecial1": "",
+    "PackClass": "Healer",
+    "PackID": "bloodmage",
+    "PackName": "Bloodmage",
+    "PerkList": [
+        "mainperkbleed1",
+        "mainperkdark1",
+        "mainperkshadow2",
+        "mainperkheal1"
+    ],
+    "RequiredClass": ""
+}

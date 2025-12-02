@@ -1,0 +1,24 @@
+{
+    "CinematicData": "necropolisarchonfight",
+    "CombatBackground": "Archon_Throne_Room",
+    "CombatEffect": [],
+    "CombatID": "ecastle_10c",
+    "CombatMusic": "Battle_Metal (Archon Sephir Combat)",
+    "CombatTier": "T13",
+    "Description": "",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "",
+        "",
+        "archon_souls",
+        ""
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "NPCToSummonOnNpcKilled": "",
+    "RandomizeNpcPosition": false,
+    "StepSound": "",
+    "ThermometerTierData": "",
+    "IsRift": false
+}

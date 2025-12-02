@@ -44,10 +44,8 @@
     "CardName": "Ground Slam",
     "CardNumber": 0,
     "CardRarity": "Rare",
-    "CardType": "Melee_Attack",
-    "CardTypeAux": [
-        "None"
-    ],
+    "CardType": "None",
+    "CardTypeAux": [],
     "CardTypeList": [],
     "CardUpgraded": "A",
     "ChooseOneOfAvailableAuras": false,

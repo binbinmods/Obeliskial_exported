@@ -24,7 +24,7 @@
     "DamageBonusPercentValue": 0.0,
     "DamageBonusPercentValue2": 0.0,
     "DamageBonusPercentValue3": 0.0,
-    "Description": "Thorns +1. Gain 3 Thorns when damaged. (3 times/round)",
+    "Description": "Gain 3 Thorns when damaged. (3 times/turn)",
     "HealFlatBonus": 0,
     "HealPercentBonus": 0.0,
     "HealReceivedFlatBonus": 0,

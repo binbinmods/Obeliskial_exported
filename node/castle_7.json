@@ -1,0 +1,33 @@
+{
+    "CombatPercent": 100,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "ccastle_7"
+    ],
+    "NodeCombatTier": "T12",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "Infestation",
+    "NodeId": "castle_7",
+    "NodeName": "Dressing Room",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "castle_10"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "CastleSpire",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Dressing Room"
+}

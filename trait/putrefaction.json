@@ -24,7 +24,7 @@
     "DamageBonusPercentValue": 0.0,
     "DamageBonusPercentValue2": 0.0,
     "DamageBonusPercentValue3": 0.0,
-    "Description": "Dark +2. Dark on enemies reduces shadow resistance by an additional 1.5% per charge.",
+    "Description": "Dark +2. Dark on enemies reduces shadow resistance by an additional 1% per charge.",
     "HealFlatBonus": 0,
     "HealPercentBonus": 0.0,
     "HealReceivedFlatBonus": 0,

@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "lavablobpetrare",
     "ReplyText": "Yes! Would you get me a lava blob with this rod?",
-    "RequiredClass": "mercenary",
+    "RequiredClass": "bandit",
     "Requirement": "",
     "RequirementBlocked": "",
     "RequirementCard": [],

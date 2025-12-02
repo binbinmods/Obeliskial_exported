@@ -1,0 +1,16 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "ameliaSkinAsian",
+    "SkinID": "AmeliaSkinAsian",
+    "SkinName": "ameliaAsianSkin",
+    "SkinOrder": 91,
+    "SkinSubclass": "queen",
+    "SkinTextId": "",
+    "Sku": "4013420",
+    "SpritePortrait": "ameliaportrait",
+    "SpritePortraitGrande": "ameliaportraitbig",
+    "SpriteSilueta": "amelia",
+    "SpriteSiluetaGrande": "ameliabig",
+    "SteamStat": ""
+}

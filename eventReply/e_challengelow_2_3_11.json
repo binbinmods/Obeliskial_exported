@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "",
     "ReplyText": "I'll have one, here's 200g",
-    "RequiredClass": "loremaster",
+    "RequiredClass": "engineer",
     "Requirement": "",
     "RequirementBlocked": "",
     "RequirementCard": [],

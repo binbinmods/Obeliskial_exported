@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "",
     "ReplyText": "I will cast a spell to help us against this mist.",
-    "RequiredClass": "queen",
+    "RequiredClass": "prophet",
     "Requirement": "",
     "RequirementBlocked": "",
     "RequirementCard": [],

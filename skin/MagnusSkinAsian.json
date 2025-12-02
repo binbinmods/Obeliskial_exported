@@ -1,0 +1,16 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "magnusSkinAsian",
+    "SkinID": "MagnusSkinAsian",
+    "SkinName": "magnusAsianSkin",
+    "SkinOrder": 91,
+    "SkinSubclass": "mercenary",
+    "SkinTextId": "",
+    "Sku": "4013420",
+    "SpritePortrait": "magnusportrait",
+    "SpritePortraitGrande": "magnusportraitbig",
+    "SpriteSilueta": "magnus",
+    "SpriteSiluetaGrande": "magnusbig",
+    "SteamStat": ""
+}

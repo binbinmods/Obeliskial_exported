@@ -1,0 +1,18 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "bloodMageProCardback",
+    "CardbackName": "bloodalchemist",
+    "CardbackOrder": 3,
+    "CardbackSprite": "CardBack -BloodMage Pro",
+    "CardbackSubclass": "bloodmage",
+    "CardbackTextId": "",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "PdxAccountRequired": false,
+    "RankLevel": 40,
+    "ShowIfLocked": false,
+    "SingularityLevel": 0,
+    "Sku": "",
+    "SteamStat": ""
+}

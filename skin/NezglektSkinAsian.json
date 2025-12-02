@@ -1,0 +1,16 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "nezglektSkinAsian",
+    "SkinID": "NezglektSkinAsian",
+    "SkinName": "nezgelektAsianSkin",
+    "SkinOrder": 91,
+    "SkinSubclass": "prophet",
+    "SkinTextId": "",
+    "Sku": "4013420",
+    "SpritePortrait": "nezglektportrait",
+    "SpritePortraitGrande": "nezglektportraitbig",
+    "SpriteSilueta": "nezglekt",
+    "SpriteSiluetaGrande": "nezglektbig",
+    "SteamStat": ""
+}

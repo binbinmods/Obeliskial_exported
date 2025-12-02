@@ -24,7 +24,7 @@
     "DamageBonusPercentValue": 0.0,
     "DamageBonusPercentValue2": 0.0,
     "DamageBonusPercentValue3": 0.0,
-    "Description": "At the start of the combat, all heroes gain 12 Block and 1 Fortify.",
+    "Description": "At the start of the combat all heroes gain 10 Block, Heiner also gain 2 Fortify.",
     "HealFlatBonus": 0,
     "HealPercentBonus": 0.0,
     "HealReceivedFlatBonus": 0,

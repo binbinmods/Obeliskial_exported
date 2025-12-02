@@ -100,7 +100,7 @@
     "EffectCastCenter": true,
     "EffectCaster": "blowup",
     "EffectCasterRepeat": false,
-    "EffectPostCastDelay": 0.20000000298023225,
+    "EffectPostCastDelay": 0.5,
     "EffectPostTargetDelay": 0.10000000149011612,
     "EffectPreAction": "",
     "EffectRepeat": 1,

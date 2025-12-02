@@ -1,0 +1,33 @@
+{
+    "CombatPercent": 100,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "cwoods_19"
+    ],
+    "NodeCombatTier": "T10",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "woods_19",
+    "NodeName": "Coffin",
+    "NodeRequirement": "woodssouthpass",
+    "NodesConnected": [
+        "woods_20"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "WitchWoods",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.0,
+    "medsPosY": 0.0,
+    "SourceNodeName": "Coffin"
+}

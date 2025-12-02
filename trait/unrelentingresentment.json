@@ -24,7 +24,7 @@
     "DamageBonusPercentValue": 0.0,
     "DamageBonusPercentValue2": 0.0,
     "DamageBonusPercentValue3": 0.0,
-    "Description": "The bonus of Hatred is increased to: +60% to all damage done when below 50% of your Max. Hp and the bonus to all damage is instead +6% for every additional 1% of missing HP.",
+    "Description": "The bonus of Hatred is increased to: +60% to all damage done when below 50% of your Max. Hp and the bonus to all damage is now +6% for every aditional 1% of missing HP.",
     "HealFlatBonus": 0,
     "HealPercentBonus": 0.0,
     "HealReceivedFlatBonus": 0,

@@ -1,0 +1,20 @@
+{
+    "Card0": "shadowmend",
+    "Card1": "shadowbladenp",
+    "Card2": "renew",
+    "Card3": "bastionflownp",
+    "Card4": "warsealnp",
+    "Card5": "",
+    "CardSpecial0": "shadowbladenp",
+    "CardSpecial1": "",
+    "PackClass": "Warrior",
+    "PackID": "deathknight",
+    "PackName": "DeathKnight",
+    "PerkList": [
+        "mainperkinspire0a",
+        "mainperkdark0",
+        "mainperkshadow2",
+        "mainperkheal1"
+    ],
+    "RequiredClass": ""
+}

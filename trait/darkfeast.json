@@ -24,7 +24,7 @@
     "DamageBonusPercentValue": 0.0,
     "DamageBonusPercentValue2": 0.0,
     "DamageBonusPercentValue3": 0.0,
-    "Description": "At the start of your turn, for every 8 Dark you have, reduce the cost of the cards in your hand by 1 until they are discarded.",
+    "Description": "At the start of your turn, for every 9 Dark you have, reduce the cost of the cards in your hand by 1 until they are discarded.",
     "HealFlatBonus": 0,
     "HealPercentBonus": 0.0,
     "HealReceivedFlatBonus": 0,

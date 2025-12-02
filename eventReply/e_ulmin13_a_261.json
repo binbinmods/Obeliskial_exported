@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "daleyrare",
     "ReplyText": "Train my pet!",
-    "RequiredClass": "mercenary",
+    "RequiredClass": "alchemist",
     "Requirement": "",
     "RequirementBlocked": "",
     "RequirementCard": [],

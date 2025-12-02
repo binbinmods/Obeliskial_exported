@@ -1,0 +1,16 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "reginaldSkinAsian",
+    "SkinID": "ReginaldSkinAsian",
+    "SkinName": "regenaldAsianSkin",
+    "SkinOrder": 91,
+    "SkinSubclass": "cleric",
+    "SkinTextId": "",
+    "Sku": "4013420",
+    "SpritePortrait": "reginaldportrait",
+    "SpritePortraitGrande": "reginaldportraitbig",
+    "SpriteSilueta": "reginald",
+    "SpriteSiluetaGrande": "reginaldbig",
+    "SteamStat": ""
+}

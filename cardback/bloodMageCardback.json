@@ -1,0 +1,18 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": true,
+    "CardbackID": "bloodMageCardback",
+    "CardbackName": "Default",
+    "CardbackOrder": 1000,
+    "CardbackSprite": "CardBackHealMage",
+    "CardbackSubclass": "bloodmage",
+    "CardbackTextId": "",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "PdxAccountRequired": false,
+    "RankLevel": 0,
+    "ShowIfLocked": false,
+    "SingularityLevel": 0,
+    "Sku": "",
+    "SteamStat": ""
+}

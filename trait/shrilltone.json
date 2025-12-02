@@ -24,7 +24,7 @@
     "DamageBonusPercentValue": 0.0,
     "DamageBonusPercentValue2": 0.0,
     "DamageBonusPercentValue3": 0.0,
-    "Description": "Sharp +1. Sharp on heroes also increases the Mind damage by 1 per charge.",
+    "Description": "Sharp +1. Sharp on heroes also increase the Mind damage by +1 per charge.",
     "HealFlatBonus": 0,
     "HealPercentBonus": 0.0,
     "HealReceivedFlatBonus": 0,

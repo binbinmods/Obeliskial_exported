@@ -1,0 +1,24 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Forest_Night",
+    "CombatEffect": [],
+    "CombatID": "cwoods_22",
+    "CombatMusic": "Halloween_Theme_2 (General Combat)",
+    "CombatTier": "T11",
+    "Description": "",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "wereraven_2a",
+        "wereraven_2b",
+        "werebat_c",
+        "werebat_d"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "NPCToSummonOnNpcKilled": "",
+    "RandomizeNpcPosition": false,
+    "StepSound": "",
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

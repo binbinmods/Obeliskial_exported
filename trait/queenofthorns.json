@@ -24,7 +24,7 @@
     "DamageBonusPercentValue": 0.0,
     "DamageBonusPercentValue2": 0.0,
     "DamageBonusPercentValue3": 0.0,
-    "Description": "Whenever you would gain Block charges, instead of gaining Block, gain 30% of those charges as Thorns.",
+    "Description": "When you gain \"Block\" charges, gain 30% of those charges as \"Thorns\" instead.",
     "HealFlatBonus": 0,
     "HealPercentBonus": 0.0,
     "HealReceivedFlatBonus": 0,

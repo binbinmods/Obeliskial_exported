@@ -24,7 +24,7 @@
     "DamageBonusPercentValue": 20.0,
     "DamageBonusPercentValue2": 0.0,
     "DamageBonusPercentValue3": 0.0,
-    "Description": "All Damage done +20%. Immune to Slow. Fast on this hero increases all damage done by 1 per charge.",
+    "Description": "Inmune to Slow, Fast on this hero increases all damage done by 1 per charge.",
     "HealFlatBonus": 0,
     "HealPercentBonus": 0.0,
     "HealReceivedFlatBonus": 0,

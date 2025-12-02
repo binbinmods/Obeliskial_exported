@@ -1,0 +1,16 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "breeSkinAsian",
+    "SkinID": "BreeSkinAsian",
+    "SkinName": "breeAsianSkin",
+    "SkinOrder": 91,
+    "SkinSubclass": "warden",
+    "SkinTextId": "",
+    "Sku": "4013420",
+    "SpritePortrait": "breeportrait",
+    "SpritePortraitGrande": "breeportraitbig",
+    "SpriteSilueta": "bree",
+    "SpriteSiluetaGrande": "breebig",
+    "SteamStat": ""
+}

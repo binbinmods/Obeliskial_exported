@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "",
     "ReplyText": "Touch the surface – Dip your hand into the water with visions.",
-    "RequiredClass": "valkyrie",
+    "RequiredClass": "pyromancer",
     "Requirement": "",
     "RequirementBlocked": "",
     "RequirementCard": [],

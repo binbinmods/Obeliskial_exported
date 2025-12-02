@@ -1,0 +1,24 @@
+{
+    "CinematicData": "",
+    "CombatBackground": "Graveyard_Day",
+    "CombatEffect": [],
+    "CombatID": "ewoods_5b",
+    "CombatMusic": "Halloween_Theme_2 (General Combat)",
+    "CombatTier": "T10",
+    "Description": "",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": [
+        "werebat_a",
+        "werebat_b",
+        "wereraven_c",
+        "wereraven_d"
+    ],
+    "NPCRemoveInMadness0Index": -1,
+    "NPCToSummonOnNpcKilled": "",
+    "RandomizeNpcPosition": false,
+    "StepSound": "",
+    "ThermometerTierData": "T2",
+    "IsRift": false
+}

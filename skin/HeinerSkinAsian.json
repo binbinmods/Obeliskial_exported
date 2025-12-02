@@ -1,0 +1,16 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "heinerSkinAsian",
+    "SkinID": "HeinerSkinAsian",
+    "SkinName": "heinerAsianSkin",
+    "SkinOrder": 91,
+    "SkinSubclass": "sentinel",
+    "SkinTextId": "",
+    "Sku": "4013420",
+    "SpritePortrait": "heinerportrait",
+    "SpritePortraitGrande": "heinerportraitbig",
+    "SpriteSilueta": "heiner",
+    "SpriteSiluetaGrande": "heinerbig",
+    "SteamStat": ""
+}

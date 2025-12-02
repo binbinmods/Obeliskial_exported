@@ -12,7 +12,7 @@
     "ReplyActionText": "CharacterName",
     "ReplyShowCard": "burntcarp",
     "ReplyText": "Yes! I always carry my rod with me!",
-    "RequiredClass": "fallen",
+    "RequiredClass": "bloodmage",
     "Requirement": "",
     "RequirementBlocked": "",
     "RequirementCard": [],
