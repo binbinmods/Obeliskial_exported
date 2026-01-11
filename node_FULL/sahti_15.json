@@ -1,0 +1,35 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "csahti_15"
+    ],
+    "NodeCombatTier": "T3",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "sahti_15",
+    "NodeName": "Calm Current",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "sahti_20",
+        "sahti_21",
+        "sahti_22"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Sahti",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": -1.9839999675750733,
+    "medsPosY": 1.8049999475479127,
+    "SourceNodeName": ""
+}

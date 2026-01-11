@@ -1,0 +1,33 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "cdream_8"
+    ],
+    "NodeCombatTier": "T3",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "dream_8",
+    "NodeName": "Threshold Gate",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "dream_9"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Dreams",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": -2.4760000705718996,
+    "medsPosY": -0.5330000519752502,
+    "SourceNodeName": ""
+}

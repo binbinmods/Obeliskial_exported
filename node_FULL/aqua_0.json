@@ -1,0 +1,31 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "aqua_0",
+    "NodeName": "Arrival Point",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "aqua_1"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Aquarfall",
+    "TravelDestination": true,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": -5.544000148773193,
+    "medsPosY": 3.9509999752044679,
+    "SourceNodeName": ""
+}

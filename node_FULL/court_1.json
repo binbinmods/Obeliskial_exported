@@ -1,0 +1,33 @@
+{
+    "CombatPercent": 100,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "ccourt_1"
+    ],
+    "NodeCombatTier": "T11",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "court_1",
+    "NodeName": "Stable",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "court_2"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "CastleCourtyard",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": -3.1679999828338625,
+    "medsPosY": -1.4570000171661378,
+    "SourceNodeName": ""
+}

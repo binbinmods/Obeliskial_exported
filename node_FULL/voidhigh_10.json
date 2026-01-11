@@ -1,0 +1,33 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "cvoidhigh_10"
+    ],
+    "NodeCombatTier": "T12",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "Graveyard",
+    "NodeId": "voidhigh_10",
+    "NodeName": "Ruins",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "voidhigh_12"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Voidhigh",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": -3.6344029903411867,
+    "medsPosY": -1.705029845237732,
+    "SourceNodeName": ""
+}

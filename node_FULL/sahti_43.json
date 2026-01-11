@@ -1,0 +1,32 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "sahti_43",
+    "NodeName": "Cave Entrance",
+    "NodeRequirement": "sahtidown",
+    "NodesConnected": [
+        "sahti_44",
+        "sahti_47"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Sahti",
+    "TravelDestination": true,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.3199999928474426,
+    "medsPosY": 1.4850000143051148,
+    "SourceNodeName": ""
+}

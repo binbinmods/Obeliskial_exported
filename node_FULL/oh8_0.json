@@ -1,0 +1,31 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "oh8_0",
+    "NodeName": "",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "oh8_31"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Oh8",
+    "TravelDestination": true,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": -7.770402908325195,
+    "medsPosY": 0.009970210492610932,
+    "SourceNodeName": ""
+}

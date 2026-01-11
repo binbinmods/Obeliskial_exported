@@ -1,0 +1,32 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "sen_0",
+    "NodeName": "Tavern",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "sen_41",
+        "sen_2"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Senenthia",
+    "TravelDestination": true,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": -7.550000190734863,
+    "medsPosY": -1.4800000190734864,
+    "SourceNodeName": ""
+}

@@ -1,0 +1,31 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "voidlow_0",
+    "NodeName": "Arrival Point",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "voidlow_1"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Voidlow",
+    "TravelDestination": true,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": -7.853403091430664,
+    "medsPosY": -1.6550297737121583,
+    "SourceNodeName": ""
+}

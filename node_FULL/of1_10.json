@@ -1,0 +1,38 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "challenge_13",
+        "challenge_13dawn",
+        "challenge_13fae",
+        "challenge_13hydra",
+        "challenge_13mech",
+        "challenge_13rust"
+    ],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "of1_10",
+    "NodeName": "",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "of1_11"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Of1",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 3.0645971298217775,
+    "medsPosY": 0.5299701690673828,
+    "SourceNodeName": ""
+}

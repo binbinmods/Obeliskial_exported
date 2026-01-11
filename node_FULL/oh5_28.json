@@ -1,0 +1,33 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 60,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "island3",
+    "NodeCombat": [
+        "challenge_6b"
+    ],
+    "NodeCombatTier": "T6",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "oh5_28",
+    "NodeName": "",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "oh5_19"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Oh5",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 1.491597056388855,
+    "medsPosY": 3.4179701805114748,
+    "SourceNodeName": ""
+}

@@ -1,0 +1,37 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "cfaen_9"
+    ],
+    "NodeCombatTier": "T3",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "faen_9",
+    "NodeName": "Island Coast",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "faen_20",
+        "faen_25",
+        "faen_44"
+    ],
+    "NodesConnectedRequirement": [
+        "{\n    \"NodeData\": \"faen_25\",\n    \"ConnectionRequirement\": \"\",\n    \"ConnectionIfNotNode\": \"faen_20\"\n}"
+    ],
+    "NodeZone": "Faeborg",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.5699999928474426,
+    "medsPosY": -4.13700008392334,
+    "SourceNodeName": ""
+}

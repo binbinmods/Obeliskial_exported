@@ -1,0 +1,37 @@
+{
+    "CombatPercent": 0,
+    "Description": "combate cornies ardiendo mitad mitad",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "csen_11"
+    ],
+    "NodeCombatTier": "T1",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "sen_11",
+    "NodeName": "Mountain Ridges",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "sen_15",
+        "sen_40",
+        "sen_47"
+    ],
+    "NodesConnectedRequirement": [
+        "{\n    \"NodeData\": \"sen_47\",\n    \"ConnectionRequirement\": \"\",\n    \"ConnectionIfNotNode\": \"sen_40\"\n}"
+    ],
+    "NodeZone": "Senenthia",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": -1.7699999809265137,
+    "medsPosY": 3.4000000953674318,
+    "SourceNodeName": ""
+}

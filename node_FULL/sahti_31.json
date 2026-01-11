@@ -1,0 +1,36 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "csahti_31"
+    ],
+    "NodeCombatTier": "T4",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "StaticElectricity",
+    "NodeId": "sahti_31",
+    "NodeName": "Choppy Waters",
+    "NodeRequirement": "sahtiup",
+    "NodesConnected": [
+        "sahti_30",
+        "sahti_35",
+        "sahti_36",
+        "sahti_68"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Sahti",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 2.497999906539917,
+    "medsPosY": -2.7980000972747804,
+    "SourceNodeName": ""
+}

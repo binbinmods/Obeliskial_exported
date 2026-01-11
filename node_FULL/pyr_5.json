@@ -1,0 +1,33 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "cpyr_5"
+    ],
+    "NodeCombatTier": "T4",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "HolyGround",
+    "NodeId": "pyr_5",
+    "NodeName": "Corridor",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "pyr_6"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Pyramid",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 2.9860000610351564,
+    "medsPosY": -0.5299999713897705,
+    "SourceNodeName": ""
+}

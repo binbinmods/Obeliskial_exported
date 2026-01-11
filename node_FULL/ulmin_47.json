@@ -1,0 +1,36 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "culmin_47"
+    ],
+    "NodeCombatTier": "T5",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "Graveyard",
+    "NodeId": "ulmin_47",
+    "NodeName": "Corridor",
+    "NodeRequirement": "ulminindown",
+    "NodesConnected": [
+        "ulmin_51",
+        "ulmin_59"
+    ],
+    "NodesConnectedRequirement": [
+        "{\n    \"NodeData\": \"ulmin_51\",\n    \"ConnectionRequirement\": \"\",\n    \"ConnectionIfNotNode\": \"ulmin_59\"\n}"
+    ],
+    "NodeZone": "Ulminin",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 2.555000066757202,
+    "medsPosY": 1.1820000410079957,
+    "SourceNodeName": ""
+}

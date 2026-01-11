@@ -1,0 +1,31 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "Graveyard",
+    "NodeId": "ulmin_39",
+    "NodeName": "Sand Pit",
+    "NodeRequirement": "ulmininworm",
+    "NodesConnected": [
+        "ulmin_55"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Ulminin",
+    "TravelDestination": true,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 4.834000110626221,
+    "medsPosY": 0.5090000033378601,
+    "SourceNodeName": ""
+}

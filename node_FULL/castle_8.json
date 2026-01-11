@@ -1,0 +1,33 @@
+{
+    "CombatPercent": 100,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "ccastle_8"
+    ],
+    "NodeCombatTier": "T12",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "BloodMist",
+    "NodeId": "castle_8",
+    "NodeName": "Blood Cellar",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "castle_9"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "CastleSpire",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 1.7690000534057618,
+    "medsPosY": 1.0420000553131104,
+    "SourceNodeName": ""
+}

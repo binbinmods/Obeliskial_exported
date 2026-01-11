@@ -1,0 +1,33 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "ol4_0",
+    "NodeName": "",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "ol4_1",
+        "ol4_2",
+        "ol4_3"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Ol4",
+    "TravelDestination": true,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": -7.597403049468994,
+    "medsPosY": 0.18197020888328553,
+    "SourceNodeName": ""
+}

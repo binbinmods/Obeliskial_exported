@@ -1,0 +1,31 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "secta_0",
+    "NodeName": "Basement Stairs",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "secta_1"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Sectarium",
+    "TravelDestination": true,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": -1.8899999856948853,
+    "medsPosY": 0.7799999713897705,
+    "SourceNodeName": ""
+}

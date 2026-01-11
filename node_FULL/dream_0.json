@@ -1,0 +1,31 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T3",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "dream_0",
+    "NodeName": "Entrance",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "dream_1"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Dreams",
+    "TravelDestination": true,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": -4.769999980926514,
+    "medsPosY": -1.9600000381469727,
+    "SourceNodeName": ""
+}

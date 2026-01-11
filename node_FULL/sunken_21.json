@@ -1,0 +1,34 @@
+{
+    "CombatPercent": 0,
+    "Description": "Combate",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "csunken_21"
+    ],
+    "NodeCombatTier": "T4",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "sunken_21",
+    "NodeName": "Altar's access",
+    "NodeRequirement": "sunkendown",
+    "NodesConnected": [
+        "sunken_23",
+        "sunken_24"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Sunken",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": -0.3400000035762787,
+    "medsPosY": -0.03999999910593033,
+    "SourceNodeName": ""
+}

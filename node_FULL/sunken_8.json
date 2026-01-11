@@ -1,0 +1,33 @@
+{
+    "CombatPercent": 0,
+    "Description": "combate",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "csunken_8"
+    ],
+    "NodeCombatTier": "T4",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "sunken_8",
+    "NodeName": "Workers plaza",
+    "NodeRequirement": "sunkenup",
+    "NodesConnected": [
+        "sunken_11"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Sunken",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": -1.7300000190734864,
+    "medsPosY": -3.130000114440918,
+    "SourceNodeName": ""
+}

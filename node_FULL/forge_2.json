@@ -1,0 +1,33 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "cforge_2"
+    ],
+    "NodeCombatTier": "T4",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "ExtremeHeat",
+    "NodeId": "forge_2",
+    "NodeName": "Stairs",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "forge_4"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Blackforge",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": -0.28600001335144045,
+    "medsPosY": -1.7489999532699586,
+    "SourceNodeName": ""
+}

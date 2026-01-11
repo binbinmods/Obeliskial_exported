@@ -1,0 +1,34 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 60,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "island4",
+    "NodeCombat": [
+        "challenge_2b"
+    ],
+    "NodeCombatTier": "T2",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "ol1_27",
+    "NodeName": "",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "ol1_17",
+        "ol1_19"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Ol1",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 1.841597080230713,
+    "medsPosY": 1.5839701890945435,
+    "SourceNodeName": ""
+}

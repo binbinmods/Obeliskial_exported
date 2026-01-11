@@ -1,0 +1,31 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "dread_0",
+    "NodeName": "Entrance",
+    "NodeRequirement": "dreaddown",
+    "NodesConnected": [
+        "dread_1"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Dreadnought",
+    "TravelDestination": true,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": -3.446000099182129,
+    "medsPosY": 2.0190000534057619,
+    "SourceNodeName": ""
+}

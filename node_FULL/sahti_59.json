@@ -1,0 +1,31 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "sahti_59",
+    "NodeName": "Gargantuan Bow",
+    "NodeRequirement": "sahtidown",
+    "NodesConnected": [
+        "sahti_60"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Sahti",
+    "TravelDestination": true,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 6.952000141143799,
+    "medsPosY": 1.7680000066757203,
+    "SourceNodeName": ""
+}

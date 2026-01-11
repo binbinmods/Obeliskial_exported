@@ -1,0 +1,37 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "caqua_19"
+    ],
+    "NodeCombatTier": "T4",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "aqua_19",
+    "NodeName": "Temple Access",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "aqua_20",
+        "aqua_24",
+        "aqua_48"
+    ],
+    "NodesConnectedRequirement": [
+        "{\n    \"NodeData\": \"aqua_24\",\n    \"ConnectionRequirement\": \"\",\n    \"ConnectionIfNotNode\": \"aqua_48\"\n}"
+    ],
+    "NodeZone": "Aquarfall",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.24400000274181367,
+    "medsPosY": 1.1109999418258668,
+    "SourceNodeName": ""
+}

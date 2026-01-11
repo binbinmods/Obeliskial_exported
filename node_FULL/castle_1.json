@@ -1,0 +1,33 @@
+{
+    "CombatPercent": 100,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "ccastle_1"
+    ],
+    "NodeCombatTier": "T12",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "Infestation",
+    "NodeId": "castle_1",
+    "NodeName": "Stairs",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "castle_3"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "CastleSpire",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": -3.881999969482422,
+    "medsPosY": -2.121999979019165,
+    "SourceNodeName": ""
+}

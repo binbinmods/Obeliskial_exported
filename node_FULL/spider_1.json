@@ -1,0 +1,31 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "spider_1",
+    "NodeName": "Collapsed Ground",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "spider_3"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Spiderlair",
+    "TravelDestination": true,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": -3.4030001163482668,
+    "medsPosY": -1.031999945640564,
+    "SourceNodeName": ""
+}

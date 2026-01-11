@@ -1,0 +1,34 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "cdream_2"
+    ],
+    "NodeCombatTier": "T3",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "dream_2",
+    "NodeName": "Nightmare Harvest",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "dream_3",
+        "dream_6"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Dreams",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": -3.003000020980835,
+    "medsPosY": 1.959999918937683,
+    "SourceNodeName": ""
+}

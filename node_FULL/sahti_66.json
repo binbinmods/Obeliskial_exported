@@ -1,0 +1,31 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "sahti_66",
+    "NodeName": "Entrance",
+    "NodeRequirement": "sahtiship",
+    "NodesConnected": [
+        "sahti_61"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Sahti",
+    "TravelDestination": true,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 7.177000045776367,
+    "medsPosY": -2.4649999141693117,
+    "SourceNodeName": ""
+}

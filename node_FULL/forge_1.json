@@ -1,0 +1,33 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "cforge_1"
+    ],
+    "NodeCombatTier": "T4",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "ExtremeHeat",
+    "NodeId": "forge_1",
+    "NodeName": "Corridor",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "forge_3"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Blackforge",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": -0.36899998784065249,
+    "medsPosY": -0.7289999723434448,
+    "SourceNodeName": ""
+}

@@ -1,0 +1,34 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "cdread_1"
+    ],
+    "NodeCombatTier": "T4",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "EerieAtmosphere",
+    "NodeId": "dread_1",
+    "NodeName": "Lower Deck",
+    "NodeRequirement": "dreaddown",
+    "NodesConnected": [
+        "dread_2",
+        "dread_3"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Dreadnought",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": -2.0999999046325685,
+    "medsPosY": 0.9200000166893005,
+    "SourceNodeName": ""
+}

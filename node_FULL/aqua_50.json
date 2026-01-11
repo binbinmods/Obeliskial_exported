@@ -1,0 +1,31 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "aqua_50",
+    "NodeName": "Cave Exit",
+    "NodeRequirement": "sunkendown",
+    "NodesConnected": [
+        "aqua_33"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Aquarfall",
+    "TravelDestination": true,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 3.3380000591278078,
+    "medsPosY": -3.3980000019073488,
+    "SourceNodeName": ""
+}

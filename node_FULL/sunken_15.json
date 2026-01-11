@@ -1,0 +1,32 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [],
+    "NodeCombatTier": "T0",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "sunken_15",
+    "NodeName": "Main entrance",
+    "NodeRequirement": "sunkendown",
+    "NodesConnected": [
+        "sunken_18",
+        "sunken_19"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Sunken",
+    "TravelDestination": true,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": -6.691999912261963,
+    "medsPosY": 0.2669999897480011,
+    "SourceNodeName": ""
+}

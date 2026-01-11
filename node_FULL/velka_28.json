@@ -1,0 +1,36 @@
+{
+    "CombatPercent": 0,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "cvelka_28"
+    ],
+    "NodeCombatTier": "T5",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "velka_28",
+    "NodeName": "Stone Bridge",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "velka_31",
+        "velka_38"
+    ],
+    "NodesConnectedRequirement": [
+        "{\n    \"NodeData\": \"velka_31\",\n    \"ConnectionRequirement\": \"\",\n    \"ConnectionIfNotNode\": \"velka_38\"\n}"
+    ],
+    "NodeZone": "Velkarath",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 7.139999866485596,
+    "medsPosY": 3.3910000324249269,
+    "SourceNodeName": ""
+}

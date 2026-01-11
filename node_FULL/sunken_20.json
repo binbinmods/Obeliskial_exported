@@ -1,0 +1,34 @@
+{
+    "CombatPercent": 0,
+    "Description": "Combate",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "csunken_20"
+    ],
+    "NodeCombatTier": "T4",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "sunken_20",
+    "NodeName": "The cross",
+    "NodeRequirement": "sunkendown",
+    "NodesConnected": [
+        "sunken_22",
+        "sunken_23"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "Sunken",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": -0.3400000035762787,
+    "medsPosY": 2.569999933242798,
+    "SourceNodeName": ""
+}

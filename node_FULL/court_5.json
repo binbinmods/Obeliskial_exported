@@ -1,0 +1,34 @@
+{
+    "CombatPercent": 100,
+    "Description": "",
+    "DisableCorruption": false,
+    "DisableRandom": false,
+    "EventPercent": 0,
+    "ExistsPercent": 100,
+    "ExistsSku": "",
+    "GoToTown": false,
+    "NodeBackgroundImg": "",
+    "NodeCombat": [
+        "ccourt_5"
+    ],
+    "NodeCombatTier": "T11",
+    "NodeEvent": [],
+    "NodeEventPercent": [],
+    "NodeEventPriority": [],
+    "NodeEventTier": "T0",
+    "NodeGround": "None",
+    "NodeId": "court_5",
+    "NodeName": "Training Ground",
+    "NodeRequirement": "",
+    "NodesConnected": [
+        "court_6",
+        "court_9"
+    ],
+    "NodesConnectedRequirement": [],
+    "NodeZone": "CastleCourtyard",
+    "TravelDestination": false,
+    "VisibleIfNotRequirement": false,
+    "medsPosX": 0.01899999938905239,
+    "medsPosY": -1.3020000457763672,
+    "SourceNodeName": ""
+}
